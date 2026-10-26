@@ -42,9 +42,11 @@
   function filtered() {
     const text=q("#reading-search").value.trim().toLocaleLowerCase(), terms=text.split(/\s+/).filter(Boolean);
     const category=q("#reading-category").value, progress=q("#reading-state").value;
+    const topic=q("#reading-topic").value, batch=q("#reading-batch").value;
     return manifest.filter(a=>{
       const r=record(a.id);
       return (category==="all"||a.category===category) &&
+        (topic==="all"||a.topic===topic) && (batch==="all"||String(a.batch)===batch) &&
         (progress==="all"||(progress==="read"?r.read:progress==="unread"?!r.read:r.bookmarked)) &&
         terms.every(t=>[a.title,a.subtitle,a.summary,a.category,...a.tags].join(" ").toLocaleLowerCase().includes(t));
     });
@@ -55,10 +57,11 @@
     q("#reading-count").textContent=manifest.length;
     q("#reading-done").textContent=ids.filter(id=>record(id).read).length;
     q("#reading-saved").textContent=ids.filter(id=>record(id).bookmarked).length;
-    q("#reading-result").textContent="顯示 "+shown.length+" / "+rows.length+" 個單元 · 20 篇原創導讀＋1 篇授權節譯";
+    const guides=manifest.filter(a=>a.mode==="guide").length, licensed=manifest.filter(a=>a.mode==="licensed-section").length;
+    q("#reading-result").textContent="顯示 "+shown.length+" / "+rows.length+" 個單元 · "+guides+" 篇原創導讀＋"+licensed+" 篇授權節譯";
     q("#reading-grid").innerHTML=shown.length ? shown.map(a=>{
       const r=record(a.id);
-      return '<article class="reading-card card"><div class="reading-card-top"><span class="pill '+(a.mode==="licensed-section"?"green":"blue")+'">'+esc(a.category)+'</span><span>'+esc(a.minutes)+' 分鐘</span></div><h3><a href="#read/'+a.id+'">'+esc(a.title)+'</a></h3><p>'+esc(a.summary)+'</p><div class="reading-card-meta"><span>'+esc(a.mode==="licensed-section"?"CC BY-SA 小節譯文":"本網站原創導讀")+'</span><span>'+esc(a.level)+'</span></div><div class="reading-card-bottom"><a href="#read/'+a.id+'" class="text-btn">開啟閱讀 →</a><span aria-label="閱讀狀態">'+(r.read?"已讀 ✓":"尚未標記已讀")+(r.bookmarked?" · 已收藏":"")+'</span></div></article>';
+      return '<article class="reading-card card"><div class="reading-card-top"><span class="pill '+(a.mode==="licensed-section"?"green":"blue")+'">'+esc(a.category)+'</span><span>'+esc(a.minutes)+' 分鐘</span>'+((a.batch||1)===2?'<span class="batch-label">第二批新增</span>':'')+'</div><h3><a href="#read/'+a.id+'">'+esc(a.title)+'</a></h3><p>'+esc(a.summary)+'</p><div class="reading-card-meta"><span>'+esc(a.mode==="licensed-section"?"CC BY-SA 小節譯文":"本網站原創導讀")+'</span><span>'+esc(a.level)+'</span><span>'+esc(a.topic||'基礎')+'</span></div><div class="reading-card-bottom"><a href="#read/'+a.id+'" class="text-btn">開啟閱讀 →</a><span aria-label="閱讀狀態">'+(r.read?"已讀 ✓":"尚未標記已讀")+(r.bookmarked?" · 已收藏":"")+'</span></div></article>';
     }).join("") : '<div class="empty-state">沒有符合的單元。請縮短關鍵字或改用「全部閱讀來源」。</div>';
     q("#reading-more").hidden=shown.length>=rows.length;
     storageStatus();
@@ -86,10 +89,10 @@
   }
   function translationHTML(a) {
     if (!a.translation || !a.license) return "<p>本篇沒有已授權的完整譯文。</p>";
-    return '<h2 id="reader-translation">Price Forecasting／價格預測</h2><div class="reader-license"><strong>明確範圍：原章的「Price Forecasting」小節完整節譯，含表格。不是全章或整本書全文。</strong><p>'+esc(a.license.attribution)+' '+link(a.license.url,a.license.id)+'</p></div>'+a.translation.map(t=>{
+    return '<h2 id="reader-translation">'+esc(a.translationTitle||'Price Forecasting／價格預測')+'</h2><div class="reader-license"><strong>'+esc(a.translationScope||'明確範圍：原章的「Price Forecasting」小節完整節譯，含表格。不是全章或整本書全文。')+'</strong><p>'+esc(a.license.attribution)+' '+link(a.license.url,a.license.id)+'</p></div>'+a.translation.map(t=>{
       if(t.kind==="table") return '<div class="reader-table-wrap"><table class="reader-translation-table"><thead><tr>'+t.headers.en.map((v,i)=>'<th>'+esc(v)+'<br>'+esc(t.headers.zh[i])+'</th>').join("")+'</tr></thead><tbody>'+t.rows.map(row=>'<tr>'+row.en.map((v,i)=>'<td><span lang="en">'+esc(v)+'</span><br>'+esc(row.zh[i])+'</td>').join("")+'</tr>').join("")+'</tbody></table></div>';
       return '<div class="reader-parallel"><div lang="en"><span class="reader-label">英文原文</span><p>'+esc(t.en)+'</p></div><div lang="zh-Hant"><span class="reader-label">繁體中文譯文</span><p>'+esc(t.zh)+'</p></div></div>';
-    }).join("")+'<h3>編輯校對註</h3><p>原文使用 MAC、Stoc 與 Elliot 的拼法；英文照錄，中文不擅自補成其他指標。這是社群教材的分類例子，並非唯一分類，也沒有證明表內方法能提供正報酬。此註解是本網站新增內容。</p>';
+    }).join("")+'<h3>編輯校對註</h3>'+paragraphs(a.translationNotes||['原文使用 MAC、Stoc 與 Elliot 的拼法；英文照錄，中文不擅自補成其他指標。這是社群教材的分類例子，並非唯一分類，也沒有證明表內方法能提供正報酬。此註解是本網站新增內容。']);
   }
   function renderTab(name) {
     if (!current) return;
@@ -102,7 +105,8 @@
       body.innerHTML='<div class="reader-label">本網站自編練習 · 非作者官方交易系統</div><h2 id="reader-exercise">'+esc(a.exercise.title)+'</h2>'+diagram()+'<ol>'+a.exercise.steps.map(x=>'<li>'+esc(x)+'</li>').join("")+'</ol><h2 id="reader-review">完成後的檢核</h2>'+list(a.exercise.review)+'<p>練習可使用歷史回放與模擬紀錄。這些問題沒有替策略提供勝率或收益保證。</p>';
     } else if(name==="glossary"){
       body.innerHTML='<h2 id="reader-glossary">中英術語</h2><p>以下是本篇使用的工作定義。不同作者可能有不同用法，請對照原文。</p><dl class="reader-terms">'+a.glossary.map(t=>'<div><dt><span lang="en">'+esc(t.en)+'</span> · '+esc(t.zh)+'</dt><dd>'+esc(t.note)+'</dd></div>').join("")+'</dl>';
-    } else if(name==="translation") body.innerHTML=translationHTML(a);
+    } else if(name==="cases") {body.innerHTML=globalThis.AtlasPractice.render(a);globalThis.AtlasPractice.mount(body,a);}
+    else if(name==="translation") body.innerHTML=translationHTML(a);
     else body.innerHTML=sourceHTML(a);
     q("#reader-toc").innerHTML='<strong>本頁目錄</strong>'+Array.from(body.querySelectorAll("h2[id]")).map(h=>'<a href="#'+h.id+'" data-toc="'+h.id+'">'+esc(h.textContent)+'</a>').join("");
     q("#reader-toc").querySelectorAll("[data-toc]").forEach(el=>el.addEventListener("click",e=>{e.preventDefault();document.getElementById(el.dataset.toc)?.scrollIntoView({behavior:"smooth",block:"start"});}));
@@ -124,6 +128,7 @@
       q("#reader-meta").textContent=a.language+"來源 · 約 "+a.minutes+" 分鐘 · "+a.level+" · 查核 "+a.revision;
       q("#reader-badges").innerHTML='<span class="pill blue">'+esc(a.category)+'</span><span class="pill">'+esc(a.mode==="licensed-section"?"授權小節節譯":"原創導讀")+'</span>';
       q('[data-reader-tab="translation"]').hidden=!a.translation;
+      q('[data-reader-tab="cases"]').hidden=!a.caseQuiz?.length;
       q("#reader-license-download").hidden=!a.license;
       q("#reader-loading").hidden=true; q("#reader-document").hidden=false;
       actions(); renderTab("guide"); dialog.scrollTop=0; q("#reader-title").focus({preventScroll:true});
@@ -177,7 +182,7 @@
       notice("已合併閱讀紀錄；不同筆記保留兩份，原有學習任務未變更。");
     }catch(err){notice("無法匯入："+err.message);}finally{e.target.value="";}
   });
-  ["reading-search","reading-category","reading-state"].forEach(id=>q("#"+id).addEventListener(id==="reading-search"?"input":"change",()=>{limit=6;renderCatalog();}));
+  ["reading-search","reading-category","reading-state","reading-topic","reading-batch"].forEach(id=>q("#"+id).addEventListener(id==="reading-search"?"input":"change",()=>{limit=6;renderCatalog();}));
   q("#reading-more").addEventListener("click",()=>{limit=manifest.length;renderCatalog();});
   q("#reader-previous").addEventListener("click",()=>{const i=ids.indexOf(current?.id);if(i>0)location.hash="read/"+ids[i-1];});
   q("#reader-next").addEventListener("click",()=>{const i=ids.indexOf(current?.id);if(i>=0&&i<ids.length-1)location.hash="read/"+ids[i+1];});
@@ -191,6 +196,7 @@
       const data=await res.json();manifest=data.articles;ids=manifest.map(a=>a.id);
       if(new Set(ids).size!==ids.length||!ids.every(id=>/^[a-z0-9-]+$/.test(id)))throw new Error("目錄格式錯誤");
       try{state=S.clean(JSON.parse(localStorage.getItem(KEY)||"{}"),ids);}catch{saved=false;}
+      q("#reading-route-grid").innerHTML=(data.paths||[]).map(p=>'<div><strong>'+esc(p.title)+'</strong><p>'+esc(p.description)+'</p>'+p.ids.filter(id=>ids.includes(id)).map((id,i)=>'<a href="#read/'+id+'">'+(i+1)+'．'+esc(manifest.find(a=>a.id===id).title)+' →</a>').join('<br>')+'</div>').join("");
       manifestReady=true;q("#reader-start").href="#read/"+ids[0];renderCatalog();route();
     }catch(e){
       notice("閱讀目錄暫時無法載入："+e.message);

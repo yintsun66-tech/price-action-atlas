@@ -1,0 +1,27 @@
+{
+  "dateTaipei": "2026-10-27",
+  "newOriginalGuides": 12,
+  "newLicensedSections": 1,
+  "newUnits": 13,
+  "totalUnits": 34,
+  "totalGuides": 32,
+  "totalLicensedSections": 2,
+  "caseQuestions": 39,
+  "syntheticCharts": 6,
+  "unchangedFiles": [
+    "atlas.css",
+    "atlas.js",
+    "reader-state.js",
+    "reader.css"
+  ],
+  "oldArticleIdsPreserved": 21,
+  "resourceIndexEntries": 2110,
+  "learningTasks": 48,
+  "newHTMLBytes": 35981,
+  "allStaticBytes": 2234945,
+  "largestNewArticleBytes": 9371,
+  "browserVisualQA": "unverified; prior browser preview policy restriction",
+  "functionalChecksPassed": 36,
+  "httpChecksPassed": 47,
+  "ownerPrivateConfirmed": true
+}
