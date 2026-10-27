@@ -21,7 +21,7 @@
   }
   function inline(a,i){return bindings(a).filter(b=>b.section===i).map(b=>{
     const e=notes.get(b.ref);
-    return '<aside class="prob-inline"><span class="prob-kind">'+(e.kind==='brooks'?'相關原典情境 · 非本段算例勝率':e.kind==='editorial'?'本站編輯準則 · 不代替原作者估計':'本站算例註記 · 非市場實測')+'</span><p><strong>'+esc(e.title)+'：'+esc(e.estimate)+'</strong></p><p>'+esc(e.event)+'</p><button type="button" class="text-btn" data-reader-probability="'+esc(e.id)+'">核對條件與出處 →</button></aside>';
+    return '<aside class="prob-inline"><span class="prob-kind">'+(e.kind==='brooks'?'相關原典情境 · 非本段算例勝率':e.kind==='editorial'?'本站編輯準則 · 不代替原作者估計':'本站算例註記 · 非市場實測')+'</span><p><strong>'+esc(e.title)+'：'+esc(e.estimate)+'</strong></p><p><strong>背景：</strong>'+esc(e.context)+'</p><p><strong>事件：</strong>'+esc(e.event)+'</p><button type="button" class="text-btn" data-reader-probability="'+esc(e.id)+'">核對條件與出處 →</button></aside>';
   }).join('');}
   function banner(a){const count=bindings(a).length;return '<aside class="prob-article-banner"><strong>機率閱讀提醒</strong><p>'+(count?'本篇有 '+count+' 項情境註記；數字的事件與背景分開列在「機率註記」。':'本篇沒有已核對的數值機率；定性描述保持定性。')+'<strong>自編圖例不是 Brooks 統計樣本。</strong></p></aside>';}
   function mountLibrary(){

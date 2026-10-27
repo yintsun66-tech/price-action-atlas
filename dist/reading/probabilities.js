@@ -47,19 +47,19 @@
   ];
   // Each binding identifies the existing passage; it adds no probability to synthetic bars.
   const bindings={
-    'brooks-context-first':[{ref:'language',section:2},{ref:'band40-60',section:0}],
-    'brooks-candle-evidence':[{ref:'follow80',section:0},{ref:'qualitative',section:3}],
-    'brooks-breakout-test':[{ref:'range80',section:0},{ref:'follow80',section:2}],
+    'brooks-context-first':[{ref:'language',section:null},{ref:'band40-60',section:null}],
+    'brooks-candle-evidence':[{ref:'follow80',section:null},{ref:'qualitative',section:3}],
+    'brooks-breakout-test':[{ref:'range80',section:null},{ref:'follow80',section:null}],
     'brooks-pullback-language':[{ref:'h2-quality',section:1}],
-    'brooks-order-intent':[{ref:'band40-60',section:0}],
-    'brooks-scalp-math':[{ref:'example-scalp80',section:1},{ref:'band40-60',section:4}],
+    'brooks-order-intent':[{ref:'band40-60',section:null}],
+    'brooks-scalp-math':[{ref:'example-scalp80',section:1},{ref:'band40-60',section:null}],
     'brooks-psychology-audit':[{ref:'qualitative',section:0}],
     'bp2-breakout-followthrough':[{ref:'follow80',section:0},{ref:'range80',section:4}],
-    'bp2-trend-channel':[{ref:'channel75',section:0},{ref:'channel70',section:4}],
+    'bp2-trend-channel':[{ref:'channel75',section:0},{ref:'channel70',section:null}],
     'bp2-range-location':[{ref:'range80',section:0}],
-    'bp2-failed-breakout':[{ref:'range80',section:0},{ref:'channel70',section:4}],
+    'bp2-failed-breakout':[{ref:'range80',section:null},{ref:'channel70',section:null}],
     'bp2-second-entry':[{ref:'h2-quality',section:3}],
-    'bp2-reversal-evidence':[{ref:'mtr40',section:0},{ref:'confirmed60',section:4},{ref:'flag40',section:5}],
+    'bp2-reversal-evidence':[{ref:'mtr40',section:null},{ref:'confirmed60',section:null},{ref:'flag40',section:null}],
     'pa3-label-consistency':[{ref:'example-agreement',section:3}],
     'pa3-bayes-evidence':[{ref:'example-bayes',section:1}],
     'pa3-winrate-uncertainty':[{ref:'example-wilson',section:0}],
@@ -67,10 +67,10 @@
     'pp2-signal-gap':[{ref:'example-shape',section:0}],
     'practice-risk-in-r':[{ref:'example-budget',section:1}],
     'practice-context-hypothesis':[{ref:'qualitative',section:1}],
-    'practice-tick-time-transfer':[{ref:'qualitative',section:0}],
-    'louie-context-pairs':[{ref:'qualitative',section:0}],
-    'louie-chart-notes':[{ref:'qualitative',section:0}],
-    'louie-wait-cancel':[{ref:'qualitative',section:0}]
+    'practice-tick-time-transfer':[{ref:'qualitative',section:null}],
+    'louie-context-pairs':[{ref:'qualitative',section:null}],
+    'louie-chart-notes':[{ref:'qualitative',section:null}],
+    'louie-wait-cancel':[{ref:'qualitative',section:null}]
   };
   entries.find(e=>e.id==='qualitative').kind='editorial';
   globalThis.AtlasProbabilityData={titles:{"pa3-bayes-evidence":"一根強棒如何改變看法：先看基礎機率，再更新證據","pa3-winrate-uncertainty":"十四勝六敗代表什麼：勝率、樣本數與不確定性","pa3-research-register":"留下失敗版本：避免把回測挑冠軍當成發現優勢","pa3-stop-execution":"停損觸發之後：價格保護與未成交風險如何取捨","pa3-session-contract":"十分鐘不是同一張圖：切棒、日盤與契約月份","pa3-podcast-to-hypothesis":"把名師訪談變成研究筆記：故事、方法與證據分開","pa3-label-consistency":"第二次進場標記不一致：先修定義，再談自動化","pa3-anti-playbook":"從虧損案例建立拒絕清單：不要把篩選變成挑結果","bp2-breakout-followthrough":"突破後的兩根棒：確認延續，還是看見拒絕？","bp2-trend-channel":"同樣創新高：緊通道與寬通道為何要分開讀？","bp2-range-location":"區間的邊緣與中段：相同訊號，空間完全不同","bp2-failed-breakout":"突破失敗的三個層次：退回、反向推進、再突破","bp2-second-entry":"第二次進場怎麼數：訊號棒、觸發棒與背景分開","bp2-reversal-evidence":"獲利了結還是趨勢反轉：看價格證據，不猜下單者","pp2-structural-stop":"停損位置先由結構決定，再檢查一口是否負擔得起","pp2-target-trailing":"固定目標與追蹤停損：同一個好進場，會長成不同策略","pp2-closed-higher-frame":"較高週期看背景，十分鐘看觸發：先解決兩個時鐘","pp2-signal-gap":"強勢訊號棒不等於好成交：把跳空後的計畫重算","pp2-time-exit":"突破後遲遲不走：新資訊、時間退出與認錯","pp2-intrabar-path":"同一根棒碰到停利又碰到停損：OHLC 沒說的事","licensed-support-resistance":"支撐與壓力：保留「被認為」的完整小節翻譯","brooks-context-first":"先讀背景，再讀訊號：建立你的盤面地圖","louie-chart-notes":"看圖筆記：把已知事實與交易推論分開","practice-risk-in-r":"先把風險變成同一把尺：R 與部位大小","brooks-candle-evidence":"K 棒是證據：避免只看顏色與形態名字","brooks-breakout-test":"突破之後怎麼讀：先區分事件與假說","brooks-pullback-language":"回檔、反轉與第二次嘗試：先統一用語","brooks-order-intent":"訊號不等於成交：把進場意圖寫完整","brooks-scalp-math":"小賺多次就夠嗎：把成本與大虧放進算式","brooks-workspace-routine":"建立簡潔看盤工作區：讓資料與流程先到位","brooks-psychology-audit":"把交易心理寫成行為紀錄：從壓力回到可核對流程","louie-context-pairs":"同形異境：相似 K 棒為何要分開比較","louie-wait-cancel":"等待與取消：把交易想法寫成有期限的計畫","louie-replay-audit":"遮住未來複盤：把好決策與好結果分開","practice-discretion-audit":"直覺怎麼接受檢查：把人為判斷留下證據","practice-pattern-laboratory":"從看見圖形到提出假說：建立自己的型態實驗簿","practice-journal-before-after":"一張圖要留兩次：盤中預期與盤後結果分開寫","practice-tick-time-transfer":"ES 的 tick 圖，為什麼不能直接搬成微台十分鐘規則","practice-replay-evidence":"看盤中影片時，先檢查你究竟看見了什麼","practice-context-hypothesis":"先讀背景，再讀訊號：不要讓一根強棒決定整天","practice-plan-not-stop-only":"交易計畫不只是一個停損價：把取消條件寫完","licensed-price-forecasting":"價格預測的分類：一個開放教材小節的完整對照"},version:1,checked:'2026-10-28',sources,courses,entries,bindings,
