@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-28",
+  "tests": 37,
+  "passed": 37,
+  "results": [
+    {
+      "name": "Reader import sanitizes unknown IDs and non-boolean flags",
+      "passed": true
+    },
+    {
+      "name": "Conflicting notes merge without overwriting either note",
+      "passed": true
+    },
+    {
+      "name": "Oversized merge fails atomically",
+      "passed": true
+    },
+    {
+      "name": "Repeated import does not duplicate the same note",
+      "passed": true
+    },
+    {
+      "name": "Light catalog loads all 42 readable units",
+      "passed": true
+    },
+    {
+      "name": "All 42 articles and every available tab render in the non-browser DOM harness",
+      "passed": true
+    },
+    {
+      "name": "Reader writes its own key and preserves the original task/journal state",
+      "passed": true
+    },
+    {
+      "name": "Category filter returns the four original companion guides",
+      "passed": true
+    },
+    {
+      "name": "Bookmark filter follows persisted state",
+      "passed": true
+    },
+    {
+      "name": "Storage failure is visible and the note remains available in memory",
+      "passed": true
+    },
+    {
+      "name": "Backup import preserves both differing notes and leaves old learning progress intact",
+      "passed": true
+    },
+    {
+      "name": "Unknown article shows a recoverable error",
+      "passed": true
+    },
+    {
+      "name": "Catalog request failure keeps a readable error state",
+      "passed": true
+    },
+    {
+      "name": "Article deep link resolves the requested unit",
+      "passed": true
+    },
+    {
+      "name": "Returning to the catalog closes the reader",
+      "passed": true
+    },
+    {
+      "name": "Unsafe source protocols are rejected",
+      "passed": true
+    },
+    {
+      "name": "Concurrent archive requests load once and restore all 2,110 resources in their original order",
+      "passed": true
+    },
+    {
+      "name": "Failed archive shard does not partially mutate the index; retry recovers completely",
+      "passed": true
+    },
+    {
+      "name": "Every resource object and every learning unit exactly matches production v3",
+      "passed": true
+    },
+    {
+      "name": "Article JSON carries source, access, rights and course provenance",
+      "passed": true
+    },
+    {
+      "name": "Only the licensed subsection exposes full bilingual content",
+      "passed": true
+    },
+    {
+      "name": "New assets are local and the original progress key remains unchanged",
+      "passed": true
+    },
+    {
+      "name": "Batch filter returns exactly the 13 new reading units",
+      "passed": true
+    },
+    {
+      "name": "Third batch filter returns eight units with the correct label",
+      "passed": true
+    },
+    {
+      "name": "Topic filter limits the catalog to breakout study",
+      "passed": true
+    },
+    {
+      "name": "Nine synthetic replay cases contain valid OHLC and fixed domains",
+      "passed": true
+    },
+    {
+      "name": "Changing hidden future prices cannot change a revealed chart",
+      "passed": true
+    },
+    {
+      "name": "Structure lines only appear after their defining bar is visible",
+      "passed": true
+    },
+    {
+      "name": "Replay next-button reveals exactly one bar",
+      "passed": true
+    },
+    {
+      "name": "Replay reset reveals one bar without showing future OHLC",
+      "passed": true
+    },
+    {
+      "name": "Quiz answers are not shown before a selection",
+      "passed": true
+    },
+    {
+      "name": "Selecting a quiz option reveals the reference explanation",
+      "passed": true
+    },
+    {
+      "name": "Quiz selections never overwrite stored reading notes",
+      "passed": true
+    },
+    {
+      "name": "Every new unit provides three answerable case questions",
+      "passed": true
+    },
+    {
+      "name": "Each licensed section renders its own title, scope and editorial notes",
+      "passed": true
+    },
+    {
+      "name": "First-batch article bytes and original resource/task runtime remain unchanged",
+      "passed": true
+    },
+    {
+      "name": "All first-batch IDs and notes survive the expanded manifest",
+      "passed": true
+    }
+  ],
+  "limits": [
+    "Non-browser data and event checks do not verify browser layout or touch interaction. Live publication verification is recorded separately."
+  ]
+}

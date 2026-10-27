@@ -1,0 +1,79 @@
+{
+  "dateTaipei": "2026-10-28",
+  "httpChecks": 13,
+  "catalogUnits": 42,
+  "questions": 63,
+  "charts": 9,
+  "paths": 5,
+  "repeatableBuild": true,
+  "mathExamplesChecked": true,
+  "previewStopped": true,
+  "browserVisualVerified": false,
+  "checks": [
+    {
+      "path": "/",
+      "status": 200,
+      "bytes": 92398
+    },
+    {
+      "path": "reader.js?v=20261028b3",
+      "status": 200,
+      "bytes": 19766
+    },
+    {
+      "path": "reading/index.json",
+      "status": 200,
+      "bytes": 38941
+    },
+    {
+      "path": "reading/articles/pa3-bayes-evidence.json",
+      "status": 200,
+      "bytes": 5811
+    },
+    {
+      "path": "reading/articles/pa3-winrate-uncertainty.json",
+      "status": 200,
+      "bytes": 5328
+    },
+    {
+      "path": "reading/articles/pa3-research-register.json",
+      "status": 200,
+      "bytes": 5788
+    },
+    {
+      "path": "reading/articles/pa3-stop-execution.json",
+      "status": 200,
+      "bytes": 6594
+    },
+    {
+      "path": "reading/articles/pa3-session-contract.json",
+      "status": 200,
+      "bytes": 6070
+    },
+    {
+      "path": "reading/articles/pa3-podcast-to-hypothesis.json",
+      "status": 200,
+      "bytes": 6213
+    },
+    {
+      "path": "reading/articles/pa3-label-consistency.json",
+      "status": 200,
+      "bytes": 7007
+    },
+    {
+      "path": "reading/articles/pa3-anti-playbook.json",
+      "status": 200,
+      "bytes": 7336
+    },
+    {
+      "path": "media.js?v=20261027media",
+      "status": 200,
+      "bytes": 3369
+    },
+    {
+      "path": "media/catalog.json",
+      "status": 200,
+      "bytes": 18085
+    }
+  ]
+}

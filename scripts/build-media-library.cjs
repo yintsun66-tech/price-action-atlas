@@ -14,6 +14,14 @@ const link = (url, title, cls = '') => {
   return '<a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer"' + (cls ? ' class="' + cls + '"' : '') + '>' + esc(title) + ' ↗</a>';
 };
 const relatedIds = {v01:['brooks-context-first'],v02:['practice-context-hypothesis'],v03:['louie-replay-audit'],v04:['practice-discretion-audit'],v05:['practice-replay-evidence'],v06:['pp2-signal-gap'],a01:['practice-pattern-laboratory'],a02:['practice-discretion-audit'],p01:['practice-discretion-audit'],p02:['practice-pattern-laboratory'],p03:['brooks-psychology-audit'],p04:['practice-risk-in-r'],p05:['brooks-workspace-routine'],p06:['practice-journal-before-after']};
+Object.assign(relatedIds, {
+  v03:['louie-replay-audit','pa3-label-consistency'],
+  v05:['practice-replay-evidence','pa3-label-consistency'],
+  v06:['pp2-signal-gap','pa3-anti-playbook'],
+  a02:['pa3-bayes-evidence','pa3-winrate-uncertainty'],
+  p01:['pa3-podcast-to-hypothesis','practice-discretion-audit'],
+  p02:['pa3-research-register','pa3-winrate-uncertainty']
+});
 function related(ids) {
   return '<p class="media-related"><strong>搭配站內閱讀：</strong><br>' + ids.map(id => {
     const article = byId.get(id);
@@ -49,6 +57,6 @@ if (!html.includes('href="media.css')) html = html.replace('</head>', '<link rel
 if (!html.includes('src="media.js')) html = html.replace('</body>', '<script defer src="media.js?v=20261027media"></script>\n</body>');
 const stamp = '<a href="#media">影音與 Podcast</a>、<a href="#books">參考書籍</a>更新：2026.10.27。';
 html = html.split(stamp).join('');
-html = html.replace('閱讀庫第二批：2026.10.27。', '閱讀庫第二批：2026.10.27。' + stamp);
+html = html.replace(/(閱讀庫第[一二三]批：\d{4}\.\d{2}\.\d{2}。)/, '$1' + stamp);
 fs.writeFileSync(path.join(dist, 'index.html'), html);
 console.log(JSON.stringify({media:media.resources.length,books:ordered.length,supplements:books.extra.length,episodes:media.resources.reduce((n,r)=>n+(r.episodes?.length||0),0)}));
