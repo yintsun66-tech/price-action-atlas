@@ -1,5 +1,7 @@
 # Price Action Atlas · 閱讀庫
 
+2026-10-27 影音與書籍更新：新增 `#media` 的 14 筆影片／圖解／Podcast 入口，以及 `#books` 的 11 本作品與 1 組 PDF 課程書。提供中文摘要、來源、評價快照、推薦順序及站內文章連結。以 `node scripts/build-media-library.cjs` 重建靜態專區；詳見 `docs/media-library-update.md`。
+
 目前累積 32 篇繁體中文原創導讀與 2 篇開放教材小節的完整中英節譯；第二批新增 12 篇導讀、1 篇節譯、6 個自編逐根圖例與 39 題測驗，維持原私人網站與 48 項學習任務。
 
 ## 檔案

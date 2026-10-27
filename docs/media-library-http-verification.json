@@ -1,0 +1,49 @@
+{
+  "checkedOn": "2026-10-27",
+  "passed": 7,
+  "browserVisualVerified": false,
+  "checks": [
+    {
+      "path": "/",
+      "status": 200,
+      "bytes": 91394,
+      "contentType": "text/html"
+    },
+    {
+      "path": "media.css?v=20261027media",
+      "status": 200,
+      "bytes": 4810,
+      "contentType": "text/css"
+    },
+    {
+      "path": "media.js?v=20261027media",
+      "status": 200,
+      "bytes": 3369,
+      "contentType": "text/javascript"
+    },
+    {
+      "path": "media/catalog.json",
+      "status": 200,
+      "bytes": 18085,
+      "contentType": "application/json"
+    },
+    {
+      "path": "media/books.json",
+      "status": 200,
+      "bytes": 13624,
+      "contentType": "application/json"
+    },
+    {
+      "path": "reading/index.json",
+      "status": 200,
+      "bytes": 31419,
+      "contentType": "application/json"
+    },
+    {
+      "path": "reading/articles/bp2-breakout-followthrough.json",
+      "status": 200,
+      "bytes": 8088,
+      "contentType": "application/json"
+    }
+  ]
+}

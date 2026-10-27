@@ -1,0 +1,47 @@
+{
+  "checkedOn": "2026-10-27",
+  "browserVisualVerified": false,
+  "passed": 10,
+  "results": [
+    {
+      "name": "All researched media, books and supplements are present",
+      "passed": true
+    },
+    {
+      "name": "HTML identifiers and internal article links are valid",
+      "passed": true
+    },
+    {
+      "name": "Build can be repeated without changing the result",
+      "passed": true
+    },
+    {
+      "name": "Initial page limits keep both catalogs manageable",
+      "passed": true
+    },
+    {
+      "name": "Podcast and Chinese filters combine correctly",
+      "passed": true
+    },
+    {
+      "name": "English episode text is searchable",
+      "passed": true
+    },
+    {
+      "name": "No-match status and reset recover without losing entries",
+      "passed": true
+    },
+    {
+      "name": "Book popularity sort uses rating counts; supplement stays last",
+      "passed": true
+    },
+    {
+      "name": "Deep links reveal cards previously hidden or filtered out",
+      "passed": true
+    },
+    {
+      "name": "Original source assets and progress scripts are unchanged in Git",
+      "passed": true
+    }
+  ]
+}

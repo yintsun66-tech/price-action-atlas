@@ -1,0 +1,307 @@
+{
+  "checkedDateTaipei": "2026-10-27",
+  "scope": "依目前34篇閱讀文章，搜尋價格行為、執行、風險、策略驗證及心理之公開書目；不是聲稱已窮盡全網所有書。",
+  "recommendMethod": "編者依文章適配度、微台/BTC十分鐘研究可轉移性、可讀性與規則驗證用途排序。Brooks三卷合為一組推薦順位，但熱門度各卷分開。",
+  "popularityMethod": "只在本次入選的11本英文作品之間，按 Goodreads 可取得快照的評分人數由高至低排序。平均分為5分制；不以星數、評分數推論投資績效。不同頁面快取與版本合併可能造成小幅差異；查核日不是所有頁面的資料更新日。",
+  "salesData": "未取得可跨書比較的全球銷售數字，故不宣稱全球銷量排名或即時暢銷名次。",
+  "contentAccess": "本次依作者/出版社公開介紹、目錄、書目及評價頁整理，未聲稱讀完或翻譯全部付費原書。",
+  "books": [
+    {
+      "id": "grimes",
+      "recommendRank": 1,
+      "title": "The Art and Science of Technical Analysis",
+      "author": "Adam H. Grimes",
+      "zh": "關鍵買賣點：突破實戰交易的科學與藝術",
+      "language": "英文／已核對繁體中文版",
+      "isbnZh": [
+        "9789868319462"
+      ],
+      "rating": 4.27,
+      "ratings": 380,
+      "popSource": "https://www.goodreads.com/en/book/show/13838135-the-art-and-science-of-technical-analysis",
+      "official": "https://www.wiley.com/en-ie/the-art-and-science-of-technical-analysis-market-structure-price-action-and-trading-strategies-p-9781118115121",
+      "editionSource": "https://www.sanmin.com.tw/product/index/007177224",
+      "fit": "結合市場結構、價格行為與統計思維，最適合把目前導讀接到可驗證的策略。",
+      "limitation": "不是台指期十分鐘現成交易系統；讀者仍須定義規則、成本與保留資料驗證。",
+      "articles": [
+        "bp2-breakout-followthrough",
+        "bp2-trend-channel",
+        "pp2-target-trailing",
+        "practice-pattern-laboratory"
+      ]
+    },
+    {
+      "id": "brooks-trends",
+      "recommendRank": 2,
+      "seriesOrder": 1,
+      "title": "Trading Price Action Trends",
+      "author": "Al Brooks",
+      "zh": "價格行為交易：趨勢（中文主題譯名）",
+      "language": "英文；簡體版本可查，繁體出版版本未確認",
+      "isbnZh": [],
+      "rating": 4.06,
+      "ratings": 264,
+      "popSource": "https://www.goodreads.com/author/show/1090259.Al_Brooks",
+      "official": "https://www.brookstradingcourse.com/price-action-trading-books/",
+      "editionSource": "https://www.tenlong.com.tw/products/9781394378104",
+      "fit": "與網站的背景、趨勢、通道及回檔術語高度吻合，適合搭配預計購買的官方課程查閱。",
+      "limitation": "閱讀密度高；書的學習價值不構成台指期或 BTC 獲利證據。",
+      "articles": [
+        "bp2-trend-channel",
+        "bp2-second-entry",
+        "brooks-candle-evidence"
+      ],
+      "courseRefs": [
+        {
+          "version": "Main",
+          "unit": "16D",
+          "topic": "通道：緊通道與寬通道",
+          "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-16d-channels/",
+          "relation": "相關主題補讀"
+        }
+      ]
+    },
+    {
+      "id": "brooks-ranges",
+      "recommendRank": 2,
+      "seriesOrder": 2,
+      "title": "Trading Price Action Trading Ranges",
+      "author": "Al Brooks",
+      "zh": "高級波段技術分析：價格行為交易系統之區間分析（簡體書）",
+      "language": "英文／已查到簡體書目；繁體出版版本未確認",
+      "isbnZh": [],
+      "rating": 4.17,
+      "ratings": 123,
+      "popSource": "https://www.goodreads.com/author/show/1090259.Al_Brooks",
+      "official": "https://www.wiley-vch.de/en/areas-interest/finance-economics-law/trading-price-action-trading-ranges-978-1-118-06667-6",
+      "editionSource": "https://www.sanmin.com.tw/product/index/006341168",
+      "fit": "補足區間位置、突破與失敗的背景；依官方順序接在 Trends 後。",
+      "limitation": "不要把書中的描述性判讀直接當成已驗證的量化門檻。",
+      "articles": [
+        "bp2-range-location",
+        "bp2-failed-breakout"
+      ],
+      "courseRefs": [
+        {
+          "version": "Main",
+          "unit": "18A",
+          "topic": "交易區間：定義與特徵",
+          "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-18a-trading-ranges/",
+          "relation": "相關主題補讀"
+        }
+      ]
+    },
+    {
+      "id": "brooks-reversals",
+      "recommendRank": 2,
+      "seriesOrder": 3,
+      "title": "Trading Price Action Reversals",
+      "author": "Al Brooks",
+      "zh": "價格行為交易：反轉（中文主題譯名）",
+      "language": "英文；簡體版本可查，繁體出版版本未確認",
+      "isbnZh": [],
+      "rating": 4.21,
+      "ratings": 129,
+      "popSource": "https://www.goodreads.com/author/show/1090259.Al_Brooks",
+      "official": "https://www.brookstradingcourse.com/price-action-trading-books/",
+      "editionSource": "https://www.megbook.com.tw/mall/detail.jsp?proID=3235173",
+      "fit": "在趨勢和區間基礎之後，補反轉、測試與不同背景的判讀。",
+      "limitation": "不建議跳過前兩卷，只學反轉形態就開始逆勢交易。",
+      "articles": [
+        "bp2-reversal-evidence"
+      ],
+      "courseRefs": [
+        {
+          "version": "Main",
+          "unit": "22A",
+          "topic": "主要趨勢反轉",
+          "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-22a-major-trend-reversals/",
+          "relation": "相關主題補讀"
+        }
+      ]
+    },
+    {
+      "id": "volman",
+      "recommendRank": 3,
+      "title": "Understanding Price Action: Practical Analysis of the 5-minute Time Frame",
+      "author": "Bob Volman",
+      "zh": "理解價格行為：五分鐘週期的實務分析（本報告譯名）",
+      "language": "英文；本次未確認正式繁體譯本",
+      "isbnZh": [],
+      "rating": 4.16,
+      "ratings": 112,
+      "popSource": "https://www.goodreads.com/en/book/show/23428489-understanding-price-action",
+      "official": "https://books.google.com/books/about/Understanding_Price_Action.html?id=xjThoQEACAAJ",
+      "editionSource": "https://www.hatchards.co.uk/book/understanding-price-action/bob-volman/9789082278606",
+      "fit": "連續盤面及大量圖例，適合補網站的逐根觀察、突破與交易選擇。",
+      "limitation": "原例為 EUR/USD 五分鐘；移到微台或 BTC 十分鐘須重驗證，不能照搬進出場數字。",
+      "articles": [
+        "bp2-breakout-followthrough",
+        "bp2-failed-breakout",
+        "louie-replay-audit"
+      ]
+    },
+    {
+      "id": "pardo",
+      "recommendRank": 4,
+      "title": "The Evaluation and Optimization of Trading Strategies, 2nd Edition",
+      "author": "Robert Pardo",
+      "zh": "交易策略評估與最佳化（第二版）",
+      "language": "英文／已核對繁體中文版",
+      "isbnZh": [
+        "9789866320200"
+      ],
+      "rating": 3.79,
+      "ratings": 67,
+      "popSource": "https://www.goodreads.com/book/show/1579920.The_Evaluation_and_Optimization_of_Trading_Strategies",
+      "official": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119196969",
+      "editionSource": "https://www.taaze.tw/products/11100566132.html",
+      "fit": "對應規則定義、歷史模擬、績效評估、樣本外與推進分析，貼近六階段研究計畫。",
+      "limitation": "屬策略開發方法書，不能提供本專案現成 Python 程式或保證通過的策略。",
+      "articles": [
+        "pp2-intrabar-path",
+        "pp2-closed-higher-frame",
+        "pp2-time-exit"
+      ]
+    },
+    {
+      "id": "aronson",
+      "recommendRank": 5,
+      "title": "Evidence-Based Technical Analysis",
+      "author": "David Aronson",
+      "zh": "EBTA：讓證據說話的技術分析（上、下）",
+      "language": "英文／已核對繁體中文版",
+      "isbnZh": [
+        "9789570477818",
+        "9789570477825"
+      ],
+      "rating": 3.67,
+      "ratings": 156,
+      "popSource": "https://www.goodreads.com/book/show/203967.Evidence_Based_Technical_Analysis",
+      "official": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781118268315",
+      "editionSource": "https://eduweb.sfi.org.tw/books/product.asp?s=1494",
+      "extraEditionSource": "https://www.taaze.tw/products/11100176353.html",
+      "fit": "檢查資料探勘偏誤、統計證據及技術訊號的有效性，補足只看成功圖例的盲點。",
+      "limitation": "統計與方法論比重高，適合讀過基礎結構後，再搭配回測實作。",
+      "articles": [
+        "practice-pattern-laboratory",
+        "practice-discretion-audit",
+        "pp2-intrabar-path"
+      ]
+    },
+    {
+      "id": "douglas",
+      "recommendRank": 6,
+      "title": "Trading in the Zone",
+      "author": "Mark Douglas",
+      "zh": "賺錢，再自然不過",
+      "language": "英文／已核對繁體中文版；副標題與版次有差異",
+      "isbnZh": [
+        "9786267305218"
+      ],
+      "rating": 4.31,
+      "ratings": 10557,
+      "popSource": "https://www.goodreads.com/shelf/show/trading",
+      "official": "https://www.goodreads.com/book/show/60141564-trading-in-the-zone",
+      "editionSource": "https://isbn.ncl.edu.tw/FCKEDITOR_UploadFiles/1684391337.pdf",
+      "extraEditionSource": "https://www.taaze.tw/products/11100762834.html",
+      "fit": "補充風險接受、執行一致性與對不確定性的反應，對應交易心理及復盤。",
+      "limitation": "不能代替策略優勢、進出場規格和成本驗證。注意同名書有其他作者，本報告只指 Mark Douglas。",
+      "articles": [
+        "brooks-psychology-audit",
+        "louie-replay-audit",
+        "practice-journal-before-after"
+      ]
+    },
+    {
+      "id": "hougaard",
+      "recommendRank": 7,
+      "title": "Best Loser Wins",
+      "author": "Tom Hougaard",
+      "zh": "操盤手的秘訣：最懂輸的人才能成為贏家",
+      "language": "英文／已核對繁體中文版；亦有簡中版不同書名",
+      "isbnZh": [
+        "9786269683529"
+      ],
+      "rating": 4.46,
+      "ratings": 2969,
+      "popSource": "https://www.goodreads.com/shelf/show/trading",
+      "official": "https://www.harriman-house.com/authors/tom-hougaard/best-loser-wins/9780857198228",
+      "editionSource": "https://www.sanmin.com.tw/product/index/011761137",
+      "fit": "補交易期間的情緒與行為，適合和自己的執行偏差紀錄對讀。",
+      "limitation": "作者個人經驗與心理觀點不等於本專案的一口風控或加減碼策略已獲驗證。",
+      "articles": [
+        "brooks-psychology-audit",
+        "pp2-time-exit"
+      ]
+    },
+    {
+      "id": "murphy",
+      "recommendRank": 8,
+      "title": "Technical Analysis of the Financial Markets",
+      "author": "John J. Murphy",
+      "zh": "金融市場技術分析（上、下）",
+      "language": "英文／已核對繁體中文版",
+      "isbnZh": [
+        "9789860622966"
+      ],
+      "rating": 4.22,
+      "ratings": 4177,
+      "popSource": "https://www.goodreads.com/shelf/show/technical-analysis",
+      "official": "https://www.penguinrandomhouse.com/books/350647/technical-analysis-of-the-financial-markets-by-john-j-murphy/",
+      "editionSource": "https://www.kingstone.com.tw/basic/2015630702895/",
+      "fit": "作趨勢、支撐壓力、圖形與技術分析術語的參考字典。",
+      "limitation": "涵蓋範圍廣，當前階段可查所需主題，不必先讀完所有指標與章節。此 ISBN 僅上冊。",
+      "articles": [
+        "licensed-support-resistance",
+        "brooks-context-first",
+        "pp2-closed-higher-frame"
+      ]
+    },
+    {
+      "id": "nison",
+      "recommendRank": 9,
+      "title": "Japanese Candlestick Charting Techniques, 2nd Edition",
+      "author": "Steve Nison",
+      "zh": "陰線陽線（增訂第二版）",
+      "language": "英文／已核對繁體中文版（2024出版）",
+      "isbnZh": [
+        "9786269683574"
+      ],
+      "rating": 4.31,
+      "ratings": 2086,
+      "popSource": "https://www.goodreads.com/shelf/show/technical-analysis",
+      "official": "https://www.penguinrandomhouse.com/books/350650/japanese-candlestick-charting-techniques-by-steve-nison/",
+      "editionSource": "https://www.taaze.tw/products/11101028571.html",
+      "fit": "補 K 線語言與形態的基礎；搭配網站的背景與訊號棒文章。",
+      "limitation": "屬 K 線參考書；形態名稱不會單獨構成目前系統的進出場或獲利證據。",
+      "articles": [
+        "brooks-candle-evidence",
+        "pp2-signal-gap"
+      ]
+    }
+  ],
+  "popularityOrder": [
+    "douglas",
+    "murphy",
+    "hougaard",
+    "nison",
+    "grimes",
+    "brooks-trends",
+    "aronson",
+    "brooks-reversals",
+    "brooks-ranges",
+    "volman",
+    "pardo"
+  ],
+  "extra": [
+    {
+      "title": "Day Trading with Price Action",
+      "author": "Galen Woods",
+      "format": "4冊PDF課程書，非單一一般紙本書",
+      "source": "https://www.tradingsetupsreview.com/course/info/overview/",
+      "note": "與現有文章相關，但缺乏可與 Goodreads 書目直接比較的評分樣本，列補充，不硬塞進熱門排名。"
+    }
+  ]
+}
+
