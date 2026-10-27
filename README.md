@@ -1,5 +1,7 @@
 # Price Action Atlas · 閱讀庫
 
+2026-10-28 機率情境校註：新增 18 項原典／數值註記與可搜尋的機率專區，24 篇文章加入段落對照，42 篇皆有機率註記分頁。保留 Brooks 的條件、估計事件與近似語氣；自編數字另列，不作微台或 BTC 實測值。詳見 `docs/probability-annotations.md`。
+
 2026-10-28 第三批實作教材：新增 8 篇繁中原創導讀、24 題測驗與 3 個自編逐根圖例。補充條件機率、勝率不確定性、研究登記、委託成交、市場時鐘、訪談筆記、標記一致性與拒絕清單。新內容已連回相關影音，詳見 `docs/reading-library-batch3.md`。
 
 2026-10-27 影音與書籍更新：新增 `#media` 的 14 筆影片／圖解／Podcast 入口，以及 `#books` 的 11 本作品與 1 組 PDF 課程書。提供中文摘要、來源、評價快照、推薦順序及站內文章連結。以 `node scripts/build-media-library.cjs` 重建靜態專區；詳見 `docs/media-library-update.md`。

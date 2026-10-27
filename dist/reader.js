@@ -101,6 +101,13 @@
     qa("[data-reader-tab]").forEach(b=>{const selected=b.dataset.readerTab===name;b.setAttribute("aria-selected",String(selected));b.tabIndex=selected?0:-1;});
     if(name==="guide"){
       body.innerHTML='<div class="reader-label">'+(a.mode==="licensed-section"?"節譯導覽與編輯說明":"本網站原創導讀 · 非原作者逐字稿")+'</div><h2 id="reader-summary">本篇學習摘要</h2><p class="reader-lead">'+esc(a.summary)+'</p><section class="reader-keypoints"><h3>先記住這幾點</h3>'+list(a.keyPoints)+'</section><div class="reader-source-summary"><strong>來源短摘要／查核範圍</strong><p>'+esc(a.sourceSummary)+'</p></div>'+a.sections.map((s,i)=>'<section id="reader-section-'+i+'"><h2>'+esc(s.heading)+'</h2>'+paragraphs(s.paragraphs)+'</section>').join("")+'<p class="reader-study-note"><strong>閱讀後：</strong>切換到「練習」保留自己的證據；也可查看「來源與授權」核對實際閱讀範圍。</p>';
+      if(globalThis.AtlasProbabilities){
+        body.innerHTML=body.innerHTML.replace('<div class="reader-source-summary">',globalThis.AtlasProbabilities.banner(a)+'<div class="reader-source-summary">');
+        // Insert only at the explicit passage index. Never infer a number from a keyword.
+        a.sections.forEach((s,i)=>{const marker='<section id="reader-section-'+i+'"><h2>'+esc(s.heading)+'</h2>'+paragraphs(s.paragraphs);body.innerHTML=body.innerHTML.replace(marker,marker+globalThis.AtlasProbabilities.inline(a,i));});
+      }
+    } else if(name==="probabilities"){
+      body.innerHTML=globalThis.AtlasProbabilities?globalThis.AtlasProbabilities.render(a):'<h2 id="reader-probability">機率註記暫時未載入</h2><p>請重新整理。不要因缺少標註而自行推定機率。</p>';
     } else if(name==="exercise"){
       body.innerHTML='<div class="reader-label">本網站自編練習 · 非作者官方交易系統</div><h2 id="reader-exercise">'+esc(a.exercise.title)+'</h2>'+diagram()+'<ol>'+a.exercise.steps.map(x=>'<li>'+esc(x)+'</li>').join("")+'</ol><h2 id="reader-review">完成後的檢核</h2>'+list(a.exercise.review)+'<p>練習可使用歷史回放與模擬紀錄。這些問題沒有替策略提供勝率或收益保證。</p>';
     } else if(name==="glossary"){
@@ -111,6 +118,7 @@
     q("#reader-toc").innerHTML='<strong>本頁目錄</strong>'+Array.from(body.querySelectorAll("h2[id]")).map(h=>'<a href="#'+h.id+'" data-toc="'+h.id+'">'+esc(h.textContent)+'</a>').join("");
     q("#reader-toc").querySelectorAll("[data-toc]").forEach(el=>el.addEventListener("click",e=>{e.preventDefault();document.getElementById(el.dataset.toc)?.scrollIntoView({behavior:"smooth",block:"start"});}));
     body.querySelectorAll("[data-reader-plan]").forEach(el=>el.addEventListener("click",()=>{dialog.close();}));
+    body.querySelectorAll("[data-reader-probability]").forEach(el=>el.addEventListener("click",()=>{renderTab("probabilities");document.getElementById("reader-prob-"+el.dataset.readerProbability)?.scrollIntoView({behavior:"smooth",block:"start"});}));
     body.setAttribute("aria-labelledby","reader-tab-"+name);
   }
   async function openArticle(id) {
