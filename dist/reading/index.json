@@ -1,7 +1,93 @@
 {
   "version": 1,
-  "revision": "2026-10-28",
+  "revision": "2026-10-29",
   "articles": [
+    {
+      "id": "licensed-measured-move",
+      "category": "授權節譯",
+      "title": "量度漲跌幅目標：英文選段與繁中逐段對照",
+      "subtitle": "Targets 前兩段與一行占位文字；保留 can be considered 與 probably 的語氣。",
+      "summary": "本篇翻譯開放教材 Targets 小節的前兩段及緊接的圖例占位文字，另以本站合成價位解釋目標的量度與參考點。這是明確範圍的授權選段，沒有翻入後面泡沫討論，也不代表目標一定會達成。",
+      "level": "基礎",
+      "minutes": 10,
+      "mode": "licensed-section",
+      "batch": 7,
+      "topic": "進出場",
+      "tags": [
+        "Measured move",
+        "量度漲跌幅",
+        "Can be considered",
+        "可以視為",
+        "Probably",
+        "很可能",
+        "完整翻譯的是所選兩段及占位文字，不是整個 Targets 小節。",
+        "can be considered 保留為「可以視為」，不改為必然。",
+        "probably 未在這份教材指定數值，不套入 Brooks 的詞彙約定。",
+        "原文、譯文及本篇新增內容均保留 CC BY-SA 4.0。",
+        "第七批"
+      ],
+      "hasCases": true,
+      "hasChart": false,
+      "figureCount": 1
+    },
+    {
+      "id": "wyckoff-template-uncertainty",
+      "category": "威科夫",
+      "title": "威科夫圖式與未決：相似的區間，不必有相同結局",
+      "subtitle": "先保存當時可見的資料，再讀原作者對圖式範圍的限制",
+      "summary": "用本站另編的兩條價格路徑，練習辨認同一段已知區間與不同後續。重點是凍結邊界、保存原判斷及缺少的資料，避免在完整圖上找完字母後，誤認自己當時就知道結局。",
+      "level": "中階",
+      "minutes": 12,
+      "mode": "guide",
+      "batch": 7,
+      "topic": "區間",
+      "tags": [
+        "Schematic",
+        "圖式／示意範本",
+        "Undetermined",
+        "未決",
+        "Known prefix",
+        "已知的共同前段",
+        "圖形相似，不自動證明累積已完成。",
+        "價格事件與供需原因分開記錄。",
+        "未取得可靠量能時，保留價量判斷缺項。",
+        "本篇路徑是自編教學，不是原文 Nokia 案例。",
+        "第七批"
+      ],
+      "hasCases": true,
+      "hasChart": false,
+      "figureCount": 1
+    },
+    {
+      "id": "ict-event-rates",
+      "category": "ICT",
+      "title": "FVG 回補率不是交易勝率：先把分母寫清楚",
+      "subtitle": "社群腳本的描述性統計 × 本站自編十個候選案例",
+      "summary": "從一份本站虛構的候選清單，分開觸及、到中線、完整回補與交易損益。練習同時保存未發生、觀察未完成與實際交易資料缺項；不從漂亮的百分比推定策略已可實盤。",
+      "level": "中階",
+      "minutes": 12,
+      "mode": "guide",
+      "batch": 7,
+      "topic": "研究",
+      "tags": [
+        "Event rate",
+        "事件發生比例",
+        "Conditional denominator",
+        "條件分母",
+        "Unfinished observation",
+        "尚未完成的觀察",
+        "Repainting",
+        "重繪",
+        "區域被碰到與一筆交易獲利，是不同事件。",
+        "所有百分比連同分母與觀察期限一起讀。",
+        "腳本說自己不重繪，不等於本站已驗證。",
+        "FVG 三棒形態不證明中間區域從未成交。",
+        "第七批"
+      ],
+      "hasCases": true,
+      "hasChart": false,
+      "figureCount": 1
+    },
     {
       "id": "community-failed-followthrough",
       "category": "推薦來源",
@@ -1376,6 +1462,15 @@
     }
   ],
   "paths": [
+    {
+      "title": "圖式、百分比與價格目標",
+      "description": "先讀授權中英選段，再練習保留未決、分母與交易資料缺項。",
+      "ids": [
+        "licensed-measured-move",
+        "wyckoff-template-uncertainty",
+        "ict-event-rates"
+      ]
+    },
     {
       "title": "從新文章到可檢查的筆記",
       "description": "先讀公開作者教材，再用本站自編資料練習預期、期限與未觸發。社群短句集中在新文專區。",

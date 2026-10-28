@@ -1,16 +1,94 @@
 {
- "version":1,
- "batches":[{
-  "id":"community-batch6-20261028","collected":"2026-10-28","timezone":"Asia/Taipei",
-  "description":"兩篇原作者教材及六篇社群選讀；英文短句翻譯、繁中摘要、來源限制與兩篇本站練習。",
-  "sources":["grimes-failure","woods-three-bars","tv-repainting","sierra-absorption","brooks-forum-sometimes","reddit-winrate","ptt-asymmetry","reddit-first-principles"],
-  "articles":["community-failed-followthrough","community-three-bar-notes"],
-  "decisions":[
-   {"source":"futures.io 訂單流候選","status":"未收錄","reason":"本輪未取得足夠可讀的指定討論內容，沒有依搜尋字樣推寫作者結論。"},
-   {"source":"TradingView 威科夫與其他模型混合的候選文章","status":"候選待核對","reason":"本輪未讀完整內容與出處，不將搜尋摘要中的流派命名直接收入教學。"},
-   {"source":"論壇附件中的商業書籍 PDF","status":"不重刊","reason":"未核對完整重用授權；能公開搜尋不代表可完整翻譯與發布。"},
-   {"source":"封閉 Facebook／Discord 群組","status":"未讀取","reason":"沒有擅自加入、登入或發訊息；僅收錄合法公開可讀來源。"}
-  ],
-  "notes":["收錄日期與原始發布日期分開。","社群票數與自報勝率不構成交易績效證明。","精確發布日期未核對者保留空值，沒有以相對時間倒算。","原有文章、讀者權限及筆記鍵保留。"]
- }]
+  "version": 1,
+  "batches": [
+    {
+      "id": "content-batch7-20261029",
+      "collected": "2026-10-29",
+      "timezone": "Asia/Taipei",
+      "description": "五個新公開來源、兩篇原創導讀與一篇授權中英選段。",
+      "sources": [
+        "wyckoff-schematics-paper",
+        "tv-fvg-descriptive-stats",
+        "tv-repainting-definition",
+        "bookmap-absorption-faq",
+        "bookmap-target-map"
+      ],
+      "articles": [
+        "licensed-measured-move",
+        "wyckoff-template-uncertainty",
+        "ict-event-rates"
+      ],
+      "decisions": [
+        {
+          "source": "Adam Grimes — Volatility Has a Memory",
+          "url": "https://www.adamhgrimes.com/volatility-has-a-memory/",
+          "status": "候選未收錄",
+          "reason": "搜尋索引可見長文，但原頁兩個網址入口均未能取得；未聲稱已讀完整原頁。"
+        },
+        {
+          "source": "ICT 風格第三方腳本",
+          "status": "限定使用範圍",
+          "reason": "只讀公開說明，未執行程式；沒有將作者的非重繪或獲利聲明標示為本站驗證。"
+        },
+        {
+          "source": "Bookmap AMZN 影片",
+          "status": "只整理公開簡介及FAQ",
+          "reason": "未取得完整影片或逐字稿；沒有補造片中時間戳或成交。"
+        }
+      ],
+      "notes": [
+        "舊來源保留原收錄及查核日期。",
+        "新增來源批次篩選，不更換閱讀筆記鍵。",
+        "量度目標選段依 CC BY-SA 4.0，非整個 Targets 小節。"
+      ]
+    },
+    {
+      "id": "community-batch6-20261028",
+      "collected": "2026-10-28",
+      "timezone": "Asia/Taipei",
+      "description": "兩篇原作者教材及六篇社群選讀；英文短句翻譯、繁中摘要、來源限制與兩篇本站練習。",
+      "sources": [
+        "grimes-failure",
+        "woods-three-bars",
+        "tv-repainting",
+        "sierra-absorption",
+        "brooks-forum-sometimes",
+        "reddit-winrate",
+        "ptt-asymmetry",
+        "reddit-first-principles"
+      ],
+      "articles": [
+        "community-failed-followthrough",
+        "community-three-bar-notes"
+      ],
+      "decisions": [
+        {
+          "source": "futures.io 訂單流候選",
+          "status": "未收錄",
+          "reason": "本輪未取得足夠可讀的指定討論內容，沒有依搜尋字樣推寫作者結論。"
+        },
+        {
+          "source": "TradingView 威科夫與其他模型混合的候選文章",
+          "status": "候選待核對",
+          "reason": "本輪未讀完整內容與出處，不將搜尋摘要中的流派命名直接收入教學。"
+        },
+        {
+          "source": "論壇附件中的商業書籍 PDF",
+          "status": "不重刊",
+          "reason": "未核對完整重用授權；能公開搜尋不代表可完整翻譯與發布。"
+        },
+        {
+          "source": "封閉 Facebook／Discord 群組",
+          "status": "未讀取",
+          "reason": "沒有擅自加入、登入或發訊息；僅收錄合法公開可讀來源。"
+        }
+      ],
+      "notes": [
+        "收錄日期與原始發布日期分開。",
+        "社群票數與自報勝率不構成交易績效證明。",
+        "精確發布日期未核對者保留空值，沒有以相對時間倒算。",
+        "原有文章、讀者權限及筆記鍵保留。"
+      ]
+    }
+  ]
 }

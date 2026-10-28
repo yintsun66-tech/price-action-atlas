@@ -100,9 +100,16 @@ if(byId.has('community-failed-followthrough'))line('community-failed-followthrou
 if(byId.has('community-three-bar-notes'))add('community-three-bar-notes','three-candles','先看兩根，再核對第三根的收盤條件',G.candles('先看兩根，再核對第三根的收盤條件','本站另編 OHLC；本整理圖已揭露第三棒，非盲測',
  [{o:100,h:104,l:99,c:103},{o:103,h:107,l:102,c:106},{o:106,h:108,l:101,c:102}],
  ['前兩棒全幅皆5、實體皆3，這些不是勝率。','原問題：第三棒收盤嚴格高於107？實際102，未成立。','高點108不能替代收盤；圖中沒有實際委託回報。'],[{price:107,label:'已知第二棒高107'}]),2);
+if(byId.has('wyckoff-template-uncertainty'))add('wyckoff-template-uncertainty','two-paths','共同前五點，兩條不同後續',G.paired('共同前五點，兩條不同後續','本站另設價位折線；沒有完整OHLC或成交量',
+ {title:'甲：第六、七點108、112',values:[100,110,102,109,103,108,112],min:94,max:114,levels:[{price:100,label:'原下緣100'},{price:110,label:'原上緣110'}]},
+ {title:'乙：第六、七點99、96',values:[100,110,102,109,103,99,96],min:94,max:114,levels:[{price:100,label:'原下緣100'},{price:110,label:'原上緣110'}]},['前五點當時無法看見第六、七點；未決是可保存的狀態。','沒有由這條折線證明累積、派發或實際操盤者身份。']),1);
+if(byId.has('ict-event-rates'))table('ict-event-rates','同一份虛構清單，不同問題與分母',['問題','計數／分母','事件比例'],[['全體中曾觸及','6／10','60%'],['全體中到中線','4／10','40%'],['全體中完整回補','3／10','30%'],['已觸及中完整回補','3／6','50%']],2,'全部完成相同十根觀察窗；沒有指定交易、成本，以上均不是交易勝率。');
+if(byId.has('licensed-measured-move'))add('licensed-measured-move','two-targets','量度目標相同，達標與未達標都保留',G.paired('量度目標相同，達標與未達標都保留','本站自編：前段95→100為＋5，事前投射參考點100',
+ {title:'甲：其後到105',values:[95,100,98,99,100,101,103,105],min:94,max:107,levels:[{price:105,label:'100＋5＝105'}]},
+ {title:'乙：到102後退回99',values:[95,100,98,99,100,101,102,99],min:94,max:107,levels:[{price:105,label:'原目標105'}]},['這是本站新增圖，沒有重製 Wikibooks 圖片。','目標算式不是達標機率，也不是已扣成本的獲利。']),2);
 for(const a of articles)assert.ok(records.some(r=>r.article===a.id),'Missing tailored figure: '+a.id);
 assert.equal(new Set(records.map(r=>r.id)).size,records.length);
-const index={version:1,checked:'2026-10-28',original:true,figures:records};
+const index={version:1,checked:articles.map(a=>a.revision).filter(Boolean).sort().at(-1),original:true,figures:records};
 fs.writeFileSync(path.join(dist,'reading/figures.json'),JSON.stringify(index,null,2)+'\n');
 fs.writeFileSync(path.join(dist,'reading/figures.js'),'/* Original teaching-image metadata. No market data. */\nglobalThis.AtlasFigureData='+JSON.stringify(index)+';\n');
 console.log(JSON.stringify({articles:articles.length,figures:records.length,bytes:records.reduce((n,r)=>n+fs.statSync(path.join(dist,r.src)).size,0)}));

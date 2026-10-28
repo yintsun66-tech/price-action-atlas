@@ -1,0 +1,163 @@
+{
+  "batch": 7,
+  "language": "英文",
+  "level": "基礎",
+  "minutes": 10,
+  "mode": "licensed-section",
+  "revision": "2026-10-29",
+  "courseRefs": [],
+  "translationStatus": "已授權選段逐段翻譯：Targets 前兩段與一行占位文字，非整個小節。",
+  "provenance": "所選原段完整保留，繁中譯文逐段對照。導讀、合成圖、算例及練習為本站新增；原文與新增內容依所列授權提供，沒有使用來源圖片。",
+  "id": "licensed-measured-move",
+  "category": "授權節譯",
+  "topic": "進出場",
+  "title": "量度漲跌幅目標：英文選段與繁中逐段對照",
+  "subtitle": "Targets 前兩段與一行占位文字；保留 can be considered 與 probably 的語氣。",
+  "summary": "本篇翻譯開放教材 Targets 小節的前兩段及緊接的圖例占位文字，另以本站合成價位解釋目標的量度與參考點。這是明確範圍的授權選段，沒有翻入後面泡沫討論，也不代表目標一定會達成。",
+  "sourceSummary": "原文以整理前的價格移動幅度作為突破後目標的參考，並以股票先漲5的例子說明；沒有給出回補或目標達成率。",
+  "keyPoints": [
+    "完整翻譯的是所選兩段及占位文字，不是整個 Targets 小節。",
+    "can be considered 保留為「可以視為」，不改為必然。",
+    "probably 未在這份教材指定數值，不套入 Brooks 的詞彙約定。",
+    "原文、譯文及本篇新增內容均保留 CC BY-SA 4.0。"
+  ],
+  "sections": [
+    {
+      "heading": "一、範圍先寫清楚",
+      "paragraphs": [
+        "對照頁依序保留 Targets 的前兩段與後面一行製圖占位文字。小節後面還有泡沫與情緒的討論，本篇沒有翻入。這份教材由 Wikibooks 社群編寫，不是 Brooks 官方教材，原文的一般英文語氣不自動承接 Brooks 的機率詞彙定義。"
+      ]
+    },
+    {
+      "heading": "二、本站另設一個五點量度例",
+      "paragraphs": [
+        "以下完全是本站自編。先前價格由 95 到 100，漲幅為 5；接著在 98–100 附近整理。本例事前指定 100 為突破參考點，因此另畫一條 100＋5＝105 的目標線。若研究改以 101 為參考，目標會變 106，屬另一個需要先命名的版本。"
+      ]
+    },
+    {
+      "heading": "三、目標線與未來路徑分開",
+      "paragraphs": [
+        "兩條本站合成路徑都從相同前段開始。甲其後到 105；乙先到 102，再跌到 99。目標線的算式相同，並不讓乙也算達標。這份例子沒有估計兩種路徑的機率，也沒有交易委託、停損及完整成本，不能用來計算淨收益。"
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "en": "Measured move",
+      "zh": "量度漲跌幅",
+      "note": "依原段指以前一段幅度投射目標；量度方法仍要具名。"
+    },
+    {
+      "en": "Can be considered",
+      "zh": "可以視為",
+      "note": "保留作者提出參考的語氣，不譯為必定。"
+    },
+    {
+      "en": "Probably",
+      "zh": "很可能",
+      "note": "本來源沒有指定百分比；不是 Brooks 詞彙表中的特定約定。"
+    }
+  ],
+  "exercise": {
+    "title": "先固定量度起訖與投射點",
+    "steps": [
+      "在自編資料中標出95→100這段已知漲幅。",
+      "事前指定突破參考100，計算105並保留原線。",
+      "比較達到與未達到的路徑，不事後改變目標。",
+      "另外列出交易規則與成本缺項。"
+    ],
+    "review": [
+      "是否混用100與101兩種參考點？",
+      "是否把目標等同未來必然價格？",
+      "是否清楚說明只翻譯指定選段？"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Technical Analysis／Patterns — Targets 指定選段",
+      "url": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&oldid=4351762",
+      "author": "Wikibooks contributors",
+      "language": "英文",
+      "checked": "2026-10-29",
+      "access": "已讀公開頁，頁尾固定版本為4351762。",
+      "scope": "Targets前兩段與其後一行圖例占位文字；不含泡沫討論或來源圖片。",
+      "license": "CC BY-SA 4.0；依 Wikibooks 文字重用政策。"
+    },
+    {
+      "title": "Wikibooks 文字重用政策",
+      "url": "https://en.wikibooks.org/w/index.php?title=Wikibooks:Copyrights&oldid=4622060",
+      "author": "Wikibooks contributors",
+      "language": "英文",
+      "checked": "2026-10-29",
+      "access": "已核對公開授權政策。",
+      "scope": "核對署名、改作及相同授權要求。",
+      "license": "政策說明。"
+    }
+  ],
+  "translationTitle": "Targets 選段／目標",
+  "translationScope": "Targets小節的前兩段及緊接一行圖例占位文字。其後泡沫討論與另一行占位文字未翻入；非全小節或全章。",
+  "translationNotes": [
+    "good market structure 譯為「良好的市場結構」，保留原作者的評價，不當作已經驗證的判定。",
+    "can be considered 與 probably 分別保留為「可以視為」及「很可能」；這份來源沒有數值機率。",
+    "原文 +5 是價格幅度例，不是5%、5R或建議停損。",
+    "末行是原頁占位文字；本站另繪合成圖，沒有冒充原圖。"
+  ],
+  "translation": [
+    {
+      "kind": "paragraph",
+      "en": "The final step is to put all this information together and examine how the patterns interact with one another, to determine the price structure and context. If there is a clear impulse leading into a channel or triangle, we can start talking about pennants, bull flags and bear flags. This is considered good market structure, since participants need to pause for a bit before resuming an impulse.",
+      "zh": "最後一步是把所有這些資訊整合起來，檢視各種型態如何彼此互動，以判斷價格結構與背景。如果在進入通道或三角形之前有一段明確的推動，我們就可以開始討論三角旗形、多頭旗形與空頭旗形。這被視為良好的市場結構，因為參與者在恢復推動之前，需要稍作停頓。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "The amount of price movement leading into the consolidation can be considered a target to reach once there is a breakout (in case of rising prices) or breakdown (declines before pausing). This is known as a measured move and is probably the most common target known to traders. If a stock appreciates +5 before forming a triangle, when it breaks above the upper bounds a technical analyst will call for a price target +5 higher from the breakout point.",
+      "zh": "在進入整理之前的價格移動幅度，可以視為之後出現向上突破（價格上漲的情況）或向下突破（暫停前先下跌的情況）時，要達到的目標。這稱為量度漲跌幅，很可能是交易者最常用的目標。如果一檔股票在形成三角形之前先上漲了5，那麼當它突破上方邊界時，技術分析者就會提出從突破點再往上5的價格目標。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "- examples of good market structure / price targets -",
+      "zh": "— 良好市場結構／價格目標的範例 —"
+    }
+  ],
+  "license": {
+    "id": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "原文：Wikibooks contributors，Technical Analysis／Patterns，版本4351762。繁體中文翻譯、導讀、合成圖與練習：Price Action Atlas，AI協助，2026-10-29；本篇譯文及新增內容以CC BY-SA 4.0提供。",
+    "scope": "Targets前兩段與緊接的圖例占位文字，以及本篇新增導讀、圖解與練習。",
+    "changes": "新增繁體中文翻譯、語氣校對及自編示例；英文照錄，未重用來源圖片。",
+    "sourceRevision": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&oldid=4351762",
+    "history": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&action=history"
+  },
+  "caseQuiz": [
+    {
+      "question": "95→100的幅度為5，以100作投射參考，目標是多少？",
+      "choices": [
+        "103",
+        "105",
+        "一定會到110"
+      ],
+      "answerIndex": 1,
+      "explanation": "本例的算式是100＋5＝105；不表示價格必然達成。"
+    },
+    {
+      "question": "這份 Wikibooks 原文的 probably 可以直接填成至少60%嗎？",
+      "choices": [
+        "不行，沒有該來源的數值約定",
+        "可以，所有作者都一樣",
+        "可以，因為目標是固定的"
+      ],
+      "answerIndex": 0,
+      "explanation": "不同作者的語氣約定不能混用，本來源沒有指定該百分比。"
+    },
+    {
+      "question": "本篇完整翻譯的範圍是什麼？",
+      "choices": [
+        "全部Targets",
+        "整本Technical Analysis",
+        "Targets前兩段及一行占位文字"
+      ],
+      "answerIndex": 2,
+      "explanation": "本篇清楚限定選段，沒有翻入後續泡沫討論或整章。"
+    }
+  ]
+}

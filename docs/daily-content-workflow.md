@@ -28,11 +28,11 @@
 ## 編輯、驗證與發布
 
 1. Existing Site 依 Sites skill 取得狀態與短期 source credential，用 source helper open，同步後才修改。token 僅記憶體與 stdin，不寫入文件、指令列或輸出。
-2. 來源卡位於 `dist/reading/community.json`；HTML 由 `scripts/build-community-library.cjs` 生成。現有第六批文章由 `scripts/community-articles.cjs` 提供。新批次不要覆寫歷史作者檔；新增批次後更新通用目錄及 HTML 區塊。若變更生成器，驗證重跑不重複插入或回退內容。
+2. 來源卡位於 `dist/reading/community.json`；目前以 `scripts/build-content-batch7.cjs` 重建最新批次，來源卡共用 `scripts/render-community.cjs`。第六批作者檔為 `scripts/community-articles.cjs`，第七批為 `scripts/batch7-articles.cjs` 及 `scripts/batch7-sources.json`。新批次不要覆寫歷史作者檔；新增批次後更新通用目錄及 HTML 區塊。來源發布、收錄及查核日期分列，舊卡保留原日期。若變更生成器，驗證重跑不重複插入或回退內容。
 3. 新閱讀文章保持 schema、收藏與筆記相容，附原創整理圖；在 `scripts/build-study-figures.cjs` 加入對應圖，避免無圖或錯配。合成資料與原作者圖、歷史行情分開標示。圖片不能暗示未提供的資料或把原案例當績效。
 4. 同步 `reading/index.json`、閱讀路線、必要的批次與主題選項、`school-titles.js`、圖解索引，以及首頁的實際文章／授權／圖／題數。不要盲目重跑寫死舊批次總數的歷史生成器。
-5. 每批保留更新前文章雜湊。以 `tools/check_community_batch6.cjs` 的現有整合測試為起點；新增文章後按真實目錄擴充驗收，不能刪減既有斷言來掩蓋錯誤。測試重點為舊文章及筆記保留、來源與授權、短句長度、篩選、深連結、圖像與測驗、轉義、未取得資料的標示。確認產出可重現。
-6. 按 Sites preview 參考檢查本機網頁；保留可見頁面與互動驗證。本輪 HTTP 檢查範例為 `tools/check_community_http.cjs`，使用實際 owned preview URL，不猜固定埠。
+5. 每批保留更新前文章雜湊。最新整合測試為 `tools/check_content_batch7.cjs` 與 `tools/check_content_batch7_sources.cjs`（相對 workspace）；新增文章後按真實目錄擴充驗收，不能刪減既有斷言來掩蓋錯誤。測試重點為舊文章及筆記保留、來源與授權、短句長度、篩選、深連結、圖像與測驗、轉義、未取得資料的標示。確認產出可重現。
+6. 按 Sites preview 參考檢查本機網頁；保留可見頁面與互動驗證。本輪 HTTP 檢查入口為 `tools/check_content_batch7_http.cjs`，使用實際 owned preview URL，不猜固定埠。
 7. 每批更新 `reading/content-updates.json`，保留來源、採用／略過／失敗。通過後用 source helper 打包及推送精確 commit，以原有 owner-private 發布。成功 native 結果與 URL 才算已部署；失敗不要假稱網站更新。
 8. 工作區 `artifacts/` 保存該批檢查、commit、部署結果及必要畫面，不把敏感資料寫入站內。發布後檢查關鍵內容並保留交付頁，關閉 owned preview 與臨時分頁。
 

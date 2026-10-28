@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "checked": "2026-10-28",
+  "checked": "2026-10-29",
   "original": true,
   "figures": [
     {
@@ -781,6 +781,42 @@
       "afterSection": 2,
       "caption": "圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。",
       "alt": "先看兩根，再核對第三根的收盤條件。圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。",
+      "synthetic": true
+    },
+    {
+      "id": "wyckoff-template-uncertainty-two-paths",
+      "article": "wyckoff-template-uncertainty",
+      "title": "共同前五點，兩條不同後續",
+      "src": "images/study/wyckoff-template-uncertainty-two-paths.svg",
+      "width": 960,
+      "height": 625,
+      "afterSection": 1,
+      "caption": "圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。",
+      "alt": "共同前五點，兩條不同後續。圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。",
+      "synthetic": true
+    },
+    {
+      "id": "ict-event-rates-table",
+      "article": "ict-event-rates",
+      "title": "同一份虛構清單，不同問題與分母",
+      "src": "images/study/ict-event-rates-table.svg",
+      "width": 960,
+      "height": 665,
+      "afterSection": 2,
+      "caption": "圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。",
+      "alt": "同一份虛構清單，不同問題與分母。圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。",
+      "synthetic": true
+    },
+    {
+      "id": "licensed-measured-move-two-targets",
+      "article": "licensed-measured-move",
+      "title": "量度目標相同，達標與未達標都保留",
+      "src": "images/study/licensed-measured-move-two-targets.svg",
+      "width": 960,
+      "height": 625,
+      "afterSection": 2,
+      "caption": "圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。 本站新增原創圖亦依本篇 CC BY-SA 4.0 提供，未改作來源圖片。",
+      "alt": "量度目標相同，達標與未達標都保留。圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。 本站新增原創圖亦依本篇 CC BY-SA 4.0 提供，未改作來源圖片。",
       "synthetic": true
     }
   ]
