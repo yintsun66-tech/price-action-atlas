@@ -96,6 +96,10 @@ if(byId.has('licensed-range-consolidation'))line('licensed-range-consolidation',
 if(byId.has('licensed-continuation-reversal'))add('licensed-continuation-reversal','two-futures','相同已知起點，後續不只有一條路',G.paired('相同已知起點，後續不只有一條路','本站自編例；前五點完全相同，後兩點是不同假設',
  {title:'甲：後續向上',values:[100,108,104,109,105,112,115],min:96,max:118},
  {title:'乙：後續向下',values:[100,108,104,109,105,101,98],min:96,max:118},['共同起點尚未提供完整型態定義；不是官方入場案例。','兩條路徑不是各有50%機率，圖中沒有估計機率。']),1);
+if(byId.has('community-failed-followthrough'))line('community-failed-followthrough','期限先定好，才檢查是否發生',[100,106,103,109,112,108,109,108.5,114],[{price:110,label:'事前邊界110'},{price:106,label:'108時先定觀察門檻106'}],['第6點108後，只觀察第7、8點是否收低於106。','109、108.5均未成立；第9點114已在原窗口外。','折線是本站自編，不是原文章的玉米歷史圖。'],1);
+if(byId.has('community-three-bar-notes'))add('community-three-bar-notes','three-candles','先看兩根，再核對第三根的收盤條件',G.candles('先看兩根，再核對第三根的收盤條件','本站另編 OHLC；本整理圖已揭露第三棒，非盲測',
+ [{o:100,h:104,l:99,c:103},{o:103,h:107,l:102,c:106},{o:106,h:108,l:101,c:102}],
+ ['前兩棒全幅皆5、實體皆3，這些不是勝率。','原問題：第三棒收盤嚴格高於107？實際102，未成立。','高點108不能替代收盤；圖中沒有實際委託回報。'],[{price:107,label:'已知第二棒高107'}]),2);
 for(const a of articles)assert.ok(records.some(r=>r.article===a.id),'Missing tailored figure: '+a.id);
 assert.equal(new Set(records.map(r=>r.id)).size,records.length);
 const index={version:1,checked:'2026-10-28',original:true,figures:records};

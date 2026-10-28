@@ -758,6 +758,30 @@
       "caption": "圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。 本站新增原創圖亦依本篇 CC BY-SA 4.0 提供，未改作來源圖片。",
       "alt": "相同已知起點，後續不只有一條路。圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。 本站新增原創圖亦依本篇 CC BY-SA 4.0 提供，未改作來源圖片。",
       "synthetic": true
+    },
+    {
+      "id": "community-failed-followthrough-path",
+      "article": "community-failed-followthrough",
+      "title": "期限先定好，才檢查是否發生",
+      "src": "images/study/community-failed-followthrough-path.svg",
+      "width": 960,
+      "height": 640,
+      "afterSection": 1,
+      "caption": "圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。",
+      "alt": "期限先定好，才檢查是否發生。圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。",
+      "synthetic": true
+    },
+    {
+      "id": "community-three-bar-notes-three-candles",
+      "article": "community-three-bar-notes",
+      "title": "先看兩根，再核對第三根的收盤條件",
+      "src": "images/study/community-three-bar-notes-three-candles.svg",
+      "width": 960,
+      "height": 650,
+      "afterSection": 2,
+      "caption": "圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。",
+      "alt": "先看兩根，再核對第三根的收盤條件。圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。",
+      "synthetic": true
     }
   ]
 }

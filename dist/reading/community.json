@@ -1,0 +1,290 @@
+{
+  "version": 1,
+  "checked": "2026-10-28",
+  "policy": "編輯選讀順序依本專案學習用途排列，並非獲利或跨平台人氣排名。社群經驗只能作為問題來源。",
+  "items": [
+    {
+      "id": "grimes-failure",
+      "platform": "Adam Grimes",
+      "kind": "author",
+      "language": "en",
+      "author": "Adam H. Grimes",
+      "title": "突破失敗後沒有續跌：重新檢查大背景",
+      "url": "https://www.adamhgrimes.com/breakouts-and-breakout-failures-real-world-trading/",
+      "published": "2021-04-09",
+      "dateNote": "原頁明列發布日；本輪新收錄，不是新發布。",
+      "summary": "作者以玉米案例提醒：短期型態未如預期發展時，要重看較大結構，空手也可以是有效選擇。",
+      "quote": {
+        "en": "Remember, no bias, no edge, and flat are perfectly valid positions!",
+        "zh": "記住，不持方向看法、沒有優勢以及空手，都是完全合理的狀態！",
+        "context": "原文結尾的提醒；不是建議反手或保證後面上漲。"
+      },
+      "access": "已讀公開文字；未重用原文圖表。",
+      "translation": "來源短摘要與必要短句翻譯；非全文譯文。",
+      "review": {
+        "basis": "原作者文章；編輯可核對其逐步修改預期的說明。",
+        "learning": "適合練習大背景、短期失效與觀望。",
+        "limits": "單一歷史示例，沒有微台或 BTC 淨績效證明；未取得獨立教學成效評分。",
+        "engagement": "未取得可核對的互動或獨立評分，不填星等。"
+      },
+      "related": [
+        "community-failed-followthrough"
+      ],
+      "tags": [
+        "突破",
+        "失效",
+        "背景",
+        "空手"
+      ]
+    },
+    {
+      "id": "woods-three-bars",
+      "platform": "Trading Setups Review",
+      "kind": "author",
+      "language": "en",
+      "author": "Galen Woods",
+      "title": "從一根到三根棒：把預期與結果分開",
+      "url": "https://www.tradingsetupsreview.com/beginners-guide-reading-price-action/",
+      "published": null,
+      "dateNote": "原頁未顯示可核對的發布日；不以搜尋估算年份代替。",
+      "summary": "文章由單棒外觀擴展到兩棒背景、價位測試與第三棒對預期的確認或否定，強調讀圖還不是完整交易方法。",
+      "quote": {
+        "en": "However, reading price action is not enough for trading price action.",
+        "zh": "然而，讀懂價格行為，還不足以進行價格行為交易。",
+        "context": "作者在文末區分讀圖能力與完整交易方法。"
+      },
+      "access": "已讀公開正文；來源圖未搬入本站。",
+      "translation": "必要短句翻譯、繁中短摘要與本站自編練習。",
+      "review": {
+        "basis": "原作者公開入門教材；例子按單棒、兩棒、三棒組織。",
+        "learning": "適合先記預期、再逐根揭露的初階練習。",
+        "limits": "形態解釋不等於已驗證的期望值；原頁說明案例是教學示例，並非實際交易。",
+        "engagement": "未取得一致的使用者評分與母體，僅作編輯適讀性評估。"
+      },
+      "related": [
+        "community-three-bar-notes"
+      ],
+      "tags": [
+        "三棒",
+        "逐根",
+        "背景",
+        "預期"
+      ]
+    },
+    {
+      "id": "tv-repainting",
+      "platform": "TradingView",
+      "kind": "community",
+      "language": "en",
+      "author": "PineIndicators；頁面致謝 Zeiierman",
+      "title": "歷史標籤很漂亮，卻不能在標籤當下成交",
+      "url": "https://www.tradingview.com/script/gjFSGRCo-Dynamic-Swing-Anchored-VWAP-STRAT-Zeiierman-PineIndicators/",
+      "published": "2025-09-09",
+      "dateNote": "原頁發布日；本輪只讀作者說明，未審查或執行程式碼。",
+      "summary": "腳本作者明示擺動標籤需等後續棒完成才定案，無法在回畫的歷史標籤位置實時成交。",
+      "quote": {
+        "en": "It is not possible to execute at historical label points.",
+        "zh": "無法在那些歷史標籤點位執行交易。",
+        "context": "原文的重繪警示；標籤位置與確認時間必須分開。"
+      },
+      "access": "已讀英文公開說明與重繪警示；未執行或驗證策略回測。",
+      "translation": "僅短句與摘要，不重刊開源腳本全文。",
+      "review": {
+        "basis": "作者自行披露限制；可用來練習審查圖表訊號。",
+        "learning": "搭配擺動點、MSS、回放與偷看未來的研究。",
+        "limits": "開源標記不表示結果已經獨立驗證；本輪未審計程式。",
+        "engagement": "圖示數字的意義未可靠核對，不推定為喜歡數、追蹤數或績效。"
+      },
+      "related": [
+        "pp2-closed-higher-frame",
+        "ict-structure"
+      ],
+      "tags": [
+        "重繪",
+        "回填",
+        "確認時間",
+        "VWAP"
+      ]
+    },
+    {
+      "id": "sierra-absorption",
+      "platform": "Sierra Chart Support Board",
+      "kind": "community",
+      "language": "en",
+      "author": "binaryduke（自述為工具開發者與訂單流講師）",
+      "title": "吸收怎麼寫成條件：大 Delta 與價格進展",
+      "url": "https://www.sierrachart.com/SupportBoard.php?PostID=222357",
+      "published": "2020-06-07",
+      "dateNote": "貼文時間 2020-06-07 14:12:25；原頁未明確標示該貼文時區。",
+      "summary": "留言者以較大 Delta 卻沒有相應價格進展討論吸收，並建議把價位成交量與價格條件一起用於提醒。",
+      "quote": {
+        "en": "if you can read footprint raw data, it's easy to see absorption.",
+        "zh": "如果你能讀懂足跡圖的原始資料，就很容易看出吸收。",
+        "context": "這是留言者對易讀性的主觀評價，不是本站已驗證結論。"
+      },
+      "access": "已讀指定貼文文字，沒有重製其他回覆或原圖。",
+      "translation": "短句翻譯與摘要；留言不等於 Sierra 官方定義。",
+      "review": {
+        "basis": "具名公開技術討論；作者另有工具與教學身分，需保留商業背景。",
+        "learning": "可以發想條件提醒，但要事前定義價位、期間及門檻。",
+        "limits": "未提供可通用的數值門檻或微台／BTC 成效；大 Delta 不自動證明下一步反轉。",
+        "engagement": "不以發文數替代準確度或教學評分。"
+      },
+      "related": [
+        "flow-absorption",
+        "flow-footprint"
+      ],
+      "tags": [
+        "訂單流",
+        "吸收",
+        "Delta",
+        "提醒"
+      ]
+    },
+    {
+      "id": "brooks-forum-sometimes",
+      "platform": "Brooks 公開討論區",
+      "kind": "community",
+      "language": "en",
+      "author": "提問 kenetrader；回覆 Zunquan（會員）",
+      "title": "sometimes 要翻成幾成？先辨認會員解讀",
+      "url": "https://www.brookstradingcourse.com/support-forum/general-trading-discussion/when-al-said-sometimes-on-a-possibility-what-percentage-it-is-up-to-al/",
+      "published": "2026-01-22",
+      "dateNote": "提問 2026-01-22；所讀回答 2026-08-30；原頁時區未核對。",
+      "summary": "回答者指出 sometimes 沒有固定百分比，最後另將它解讀為少數可能；後者屬該會員判讀，本站不據此指定低於 50%。",
+      "quote": {
+        "en": "However, he does not assign a fixed percentage to sometimes.",
+        "zh": "然而，他並沒有替 sometimes 指定一個固定百分比。",
+        "context": "這是會員回答的短句，不能改標為 Al Brooks 原話。"
+      },
+      "access": "已讀公開提問及所列回答；官方詞彙表另以可見索引核對，直接頁面本輪回應 403。",
+      "translation": "會員短句翻譯與摘要；不代表已觀看付費課。",
+      "review": {
+        "basis": "原站公開社群，有回覆日期與會員身分；平台身分不等於原作者背書。",
+        "learning": "練習保留未量化語氣，回到官方來源核對。",
+        "limits": "不將會員的 minority 解讀當作 Brooks 定義；本卡不提供新的型態機率。",
+        "engagement": "查核頁顯示 1 則回答、1 次反應、1,915 次瀏覽；只是 2026-10-28 可見快照。"
+      },
+      "courseRefs": [
+        {
+          "version": "Main",
+          "unit": "30A",
+          "topic": "交易者方程式與機率",
+          "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-30a-traders-equation-probability/",
+          "relation": "相關主題補讀"
+        }
+      ],
+      "related": [
+        "pa3-bayes-evidence",
+        "pa3-winrate-uncertainty"
+      ],
+      "tags": [
+        "sometimes",
+        "機率",
+        "翻譯",
+        "會員觀點"
+      ]
+    },
+    {
+      "id": "reddit-winrate",
+      "platform": "Reddit",
+      "kind": "community",
+      "language": "en",
+      "author": "r/Daytrading；重點留言 T3RCX",
+      "title": "社群自報 68% 勝率：先讀適用範圍與缺項",
+      "url": "https://www.reddit.com/r/Daytrading/comments/1osewll/price_action_al_brooks_high_win_rate/",
+      "published": null,
+      "dateNote": "正文僅顯示相對日期；精確發帖日期未核對。",
+      "summary": "留言者自報當年自訂 Brooks 風格系統勝率 68%，僅交易 MES，並有風險篩選、限價未成交及保本退出；未提供本站可對帳的完整紀錄。",
+      "quote": {
+        "en": "Only applies to /MES because it's all I trade.",
+        "zh": "這只適用於 /MES，因為我只交易這個商品。",
+        "context": "68% 是留言者自述，不是 Brooks 官方統計，也不是微台或 BTC 勝率。"
+      },
+      "access": "已讀提問、該留言的限制及後續回覆；未取得原始交易資料。",
+      "translation": "短句對照與繁中摘要；不整篇搬運討論串。",
+      "review": {
+        "basis": "公開自述，有列出部分限制，適合用來練習查缺項。",
+        "learning": "查商品、分母、未成交、保本、成本與平均損益。",
+        "limits": "未驗證樣本數、成本、期間及對帳；不可據此估算自己能賺多少。",
+        "engagement": "本輪可讀頁沒有可靠票數快照，不以搜尋排序當評分。"
+      },
+      "related": [
+        "pa3-winrate-uncertainty",
+        "brooks-scalp-math"
+      ],
+      "tags": [
+        "68%",
+        "自報",
+        "MES",
+        "勝率"
+      ]
+    },
+    {
+      "id": "ptt-asymmetry",
+      "platform": "PTT Option",
+      "kind": "community",
+      "language": "zh-Hant",
+      "author": "FoRTuNaTeR",
+      "title": "盤感與「不對稱」：把經驗敘事變成可檢查問題",
+      "url": "https://www.ptt.cc/bbs/Option/M.1678840721.A.D4D.html",
+      "published": "2023-03-15",
+      "dateNote": "原頁時間 2023-03-15 08:38:39；舊文新收錄。",
+      "summary": "作者以未完成 K 線與預期收盤的差距談不對稱；回覆延伸到量化、回測及參數失效。這些是社群經驗與發想，不是完整策略。",
+      "quote": null,
+      "access": "已讀繁體中文正文及相關回覆；未重刊無關閒聊、個人聯絡或連線資料。",
+      "translation": "原文已為繁體中文，提供摘要與研究提問。",
+      "review": {
+        "basis": "本地公開社群原帖，提供當事人的思考線索。",
+        "learning": "適合追問預期如何事前保存、錯誤與未收線如何處理。",
+        "limits": "沒有完整可執行規則及可對帳績效；自述經歷未獨立驗證。",
+        "engagement": "推文只是互動，未取得一致教學評分，不另造星等。"
+      },
+      "related": [
+        "practice-discretion-audit",
+        "pa3-research-register"
+      ],
+      "tags": [
+        "台灣",
+        "盤感",
+        "量化",
+        "回測"
+      ]
+    },
+    {
+      "id": "reddit-first-principles",
+      "platform": "Reddit",
+      "kind": "community",
+      "language": "en",
+      "author": "提問 hello_diddy；短句回覆 OffbeatConcur_109",
+      "title": "看完 Brooks 仍想找更基礎教材：先確認學習缺口",
+      "url": "https://www.reddit.com/r/Daytrading/comments/1xebtgu/price_action_recommendations/",
+      "published": null,
+      "dateNote": "頁面只見相對時間，精確發布日未核對，不稱為今天新帖。",
+      "summary": "提問者覺得解讀常有兩種方向；回覆一方建議增加觀察練習，另一方談其他確認方法。分歧是學習感受，不能決定方法是否有效。",
+      "quote": {
+        "en": "maybe you just need more screen time instead of another book",
+        "zh": "也許你只是需要更多看盤練習，而不是另一本書。",
+        "context": "回覆者的建議；不是已測量的學習成效，也不能取代系統化練習。"
+      },
+      "access": "已讀公開提問與可見回覆，沒有加入私群或聯絡作者。",
+      "translation": "必要短句翻譯與來源摘要；不同回覆不合併成社群共識。",
+      "review": {
+        "basis": "適合辨認常見困惑與不同觀點，非專家結論。",
+        "learning": "把「不懂」拆成名詞、資料、辨識一致性與執行四個缺口。",
+        "limits": "未核對會員交易經驗、課程完成度及績效；增加看盤時間本身不證明有效學習。",
+        "engagement": "未取得可靠票數及樣本，不計算社群好評率。"
+      },
+      "related": [
+        "community-three-bar-notes",
+        "pa3-label-consistency"
+      ],
+      "tags": [
+        "入門",
+        "學習",
+        "Brooks",
+        "觀察"
+      ]
+    }
+  ]
+}

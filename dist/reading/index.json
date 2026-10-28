@@ -3,6 +3,62 @@
   "revision": "2026-10-28",
   "articles": [
     {
+      "id": "community-failed-followthrough",
+      "category": "推薦來源",
+      "title": "突破失敗卻沒有續跌：讓預期有期限",
+      "subtitle": "Adam Grimes 公開文章入口 × 本站自編事前紀錄練習",
+      "summary": "本篇用本站自編時間表，練習把較大背景、短期事件及未發生的預期分開。記下什麼時候等待、什麼時候暫停判斷，以及後來才知道的資訊；原作者文章提供延伸閱讀入口。",
+      "level": "中階",
+      "minutes": 11,
+      "mode": "guide",
+      "batch": 6,
+      "topic": "突破",
+      "tags": [
+        "Follow-through",
+        "後續延續表現",
+        "Observation window",
+        "觀察窗口",
+        "No trigger",
+        "未觸發",
+        "先寫觀察期限，再揭露後續價格。",
+        "沒有如預期發展，不自動等於另一方向必然成立。",
+        "新資料更新判斷，舊紀錄仍然保留。",
+        "本篇數字、窗口與狀態均為本站自訂練習，非作者策略。",
+        "社群選讀"
+      ],
+      "hasCases": true,
+      "hasChart": false,
+      "figureCount": 1
+    },
+    {
+      "id": "community-three-bar-notes",
+      "category": "推薦來源",
+      "title": "三根棒的預期筆記：先寫答案，再看第三根",
+      "subtitle": "Galen Woods 公開入門文入口 × 本站自編 OHLC 練習",
+      "summary": "用本站另編的三根 K 棒，區分可以量測的外觀、當時假說與下一步的結果。這篇練習先保存答案、容許未決，並避免把影線與實體直接改寫成真實訂單或下單許可。",
+      "level": "中階",
+      "minutes": 11,
+      "mode": "guide",
+      "batch": 6,
+      "topic": "基礎",
+      "tags": [
+        "OHLC",
+        "開、高、低、收",
+        "Expectation",
+        "預期",
+        "Strictly above",
+        "嚴格高於",
+        "先揭露兩根，寫下可被推翻的條件。",
+        "第三根只回答事前問題，不替前兩根發明事後訊號。",
+        "OHLC 可以量測形狀，不能識別參與者意圖。",
+        "本站教學資料沒有提供真實行情或策略勝率。",
+        "社群選讀"
+      ],
+      "hasCases": true,
+      "hasChart": false,
+      "figureCount": 1
+    },
+    {
       "id": "licensed-trends",
       "category": "授權節譯",
       "title": "趨勢的三種方向：英文原文與繁中逐段對照",
@@ -1320,6 +1376,14 @@
     }
   ],
   "paths": [
+    {
+      "title": "從新文章到可檢查的筆記",
+      "description": "先讀公開作者教材，再用本站自編資料練習預期、期限與未觸發。社群短句集中在新文專區。",
+      "ids": [
+        "community-failed-followthrough",
+        "community-three-bar-notes"
+      ]
+    },
     {
       "title": "英文精讀：趨勢、整理與型態",
       "description": "三篇授權節譯：原文逐段對照繁體中文，附語氣、歷史範圍及拼字校對註。",

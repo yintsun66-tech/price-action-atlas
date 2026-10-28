@@ -61,7 +61,7 @@
     q("#reading-result").textContent="顯示 "+shown.length+" / "+rows.length+" 個單元 · "+guides+" 篇原創導讀＋"+licensed+" 篇授權節譯";
     q("#reading-grid").innerHTML=shown.length ? shown.map(a=>{
       const r=record(a.id);
-      return '<article class="reading-card card"><div class="reading-card-top"><span class="pill '+(a.mode==="licensed-section"?"green":"blue")+'">'+esc(a.category)+'</span><span>'+esc(a.minutes)+' 分鐘</span>'+((a.batch||1)>=2?'<span class="batch-label">'+(a.batch===5?'第五批節譯':a.batch===4?'第四批新增':a.batch===3?'第三批新增':'第二批新增')+'</span>':'')+'</div><h3><a href="#read/'+a.id+'">'+esc(a.title)+'</a></h3><p>'+esc(a.summary)+'</p><div class="reading-card-meta"><span>'+esc(a.mode==="licensed-section"?"CC BY-SA 小節譯文":"本網站原創導讀")+'</span><span>'+esc(a.level)+'</span><span>'+esc(a.topic||'基礎')+'</span><span>'+esc(a.figureCount||0)+' 張整理圖</span></div><div class="reading-card-bottom"><a href="#read/'+a.id+'" class="text-btn">開啟閱讀 →</a><span aria-label="閱讀狀態">'+(r.read?"已讀 ✓":"尚未標記已讀")+(r.bookmarked?" · 已收藏":"")+'</span></div></article>';
+      return '<article class="reading-card card"><div class="reading-card-top"><span class="pill '+(a.mode==="licensed-section"?"green":"blue")+'">'+esc(a.category)+'</span><span>'+esc(a.minutes)+' 分鐘</span>'+((a.batch||1)>=2?'<span class="batch-label">'+(a.batch===6?'第六批選讀':a.batch===5?'第五批節譯':a.batch===4?'第四批新增':a.batch===3?'第三批新增':'第二批新增')+'</span>':'')+'</div><h3><a href="#read/'+a.id+'">'+esc(a.title)+'</a></h3><p>'+esc(a.summary)+'</p><div class="reading-card-meta"><span>'+esc(a.mode==="licensed-section"?"CC BY-SA 小節譯文":"本網站原創導讀")+'</span><span>'+esc(a.level)+'</span><span>'+esc(a.topic||'基礎')+'</span><span>'+esc(a.figureCount||0)+' 張整理圖</span></div><div class="reading-card-bottom"><a href="#read/'+a.id+'" class="text-btn">開啟閱讀 →</a><span aria-label="閱讀狀態">'+(r.read?"已讀 ✓":"尚未標記已讀")+(r.bookmarked?" · 已收藏":"")+'</span></div></article>';
     }).join("") : '<div class="empty-state">沒有符合的單元。請縮短關鍵字或改用「全部閱讀來源」。</div>';
     q("#reading-more").hidden=shown.length>=rows.length;
     storageStatus();
@@ -104,6 +104,7 @@
     if(name==="guide"){
       body.innerHTML='<div class="reader-label">'+(a.mode==="licensed-section"?"節譯導覽與編輯說明":"本網站原創導讀 · 非原作者逐字稿")+'</div><h2 id="reader-summary">本篇學習摘要</h2><p class="reader-lead">'+esc(a.summary)+'</p><section class="reader-keypoints"><h3>先記住這幾點</h3>'+list(a.keyPoints)+'</section><div class="reader-source-summary"><strong>來源短摘要／查核範圍</strong><p>'+esc(a.sourceSummary)+'</p></div>'+a.sections.map((s,i)=>'<section id="reader-section-'+i+'"><h2 id="reader-heading-'+i+'">'+esc(s.heading)+'</h2>'+paragraphs(s.paragraphs)+(globalThis.AtlasFigures?.render(a,i)||'')+'</section>').join("")+'<p class="reader-study-note"><strong>閱讀後：</strong>切換到「整理圖」放大圖像，或用「圖例與測驗」練習；「來源與授權」保留實際取得範圍。</p>';
       if(a.translation&&a.license)body.innerHTML='<div class="reader-license"><strong>本篇提供英文與繁體中文完整節譯對照。</strong><p>先讀導讀，或直接逐段核對原文、清單與中文；校對註另列。</p><button type="button" class="btn primary" data-open-translation>閱讀英文／繁中對照 →</button></div>'+body.innerHTML;
+      if(a.communityRef)body.innerHTML='<aside class="reader-source-summary"><strong>本篇搭配英文來源與短句翻譯</strong><p><a href="#community-'+esc(a.communityRef)+'">開啟原作者選讀、短句翻譯與評價依據 →</a></p></aside>'+body.innerHTML;
       if(globalThis.AtlasProbabilities){
         body.innerHTML=body.innerHTML.replace('<div class="reader-source-summary">',globalThis.AtlasProbabilities.banner(a)+'<div class="reader-source-summary">');
         // Insert only at the explicit passage index. Never infer a number from a keyword.
@@ -213,7 +214,7 @@
       q("#reading-route-grid").innerHTML=(data.paths||[]).map(p=>'<div><strong>'+esc(p.title)+'</strong><p>'+esc(p.description)+'</p>'+p.ids.filter(id=>ids.includes(id)).map((id,i)=>'<a href="#read/'+id+'">'+(i+1)+'．'+esc(manifest.find(a=>a.id===id).title)+' →</a>').join('<br>')+'</div>').join("");
       manifestReady=true;q("#reader-start").href="#read/"+ids[0];renderCatalog();route();
       // Catalog routes add height above this section. Resolve its initial deep link afterwards.
-      if(["#probabilities","#schools"].includes(location.hash))q(location.hash)?.scrollIntoView({block:"start"});
+      if(["#probabilities","#schools","#community"].includes(location.hash)||location.hash.startsWith("#community-"))q(location.hash)?.scrollIntoView({block:"start"});
     }catch(e){
       notice("閱讀目錄暫時無法載入："+e.message);
       q("#reading-grid").innerHTML='<div class="empty-state">請重新整理後再試。你仍可使用原有學習計畫與教材連結。</div>';

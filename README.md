@@ -8,18 +8,18 @@
 
 2026-10-27 影音與書籍更新：新增 `#media` 的 14 筆影片／圖解／Podcast 入口，以及 `#books` 的 11 本作品與 1 組 PDF 課程書。提供中文摘要、來源、評價快照、推薦順序及站內文章連結。以 `node scripts/build-media-library.cjs` 重建靜態專區；詳見 `docs/media-library-update.md`。
 
-目前累積 52 篇繁體中文原創導讀與 5 篇開放教材的完整範圍中英節譯，共 57 個閱讀單元、63 張原創整理圖、9 個自編逐根圖例及 108 題測驗，維持原私人網站與 48 項學習任務。
+目前累積 54 篇繁體中文原創導讀與 5 篇開放教材的完整範圍中英節譯，共 59 個閱讀單元、65 張原創整理圖、9 個自編逐根圖例及 114 題測驗，維持原私人網站與 48 項學習任務。
 
 ## 檔案
 - `dist/index.html`：網站骨架；沿用大字與粗黑重點。
 - `dist/atlas.css`、`dist/atlas.js`：既有學習計畫、導師、評選與資源庫。
 - `dist/data/core.js`：初次所需的 143 個來源與完整學習計畫。
 - `dist/data/resources-archive-*.json`：其餘 1,967 個索引，按需載入並還原原順序。
-- `dist/reading/index.json`：57 個閱讀單元的輕量目錄。
+- `dist/reading/index.json`：59 個閱讀單元的輕量目錄。
 - `dist/reading/articles/*.json`：分篇內容、來源範圍、授權與版本。
 - `dist/reader.js`、`dist/reader-state.js`、`dist/reader.css`：閱讀、收藏、筆記及備份。
 - `dist/reader-practice.js`、`dist/reader-practice.css`：自編逐根 K 線圖例與測驗，不使用即時行情。
-- 目錄支援主題與批次篩選、十條閱讀路線。圖例與測驗的作答暫留本次頁面，不作績效、實盤資格或已讀評分。
+- 目錄支援主題與批次篩選、十一條閱讀路線。圖例與測驗的作答暫留本次頁面，不作績效、實盤資格或已讀評分。
 
 ## 內容更新
 更新文章 JSON 後，同步目錄的標題、摘要與標籤。ID 應保持不變，讓書籤與已讀紀錄繼續生效。一般來源使用 `mode: guide`，不得因公開可讀就加入全文譯文。只有確認授權範圍的內容才能提供 `translation` 與完整 `license`、固定來源版本、修改及署名資料。
@@ -41,3 +41,5 @@ Brooks 課程對照須有 Main／Forex 版本、單元編號、中文主題、�
 
 
 第二批校對日期：2026-10-27（台北）。來源與範圍詳見 docs/research-brooks-batch2.md、docs/research-priority-batch2.md。原 21 篇文章位元組、資源索引及原有任務程式未變更。
+
+第六批（2026-10-28）：新增社群與新文專區，含 8 篇來源選讀、短句翻譯、評價與限制，另有 2 篇原創導讀。以 `node scripts/build-community-library.cjs` 重建；每日更新規則見 docs/daily-content-workflow.md。
