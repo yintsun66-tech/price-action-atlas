@@ -722,6 +722,42 @@
       "caption": "順序依本專案資料條件安排，不是盈利能力或流派高低排名。",
       "alt": "依資料能力增加研究，不跳階段。順序依本專案資料條件安排，不是盈利能力或流派高低排名。",
       "synthetic": true
+    },
+    {
+      "id": "licensed-trends-path",
+      "article": "licensed-trends",
+      "title": "已完成轉折：峰值與谷值逐步提高",
+      "src": "images/study/licensed-trends-path.svg",
+      "width": 960,
+      "height": 640,
+      "afterSection": 1,
+      "caption": "圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。 本站新增原創圖亦依本篇 CC BY-SA 4.0 提供，未改作來源圖片。",
+      "alt": "已完成轉折：峰值與谷值逐步提高。圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。 本站新增原創圖亦依本篇 CC BY-SA 4.0 提供，未改作來源圖片。",
+      "synthetic": true
+    },
+    {
+      "id": "licensed-range-consolidation-path",
+      "article": "licensed-range-consolidation",
+      "title": "推動之後交錯，後續方向仍待確認",
+      "src": "images/study/licensed-range-consolidation-path.svg",
+      "width": 960,
+      "height": 640,
+      "afterSection": 1,
+      "caption": "圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。 本站新增原創圖亦依本篇 CC BY-SA 4.0 提供，未改作來源圖片。",
+      "alt": "推動之後交錯，後續方向仍待確認。圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。 本站新增原創圖亦依本篇 CC BY-SA 4.0 提供，未改作來源圖片。",
+      "synthetic": true
+    },
+    {
+      "id": "licensed-continuation-reversal-two-futures",
+      "article": "licensed-continuation-reversal",
+      "title": "相同已知起點，後續不只有一條路",
+      "src": "images/study/licensed-continuation-reversal-two-futures.svg",
+      "width": 960,
+      "height": 625,
+      "afterSection": 1,
+      "caption": "圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。 本站新增原創圖亦依本篇 CC BY-SA 4.0 提供，未改作來源圖片。",
+      "alt": "相同已知起點，後續不只有一條路。圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。 本站新增原創圖亦依本篇 CC BY-SA 4.0 提供，未改作來源圖片。",
+      "synthetic": true
     }
   ]
 }

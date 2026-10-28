@@ -1,0 +1,172 @@
+{
+  "id": "licensed-range-consolidation",
+  "title": "區間、推動與整理：保留歷史背景的完整節譯",
+  "subtitle": "逐段讀懂 Range-bound / Oscillating，不把整理翻成一定續行。",
+  "topic": "區間",
+  "minutes": 10,
+  "summary": "本篇完整翻譯 Range-bound / Oscillating。原文先舉 2009–2011 年 Reliance Industries 的歷史描述，再談快速推動與暫停；「看起來」「經常」「被視為」都保留原語氣。新增導讀把「眼前橫向整理」與「日後續行或反轉」分開，並說明原頁未實際附上的圖不可視為已驗證證據。",
+  "keyPoints": [
+    "歷史公司與期間依原文保留，不是今天行情。",
+    "impulse 在此譯為推動，不自動套用其他流派的完整模型。",
+    "often 沒有固定百分比，cannot continue indefinitely 沒有給反轉時間。",
+    "healthy 是作者的評價用語，不是低風險或可獲利認證。"
+  ],
+  "translation": [
+    {
+      "kind": "paragraph",
+      "en": "The chart below is a plot of the price movement of the Reliance Industries (India) which stayed very much in a range during March 2009 to February 2011. This stock remained in the range of 900 to 1200 during this period.",
+      "zh": "下方圖表描繪印度 Reliance Industries 的價格走勢；在 2009 年 3 月至 2011 年 2 月期間，價格大致維持在一個區間內。這檔股票在該期間保持於 900 至 1200 的區間。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "At certain junctures, prices seem to accelerate either up or down and go for long stretches without a pause. This is considered an impulse, and often lead to incredible gains or drops in price. These impulses cannot continue indefinitely, and at some point must pause or reverse direction. During these periods, it lacks clear direction and is considered in a consolidation sequence. Even though it seems that prices should continue forever, these pauses are in fact quite healthy.",
+      "zh": "在某些時刻，價格似乎會加速上漲或下跌，持續很長一段而沒有停頓。這被視為一段推動，經常帶來驚人的價格漲幅或跌幅。這些推動不可能無限持續，到了某個時點必須暫停或改變方向。在這些時期，價格缺乏明確方向，被視為處於一段整理過程。即使價格看起來好像會永遠延續，這些暫停其實相當健康。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "They serve a vital role in forecasting price targets once the trend continues or reverses.",
+      "zh": "一旦趨勢延續或反轉，這些暫停對預測價格目標具有重要作用。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "- chart delineating impulse vs. consolidation -",
+      "zh": "— 區分推動與整理的圖表 —"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "一、先把歷史描述與現在分開",
+      "paragraphs": [
+        "原文提到印度股票、過去期間及價格區間。這段只照譯作者描述，不將其寫成已重建的行情；價格是否經過拆股等調整，也不是本小節提供的資訊。本站合成圖使用另一組數字，沒有偽裝成該公司歷史圖。"
+      ]
+    },
+    {
+      "heading": "二、暫停不等於方向已決定",
+      "paragraphs": [
+        "本站另設例子：100、110、103、109、104、111。這段價格在先前上推後交錯，僅提供整理的觀察材料。其後既可能往上延伸，也可能跌破；完整六點折線不含 OHLC 或成交量，不能用來宣稱出現 FVG 或已完成價量確認。"
+      ]
+    },
+    {
+      "heading": "三、沒有方向時，保留兩條後續路徑",
+      "paragraphs": [
+        "讀完原文後，可以在筆記分別留下「向原方向續行」及「向相反方向離開」兩個候選。等新資料到達再更新，不因作者說暫停健康就預先指定會漲；也不因推動不能永續，就在沒有時間條件時推定立刻反轉。"
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "en": "Range-bound",
+      "zh": "受限於區間",
+      "note": "描述價格缺乏明確單一方向。"
+    },
+    {
+      "en": "Impulse",
+      "zh": "推動",
+      "note": "本小節描述一段快速、有方向的價格移動，不是完整波浪或 ICT 模型定義。"
+    },
+    {
+      "en": "Consolidation",
+      "zh": "整理",
+      "note": "原文仍容許後續延續或反轉。"
+    },
+    {
+      "en": "Often",
+      "zh": "經常",
+      "note": "這份原文未指定數值機率。"
+    }
+  ],
+  "category": "授權節譯",
+  "language": "英文",
+  "level": "基礎",
+  "batch": 5,
+  "mode": "licensed-section",
+  "revision": "2026-10-28",
+  "sourceSummary": "已讀 Wikibooks Technical Analysis／Patterns 的公開文字，頁尾固定版本 4351762。原文屬社群教材概念敘述，未提供微台／BTC 回測。",
+  "exercise": {
+    "title": "先對照原文，再記錄自己的解讀",
+    "steps": [
+      "開啟「授權節譯對照」，逐段核對英文與繁中。",
+      "圈出推測語氣、商品與期間，避免在翻譯中擴大。",
+      "把原文內容、編輯校對註與自己的研究條件分三欄記錄。"
+    ],
+    "review": [
+      "完整翻譯的範圍是否明確？",
+      "是否把描述翻成保證，或補上原文沒有的勝率？",
+      "是否區分原頁占位文字與本站新增圖？"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Technical Analysis／Patterns — 區間、推動與整理：保留歷史背景的完整節譯",
+      "url": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&oldid=4351762",
+      "author": "Wikibooks contributors",
+      "language": "英文",
+      "checked": "2026-10-28",
+      "access": "已讀公開正文，頁尾固定版本為 4351762；固定版本入口保留供核對。",
+      "scope": "完整 Range-bound / Oscillating 子小節的三段正文與一行製圖占位文字；不含前面的 Up-Trend 或後面的 Patterns。",
+      "license": "CC BY-SA 4.0；本批僅使用文字，未重用來源媒體。"
+    },
+    {
+      "title": "Wikibooks:Copyrights — 重用文字的條件",
+      "url": "https://en.wikibooks.org/w/index.php?title=Wikibooks:Copyrights&oldid=4622060",
+      "author": "Wikibooks contributors",
+      "language": "英文",
+      "checked": "2026-10-28",
+      "access": "已核對公開政策的署名、改作及相同授權條件。",
+      "scope": "僅用於核對文字授權，不視為所有圖片的授權。",
+      "license": "政策說明；相關教材文字採 CC BY-SA 4.0。"
+    }
+  ],
+  "courseRefs": [],
+  "translationStatus": "已授權完整節譯；僅限本頁明列範圍。",
+  "provenance": "依原頁公開文字逐段翻譯，保留段落及清單順序。原文拼字、語氣及資料限制另列校對註；導讀、合成圖、練習與測驗為本站新增。這是 Wikibooks 社群教材，不是 Brooks 官方課程或已驗證交易系統。",
+  "translationTitle": "區間、推動與整理：保留歷史背景的完整節譯",
+  "translationScope": "完整 Range-bound / Oscillating 子小節的三段正文與一行製圖占位文字；不含前面的 Up-Trend 或後面的 Patterns。",
+  "translationNotes": [
+    "原文說「下方圖表」，但本次讀取的小節未顯示可核對該歷史走勢的圖；原文價格與期間照譯，本批沒有另外核驗歷史價格或調整方式。",
+    "第二段 During these periods 的指涉依上下文理解為推動暫停、缺乏方向的時期，不代表快速推動本身沒有方向。",
+    "healthy 譯為「健康」以保留作者評價；這不是統計結論，不能替代成本、失效與風險計算。",
+    "原文同時保留 continues or reverses；中文不可省略反轉可能。末行製圖占位也一併保留。"
+  ],
+  "license": {
+    "id": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "原文：Wikibooks contributors，Technical Analysis／Patterns，固定版本 4351762。繁體中文翻譯、導讀、合成圖與練習：Price Action Atlas，AI 協助，2026-10-28。本篇譯文及新增內容依 CC BY-SA 4.0 提供。",
+    "scope": "完整 Range-bound / Oscillating 子小節的三段正文與一行製圖占位文字；不含前面的 Up-Trend 或後面的 Patterns。 本篇新增說明、練習與圖解亦依相同授權。",
+    "changes": "新增繁體中文翻譯、校對說明、合成圖與練習；保留英文對照，未使用來源圖片。",
+    "sourceRevision": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&oldid=4351762",
+    "history": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&action=history"
+  },
+  "caseQuiz": [
+    {
+      "question": "原文的 900–1200 指什麼？",
+      "choices": [
+        "今天 BTC 的價位",
+        "原文描述的印度股票歷史區間",
+        "微台建議停損"
+      ],
+      "answerIndex": 1,
+      "explanation": "公司、期間與數字按歷史原文保留，不是目前行情。"
+    },
+    {
+      "question": "整理後原文保留哪種可能？",
+      "choices": [
+        "只可能續漲",
+        "只可能反轉",
+        "延續或反轉"
+      ],
+      "answerIndex": 2,
+      "explanation": "continues or reverses 必須兩者都翻入。"
+    },
+    {
+      "question": "healthy 是否能證明低風險？",
+      "choices": [
+        "不能，它是作者評價",
+        "能，等於固定六成勝率",
+        "能，表示不用停損"
+      ],
+      "answerIndex": 0,
+      "explanation": "此詞未附研究條件，不是風險或期望值證據。"
+    }
+  ]
+}

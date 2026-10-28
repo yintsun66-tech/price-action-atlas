@@ -61,7 +61,7 @@
     q("#reading-result").textContent="顯示 "+shown.length+" / "+rows.length+" 個單元 · "+guides+" 篇原創導讀＋"+licensed+" 篇授權節譯";
     q("#reading-grid").innerHTML=shown.length ? shown.map(a=>{
       const r=record(a.id);
-      return '<article class="reading-card card"><div class="reading-card-top"><span class="pill '+(a.mode==="licensed-section"?"green":"blue")+'">'+esc(a.category)+'</span><span>'+esc(a.minutes)+' 分鐘</span>'+((a.batch||1)>=2?'<span class="batch-label">'+(a.batch===4?'第四批新增':a.batch===3?'第三批新增':'第二批新增')+'</span>':'')+'</div><h3><a href="#read/'+a.id+'">'+esc(a.title)+'</a></h3><p>'+esc(a.summary)+'</p><div class="reading-card-meta"><span>'+esc(a.mode==="licensed-section"?"CC BY-SA 小節譯文":"本網站原創導讀")+'</span><span>'+esc(a.level)+'</span><span>'+esc(a.topic||'基礎')+'</span><span>'+esc(a.figureCount||0)+' 張整理圖</span></div><div class="reading-card-bottom"><a href="#read/'+a.id+'" class="text-btn">開啟閱讀 →</a><span aria-label="閱讀狀態">'+(r.read?"已讀 ✓":"尚未標記已讀")+(r.bookmarked?" · 已收藏":"")+'</span></div></article>';
+      return '<article class="reading-card card"><div class="reading-card-top"><span class="pill '+(a.mode==="licensed-section"?"green":"blue")+'">'+esc(a.category)+'</span><span>'+esc(a.minutes)+' 分鐘</span>'+((a.batch||1)>=2?'<span class="batch-label">'+(a.batch===5?'第五批節譯':a.batch===4?'第四批新增':a.batch===3?'第三批新增':'第二批新增')+'</span>':'')+'</div><h3><a href="#read/'+a.id+'">'+esc(a.title)+'</a></h3><p>'+esc(a.summary)+'</p><div class="reading-card-meta"><span>'+esc(a.mode==="licensed-section"?"CC BY-SA 小節譯文":"本網站原創導讀")+'</span><span>'+esc(a.level)+'</span><span>'+esc(a.topic||'基礎')+'</span><span>'+esc(a.figureCount||0)+' 張整理圖</span></div><div class="reading-card-bottom"><a href="#read/'+a.id+'" class="text-btn">開啟閱讀 →</a><span aria-label="閱讀狀態">'+(r.read?"已讀 ✓":"尚未標記已讀")+(r.bookmarked?" · 已收藏":"")+'</span></div></article>';
     }).join("") : '<div class="empty-state">沒有符合的單元。請縮短關鍵字或改用「全部閱讀來源」。</div>';
     q("#reading-more").hidden=shown.length>=rows.length;
     storageStatus();
@@ -91,7 +91,9 @@
     if (!a.translation || !a.license) return "<p>本篇沒有已授權的完整譯文。</p>";
     return '<h2 id="reader-translation">'+esc(a.translationTitle||'Price Forecasting／價格預測')+'</h2><div class="reader-license"><strong>'+esc(a.translationScope||'明確範圍：原章的「Price Forecasting」小節完整節譯，含表格。不是全章或整本書全文。')+'</strong><p>'+esc(a.license.attribution)+' '+link(a.license.url,a.license.id)+'</p></div>'+a.translation.map(t=>{
       if(t.kind==="table") return '<div class="reader-table-wrap"><table class="reader-translation-table"><thead><tr>'+t.headers.en.map((v,i)=>'<th>'+esc(v)+'<br>'+esc(t.headers.zh[i])+'</th>').join("")+'</tr></thead><tbody>'+t.rows.map(row=>'<tr>'+row.en.map((v,i)=>'<td><span lang="en">'+esc(v)+'</span><br>'+esc(row.zh[i])+'</td>').join("")+'</tr>').join("")+'</tbody></table></div>';
-      return '<div class="reader-parallel"><div lang="en"><span class="reader-label">英文原文</span><p>'+esc(t.en)+'</p></div><div lang="zh-Hant"><span class="reader-label">繁體中文譯文</span><p>'+esc(t.zh)+'</p></div></div>';
+      if(t.kind==='heading')return '<h3 class="reader-translation-heading"><span lang="en">'+esc(t.en)+'</span>／'+esc(t.zh)+'</h3>';
+      const content=(v)=>t.kind==='list'?'<'+(t.ordered?'ol':'ul')+'>'+v.map(x=>'<li>'+esc(x)+'</li>').join('')+'</'+(t.ordered?'ol':'ul')+'>':'<p>'+esc(v)+'</p>';
+      return '<div class="reader-parallel"><div lang="en"><span class="reader-label">英文原文</span>'+content(t.en)+'</div><div lang="zh-Hant"><span class="reader-label">繁體中文譯文</span>'+content(t.zh)+'</div></div>';
     }).join("")+'<h3>編輯校對註</h3>'+paragraphs(a.translationNotes||['原文使用 MAC、Stoc 與 Elliot 的拼法；英文照錄，中文不擅自補成其他指標。這是社群教材的分類例子，並非唯一分類，也沒有證明表內方法能提供正報酬。此註解是本網站新增內容。']);
   }
   function renderTab(name) {
@@ -101,6 +103,7 @@
     qa("[data-reader-tab]").forEach(b=>{const selected=b.dataset.readerTab===name;b.setAttribute("aria-selected",String(selected));b.tabIndex=selected?0:-1;});
     if(name==="guide"){
       body.innerHTML='<div class="reader-label">'+(a.mode==="licensed-section"?"節譯導覽與編輯說明":"本網站原創導讀 · 非原作者逐字稿")+'</div><h2 id="reader-summary">本篇學習摘要</h2><p class="reader-lead">'+esc(a.summary)+'</p><section class="reader-keypoints"><h3>先記住這幾點</h3>'+list(a.keyPoints)+'</section><div class="reader-source-summary"><strong>來源短摘要／查核範圍</strong><p>'+esc(a.sourceSummary)+'</p></div>'+a.sections.map((s,i)=>'<section id="reader-section-'+i+'"><h2 id="reader-heading-'+i+'">'+esc(s.heading)+'</h2>'+paragraphs(s.paragraphs)+(globalThis.AtlasFigures?.render(a,i)||'')+'</section>').join("")+'<p class="reader-study-note"><strong>閱讀後：</strong>切換到「整理圖」放大圖像，或用「圖例與測驗」練習；「來源與授權」保留實際取得範圍。</p>';
+      if(a.translation&&a.license)body.innerHTML='<div class="reader-license"><strong>本篇提供英文與繁體中文完整節譯對照。</strong><p>先讀導讀，或直接逐段核對原文、清單與中文；校對註另列。</p><button type="button" class="btn primary" data-open-translation>閱讀英文／繁中對照 →</button></div>'+body.innerHTML;
       if(globalThis.AtlasProbabilities){
         body.innerHTML=body.innerHTML.replace('<div class="reader-source-summary">',globalThis.AtlasProbabilities.banner(a)+'<div class="reader-source-summary">');
         // Insert only at the explicit passage index. Never infer a number from a keyword.
@@ -121,6 +124,7 @@
     q("#reader-toc").querySelectorAll("[data-toc]").forEach(el=>el.addEventListener("click",e=>{e.preventDefault();document.getElementById(el.dataset.toc)?.scrollIntoView({behavior:"smooth",block:"start"});}));
     body.querySelectorAll("[data-reader-plan]").forEach(el=>el.addEventListener("click",()=>{dialog.close();}));
     body.querySelectorAll("[data-reader-probability]").forEach(el=>el.addEventListener("click",()=>{renderTab("probabilities");document.getElementById("reader-prob-"+el.dataset.readerProbability)?.scrollIntoView({behavior:"smooth",block:"start"});}));
+    body.querySelectorAll("[data-open-translation]").forEach(el=>el.addEventListener("click",()=>{renderTab("translation");document.getElementById("reader-translation")?.scrollIntoView({block:"start"});}));
     body.setAttribute("aria-labelledby","reader-tab-"+name);
   }
   async function openArticle(id) {

@@ -91,6 +91,11 @@ process('school4-comparison','四種方法，先辨認各自看什麼',[['Brooks
 line('school-same-chart','同一段合成行情，資料能力不變',[110,106,102,105,101,106,99,104,108,112,109,115],[{price:100,label:'已標觀察區下側100'},{price:106,label:'已標觀察區上側106'}],['可見：下探99後返回104；後面115是之後才知道。','缺少完整OHLC、可靠量與逐筆／深度；不補FVG或Delta。'],0);
 process('school-market-fit','依資料能力增加研究，不跳階段',[['OHLC價格','先研究已知邊界與收線'],['可靠OHLCV','再比較價量及同時段基準'],['分類成交','再研究價位Delta與CVD'],['同步深度','最後檢查可見委託與執行']],3,'順序依本專案資料條件安排，不是盈利能力或流派高低排名。');
 
+if(byId.has('licensed-trends'))line('licensed-trends','已完成轉折：峰值與谷值逐步提高',[100,106,103,110,107,114],[],['本站另設價格；峰值106、110、114，谷值100、103、107。','這是完成後的示意，不提供轉折即時確認方式。'],1);
+if(byId.has('licensed-range-consolidation'))line('licensed-range-consolidation','推動之後交錯，後續方向仍待確認',[100,110,103,109,104,111],[],['本站另設資料，不是 Reliance Industries 的歷史行情。','折線不含 OHLC、成交量或後續突破結果。'],1);
+if(byId.has('licensed-continuation-reversal'))add('licensed-continuation-reversal','two-futures','相同已知起點，後續不只有一條路',G.paired('相同已知起點，後續不只有一條路','本站自編例；前五點完全相同，後兩點是不同假設',
+ {title:'甲：後續向上',values:[100,108,104,109,105,112,115],min:96,max:118},
+ {title:'乙：後續向下',values:[100,108,104,109,105,101,98],min:96,max:118},['共同起點尚未提供完整型態定義；不是官方入場案例。','兩條路徑不是各有50%機率，圖中沒有估計機率。']),1);
 for(const a of articles)assert.ok(records.some(r=>r.article===a.id),'Missing tailored figure: '+a.id);
 assert.equal(new Set(records.map(r=>r.id)).size,records.length);
 const index={version:1,checked:'2026-10-28',original:true,figures:records};

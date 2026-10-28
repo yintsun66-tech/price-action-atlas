@@ -1,0 +1,220 @@
+{
+  "id": "licensed-continuation-reversal",
+  "title": "延續與反轉型態：逐句翻譯 suggest 的原意",
+  "subtitle": "兩個完整短小節與原有清單；名稱不是已確認的方向。",
+  "topic": "基礎",
+  "minutes": 10,
+  "summary": "完整翻譯開放教材列出的延續及反轉型態，保留兩份清單與原文拼字。最關鍵的字是 suggest：圖形提示某種可能，不能改成確認一定發生。新增導讀與圖解以相同已知起點、不同後續路徑示範這個差別，不替任何名稱指定勝率。",
+  "keyPoints": [
+    "兩個短小節都完整翻入，並保留清單順序。",
+    "suggest 譯為暗示，不強化成保證或已證實。",
+    "原文 Trenline 疑為 Trendline，英文照錄、中文校對註說明。",
+    "雙頂、頭肩等名稱不是當下即可知道的完整交易規則。"
+  ],
+  "translation": [
+    {
+      "kind": "heading",
+      "en": "Continuation pattern.",
+      "zh": "延續型態。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "There are continuation patterns which suggest that the stock will continue to do what it was doing earlier ie if it was moving up it would continue to move up. Various continuation patterns are",
+      "zh": "有些延續型態暗示股票會繼續先前的走勢；也就是說，如果原本正在上漲，就會繼續上漲。各種延續型態包括："
+    },
+    {
+      "kind": "list",
+      "en": [
+        "Flag / pennant",
+        "Triangle",
+        "Channel",
+        "Trenline"
+      ],
+      "zh": [
+        "旗形／三角旗形",
+        "三角形",
+        "通道",
+        "趨勢線"
+      ],
+      "ordered": true
+    },
+    {
+      "kind": "heading",
+      "en": "Reversal patterns",
+      "zh": "反轉型態"
+    },
+    {
+      "kind": "paragraph",
+      "en": "There are reversal patterns which suggest that the stock will now do the reverse of what it was doing earlier. If the stock price was moving moving up it would now move down.",
+      "zh": "有些反轉型態暗示股票現在會走出與先前相反的走勢。如果股價原本正在上漲，現在就會轉而下跌。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "When stock is in up trend:",
+      "zh": "當股票處於上升趨勢時："
+    },
+    {
+      "kind": "list",
+      "en": [
+        "Double / Multiple top",
+        "Head and shoulder"
+      ],
+      "zh": [
+        "雙重頂／多重頂",
+        "頭肩形態"
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "en": "When stock is in down trend:",
+      "zh": "當股票處於下降趨勢時："
+    },
+    {
+      "kind": "list",
+      "en": [
+        "Double /Multiple bottom",
+        "Inverted head and shoulder"
+      ],
+      "zh": [
+        "雙重底／多重底",
+        "倒頭肩形態"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "heading": "一、分類清單與訊號分開讀",
+      "paragraphs": [
+        "旗形、通道、雙頂與頭肩是原文列出的名稱。它沒有在這兩小節中給出完整幾何條件、觀察尺度或完成時間，因此不能直接把清單當成可重現的策略。不同教材可能把同一形態放在不同情境使用，需回到各自定義。"
+      ]
+    },
+    {
+      "heading": "二、相同起點仍可以有不同結果",
+      "paragraphs": [
+        "本站另設共同已知起點：100、108、104、109、105。其後甲走到 112、115，乙走到 101、98。前五點相同，右側結果不同；完整圖只示範未來的不確定性，沒有宣稱前五點已構成特定官方型態，也沒有估計兩條路徑的機率。"
+      ]
+    },
+    {
+      "heading": "三、中文翻譯不要偷偷加上確認",
+      "paragraphs": [
+        "「暗示會延續」與「確認一定延續」的意思不同。先保留原文 suggest 的限制，再另寫自己的觀察、觸發與失效條件。若建立形態研究，還需保存失敗與未決案例，才能回答新資料中條件是否有用；這部分是本站建議，不屬於原文清單。"
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "en": "Suggest",
+      "zh": "暗示",
+      "note": "保留方向提示，不等於確定、統計確認或固定勝率。"
+    },
+    {
+      "en": "Continuation pattern",
+      "zh": "延續型態",
+      "note": "指向原有走勢延續的型態分類。"
+    },
+    {
+      "en": "Reversal pattern",
+      "zh": "反轉型態",
+      "note": "指向先前走勢改變的型態分類。"
+    },
+    {
+      "en": "Pennant",
+      "zh": "三角旗形",
+      "note": "保留與 Flag／旗形的名稱差別；原文未在此給量化幾何。"
+    }
+  ],
+  "category": "授權節譯",
+  "language": "英文",
+  "level": "基礎",
+  "batch": 5,
+  "mode": "licensed-section",
+  "revision": "2026-10-28",
+  "sourceSummary": "已讀 Wikibooks Technical Analysis／Patterns 的公開文字，頁尾固定版本 4351762。原文屬社群教材概念敘述，未提供微台／BTC 回測。",
+  "exercise": {
+    "title": "先對照原文，再記錄自己的解讀",
+    "steps": [
+      "開啟「授權節譯對照」，逐段核對英文與繁中。",
+      "圈出推測語氣、商品與期間，避免在翻譯中擴大。",
+      "把原文內容、編輯校對註與自己的研究條件分三欄記錄。"
+    ],
+    "review": [
+      "完整翻譯的範圍是否明確？",
+      "是否把描述翻成保證，或補上原文沒有的勝率？",
+      "是否區分原頁占位文字與本站新增圖？"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Technical Analysis／Patterns — 延續與反轉型態：逐句翻譯 suggest 的原意",
+      "url": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&oldid=4351762",
+      "author": "Wikibooks contributors",
+      "language": "英文",
+      "checked": "2026-10-28",
+      "access": "已讀公開正文，頁尾固定版本為 4351762；固定版本入口保留供核對。",
+      "scope": "Continuation pattern. 與 Reversal patterns 兩個完整子小節，包括正文、清單與兩個上／下趨勢分組標籤；不含 Patterns 父節正文或 Candlestick Pattern。",
+      "license": "CC BY-SA 4.0；本批僅使用文字，未重用來源媒體。"
+    },
+    {
+      "title": "Wikibooks:Copyrights — 重用文字的條件",
+      "url": "https://en.wikibooks.org/w/index.php?title=Wikibooks:Copyrights&oldid=4622060",
+      "author": "Wikibooks contributors",
+      "language": "英文",
+      "checked": "2026-10-28",
+      "access": "已核對公開政策的署名、改作及相同授權條件。",
+      "scope": "僅用於核對文字授權，不視為所有圖片的授權。",
+      "license": "政策說明；相關教材文字採 CC BY-SA 4.0。"
+    }
+  ],
+  "courseRefs": [],
+  "translationStatus": "已授權完整節譯；僅限本頁明列範圍。",
+  "provenance": "依原頁公開文字逐段翻譯，保留段落及清單順序。原文拼字、語氣及資料限制另列校對註；導讀、合成圖、練習與測驗為本站新增。這是 Wikibooks 社群教材，不是 Brooks 官方課程或已驗證交易系統。",
+  "translationTitle": "延續與反轉型態：逐句翻譯 suggest 的原意",
+  "translationScope": "Continuation pattern. 與 Reversal patterns 兩個完整子小節，包括正文、清單與兩個上／下趨勢分組標籤；不含 Patterns 父節正文或 Candlestick Pattern。",
+  "translationNotes": [
+    "原文 suggest 控制後面的 would／will 敘述，整段屬型態所暗示的方向，並非作者提供的必然價格預測。",
+    "原文 Trenline 疑為 Trendline 的拼字錯誤。英文保留 Trenline，中文按可能原意譯「趨勢線」，此為編輯判讀。",
+    "原文 moving moving 重複，中文合併為「正在」。Head and shoulder 依原文字面譯「頭肩形態」；上升趨勢分組暗示常見頭肩頂用法，但不額外假稱原文明寫 top。",
+    "原文沒有指定如何確認峰谷、何時成立、進出場或成本，也沒有本專案可使用的量化績效。"
+  ],
+  "license": {
+    "id": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "原文：Wikibooks contributors，Technical Analysis／Patterns，固定版本 4351762。繁體中文翻譯、導讀、合成圖與練習：Price Action Atlas，AI 協助，2026-10-28。本篇譯文及新增內容依 CC BY-SA 4.0 提供。",
+    "scope": "Continuation pattern. 與 Reversal patterns 兩個完整子小節，包括正文、清單與兩個上／下趨勢分組標籤；不含 Patterns 父節正文或 Candlestick Pattern。 本篇新增說明、練習與圖解亦依相同授權。",
+    "changes": "新增繁體中文翻譯、校對說明、合成圖與練習；保留英文對照，未使用來源圖片。",
+    "sourceRevision": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&oldid=4351762",
+    "history": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&action=history"
+  },
+  "caseQuiz": [
+    {
+      "question": "suggest 應如何處理？",
+      "choices": [
+        "改成確認一定發生",
+        "保留為暗示",
+        "自行加入七成"
+      ],
+      "answerIndex": 1,
+      "explanation": "原文的提示語氣不能在翻譯中刪掉。"
+    },
+    {
+      "question": "兩條路徑的前五點相同，能判斷哪條必然發生嗎？",
+      "choices": [
+        "不能",
+        "必然是向上",
+        "必然是向下"
+      ],
+      "answerIndex": 0,
+      "explanation": "圖片提供不同後續可能，沒有提供概率或確定方向。"
+    },
+    {
+      "question": "Trenline 在本頁如何呈現？",
+      "choices": [
+        "偷偷改掉英文不說明",
+        "翻成另一個指標",
+        "英文照錄，中文譯趨勢線並註明判讀"
+      ],
+      "answerIndex": 2,
+      "explanation": "保留可核對原貌，並把編輯判斷明確標出。"
+    }
+  ]
+}

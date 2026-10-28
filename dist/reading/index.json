@@ -3,6 +3,100 @@
   "revision": "2026-10-28",
   "articles": [
     {
+      "id": "licensed-trends",
+      "category": "授權節譯",
+      "title": "趨勢的三種方向：英文原文與繁中逐段對照",
+      "subtitle": "完整翻譯 Trends 的直接正文，保留股票背景及原文假設。",
+      "summary": "本篇逐段翻譯開放教材如何描述上升、下降與區間趨勢。英文先談股票長期走勢的企業背景，再談較短期的預期變化，最後描述高低點；這三個層次不能直接混成微台或 BTC 十分鐘的進場規則。原文及繁中對照可直接閱讀，中文導讀與新增合成圖另行標示。",
+      "level": "基礎",
+      "minutes": 12,
+      "mode": "licensed-section",
+      "batch": 5,
+      "topic": "趨勢",
+      "tags": [
+        "Equity instruments",
+        "股票類工具",
+        "Shallow pullback",
+        "淺幅回檔",
+        "Tend / May",
+        "傾向／可能",
+        "本次完整範圍是 Trends 的直接正文，不是整個 Trends 章節。",
+        "原文的 tend、may 與 assumes 類語氣保留，不改成必然。",
+        "equity instruments 在此指股票類工具，不能直接替期貨或永續合約背書。",
+        "新高、新低及回檔仍須事前定義，原文沒有給固定勝率。",
+        "英文對照",
+        "完整節譯",
+        "整理圖"
+      ],
+      "hasCases": true,
+      "hasChart": false,
+      "figureCount": 1
+    },
+    {
+      "id": "licensed-range-consolidation",
+      "category": "授權節譯",
+      "title": "區間、推動與整理：保留歷史背景的完整節譯",
+      "subtitle": "逐段讀懂 Range-bound / Oscillating，不把整理翻成一定續行。",
+      "summary": "本篇完整翻譯 Range-bound / Oscillating。原文先舉 2009–2011 年 Reliance Industries 的歷史描述，再談快速推動與暫停；「看起來」「經常」「被視為」都保留原語氣。新增導讀把「眼前橫向整理」與「日後續行或反轉」分開，並說明原頁未實際附上的圖不可視為已驗證證據。",
+      "level": "基礎",
+      "minutes": 10,
+      "mode": "licensed-section",
+      "batch": 5,
+      "topic": "區間",
+      "tags": [
+        "Range-bound",
+        "受限於區間",
+        "Impulse",
+        "推動",
+        "Consolidation",
+        "整理",
+        "Often",
+        "經常",
+        "歷史公司與期間依原文保留，不是今天行情。",
+        "impulse 在此譯為推動，不自動套用其他流派的完整模型。",
+        "often 沒有固定百分比，cannot continue indefinitely 沒有給反轉時間。",
+        "healthy 是作者的評價用語，不是低風險或可獲利認證。",
+        "英文對照",
+        "完整節譯",
+        "整理圖"
+      ],
+      "hasCases": true,
+      "hasChart": false,
+      "figureCount": 1
+    },
+    {
+      "id": "licensed-continuation-reversal",
+      "category": "授權節譯",
+      "title": "延續與反轉型態：逐句翻譯 suggest 的原意",
+      "subtitle": "兩個完整短小節與原有清單；名稱不是已確認的方向。",
+      "summary": "完整翻譯開放教材列出的延續及反轉型態，保留兩份清單與原文拼字。最關鍵的字是 suggest：圖形提示某種可能，不能改成確認一定發生。新增導讀與圖解以相同已知起點、不同後續路徑示範這個差別，不替任何名稱指定勝率。",
+      "level": "基礎",
+      "minutes": 10,
+      "mode": "licensed-section",
+      "batch": 5,
+      "topic": "基礎",
+      "tags": [
+        "Suggest",
+        "暗示",
+        "Continuation pattern",
+        "延續型態",
+        "Reversal pattern",
+        "反轉型態",
+        "Pennant",
+        "三角旗形",
+        "兩個短小節都完整翻入，並保留清單順序。",
+        "suggest 譯為暗示，不強化成保證或已證實。",
+        "原文 Trenline 疑為 Trendline，英文照錄、中文校對註說明。",
+        "雙頂、頭肩等名稱不是當下即可知道的完整交易規則。",
+        "英文對照",
+        "完整節譯",
+        "整理圖"
+      ],
+      "hasCases": true,
+      "hasChart": false,
+      "figureCount": 1
+    },
+    {
       "id": "school4-comparison",
       "category": "流派比較",
       "title": "四種讀圖方式：先比較問題，再比較答案",
@@ -1226,6 +1320,15 @@
     }
   ],
   "paths": [
+    {
+      "title": "英文精讀：趨勢、整理與型態",
+      "description": "三篇授權節譯：原文逐段對照繁體中文，附語氣、歷史範圍及拼字校對註。",
+      "ids": [
+        "licensed-trends",
+        "licensed-range-consolidation",
+        "licensed-continuation-reversal"
+      ]
+    },
     {
       "title": "四種交易語言，先用同一份證據比較",
       "description": "先讀比較範圍與同圖示例，再依資料能力選研究問題。",
