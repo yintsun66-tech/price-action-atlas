@@ -1,0 +1,5 @@
+const http=require('node:http'),fs=require('node:fs'),path=require('node:path');
+const base=path.resolve(__dirname,'../dist'),types={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.css':'text/css; charset=utf-8','.svg':'image/svg+xml'};
+const server=http.createServer((req,res)=>{try{const name=decodeURIComponent(new URL(req.url,'http://127.0.0.1').pathname),file=path.resolve(base,'.'+(name==='/'?'/index.html':name));if(!file.startsWith(base+path.sep)){res.writeHead(403);return res.end();}const s=fs.statSync(file);if(!s.isFile())throw Error('not file');res.writeHead(200,{'Content-Type':types[path.extname(file)]||'application/octet-stream','Cache-Control':'no-store'});fs.createReadStream(file).pipe(res);}catch{res.writeHead(404);res.end('Not found');}});
+server.listen(0,'127.0.0.1',async()=>{const url='http://127.0.0.1:'+server.address().port+'/';const check=await fetch(url);if(!check.ok)throw Error('preview readiness failed');console.log(JSON.stringify({url,status:check.status,root:base}));});
+process.on('SIGINT',()=>server.close(()=>process.exit(0)));

@@ -1,0 +1,175 @@
+{
+  "id": "school-same-chart",
+  "title": "同一段行情，四種解讀：把共同事實留在最前面",
+  "subtitle": "用合成路徑比較，沒有替同一張圖編造四種勝率",
+  "summary": "用一條自編路徑，分別問價格行為、威科夫、ICT 與訂單流可以看到什麼。圖的資料能力保持不變；換流派不會使缺少的成交量與委託簿自動出現。",
+  "category": "流派比較",
+  "batch": 4,
+  "topic": "研究",
+  "mode": "guide",
+  "language": "英文",
+  "level": "進階",
+  "minutes": 13,
+  "sourceSummary": "公開資料可核對各框架的教學主題與資料定義；以下橫向比較、案例與研究步驟由本站另行整合，沒有建立績效排名。",
+  "keyPoints": [
+    "同一張圖換術語，不能增加原本不存在的資料。",
+    "折線不能證明三棒 FVG，也不能還原訂單流。",
+    "完整教學圖已含後來結果，盲測需逐步揭露。"
+  ],
+  "sections": [
+    {
+      "heading": "一、先列共同可見的價格",
+      "paragraphs": [
+        "本站合成路徑依序為 110、106、102、105、101、106、99、104、108、112、109、115。先把 100 至 106 當成練習前已標記的觀察區域；圖只畫指定價位順序，不含完整 OHLC、成交量或實際時間。99 之後返回 104 是可見事實，後面走到 115 則屬之後才知道的結果。這不是任何真實交易日。"
+      ]
+    },
+    {
+      "heading": "二、PA：先看越界後能否留在外側",
+      "paragraphs": [
+        "以價格行為語言，可以觀察下探區域後收復、再向上離開與回測。若研究收線確認，圖中的點必須另外定義為已收線價；若只是盤中觸價，就不能混用。需要進場時，再指定下一個可用成交、停損與目標。整張圖已畫完不代表第七個觀察點就能知道最後的路徑。"
+      ]
+    },
+    {
+      "heading": "三、威科夫與 ICT：提出候選，不補缺少的證據",
+      "paragraphs": [
+        "威科夫可以詢問區域是否呈現候選 spring 及後續力量，但本圖缺量，不能完成價量確認。ICT 可以記錄穿越既有低點與反向推進；本圖沒有完整三棒影線，不能只靠折線宣告 FVG。這些是本站整合的比較問題，並非威科夫或 ICT 原課替此例做過標記。"
+      ]
+    },
+    {
+      "heading": "四、訂單流：明確說目前看不到",
+      "paragraphs": [
+        "本圖沒有價位成交、主動方向或深度，因此無法畫出真實 Delta、吸收或冰山單。可以先用價格標出值得觀察的位置，等合法資料到齊再加入另一層研究。教學中另外給的 Footprint 表是另一份合成資料，不可偷偷當作從本圖推算而來。若只看見下影線，合適說法仍是價格返回或拒絕。"
+      ]
+    },
+    {
+      "heading": "五、用同一時間截止比較",
+      "paragraphs": [
+        "每次揭露前先保存四欄假說；無可用資料的欄位寫缺項。兩個框架若在同一時點給不同看法，不用事後挑對的那個來代表組合績效。先凍結何時採納、何時略過與何時取消，再重播全部候選。這樣才能分辨比較提升的是文字敘述，還是能在當時取得的資訊。"
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "en": "Observation vs interpretation",
+      "zh": "觀察與解讀",
+      "note": "先記當時可見事實，再附各流派的條件式假說。"
+    },
+    {
+      "en": "Incremental evidence",
+      "zh": "新增資訊",
+      "note": "重複替同一價格事件命名，並不一定增加獨立證據。"
+    },
+    {
+      "en": "Data availability",
+      "zh": "資料可得性",
+      "note": "需要的欄位與時點未到齊，就保留未決，不合成不存在的資料。"
+    }
+  ],
+  "exercise": {
+    "title": "用同一份資料比較，不用流派名稱投票",
+    "steps": [
+      "固定商品、時段、切棒及同一批候選。",
+      "每個框架各填可見事實、額外資料需求及失效條件。",
+      "保存未決與失敗；不得看到結果才改名或移動邊界。",
+      "再比較增量資訊、成交與成本，缺資料者維持研究狀態。"
+    ],
+    "review": [
+      "是否把同一事件的四種名稱當成四份證據？",
+      "是否用未提供的成交量、逐筆或深度補故事？",
+      "是否把教學清晰或熱門程度當成獲利驗證？"
+    ]
+  },
+  "sources": [
+    {
+      "title": "What is price action? 6 aspects to consider",
+      "url": "https://www.brookstradingcourse.com/price-action/what-is-price-action-6-aspects/",
+      "author": "Al Brooks",
+      "access": "官方公開文章文字；課程會員頁僅核對標題，未觀看付費影片。",
+      "scope": "只作價格、背景與支撐阻力主題的短摘要；比較流程與數字為本站自編。",
+      "language": "英文",
+      "checked": "2026-10-28",
+      "license": "未取得全文翻譯或原圖重刊授權；本篇為短摘要及本站原創整理。"
+    },
+    {
+      "title": "The Wyckoff Method: A Tutorial",
+      "url": "https://chartschool.stockcharts.com/table-of-contents/market-analysis/wyckoff-analysis-articles/the-wyckoff-method-a-tutorial",
+      "author": "StockCharts ChartSchool",
+      "access": "已核對公開教學；不是直接取得威科夫原版完整課程。",
+      "scope": "僅核對價量與事件名稱的教學脈絡；本站比較沒有重刊原圖。",
+      "language": "英文",
+      "checked": "2026-10-28",
+      "license": "未取得全文翻譯或原圖重刊授權；本篇為短摘要及本站原創整理。"
+    },
+    {
+      "title": "2022 ICT Mentorship Episode 6",
+      "url": "https://www.youtube.com/watch?v=Bkt8B3kLATQ",
+      "author": "Michael J. Huddleston／The Inner Circle Trader",
+      "access": "僅核對官方影片名稱與公開描述，未取得官方逐字稿或宣稱完整觀看。",
+      "scope": "只作 FVG／Market Structure Shifts 主題學習入口；本站規則不是完整原課重建。",
+      "language": "英文",
+      "checked": "2026-10-28",
+      "license": "未取得全文翻譯或原圖重刊授權；本篇為短摘要及本站原創整理。"
+    },
+    {
+      "title": "Numbers Bars",
+      "url": "https://www.sierrachart.com/index.php?l=doc/NumbersBars.php",
+      "author": "Sierra Chart",
+      "access": "已核對公開官方文件的定義與計算說明；未使用即時行情服務。",
+      "scope": "僅核對價位成交分類的意義；不採產品宣傳作獲利證據。",
+      "language": "英文",
+      "checked": "2026-10-28",
+      "license": "未取得全文翻譯或原圖重刊授權；本篇為短摘要及本站原創整理。"
+    }
+  ],
+  "courseRefs": [
+    {
+      "version": "Main",
+      "unit": "12A",
+      "topic": "市場週期",
+      "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-12a-market-cycle/",
+      "relation": "相關主題補讀"
+    },
+    {
+      "version": "Main",
+      "unit": "15A",
+      "topic": "突破",
+      "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-15a-breakouts/",
+      "relation": "相關主題補讀"
+    }
+  ],
+  "translationStatus": "本站原創比較；非來源全文翻譯。",
+  "provenance": "不同作者與平台的定義分別歸屬來源。Brooks Main 12A／15A 僅為相關補讀，與 Forex 共用的基礎部分；其他流派沒有因此變成 Brooks 官方課程內容。",
+  "revision": "2026-10-28",
+  "caseQuiz": [
+    {
+      "question": "本例只有價位折線，能確認 FVG 嗎？",
+      "choices": [
+        "只要上漲很快就能",
+        "不能，還缺連續三棒高低與確認時點",
+        "能由最後漲幅反推"
+      ],
+      "answerIndex": 1,
+      "explanation": "最小幾何辨識也需要三棒影線極值。"
+    },
+    {
+      "question": "威科夫欄位缺少可靠量能時，應如何處理？",
+      "choices": [
+        "保留價格事件，價量確認列缺項",
+        "將所有紅棒量當買量",
+        "用別的契約量自動補齊"
+      ],
+      "answerIndex": 0,
+      "explanation": "資料不齊時縮小可宣稱範圍。"
+    },
+    {
+      "question": "99 之後漲到 115，可以把最初候選改為當時確定嗎？",
+      "choices": [
+        "可以，結局已證明",
+        "有四個流派就可以",
+        "不能，保留當時版本與後續更新"
+      ],
+      "answerIndex": 2,
+      "explanation": "事後結果不能回填成當時可知的資訊。"
+    }
+  ]
+}

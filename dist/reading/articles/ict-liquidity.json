@@ -1,0 +1,176 @@
+{
+  "id": "ict-liquidity",
+  "category": "ICT",
+  "batch": 4,
+  "topic": "執行",
+  "title": "ICT 流動性敘事與訂單流資料：哪些看得見，哪些只是推論",
+  "subtitle": "分清 OB、可見委託與機構倉位，正確轉換紐約時段",
+  "language": "英文",
+  "level": "進階",
+  "minutes": 13,
+  "summary": "把圖表上的流動性語言與實際成交、委託簿分開，再檢查紐約夏冬令時間與微台日盤、BTC 全天市場的差異。熱門度作為學習線索，不當作獲利驗證。",
+  "sourceSummary": "ICT 官方網站可核對作者及頻道入口，Month 04 有 Orderblocks 公開影片。CME 說明逐單資料仍為匿名；NIST 說明美東夏冬令時間。本站用這些第一手資料劃定可觀察與推論的界線，不替任何流派背書績效。",
+  "keyPoints": [
+    "圖表高低點附近的流動性假說，不等於取得該價位全部停損與掛單。",
+    "Order Block 圖形不能證明機構身份、真實持倉或尚未平倉數量。",
+    "台北比紐約夏令時間快 12 小時，比冬令時間快 13 小時。",
+    "美股開盤不在微台日盤；把時段模型移植到另一市場必須另立假說。"
+  ],
+  "sections": [
+    {
+      "heading": "一、把可見價格與交易者意圖分欄",
+      "paragraphs": [
+        "價格越過既有高點是可見事件；「觸發一批停損」「機構正在吸收」則需要其他資料支持，不能僅靠 K 線確認。研究表可設三欄：已知價格、實際取得的成交或掛單、分析推論。三棒 FVG 也只能先證明影線極值的關係，中央棒可能已在區間成交。用語清楚並不會削弱分析，反而能指出下一步需要什麼資料，以及某個判斷在缺資料時應保留到什麼程度。"
+      ]
+    },
+    {
+      "heading": "二、OB 是候選區域，不是機構持倉證明",
+      "paragraphs": [
+        "Order Block 可先視為某套圖表框架指定的候選反應區，但不能把上漲前的一根陰棒直接翻譯成機構尚未平倉的買單。不同教材對實體、影線、確認與失效條件的選擇可能不同，本站不假裝只有一個通用版本。即使取得逐單資料，也需分清身份與委託：CME 的 MBO 例子仍採匿名訂單，不提供客戶身份。此例說明資料限制，不代表 TMF 或 Binance 的資料規格與 CME 相同。"
+      ]
+    },
+    {
+      "heading": "三、紐約時段必須隨日期轉換",
+      "paragraphs": [
+        "請以 America/New_York 轉換到 Asia/Taipei，不要全年固定加十二小時。紐約夏令為 UTC−4、冬令為 UTC−5，台北因此分別快 12、13 小時；紐約 09:30 對應台北 21:30、22:30。2026 年美國夏令時間於當地 3 月 8 日開始、11 月 1 日結束。這個時間例子不是所有 ICT 模型的固定進場時點；標註任何時窗時都要附日期、時區及所採模型，轉換日也不能只改畫面標籤。"
+      ]
+    },
+    {
+      "heading": "四、微台日盤與 BTC 需要不同研究安排",
+      "paragraphs": [
+        "紐約 09:30 落在台北晚上，不能直接說微台 08:45 就是同一個開盤模型。日盤可研究價格形態，但更換時段已是新的假說，須固定契約、日夜盤及切棒起點。BTC 全天交易，應分開比較平日、週末與紐約時窗，納入資金費及平台差異。Binance 一個交易所的成交和委託簿不是全球 BTC 的完整訂單流；資料缺漏、撤單與序號斷線也不能拿後來的快照假裝完整還原。同一套條件移到不同商品，還須重新檢查最小跳動、數量取整、停損距離與點差。不能因為圖案相像，就沿用另一市場的手續費或成交假設；對小本金而言，最低交易單位也可能已超出風險預算。"
+      ]
+    },
+    {
+      "heading": "五、用可重現規則比較，熱門度另列",
+      "paragraphs": [
+        "與 Price Action 比較時，可先問各自依據什麼可見事件、需要哪些資料、在哪裡失效，不用把兩套術語硬配成一樣。官方頻道受眾與觀看數只能反映傳播度。本批未取得能替 TMF 或 BTC 背書的獨立審核長期績效與扣成本樣本外驗證，因此維持研究身份。先完成一套固定候選規則，再保留所有成功、失敗及未成交圖例；不要把社群好評、單張預測或事後回放升格為實盤優勢。"
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "en": "Liquidity narrative",
+      "zh": "流動性敘事",
+      "note": "以高低點等位置推論可能的交易活動；須與已取得的成交、委託資料分開。"
+    },
+    {
+      "en": "Order Block / OB",
+      "zh": "訂單區塊",
+      "note": "圖表分析中的候選區域稱呼，不能單憑圖形確認機構身份或持倉。"
+    },
+    {
+      "en": "Market by Order / MBO",
+      "zh": "逐單委託資料",
+      "note": "CME 的例子可顯示匿名個別訂單；不等於揭露交易者身份及完整倉位。"
+    },
+    {
+      "en": "Daylight Saving Time / DST",
+      "zh": "夏令時間",
+      "note": "紐約採夏冬時制；時窗應按日期及時區資料庫轉換。"
+    }
+  ],
+  "exercise": {
+    "title": "把一段流動性分析改成可稽核筆記",
+    "steps": [
+      "選一段已收線圖表，逐句分成價格事實、實際取得的資料與推論。",
+      "若標 OB，寫明候選棒、邊界、確認與失效條件；不知道就保留待核對。",
+      "各選一個夏令與冬令日期，將紐約 09:30 轉成台北時間並檢查所屬交易時段。",
+      "列出 TMF 與 BTC 各缺哪些成交、深度或成本資料，未補齊前不宣稱完成實盤驗證。"
+    ],
+    "review": [
+      "是否把價格推論誤寫成已確認的交易者身份或持倉？",
+      "紐約時窗是否因夏冬令時間轉錯一小時？",
+      "熱門度與績效證據是否清楚分開？"
+    ]
+  },
+  "sources": [
+    {
+      "title": "The Inner Circle Trader－官方網站",
+      "url": "https://www.theinnercircletrader.com/",
+      "author": "Michael J. Huddleston／The Inner Circle Trader",
+      "language": "英文",
+      "checked": "2026-10-28",
+      "access": "已讀取官方公開頁，核對作者自述與其 YouTube 連結；頁面不是影片逐字稿",
+      "scope": "僅核對作者與官方學習入口；不採自述作為績效驗證。",
+      "license": "未取得全文重刊或完整翻譯授權；只提供短摘要與連結"
+    },
+    {
+      "title": "ICT Mentorship Core Content－Month 04－Orderblocks",
+      "url": "https://www.youtube.com/watch?v=PIYh0CxoY9c",
+      "author": "Michael J. Huddleston／The Inner Circle Trader",
+      "language": "英文",
+      "checked": "2026-10-28",
+      "access": "已核對官方影片標題 metadata；未取得官方逐字稿，未聲稱完整觀看",
+      "scope": "OB 原作者公開學習入口；本站不提供未核實的完整原課定義。",
+      "license": "未取得全文重刊或完整翻譯授權；圖例與研究流程另行自編"
+    },
+    {
+      "title": "Market by Order (MBO)",
+      "url": "https://www.cmegroup.com/articles/faqs/market-by-order-mbo.html",
+      "author": "CME Group",
+      "language": "英文",
+      "checked": "2026-10-28",
+      "access": "已讀取官方公開文字；不是 ICT 影片逐字稿",
+      "scope": "只摘要逐單資料仍匿名、不提供客戶身份；不將 CME 規格推為 TMF 或 Binance 規格。",
+      "license": "未取得全文重刊或完整翻譯授權；僅作短摘要與本站原創比較"
+    },
+    {
+      "title": "Daylight Saving Time Rules",
+      "url": "https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst",
+      "author": "National Institute of Standards and Technology／NIST",
+      "language": "英文",
+      "checked": "2026-10-28",
+      "access": "已讀取官方公開時間規則；不是影片逐字稿",
+      "scope": "核對 2026 年 3 月 8 日及 11 月 1 日的美國夏令時間切換；台北例子為本站轉換。",
+      "license": "本篇未取得完整素材重刊授權；只摘要公開時間事實並提供來源"
+    },
+    {
+      "title": "How is UTC(NIST) related to Coordinated Universal Time (UTC)?",
+      "url": "https://www.nist.gov/pml/time-and-frequency-division/how-utcnist-related-coordinated-universal-time-utc-international",
+      "author": "National Institute of Standards and Technology／NIST",
+      "language": "英文",
+      "checked": "2026-10-28",
+      "access": "已讀取官方公開文字；不是影片逐字稿",
+      "scope": "核對 EST 為 UTC−5、EDT 為 UTC−4；台北相差 12／13 小時為本站算術轉換。",
+      "license": "本篇未取得完整素材重刊授權；只摘要公開時間事實並提供來源"
+    }
+  ],
+  "courseRefs": [],
+  "mode": "guide",
+  "translationStatus": "繁體中文原創導讀；英文來源僅短摘要，不提供未授權完整譯文",
+  "provenance": "ICT 影片只核對公開 metadata，未取得官方逐字稿。CME 與 NIST 官方文字用於資料及時區界線；跨市場比較、時間轉換、數字與練習由本站整理。內容不冒稱完整 ICT 原課策略，不將社群熱門度作為實盤績效評價，也不引用為 Brooks 官方課程出處。",
+  "revision": "2026-10-28",
+  "caseQuiz": [
+    {
+      "question": "一根被標為 OB 的 K 棒，能否直接證明機構尚未平倉的數量？",
+      "choices": [
+        "能，只要回踩後反彈",
+        "能，把該棒成交量當作未平倉量即可",
+        "不能，圖形沒有提供身份與完整倉位資料"
+      ],
+      "answerIndex": 2,
+      "explanation": "圖表候選區與機構真實持倉是不同證據；即使某些逐單資料也仍為匿名。"
+    },
+    {
+      "question": "紐約冬令時間 09:30，對應台北時間為何？",
+      "choices": [
+        "22:30",
+        "21:30，全年相同",
+        "08:45，等同微台開盤"
+      ],
+      "answerIndex": 0,
+      "explanation": "冬令 EST 為 UTC−5，台北 UTC＋8 相差 13 小時；夏令才是 21:30。"
+    },
+    {
+      "question": "官方頻道觀看數很高，最合理的結論是？",
+      "choices": [
+        "已證明所有市場扣成本後獲利",
+        "顯示傳播度，績效仍需獨立資料與驗證",
+        "可以省略失敗案例與未成交紀錄"
+      ],
+      "answerIndex": 1,
+      "explanation": "觀看數與評價不是策略的報酬樣本；需要可重現、扣成本及樣本外的驗證。"
+    }
+  ]
+}

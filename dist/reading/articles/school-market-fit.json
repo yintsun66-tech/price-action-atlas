@@ -1,0 +1,165 @@
+{
+  "id": "school-market-fit",
+  "title": "微台與 BTC 的適用情境：先選資料層，再選工具",
+  "subtitle": "以現有資料能力與操作時段建立學習順序",
+  "summary": "同樣的流派，在微台日盤與 Binance BTCUSDT 永續會面對不同的時段、資料與成交條件。本頁提供研究選擇表，不替尚未驗證的方法發出實盤訊號。",
+  "category": "流派比較",
+  "batch": 4,
+  "topic": "研究",
+  "mode": "guide",
+  "language": "英文",
+  "level": "進階",
+  "minutes": 13,
+  "sourceSummary": "公開資料可核對各框架的教學主題與資料定義；以下橫向比較、案例與研究步驟由本站另行整合，沒有建立績效排名。",
+  "keyPoints": [
+    "微台量能缺項與實際契約月份先解決。",
+    "Binance 單一商品的資料不代表全球 BTC。",
+    "學習順序取決於資料與可用時間，不是盈利排名。"
+  ],
+  "sections": [
+    {
+      "heading": "一、微台：價格結構可以先做",
+      "paragraphs": [
+        "先固定 TMF 實際契約、日盤、十分鐘切棒起點與換月。這些資料若可重播，就能研究已知高低點、突破後返回及收線順序。已有成交量差異未釐清時，暫不以量確認威科夫事件。要做 Footprint 或深度，另找合法且欄位足夠的資料，不把免費成交檔誤當完整委託簿歷史，也不混用 TX、MTX 的成交活動代表 TMF。"
+      ]
+    },
+    {
+      "heading": "二、BTC：平台、商品與週末都要固定",
+      "paragraphs": [
+        "BTCUSDT 永續的圖形研究可以全天進行，但人工確認依既有台北 08:00–23:00 範圍另評估。指定 Binance USDⓈ-M、數量單位、週末與平日分組，納入手續費、滑價及實際資金費。即使取得該平台深度，也只代表相應串流的可見範圍；來源斷序與重新同步的時間不能被當成沒有成交或掛單。"
+      ]
+    },
+    {
+      "heading": "三、時段模型要附地區與日期",
+      "paragraphs": [
+        "紐約 09:30 依夏令或冬令對應台北晚間不同時間，不能直接換成微台 08:45 日盤開盤。若把某個時段邏輯改到另一市場，將它記為新的研究假說。日盤截止、假日與到期契約的收盤差異，也須由實際交易所規則處理；不要只換圖表商品，就沿用另一市場的開收盤參數。"
+      ]
+    },
+    {
+      "heading": "四、低資料層先完成，較細資料再評估",
+      "paragraphs": [
+        "本站學習順序是：價格事件一致標記、可靠價量比較、主動成交分類，最後才是同步委託簿。這依目前工程條件安排，並未宣稱越往後越能獲利。訂單流即使只在關鍵位置使用，仍可能需要比十分鐘更頻繁的觀察與更完整保存；若你的可用時間不支持，就保留為回放研究。"
+      ]
+    },
+    {
+      "heading": "五、把比較送回既定六階段",
+      "paragraphs": [
+        "三種新流派都從規則定義開始，固定樣本與成本後再回測、保留資料驗證。沒有通過以前，圖解只教如何提出與推翻情境；模擬盤、人工提示及全自動仍按原有門檻。記錄所有嘗試，包括加一個流派條件後反而更差的結果，避免只把最好組合呈現為研究結論。"
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "en": "Observation vs interpretation",
+      "zh": "觀察與解讀",
+      "note": "先記當時可見事實，再附各流派的條件式假說。"
+    },
+    {
+      "en": "Incremental evidence",
+      "zh": "新增資訊",
+      "note": "重複替同一價格事件命名，並不一定增加獨立證據。"
+    },
+    {
+      "en": "Data availability",
+      "zh": "資料可得性",
+      "note": "需要的欄位與時點未到齊，就保留未決，不合成不存在的資料。"
+    }
+  ],
+  "exercise": {
+    "title": "用同一份資料比較，不用流派名稱投票",
+    "steps": [
+      "固定商品、時段、切棒及同一批候選。",
+      "每個框架各填可見事實、額外資料需求及失效條件。",
+      "保存未決與失敗；不得看到結果才改名或移動邊界。",
+      "再比較增量資訊、成交與成本，缺資料者維持研究狀態。"
+    ],
+    "review": [
+      "是否把同一事件的四種名稱當成四份證據？",
+      "是否用未提供的成交量、逐筆或深度補故事？",
+      "是否把教學清晰或熱門程度當成獲利驗證？"
+    ]
+  },
+  "sources": [
+    {
+      "title": "What is price action? 6 aspects to consider",
+      "url": "https://www.brookstradingcourse.com/price-action/what-is-price-action-6-aspects/",
+      "author": "Al Brooks",
+      "access": "官方公開文章文字；課程會員頁僅核對標題，未觀看付費影片。",
+      "scope": "只作價格、背景與支撐阻力主題的短摘要；比較流程與數字為本站自編。",
+      "language": "英文",
+      "checked": "2026-10-28",
+      "license": "未取得全文翻譯或原圖重刊授權；本篇為短摘要及本站原創整理。"
+    },
+    {
+      "title": "微型臺指期貨英文規格",
+      "url": "https://www.taifex.com.tw/enl/eng2/tMF?menuid1=12",
+      "author": "TAIFEX／臺灣期貨交易所",
+      "access": "既有研究已核對官方規格；特殊日與異動仍按公告。",
+      "scope": "契約、交易時段等資料工程參考；不提供流派績效。",
+      "language": "英文",
+      "checked": "2026-10-28",
+      "license": "未取得全文翻譯或原圖重刊授權；本篇為短摘要及本站原創整理。"
+    },
+    {
+      "title": "USDⓈ-M Futures: Diff. Book Depth Streams",
+      "url": "https://developers.binance.com/en/docs/catalog/core-trading-derivatives-trading-usd-s-m-futures/api/ws-streams/public#diff-book-depth-streams",
+      "author": "Binance Developers",
+      "access": "已核對目前公開官方串流文件；沒有取得本站即時深度。",
+      "scope": "資料範圍與同步需求；不是 BTC 全市場資料或交易獲利證明。",
+      "language": "英文",
+      "checked": "2026-10-28",
+      "license": "未取得全文翻譯或原圖重刊授權；本篇為短摘要及本站原創整理。"
+    }
+  ],
+  "courseRefs": [
+    {
+      "version": "Main",
+      "unit": "12A",
+      "topic": "市場週期",
+      "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-12a-market-cycle/",
+      "relation": "相關主題補讀"
+    },
+    {
+      "version": "Main",
+      "unit": "15A",
+      "topic": "突破",
+      "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-15a-breakouts/",
+      "relation": "相關主題補讀"
+    }
+  ],
+  "translationStatus": "本站原創比較；非來源全文翻譯。",
+  "provenance": "不同作者與平台的定義分別歸屬來源。Brooks Main 12A／15A 僅為相關補讀，與 Forex 共用的基礎部分；其他流派沒有因此變成 Brooks 官方課程內容。",
+  "revision": "2026-10-28",
+  "caseQuiz": [
+    {
+      "question": "手上只有微台十分鐘 OHLCV，下一步較合理的是？",
+      "choices": [
+        "把影線標成真實吸收",
+        "先做價格事件研究，查核更細資料需求",
+        "直接合成 MBO 委託"
+      ],
+      "answerIndex": 1,
+      "explanation": "可得資料限制可核對的事件。"
+    },
+    {
+      "question": "把紐約開盤模型移到微台日盤，研究身份是？",
+      "choices": [
+        "不同時段的新假說",
+        "原策略已自動驗證",
+        "只改圖表名稱不影響"
+      ],
+      "answerIndex": 0,
+      "explanation": "市場、時區與參與者活動不同，必須另行檢查。"
+    },
+    {
+      "question": "新增一個流派濾網後看起來更漂亮，如何處理？",
+      "choices": [
+        "刪掉舊版失敗結果",
+        "直接改成實盤提示",
+        "登記新版，保留所有候選並使用新資料驗證"
+      ],
+      "answerIndex": 2,
+      "explanation": "選擇與調整都會影響驗證資料的未使用狀態。"
+    }
+  ]
+}
