@@ -49,3 +49,5 @@ Brooks 課程對照須有 Main／Forex 版本、單元編號、中文主題、�
 第七批（2026-10-29）：新增 5 筆英文來源選讀，共 13 筆；新讀涵蓋威科夫圖式、ICT 風格腳本的事件比例、TradingView 重繪文件及 Bookmap 公開教材。新增 2 篇原創導讀與 1 篇 Wikibooks Targets 指定選段的 CC BY-SA 中英對照、3 張原創圖及 9 題。以 `node scripts/build-content-batch7.cjs` 重建最新批次；共用來源卡渲染器為 `scripts/render-community.cjs`。舊卡保留原查核日期，不改標為本日新文。最新檢查入口在 workspace 的 `tools/check_content_batch7*.cjs`。
 
 全站繁中第二個檢查點（2026-10-29）：11 筆核心來源依實際正文／介紹／部分範圍加入繁中摘要，累積 9 篇正文摘要；來源清單擴至 2,350 個網址。62 篇文章及既有筆記保留。接續規則與未完成範圍見 docs/fullsite-translation.md。
+
+第八批（2026-10-30）：新增三筆可追溯來源卡，續讀核心／既有英文資料，正文摘要累積 12 筆；新增逐篇中英術語快查與前置翻譯進度。重建順序 batch8 → translation ledger → chinese-first。使用者的長期品質目標見 docs/learner-quality-roadmap.md。

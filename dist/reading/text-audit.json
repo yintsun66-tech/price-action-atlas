@@ -66,7 +66,7 @@
     "wyckoff-template-uncertainty"
   ],
   "reviewedCount": 62,
-  "terms": 391,
+  "terms": 403,
   "method": [
     "讀取全篇 JSON，審核正文、標題、摘要、術語、練習、測驗、案例描述、來源標題與取得範圍中的英文；以英文出現處的完整中文上下文作翻譯判斷。",
     "既有術語表提供 176 組對照；另補來源標題、縮寫及校對用詞。詞表使用較長精確詞組優先。",
@@ -338,8 +338,8 @@
   ],
   "baselineTerms": 356,
   "presentationUpdates": {
-    "date": "2026-10-29",
-    "addedInterfacePhrases": 35,
+    "date": "2026-10-30",
+    "addedInterfacePhrases": 47,
     "scope": "新增介面與學習方向詞句，保留 62 篇原始文章及既有術語判斷；切換單元時重置原文折疊標記。"
   }
 }

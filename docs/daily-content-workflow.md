@@ -5,7 +5,7 @@
 ## 既有網站
 
 - checkout：`C:/Users/editi/Documents/Codex/AI TRADING/sites/price-action-atlas`
-- 網址：https://price-action-atlas-study.sandygrebe4097.chatgpt.site
+- 網址：https://price-action-atlas-study.yintsun66.chatgpt.site
 - 精確專案 ID 以 `.openai/hosting.json` 為準，重用目前網站；維持只有擁有者可讀。
 - 原有進度鍵 `price-action-atlas-v1`；閱讀與筆記鍵 `price-action-atlas-reader-v1`。不得任意更換 ID、清除或更改存取權。
 
@@ -43,3 +43,5 @@
 ## 通知
 
 有實質新增、重要更正、發布失敗或需要使用者處理時，以繁中簡要回報並附網站直接連結。沒有合格新內容且狀態未變時保持安靜。不另建排程，不執行交易。
+
+第八批以 `scripts/build-content-batch8.cjs` 加入來源卡及更新紀錄，再執行翻譯清單與中文呈現生成器；不重跑寫死舊批次的完整生成器。網站 canonical 網域已轉為 yintsun66；舊網域會重新導向，瀏覽器筆記不會自動跨 origin 同步，不能宣稱已移轉。

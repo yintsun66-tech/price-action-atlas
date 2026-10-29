@@ -9,7 +9,7 @@
     "summaryZh": "Ali 的公開課綱用系統思考連接價格行為觀念與執行，列出大型突破、通道反轉及微型通道三種策略，並搭配案例模組。頁面也明說入門課本身不會讓人直接獲利，仍須投入更多實作。",
     "readScope": "已讀重新導向後的官方公開介紹、11 個課綱項目及限制說明；未註冊、播放預覽或觀看課程。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -19,6 +19,10 @@
         "kind": "discovery-material",
         "id": "quant",
         "index": 0
+      },
+      {
+        "kind": "review",
+        "id": "ali-intro"
       }
     ],
     "resourceIds": [
@@ -90,7 +94,7 @@
     "summaryZh": "Brooks 以十類型態整理反轉、旗形、突破、通道、量度目標與支撐壓力；同一段行情可能同時符合多種名稱。他強調依當下背景理解型態，並呈現較早反轉進場與等待較清楚突破之間的取捨。",
     "readScope": "已讀公開正文的十類型態與開頭的重疊／背景說明；未重製來源行情圖，未觀看連結中的付費影片。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -110,6 +114,10 @@
         "kind": "article-source",
         "id": "brooks-breakout-test",
         "index": 0
+      },
+      {
+        "kind": "review",
+        "id": "b-patterns"
       }
     ],
     "resourceIds": [
@@ -194,7 +202,7 @@
     "summaryZh": "官方介紹交易室先看較高週期背景，再隨行情討論設定與管理。美國室主要使用 ES，歐洲室主要使用 FDAX。公開頁列不同講者的歷史樣片，並要求把展示交易視為假設性示範。",
     "readScope": "已讀官方服務介紹、市場範圍、公開樣片名單與教育用途聲明；未加入交易室或觀看完整回放。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -204,6 +212,10 @@
         "kind": "discovery-material",
         "id": "brooks",
         "index": 0
+      },
+      {
+        "kind": "review",
+        "id": "brad-room"
       }
     ],
     "resourceIds": [
@@ -273,10 +285,14 @@
     "summaryZh": "目前公開介紹將學習安排為課程、自己的圖表作業，再接現場觀摩。頁面標示十個模組中前七個已提供，後三個仍屬提供者的交付承諾；並將 Ali 的市場行為架構用於突破與反轉策略練習。",
     "readScope": "入口轉向 tradewithme.quantsystems.ca；本次讀頁首、三階段架構、創辦人說明、樣片介紹及前三個模組課綱；未播放樣片或讀完其餘長頁。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
+        "id": "ali-twm"
+      },
+      {
+        "kind": "review",
         "id": "ali-twm"
       }
     ],
@@ -337,6 +353,75 @@
     }
   },
   {
+    "id": "15dbe08a4d1e6bf4fa5d",
+    "url": "https://wyckoffstockmarketinstitute.com/Archives/Buying-Oppurtunities_Spring-test.pdf",
+    "sourceTitle": "Stock Market Primary Buying Opportunities — Test of Springs",
+    "titleZh": "Spring 後測試：品質判讀與例外",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "這份短教材用棒幅、成交量及低點位置比較測試品質，同時保留較差品質不必然失敗的例外。後續保護與風險報酬仍屬其方法條件，不能直接改成本站研究版本。",
+    "readScope": "已讀公開 PDF 兩頁全部文字；未重製原圖，也未取得全文翻譯授權。必要短句與較完整的評價集中在新文章與社群卡。",
+    "checked": "2026-10-29",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "wyckoff-spring-test-quality"
+      },
+      {
+        "kind": "review",
+        "id": "source-wyckoff-spring-test"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-wyckoff-spring-test",
+        "url": "https://wyckoffstockmarketinstitute.com/Archives/Buying-Oppurtunities_Spring-test.pdf",
+        "sourceTitle": "Stock Market Primary Buying Opportunities — Test of Springs",
+        "sourceTitleZh": "Spring 後測試：品質判讀與例外",
+        "checked": "2026-10-29",
+        "published": null,
+        "status": "body-summary",
+        "readScope": "已讀公開 PDF 兩頁全部文字；未重製原圖，也未取得全文翻譯授權。必要短句與較完整的評價集中在新文章與社群卡。",
+        "summaryZh": "這份短教材用棒幅、成交量及低點位置比較測試品質，同時保留較差品質不必然失敗的例外。後續保護與風險報酬仍屬其方法條件，不能直接改成本站研究版本。",
+        "keyPointsZh": [],
+        "limitsZh": "只核發這份兩頁文字的摘要；不等於整套威科夫課程或策略已驗證。",
+        "evidence": {
+          "urls": [
+            "https://wyckoffstockmarketinstitute.com/Archives/Buying-Oppurtunities_Spring-test.pdf"
+          ],
+          "accessMethod": "實際讀取原教育機構公開英文 PDF",
+          "scope": "兩頁文字；來源卡另附 8 詞英文短句及翻譯。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "Wyckoff Stock Market Institute；版權 The Jamison Group, Inc."
+    ],
+    "existingExcerpt": {
+      "summaryZh": "教材以棒幅、成交量及測試低點位置比較下破回收後的測試品質：較窄棒幅、較低量與較高低點被視為較佳，也保留較低品質不必然失敗的例外。後續測試、退出保護及風險報酬需一起考慮。",
+      "readScope": "已讀公開 PDF 兩頁全部文字；未重製原圖或取得完整翻譯授權。",
+      "checked": "2026-10-29",
+      "translationScope": "公開教材的短摘要及必要短句；不是兩頁全文譯文。",
+      "cardId": "wyckoff-spring-test-quality"
+    },
+    "published": null,
+    "dateNoteZh": "",
+    "keyPointsZh": [],
+    "limitsZh": "只核發這份兩頁文字的摘要；不等於整套威科夫課程或策略已驗證。",
+    "evidence": {
+      "urls": [
+        "https://wyckoffstockmarketinstitute.com/Archives/Buying-Oppurtunities_Spring-test.pdf"
+      ],
+      "accessMethod": "實際讀取原教育機構公開英文 PDF",
+      "scope": "兩頁文字；來源卡另附 8 詞英文短句及翻譯。"
+    }
+  },
+  {
     "id": "2336d48eb1d5ca4e3c46",
     "url": "https://www.brookstradingcourse.com/how-to-trade-manual/stop-orders/",
     "sourceTitle": "Beginners should enter with stop orders",
@@ -346,7 +431,7 @@
     "summaryZh": "Brooks 建議初學者先使用觸發式委託，讓進場前價格至少先朝預期方向移動一個最小跳動；並區分訊號棒與實際進場棒。文中也說明，較有經驗者會依區間或通道背景使用限價進場，高機率通常伴隨較不利的風險報酬。",
     "readScope": "已讀公開文字正文，涵蓋訊號棒／進場棒、觸發式進場、限價進場及風險報酬取捨；未重刊案例圖。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -356,6 +441,10 @@
         "kind": "article-source",
         "id": "brooks-order-intent",
         "index": 0
+      },
+      {
+        "kind": "review",
+        "id": "b-stop"
       }
     ],
     "resourceIds": [
@@ -440,10 +529,14 @@
     "summaryZh": "本輪無法取得內容，尚未完成影片摘要。標題翻譯可協助尋找原片，但不能用來推導 Brad 對位置的具體判斷。",
     "readScope": "本輪直接開啟影片頁失敗；以精確影片 ID 搜尋無結果。未取得影片說明、字幕或內容。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
+        "id": "yt-qEM1w6UqVDo"
+      },
+      {
+        "kind": "review",
         "id": "yt-qEM1w6UqVDo"
       }
     ],
@@ -506,10 +599,14 @@
     "summaryZh": "Ali 以自身經驗說明：盤後能分析圖表，不代表盤中能及時運用。他用流程圖顯示決策分支，再配合情境預演、限縮範圍的模擬、詳細復盤與修正，把分散的知識連接成可練習的反應。",
     "readScope": "已讀 Ali 公開文章正文與訓練步驟；來源圖像未重製，未觀看文中提及的付費課程。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
+        "id": "ali-visual"
+      },
+      {
+        "kind": "review",
         "id": "ali-visual"
       }
     ],
@@ -571,6 +668,71 @@
     }
   },
   {
+    "id": "436e9d771928f3a02941",
+    "url": "https://www.tradingsetupsreview.com/trading-records-discretionary-price-action-trader/",
+    "sourceTitle": "How to Keep Trading Records as a Discretionary Price Action Trader",
+    "titleZh": "裁量價格行為交易者如何保存事前紀錄",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "Galen Woods 建議持續記錄盤中觀察與預期，即使沒有交易也保留紀錄；另在結果揭曉前標記是否偏離既有規則，之後比較裁量是否增加價值。事前預期與事後結果應分開，記錄方式也應簡短，避免干擾執行。",
+    "readScope": "已讀公開正文各節至結語與首次發表／更新說明；未取得付費課程、紀錄範本或文中連結的研究。",
+    "checked": "2026-10-29",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "practice-journal-before-after",
+        "index": 0
+      },
+      {
+        "kind": "review",
+        "id": "source-woods-records"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-woods-records",
+        "url": "https://www.tradingsetupsreview.com/trading-records-discretionary-price-action-trader/",
+        "sourceTitle": "How to Keep Trading Records as a Discretionary Price Action Trader",
+        "sourceTitleZh": "裁量價格行為交易者如何保存事前紀錄",
+        "checked": "2026-10-29",
+        "published": "2014-08-05",
+        "dateNoteZh": "原頁明列更新日 2022-06-13。",
+        "status": "body-summary",
+        "readScope": "已讀公開正文各節至結語與首次發表／更新說明；未取得付費課程、紀錄範本或文中連結的研究。",
+        "summaryZh": "Galen Woods 建議持續記錄盤中觀察與預期，即使沒有交易也保留紀錄；另在結果揭曉前標記是否偏離既有規則，之後比較裁量是否增加價值。事前預期與事後結果應分開，記錄方式也應簡短，避免干擾執行。",
+        "keyPointsZh": [
+          "這提供檢查裁量的做法，沒有證明所有直覺都能增加收益。"
+        ],
+        "limitsZh": "作者方法論與教學例子，未提供本站對微台／BTC 的獨立成效驗證；不是 Brooks 原課。",
+        "evidence": {
+          "urls": [
+            "https://www.tradingsetupsreview.com/trading-records-discretionary-price-action-trader/"
+          ],
+          "accessMethod": "實際讀取英文原作者正文",
+          "scope": "紀錄內容、裁量標記、事前／事後與減少干擾各節至結語。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "published": "2014-08-05",
+    "dateNoteZh": "原頁明列更新日 2022-06-13。",
+    "keyPointsZh": [
+      "這提供檢查裁量的做法，沒有證明所有直覺都能增加收益。"
+    ],
+    "limitsZh": "作者方法論與教學例子，未提供本站對微台／BTC 的獨立成效驗證；不是 Brooks 原課。",
+    "evidence": {
+      "urls": [
+        "https://www.tradingsetupsreview.com/trading-records-discretionary-price-action-trader/"
+      ],
+      "accessMethod": "實際讀取英文原作者正文",
+      "scope": "紀錄內容、裁量標記、事前／事後與減少干擾各節至結語。"
+    }
+  },
+  {
     "id": "5c3eb7f0b391b748e060",
     "url": "https://www.brookstradingcourse.com/price-action/what-is-price-action-6-aspects/",
     "sourceTitle": "What is price action? 6 aspects to consider",
@@ -580,7 +742,7 @@
     "summaryZh": "Brooks 把價格行為廣義界定為價格移動的各種表示，強調讀圖不只背 K 棒名稱，還要觀察支撐壓力、趨勢或區間、動能與交易管理。他以市場慣性解釋為何要把當前棒放回前後背景。",
     "readScope": "已讀公開文章正文，包括價格表示、圖表、微小價格變動、行為、背景及市場慣性的討論；沒有重刊圖表或觀看文章所連結的付費影片。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -605,6 +767,10 @@
         "kind": "article-source",
         "id": "brooks-context-first",
         "index": 0
+      },
+      {
+        "kind": "review",
+        "id": "b-definition"
       }
     ],
     "resourceIds": [
@@ -704,10 +870,14 @@
     "summaryZh": "Quant Systems 將此教材定位為突破概念研究與軟體工具套件，列有研究白皮書、技術文件及多個交易平台的指標。頁面說明它最初作為 Orlando 2022 工作坊的加贈內容；這些是教材構成資訊，尚不足以評估研究方法或交易優勢。",
     "readScope": "已讀公開概述、教材清單、更新月份及作者介紹；未取得研究白皮書、技術文件、軟體或八小時教學內容。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
+        "id": "ali-bo"
+      },
+      {
+        "kind": "review",
         "id": "ali-bo"
       }
     ],
@@ -767,6 +937,84 @@
     }
   },
   {
+    "id": "6b27f6a92edb0bb28ab8",
+    "url": "https://hub.hku.hk/bitstream/10722/184789/1/content.pdf",
+    "sourceTitle": "Overconfident Individual Day Traders: Evidence from the Taiwan Futures Market",
+    "titleZh": "臺灣期貨日內交易者研究：摘要與導言選讀",
+    "titleCoverage": "reviewed-title",
+    "status": "excerpt-summary",
+    "summaryZh": "Kuo 與 Lin 利用事前指定當沖委託的制度辨識交易者。文中 3,470 名個人在 2007 年 10 月至 2008 年 9 月平均累計虧損，扣成本後約 61,500 元、扣成本前約 26,700 元；這是該樣本期間每名交易者的結果，並非每筆虧損。",
+    "readScope": "實讀 37 頁作者版本的 PDF 第 1–6 頁（零起算頁 0–5）：摘要、導言及其資料限制；未讀完整實證章節與表格。",
+    "checked": "2026-10-29",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "r-traders"
+      },
+      {
+        "kind": "review",
+        "id": "r-traders"
+      }
+    ],
+    "resourceIds": [
+      "r-traders"
+    ],
+    "legacyObservations": [
+      {
+        "id": "r-traders",
+        "scope": "作者公開論文已核對",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [
+      {
+        "resourceId": "r-traders",
+        "url": "https://hub.hku.hk/bitstream/10722/184789/1/content.pdf",
+        "sourceTitle": "Overconfident Individual Day Traders: Evidence from the Taiwan Futures Market",
+        "sourceTitleZh": "臺灣期貨日內交易者研究：摘要與導言選讀",
+        "checked": "2026-10-29",
+        "published": "2013-04-03",
+        "dateNoteZh": "日期為 PDF 首頁明列的作者版本日，不是正式期刊出版日。",
+        "status": "excerpt-summary",
+        "readScope": "實讀 37 頁作者版本的 PDF 第 1–6 頁（零起算頁 0–5）：摘要、導言及其資料限制；未讀完整實證章節與表格。",
+        "summaryZh": "Kuo 與 Lin 利用事前指定當沖委託的制度辨識交易者。文中 3,470 名個人在 2007 年 10 月至 2008 年 9 月平均累計虧損，扣成本後約 61,500 元、扣成本前約 26,700 元；這是該樣本期間每名交易者的結果，並非每筆虧損。",
+        "keyPointsZh": [
+          "作者未取得詳細保證金帳戶資料；文中報酬代理不能當作每個帳戶的實際資金報酬率。",
+          "過度自信是作者依研究設計作出的解釋，不是單靠一筆虧損就能診斷個人。"
+        ],
+        "limitsZh": "歷史樣本不代表目前所有當沖者、微台或價格行為策略；完整方法與統計仍待續讀，未做本站複算。",
+        "evidence": {
+          "urls": [
+            "https://hub.hku.hk/bitstream/10722/184789/1/content.pdf"
+          ],
+          "accessMethod": "實際讀取大學典藏的英文作者版本 PDF",
+          "scope": "PDF 第 1–6 頁文字；未核對後續全部表格或正式出版版。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Kuo / Lin"
+    ],
+    "published": "2013-04-03",
+    "dateNoteZh": "日期為 PDF 首頁明列的作者版本日，不是正式期刊出版日。",
+    "keyPointsZh": [
+      "作者未取得詳細保證金帳戶資料；文中報酬代理不能當作每個帳戶的實際資金報酬率。",
+      "過度自信是作者依研究設計作出的解釋，不是單靠一筆虧損就能診斷個人。"
+    ],
+    "limitsZh": "歷史樣本不代表目前所有當沖者、微台或價格行為策略；完整方法與統計仍待續讀，未做本站複算。",
+    "evidence": {
+      "urls": [
+        "https://hub.hku.hk/bitstream/10722/184789/1/content.pdf"
+      ],
+      "accessMethod": "實際讀取大學典藏的英文作者版本 PDF",
+      "scope": "PDF 第 1–6 頁文字；未核對後續全部表格或正式出版版。"
+    }
+  },
+  {
     "id": "731eefb1aaf98bad230f",
     "url": "https://www.brookstradingcourse.com/how-to-trade-manual/trading-position-size/",
     "sourceTitle": "What should my trading position size be?",
@@ -776,10 +1024,14 @@
     "summaryZh": "Brooks 建議先採不致因損失焦慮而破壞管理的部位，並依保護停損距離調整數量。他把能否按計畫管理放在快速致富之前；停損變遠時，原口數的風險也會增加。",
     "readScope": "已讀公開文章正文的部位壓力、執行及停損距離例子；未觀看付費課程。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
+        "id": "b-size"
+      },
+      {
+        "kind": "review",
         "id": "b-size"
       }
     ],
@@ -866,7 +1118,7 @@
     "summaryZh": "詞表把背景定義為左側價格、買賣壓力與支撐壓力對交易的支持或反對條件；突破則指越過先前有意義的價位。方向機率條目討論先到上方或下方指定距離的事件，與扣成本後的交易勝率不同。",
     "readScope": "僅本次實讀頁首 always in 至 double top 一帶的詞條，包括 context、breakout 與 directional probability；其餘詞條未完成逐項整理。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -876,6 +1128,10 @@
         "kind": "article-source",
         "id": "brooks-pullback-language",
         "index": 0
+      },
+      {
+        "kind": "review",
+        "id": "b-glossary"
       }
     ],
     "resourceIds": [
@@ -960,7 +1216,7 @@
     "summaryZh": "官方建議以三部曲作為書籍起點，依序讀趨勢、交易區間、反轉，並說明此系列回應早期逐棒分析書較難閱讀的問題。頁面另提供書籍圖表的下載入口；有下載連結不代表允許重新刊載圖表。",
     "readScope": "已讀官方書介、閱讀順序與圖表下載說明；未讀付費原書，未觀看 Books vs videos 內嵌影片或下載書圖。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -981,6 +1237,10 @@
       {
         "kind": "book",
         "id": "brooks-reversals"
+      },
+      {
+        "kind": "review",
+        "id": "book-trends"
       }
     ],
     "resourceIds": [
@@ -1059,7 +1319,7 @@
     "summaryZh": "官方公開頁把 12A〈市場週期〉列為價格行為基礎系列中的完整免費影片，片長 43 分 28 秒；同頁其他樣片有完整與節選之別。這份摘要說明樣片範圍，不代替影片內容摘要。",
     "readScope": "只讀官方樣片介紹文字及 12A 單元公開標題；未播放、觀看或取得該影片逐字稿。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1080,6 +1340,10 @@
       {
         "kind": "media",
         "id": "v01"
+      },
+      {
+        "kind": "review",
+        "id": "b-cycle"
       }
     ],
     "resourceIds": [
@@ -1183,10 +1447,14 @@
     "summaryZh": "此分類入口列出交易風險、月報酬期待、演算法、歷史行情與訪談等問答。列表區分問答發生日與文章發布日，部分內容另有錄音重錄或文字更新，適合先選問題，再讀單篇逐字稿核對回答背景。",
     "readScope": "已讀分類首頁列出的標題、日期與節錄介紹；未因此視為讀過各篇完整逐字稿、播放影片或翻閱全部分頁。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
+        "id": "b-qa"
+      },
+      {
+        "kind": "review",
         "id": "b-qa"
       }
     ],
@@ -1254,10 +1522,14 @@
     "summaryZh": "這個入口以市場背景、機率與風險報酬、委託、持倉管理及心理說明 Brooks 的交易框架，並連向手冊章節。他重視持倉後的管理，也區分順勢突破與交易區間中的操作；本頁的市場機率是教學估計，不能直接移作特定商品的勝率。",
     "readScope": "已讀本頁導言、手冊目錄與交易管理等概述；本頁不是各章全文，未讀取全部連結章節或付費手冊。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
+        "id": "b-manual"
+      },
+      {
+        "kind": "review",
         "id": "b-manual"
       }
     ],
@@ -1341,10 +1613,14 @@
     "summaryZh": "官方將教學案例與實際帳戶成果區分，說明假設績效會受事後資訊、執行與承受風險能力影響。頁面也限制影片分享與教材再刊，並明說客座文章的收錄本身不代表對其網站或課程的背書。",
     "readScope": "已讀風險、假設績效、Agreement、Use of Content、客座作者、推薦與見證等公開段落；頁末 Online trading course license 未完整取得。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
+        "id": "b-disclosure"
+      },
+      {
+        "kind": "review",
         "id": "b-disclosure"
       }
     ],
@@ -1414,10 +1690,14 @@
     "summaryZh": "本輪無法取得內容，尚未完成影片摘要。這裡只翻譯既有標題，不把同作者其他文章的訓練方法當成這支影片內容。",
     "readScope": "本輪直接開啟影片頁失敗；以精確影片 ID 搜尋無結果。未取得影片說明、字幕或內容。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
+        "id": "yt-iQB1QohZs6w"
+      },
+      {
+        "kind": "review",
         "id": "yt-iQB1QohZs6w"
       }
     ],
@@ -1480,10 +1760,14 @@
     "summaryZh": "Ali 把學習描述為反覆複習與實作的螺旋：先理解概念，再找自己的圖例、連接日內結構與較高週期背景，練習進場與持倉管理，並用筆記檢討。刻意練習須先選市場、情境與少數設定，訂出可衡量的執行目標，再逐步轉入較小部位的實務練習。",
     "readScope": "已讀公開正文：能力目標、螺旋學習、讀書與筆記、舒適圈、刻意練習、訊號與設定的區分及結語；未觀看文中連結的課程或練習影片。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
+        "id": "b-roadmap"
+      },
+      {
+        "kind": "review",
         "id": "b-roadmap"
       }
     ],
@@ -1557,10 +1841,14 @@
     "summaryZh": "Brooks 反對靠秘密型態或短期背誦尋找完美交易的想法。他把差異放在選擇交易方向、經驗與持倉管理，並提醒每筆交易都有承擔另一側風險的參與者；高機率、大報酬與低風險不能視為理所當然的組合。",
     "readScope": "已讀公開文字正文至結語；沒有重製來源圖或推論講師完整交易紀錄。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
+        "id": "b-perfect"
+      },
+      {
+        "kind": "review",
         "id": "b-perfect"
       }
     ],
@@ -1646,7 +1934,7 @@
     "summaryZh": "公開概述把系統交易拆為策略開發、風險管理、部位規模及整體交易事業的安排，課程結合教學、團體輔導與開發專案。招生公告說明團隊正投入另一教材開發；頁內同時可見開放與關閉招生字樣，現況需由提供者另行確認。",
     "readScope": "已讀頁首 overview、2026 招生公告、included、Ali 簡介及 Introduction；未逐項讀完其餘長篇課綱或觀看七十二分鐘影片。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1656,6 +1944,10 @@
         "kind": "discovery-material",
         "id": "quant",
         "index": 1
+      },
+      {
+        "kind": "review",
+        "id": "ali-sa"
       }
     ],
     "resourceIds": [
@@ -1723,7 +2015,7 @@
     "summaryZh": "公開課綱由術語、圖表、市場與個人準備開始，再進入訊號棒、回檔計數、買賣壓力、缺口及市場週期。單元標題可用來尋找相關補讀，但標題本身無法證明某個外部交易規則或機率數字出自該影片。",
     "readScope": "本次讀取課綱頁首、01–11 及 12A–13A 起始項目的標題與主題；未逐項翻譯全部課綱或觀看付費影片。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1733,6 +2025,10 @@
         "kind": "discovery-material",
         "id": "brooks",
         "index": 1
+      },
+      {
+        "kind": "review",
+        "id": "b-index"
       }
     ],
     "resourceIds": [
@@ -1815,10 +2111,14 @@
     "summaryZh": "Ankit Khound 回顧學習價格行為時的資訊過載，描述重看錄影、由每天標記一筆候選交易開始，以及用逐字稿、圖表註記與筆記整理概念的過程。他轉述 Ali 的建議，將進步描述為需要時間與重複練習的個人經驗。",
     "readScope": "已讀公開文章的個人經歷、練習方法與結語，核對作者及發布日期；未取得其付費輔導影片或審計帳戶。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
+        "id": "ali-overwhelm"
+      },
+      {
+        "kind": "review",
         "id": "ali-overwhelm"
       }
     ],
@@ -1883,6 +2183,218 @@
     "attributionNoteZh": "原頁作者為 Ankit Khound，文中轉述 Ali 的建議；舊索引將作者歸為 Ali，本版已在閱讀呈現層更正。"
   },
   {
+    "id": "c2be8b74a2def9feae0f",
+    "url": "https://www.quantsystems.ca/ptm-library",
+    "sourceTitle": "Pro-Trader Mentoring Library",
+    "titleZh": "專業交易者輔導資料庫：公開介紹選讀",
+    "titleCoverage": "reviewed-title",
+    "status": "intro-only",
+    "summaryZh": "這是過往輔導錄影的資料庫，課程名稱以年月區分。提供者說明各月份通常包含多場錄影，也區分不同教學循環；選課時應先對照主題與錄製時間，不能把資料庫介紹當成已讀課程。",
+    "readScope": "只讀公開頁首 PTM Recorded Sessions 的介紹與月份命名說明；未讀完全部月份課綱、購買或觀看錄影。",
+    "checked": "2026-10-29",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "ali-ptm"
+      },
+      {
+        "kind": "review",
+        "id": "ali-ptm"
+      }
+    ],
+    "resourceIds": [
+      "ali-ptm"
+    ],
+    "legacyObservations": [
+      {
+        "id": "ali-ptm",
+        "scope": "公開逐月目錄已核對；完整錄影未取得",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [
+      {
+        "resourceId": "ali-ptm",
+        "url": "https://www.quantsystems.ca/ptm-library",
+        "sourceTitle": "Pro-Trader Mentoring Library",
+        "sourceTitleZh": "專業交易者輔導資料庫：公開介紹選讀",
+        "checked": "2026-10-29",
+        "published": null,
+        "status": "intro-only",
+        "readScope": "只讀公開頁首 PTM Recorded Sessions 的介紹與月份命名說明；未讀完全部月份課綱、購買或觀看錄影。",
+        "summaryZh": "這是過往輔導錄影的資料庫，課程名稱以年月區分。提供者說明各月份通常包含多場錄影，也區分不同教學循環；選課時應先對照主題與錄製時間，不能把資料庫介紹當成已讀課程。",
+        "keyPointsZh": [
+          "公開頁的錄影時數與內容完整性屬提供者自述，沒有轉成本站已觀看時數。"
+        ],
+        "limitsZh": "僅公開介紹，不是課程逐字稿、近期直播時間表或學員成效評鑑；屬 Ali 自有教材。",
+        "evidence": {
+          "urls": [
+            "https://www.quantsystems.ca/ptm-library"
+          ],
+          "accessMethod": "實際讀取英文官方入口頁首",
+          "scope": "PTM Recorded Sessions 介紹及年月命名；其他月份內容待續。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Ali Moin-Afshari"
+    ],
+    "published": null,
+    "dateNoteZh": "",
+    "keyPointsZh": [
+      "公開頁的錄影時數與內容完整性屬提供者自述，沒有轉成本站已觀看時數。"
+    ],
+    "limitsZh": "僅公開介紹，不是課程逐字稿、近期直播時間表或學員成效評鑑；屬 Ali 自有教材。",
+    "evidence": {
+      "urls": [
+        "https://www.quantsystems.ca/ptm-library"
+      ],
+      "accessMethod": "實際讀取英文官方入口頁首",
+      "scope": "PTM Recorded Sessions 介紹及年月命名；其他月份內容待續。"
+    }
+  },
+  {
+    "id": "c3708000578f39a35fe0",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S105905601200072X",
+    "sourceTitle": "The predictability of opening returns for the returns of the trading day: Evidence from Taiwan futures market",
+    "titleZh": "臺灣期貨開盤報酬研究：公開摘要與導言選讀",
+    "titleCoverage": "reviewed-title",
+    "status": "excerpt-summary",
+    "summaryZh": "Chen 以 2001–2006 年資料，研究現貨大盤開盤後兩個五分鐘區間的報酬，能否用來決定 TX 方向並持有至接近收盤。公開摘要報告計入成本後仍有正結果；訊息取自現貨開盤，不能直接改成微台期貨開盤前十分鐘規則。",
+    "readScope": "直接文章及摘要入口均回傳 403；實際讀到出版社搜尋索引中的公開摘要、導言及部分資料說明，未取得完整方法、結果表或全文。",
+    "checked": "2026-10-29",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "r-opening"
+      },
+      {
+        "kind": "review",
+        "id": "r-opening"
+      }
+    ],
+    "resourceIds": [
+      "r-opening"
+    ],
+    "legacyObservations": [
+      {
+        "id": "r-opening",
+        "scope": "摘要與公開預覽已核對",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [
+      {
+        "resourceId": "r-opening",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S105905601200072X",
+        "sourceTitle": "The predictability of opening returns for the returns of the trading day: Evidence from Taiwan futures market",
+        "sourceTitleZh": "臺灣期貨開盤報酬研究：公開摘要與導言選讀",
+        "checked": "2026-10-29",
+        "published": null,
+        "dateNoteZh": "出版社列 2013 年 1 月、卷 25、頁 272–281；未補造日期。DOI：10.1016/j.iref.2012.07.012。",
+        "status": "excerpt-summary",
+        "readScope": "直接文章及摘要入口均回傳 403；實際讀到出版社搜尋索引中的公開摘要、導言及部分資料說明，未取得完整方法、結果表或全文。",
+        "summaryZh": "Chen 以 2001–2006 年資料，研究現貨大盤開盤後兩個五分鐘區間的報酬，能否用來決定 TX 方向並持有至接近收盤。公開摘要報告計入成本後仍有正結果；訊息取自現貨開盤，不能直接改成微台期貨開盤前十分鐘規則。",
+        "keyPointsZh": [
+          "歷史樣本與資訊時鐘必須保留；不能替今天的微台、比特幣或 Brooks 方法背書。"
+        ],
+        "limitsZh": "只完成可見摘要與導言；未重現交易規則、成本假設或回測，不核發全文摘要完成。",
+        "evidence": {
+          "urls": [
+            "https://www.sciencedirect.com/science/article/abs/pii/S105905601200072X",
+            "https://www.sciencedirect.com/science/article/pii/S105905601200072X"
+          ],
+          "accessMethod": "出版社搜尋索引公開預覽；直接開啟兩個官方入口均 403",
+          "scope": "摘要、導言及部分資料段落；未取得付費全文。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Chun-nan Chen"
+    ],
+    "published": null,
+    "dateNoteZh": "出版社列 2013 年 1 月、卷 25、頁 272–281；未補造日期。DOI：10.1016/j.iref.2012.07.012。",
+    "keyPointsZh": [
+      "歷史樣本與資訊時鐘必須保留；不能替今天的微台、比特幣或 Brooks 方法背書。"
+    ],
+    "limitsZh": "只完成可見摘要與導言；未重現交易規則、成本假設或回測，不核發全文摘要完成。",
+    "evidence": {
+      "urls": [
+        "https://www.sciencedirect.com/science/article/abs/pii/S105905601200072X",
+        "https://www.sciencedirect.com/science/article/pii/S105905601200072X"
+      ],
+      "accessMethod": "出版社搜尋索引公開預覽；直接開啟兩個官方入口均 403",
+      "scope": "摘要、導言及部分資料段落；未取得付費全文。"
+    }
+  },
+  {
+    "id": "c5f7326765be153c6069",
+    "url": "https://www.adamhgrimes.com/volatility-has-a-memory/",
+    "sourceTitle": "Volatility Has a Memory",
+    "titleZh": "波動具有記憶：公開索引選段",
+    "titleCoverage": "reviewed-title",
+    "status": "excerpt-summary",
+    "summaryZh": "Grimes 在可見選段主張，研究市場變化前應先定義量測，並以目前波動作為預估下一期波動的起點，同時保留外部衝擊造成斷裂的例外。他試圖連接量化觀察與裁量解讀；此處尚未取得後續研究細節。",
+    "readScope": "原頁再次無法直接取得；只讀搜尋索引可見的開頭與 Why We Care—A Roadmap 文字，未讀正文全部量化結果、圖表或其餘段落。",
+    "checked": "2026-10-29",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "review",
+        "id": "source-grimes-volatility-memory"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-grimes-volatility-memory",
+        "url": "https://www.adamhgrimes.com/volatility-has-a-memory/",
+        "sourceTitle": "Volatility Has a Memory",
+        "sourceTitleZh": "波動具有記憶：公開索引選段",
+        "checked": "2026-10-29",
+        "published": "2026-09-24",
+        "status": "excerpt-summary",
+        "readScope": "原頁再次無法直接取得；只讀搜尋索引可見的開頭與 Why We Care—A Roadmap 文字，未讀正文全部量化結果、圖表或其餘段落。",
+        "summaryZh": "Grimes 在可見選段主張，研究市場變化前應先定義量測，並以目前波動作為預估下一期波動的起點，同時保留外部衝擊造成斷裂的例外。他試圖連接量化觀察與裁量解讀；此處尚未取得後續研究細節。",
+        "keyPointsZh": [
+          "波動幅度的延續不等於價格方向的延續。"
+        ],
+        "limitsZh": "僅公開索引選段，不宣稱已讀整篇八分鐘文章，也不把作者的預測主張當作本站驗證。",
+        "evidence": {
+          "urls": [
+            "https://www.adamhgrimes.com/volatility-has-a-memory/"
+          ],
+          "accessMethod": "讀取原作者頁的公開搜尋索引選段；直接原頁取用失敗",
+          "scope": "開頭與 Roadmap 指定文字；其他內容待取得。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "published": "2026-09-24",
+    "dateNoteZh": "",
+    "keyPointsZh": [
+      "波動幅度的延續不等於價格方向的延續。"
+    ],
+    "limitsZh": "僅公開索引選段，不宣稱已讀整篇八分鐘文章，也不把作者的預測主張當作本站驗證。",
+    "evidence": {
+      "urls": [
+        "https://www.adamhgrimes.com/volatility-has-a-memory/"
+      ],
+      "accessMethod": "讀取原作者頁的公開搜尋索引選段；直接原頁取用失敗",
+      "scope": "開頭與 Roadmap 指定文字；其他內容待取得。"
+    }
+  },
+  {
     "id": "d91695d26b55824a5afc",
     "url": "https://www.quantsystems.ca/article-position-sizing",
     "sourceTitle": "Position Sizing",
@@ -1892,10 +2404,14 @@
     "summaryZh": "Ali 建議事前輸入商品規格、資金、停損距離及可接受風險，製成部位參考表以減少盤中計算錯誤。波動增加、停損變遠時，部位需隨風險預算調整；保證金所容許的最大口數不等於適合承擔的風險。文末另示範縮短停損後加碼，並明說此管理方式增加工作負荷，不適合初學者。",
     "readScope": "已讀公開正文、快速部位表、動態加碼案例、使用者輸入、每日調整與首次發表說明；未下載試算表或重新計算原案例。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
+        "id": "ali-sizing"
+      },
+      {
+        "kind": "review",
         "id": "ali-sizing"
       }
     ],
@@ -1957,6 +2473,82 @@
     }
   },
   {
+    "id": "da3162e2ea6c958819af",
+    "url": "https://www.brookstradingcourse.com/ask-al/how-many-points-to-risk-per-trade/",
+    "sourceTitle": "Ask Al #113: How many points to risk per trade?",
+    "titleZh": "每筆應冒多少點風險？公開問答選段",
+    "titleCoverage": "reviewed-title",
+    "status": "excerpt-summary",
+    "summaryZh": "提問者希望取得 E-mini 或 Micro E-mini 的固定停損點數。可見回答中 Brooks 傾向依價格結構低點安排保護停損，而不是給所有交易同一點數；文中棒號仍依原案例，不能移作現在的微台或比特幣價位。",
+    "readScope": "直接原頁回傳 403；只讀官方搜尋索引所示提問與首段回答，未讀完整逐字稿、觀看七分鐘影片或核對行情圖。",
+    "checked": "2026-10-29",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "review",
+        "id": "source-brooks-points-risk"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-brooks-points-risk",
+        "url": "https://www.brookstradingcourse.com/ask-al/how-many-points-to-risk-per-trade/",
+        "sourceTitle": "Ask Al #113: How many points to risk per trade?",
+        "sourceTitleZh": "每筆應冒多少點風險？公開問答選段",
+        "checked": "2026-10-29",
+        "published": "2021-05-29",
+        "dateNoteZh": "文章刊登日；頁面標示原問答發生於 2021-05-19。",
+        "status": "excerpt-summary",
+        "readScope": "直接原頁回傳 403；只讀官方搜尋索引所示提問與首段回答，未讀完整逐字稿、觀看七分鐘影片或核對行情圖。",
+        "summaryZh": "提問者希望取得 E-mini 或 Micro E-mini 的固定停損點數。可見回答中 Brooks 傾向依價格結構低點安排保護停損，而不是給所有交易同一點數；文中棒號仍依原案例，不能移作現在的微台或比特幣價位。",
+        "keyPointsZh": [
+          "只取得首段，因此沒有補造其後的管理建議或機率。"
+        ],
+        "limitsZh": "官方問答的部分文字摘要，不等於完整影片或付費課內容完成。",
+        "evidence": {
+          "urls": [
+            "https://www.brookstradingcourse.com/ask-al/how-many-points-to-risk-per-trade/"
+          ],
+          "accessMethod": "讀取官方搜尋索引選段；直接原頁 403",
+          "scope": "問題與首段停損回答；其餘未取得。"
+        },
+        "courseRefs": [
+          {
+            "version": "Main（主課程）／共用價格行為基礎",
+            "unit": "33A",
+            "topic": "保護停損",
+            "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-33a-protective-stops/",
+            "relation": "相關主題補讀；已核對公開標題，不宣稱問答取自該付費影片。"
+          }
+        ]
+      }
+    ],
+    "courseRefs": [
+      {
+        "version": "Main（主課程）／共用價格行為基礎",
+        "unit": "33A",
+        "topic": "保護停損",
+        "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-33a-protective-stops/",
+        "relation": "相關主題補讀；已核對公開標題，不宣稱問答取自該付費影片。"
+      }
+    ],
+    "published": "2021-05-29",
+    "dateNoteZh": "文章刊登日；頁面標示原問答發生於 2021-05-19。",
+    "keyPointsZh": [
+      "只取得首段，因此沒有補造其後的管理建議或機率。"
+    ],
+    "limitsZh": "官方問答的部分文字摘要，不等於完整影片或付費課內容完成。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/ask-al/how-many-points-to-risk-per-trade/"
+      ],
+      "accessMethod": "讀取官方搜尋索引選段；直接原頁 403",
+      "scope": "問題與首段停損回答；其餘未取得。"
+    }
+  },
+  {
     "id": "dfafe0282e69d429a562",
     "url": "https://www.youtube.com/watch?v=guYhIhMkTv8",
     "sourceTitle": "Brad Wolff - Brooks Trading Room Open House November 1, 2024",
@@ -1966,10 +2558,14 @@
     "summaryZh": "本輪無法取得內容，尚未完成影片摘要。既有標題只保留為查找線索，不由標題推定片中觀點。",
     "readScope": "本輪直接開啟影片頁失敗；以精確影片 ID 搜尋無結果。未取得影片說明、字幕或內容。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
+        "id": "yt-guYhIhMkTv8"
+      },
+      {
+        "kind": "review",
         "id": "yt-guYhIhMkTv8"
       }
     ],
@@ -2023,6 +2619,70 @@
     }
   },
   {
+    "id": "ea097b1f9392051cff5f",
+    "url": "https://www.wyckoffanalytics.com/wyckoff-reaccumulation-vs-distribution-how-to-tell-which-one-youre-in/",
+    "sourceTitle": "Wyckoff Reaccumulation vs Distribution: How to Tell Which One You’re In",
+    "titleZh": "再累積與派發：比較線索，保留未決",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "文章比較回檔量、擺動幅度、測試後反應與較大背景，提醒兩種區間起初可能相似，Spring 或 UTAD 也不是必備。較長時間停在區間下半部，單獨看並不足以判定派發；後續反應及價量條件仍須一起讀。",
+    "readScope": "已讀公開正文的五項線索、常見誤判、FAQ 與結語；未讀文中連結的完整課程或重製案例圖。原網址已在清單，本次屬補讀。",
+    "checked": "2026-10-29",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "wyckoff-spring",
+        "index": 0
+      },
+      {
+        "kind": "review",
+        "id": "source-wyckoff-reaccumulation"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-wyckoff-reaccumulation",
+        "url": "https://www.wyckoffanalytics.com/wyckoff-reaccumulation-vs-distribution-how-to-tell-which-one-youre-in/",
+        "sourceTitle": "Wyckoff Reaccumulation vs Distribution: How to Tell Which One You’re In",
+        "sourceTitleZh": "再累積與派發：比較線索，保留未決",
+        "checked": "2026-10-29",
+        "published": "2026-09-28",
+        "status": "body-summary",
+        "readScope": "已讀公開正文的五項線索、常見誤判、FAQ 與結語；未讀文中連結的完整課程或重製案例圖。原網址已在清單，本次屬補讀。",
+        "summaryZh": "文章比較回檔量、擺動幅度、測試後反應與較大背景，提醒兩種區間起初可能相似，Spring 或 UTAD 也不是必備。較長時間停在區間下半部，單獨看並不足以判定派發；後續反應及價量條件仍須一起讀。",
+        "keyPointsZh": [
+          "大戶吸收或派發是方法的解釋框架；圖形不能確認真實參與者身分。"
+        ],
+        "limitsZh": "原作者教育機構的分析與歷史案例，沒有微台／BTC 的樣本外績效或獨立成效評分。",
+        "evidence": {
+          "urls": [
+            "https://www.wyckoffanalytics.com/wyckoff-reaccumulation-vs-distribution-how-to-tell-which-one-youre-in/"
+          ],
+          "accessMethod": "實際讀取英文原作者完整公開正文",
+          "scope": "五項線索、誤判、FAQ 至結語；外連教材未計入。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "published": "2026-09-28",
+    "dateNoteZh": "",
+    "keyPointsZh": [
+      "大戶吸收或派發是方法的解釋框架；圖形不能確認真實參與者身分。"
+    ],
+    "limitsZh": "原作者教育機構的分析與歷史案例，沒有微台／BTC 的樣本外績效或獨立成效評分。",
+    "evidence": {
+      "urls": [
+        "https://www.wyckoffanalytics.com/wyckoff-reaccumulation-vs-distribution-how-to-tell-which-one-youre-in/"
+      ],
+      "accessMethod": "實際讀取英文原作者完整公開正文",
+      "scope": "五項線索、誤判、FAQ 至結語；外連教材未計入。"
+    }
+  },
+  {
     "id": "1d596485e1eff3e7a57f",
     "url": "https://www.tradingview.com/pine-script-docs/concepts/repainting/",
     "sourceTitle": "重繪有不同種類：即時更新與偷看未來分開檢查",
@@ -2032,7 +2692,7 @@
     "summaryZh": "官方文件區分未收線值變動、回畫過去、未來資料洩漏與資料修訂等情況，不能只用重繪二字判定所有工具。",
     "readScope": "已讀官方文件的定義、分類及使用者檢查問題；未審查本批任何腳本實際程式。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "article-source",
@@ -2048,17 +2708,18 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": [],
+    "authors": [
+      "TradingView"
+    ],
     "existingExcerpt": {
       "summaryZh": "官方文件區分未收線值變動、回畫過去、未來資料洩漏與資料修訂等情況，不能只用重繪二字判定所有工具。",
-      "quote": {
-        "en": "Not all repainting behavior is inherently useless or misleading",
-        "zh": "並非所有重繪行為本質上都毫無用處或具有誤導性。",
-        "context": "原文接著討論使用者是否了解即時與歷史行為；不是替所有回測結果背書。"
-      },
       "readScope": "已讀官方文件的定義、分類及使用者檢查問題；未審查本批任何腳本實際程式。",
       "checked": "2026-10-29",
-      "translationScope": "短句與繁中摘要，不轉載完整文件或程式碼。"
-    }
+      "translationScope": "短句與繁中摘要，不轉載完整文件或程式碼。",
+      "cardId": "tv-repainting-definition"
+    },
+    "published": null,
+    "dateNoteZh": "文件未提供本輪可核對的發布日；查核的是目前可讀的 v6 文件。"
   },
   {
     "id": "223ed9e47d26a4e68640",
@@ -2070,7 +2731,7 @@
     "summaryZh": "作者以玉米案例提醒：短期型態未如預期發展時，要重看較大結構，空手也可以是有效選擇。",
     "readScope": "已讀公開文字；未重用原文圖表。",
     "checked": "2026-10-28",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "article-source",
@@ -2086,17 +2747,18 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": [],
+    "authors": [
+      "Adam H. Grimes"
+    ],
     "existingExcerpt": {
       "summaryZh": "作者以玉米案例提醒：短期型態未如預期發展時，要重看較大結構，空手也可以是有效選擇。",
-      "quote": {
-        "en": "Remember, no bias, no edge, and flat are perfectly valid positions!",
-        "zh": "記住，不持方向看法、沒有優勢以及空手，都是完全合理的狀態！",
-        "context": "原文結尾的提醒；不是建議反手或保證後面上漲。"
-      },
       "readScope": "已讀公開文字；未重用原文圖表。",
       "checked": "2026-10-28",
-      "translationScope": "來源短摘要與必要短句翻譯；非全文譯文。"
-    }
+      "translationScope": "來源短摘要與必要短句翻譯；非全文譯文。",
+      "cardId": "grimes-failure"
+    },
+    "published": "2021-04-09",
+    "dateNoteZh": "原頁明列發布日；本輪新收錄，不是新發布。"
   },
   {
     "id": "2617ab025c0fe09d104e",
@@ -2108,7 +2770,7 @@
     "summaryZh": "文章由單棒外觀擴展到兩棒背景、價位測試與第三棒對預期的確認或否定，強調讀圖還不是完整交易方法。",
     "readScope": "已讀公開正文；來源圖未搬入本站。",
     "checked": "2026-10-28",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "article-source",
@@ -2124,17 +2786,18 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": [],
+    "authors": [
+      "Galen Woods"
+    ],
     "existingExcerpt": {
       "summaryZh": "文章由單棒外觀擴展到兩棒背景、價位測試與第三棒對預期的確認或否定，強調讀圖還不是完整交易方法。",
-      "quote": {
-        "en": "However, reading price action is not enough for trading price action.",
-        "zh": "然而，讀懂價格行為，還不足以進行價格行為交易。",
-        "context": "作者在文末區分讀圖能力與完整交易方法。"
-      },
       "readScope": "已讀公開正文；來源圖未搬入本站。",
       "checked": "2026-10-28",
-      "translationScope": "必要短句翻譯、繁中短摘要與本站自編練習。"
-    }
+      "translationScope": "必要短句翻譯、繁中短摘要與本站自編練習。",
+      "cardId": "woods-three-bars"
+    },
+    "published": null,
+    "dateNoteZh": "原頁未顯示可核對的發布日；不以搜尋估算年份代替。"
   },
   {
     "id": "26e3244d33edc25b40bd",
@@ -2146,7 +2809,7 @@
     "summaryZh": "作者列出觸及、中線、完整回補及反轉後事件，並明示統計表只是描述圖上缺口行為，不是勝率。",
     "readScope": "已讀公開腳本說明與統計欄位；沒有執行、審計或核發其非重繪聲明。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "article-source",
@@ -2162,17 +2825,18 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": [],
+    "authors": [
+      "Stable_Logic"
+    ],
     "existingExcerpt": {
       "summaryZh": "作者列出觸及、中線、完整回補及反轉後事件，並明示統計表只是描述圖上缺口行為，不是勝率。",
-      "quote": {
-        "en": "The table is descriptive. It shows how gaps behaved on this chart; it is not a win rate.",
-        "zh": "這張表是描述性的。它呈現缺口在這張圖上的表現；它不是勝率。",
-        "context": "對應原頁 Statistics 段落；不同事件的分母仍須各自核對。"
-      },
       "readScope": "已讀公開腳本說明與統計欄位；沒有執行、審計或核發其非重繪聲明。",
       "checked": "2026-10-29",
-      "translationScope": "短句翻譯與摘要；屬作者自己的 ICT 風格實作，不是 ICT 原課翻譯。"
-    }
+      "translationScope": "短句翻譯與摘要；屬作者自己的 ICT 風格實作，不是 ICT 原課翻譯。",
+      "cardId": "tv-fvg-descriptive-stats"
+    },
+    "published": null,
+    "dateNoteZh": "頁面只顯示相對時間；確切發布日未核對。"
   },
   {
     "id": "3892838797764325e90f",
@@ -2184,7 +2848,7 @@
     "summaryZh": "回答者指出 sometimes 沒有固定百分比，最後另將它解讀為少數可能；後者屬該會員判讀，本站不據此指定低於 50%。",
     "readScope": "已讀公開提問及所列回答；官方詞彙表另以可見索引核對，直接頁面本輪回應 403。",
     "checked": "2026-10-28",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "community",
@@ -2195,17 +2859,18 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": [],
+    "authors": [
+      "提問 kenetrader；回覆 Zunquan（會員）"
+    ],
     "existingExcerpt": {
       "summaryZh": "回答者指出 sometimes 沒有固定百分比，最後另將它解讀為少數可能；後者屬該會員判讀，本站不據此指定低於 50%。",
-      "quote": {
-        "en": "However, he does not assign a fixed percentage to sometimes.",
-        "zh": "然而，他並沒有替 sometimes 指定一個固定百分比。",
-        "context": "這是會員回答的短句，不能改標為 Al Brooks 原話。"
-      },
       "readScope": "已讀公開提問及所列回答；官方詞彙表另以可見索引核對，直接頁面本輪回應 403。",
       "checked": "2026-10-28",
-      "translationScope": "會員短句翻譯與摘要；不代表已觀看付費課。"
-    }
+      "translationScope": "會員短句翻譯與摘要；不代表已觀看付費課。",
+      "cardId": "brooks-forum-sometimes"
+    },
+    "published": "2026-01-22",
+    "dateNoteZh": "提問 2026-01-22；所讀回答 2026-08-30；原頁時區未核對。"
   },
   {
     "id": "556ebe1e576b291ac491",
@@ -2217,7 +2882,7 @@
     "summaryZh": "本小節把價格預測區分為基本面與技術分析，並以表格列出趨勢追蹤及趨勢預測的例子。原文沒有提供回測或績效證據。",
     "readScope": "Price Forecasting 小節的三句正文與五列表格；本篇新增導覽、練習及校對註亦依相同授權。",
     "checked": "2026-10-26",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "article-source",
@@ -2252,7 +2917,7 @@
     "summaryZh": "腳本作者明示擺動標籤需等後續棒完成才定案，無法在回畫的歷史標籤位置實時成交。",
     "readScope": "已讀英文公開說明與重繪警示；未執行或驗證策略回測。",
     "checked": "2026-10-28",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "community",
@@ -2263,17 +2928,52 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": [],
+    "authors": [
+      "PineIndicators；頁面致謝 Zeiierman"
+    ],
     "existingExcerpt": {
       "summaryZh": "腳本作者明示擺動標籤需等後續棒完成才定案，無法在回畫的歷史標籤位置實時成交。",
-      "quote": {
-        "en": "It is not possible to execute at historical label points.",
-        "zh": "無法在那些歷史標籤點位執行交易。",
-        "context": "原文的重繪警示；標籤位置與確認時間必須分開。"
-      },
       "readScope": "已讀英文公開說明與重繪警示；未執行或驗證策略回測。",
       "checked": "2026-10-28",
-      "translationScope": "僅短句與摘要，不重刊開源腳本全文。"
-    }
+      "translationScope": "僅短句與摘要，不重刊開源腳本全文。",
+      "cardId": "tv-repainting"
+    },
+    "published": "2025-09-09",
+    "dateNoteZh": "原頁發布日；本輪只讀作者說明，未審查或執行程式碼。"
+  },
+  {
+    "id": "72ce74c836caf68fe3fa",
+    "url": "https://www.tradingview.com/script/bUk7gcA1-AG-Pro-Fair-Value-Gap-Engine-AGPro-Series/",
+    "sourceTitle": "AG Pro Fair Value Gap Engine [AGPro Series]",
+    "titleZh": "三棒失衡區品質評分不是經校準的價格機率",
+    "titleCoverage": "reviewed-title",
+    "status": "excerpt-summary",
+    "summaryZh": "作者依形成、存續、回補與老化追蹤三棒失衡區域，再用大小、返回速度、相對量及觸及後反應評分。分數用於比較模型內事件；作者明說高分不保證方向結果，提醒也不是交易指令。",
+    "readScope": "已讀公開說明的辨識、追蹤、老化、回補、評分、提醒及限制；未讀程式碼、執行指標或驗證非重繪與績效。",
+    "checked": "2026-10-29",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "tv-fvg-score-not-probability"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "AGProLabs"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "作者依形成、存續、回補與老化追蹤三棒失衡區域，再用大小、返回速度、相對量及觸及後反應評分。分數用於比較模型內事件；作者明說高分不保證方向結果，提醒也不是交易指令。",
+      "readScope": "已讀公開說明的辨識、追蹤、老化、回補、評分、提醒及限制；未讀程式碼、執行指標或驗證非重繪與績效。",
+      "checked": "2026-10-29",
+      "translationScope": "第三方工具說明的短摘要與短句翻譯；不是 ICT 原課、程式全文或策略驗證。",
+      "cardId": "tv-fvg-score-not-probability"
+    },
+    "published": null,
+    "dateNoteZh": "頁面顯示 4 月 6 日、更新 6 月 13 日；年份未可靠核對，不補造完整日期。"
   },
   {
     "id": "7c42076ddc983d88797a",
@@ -2285,7 +2985,7 @@
     "summaryZh": "留言者自報當年自訂 Brooks 風格系統勝率 68%，僅交易 MES，並有風險篩選、限價未成交及保本退出；未提供本站可對帳的完整紀錄。",
     "readScope": "已讀提問、該留言的限制及後續回覆；未取得原始交易資料。",
     "checked": "2026-10-28",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "community",
@@ -2296,17 +2996,18 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": [],
+    "authors": [
+      "r/Daytrading；重點留言 T3RCX"
+    ],
     "existingExcerpt": {
       "summaryZh": "留言者自報當年自訂 Brooks 風格系統勝率 68%，僅交易 MES，並有風險篩選、限價未成交及保本退出；未提供本站可對帳的完整紀錄。",
-      "quote": {
-        "en": "Only applies to /MES because it's all I trade.",
-        "zh": "這只適用於 /MES，因為我只交易這個商品。",
-        "context": "68% 是留言者自述，不是 Brooks 官方統計，也不是微台或 BTC 勝率。"
-      },
       "readScope": "已讀提問、該留言的限制及後續回覆；未取得原始交易資料。",
       "checked": "2026-10-28",
-      "translationScope": "短句對照與繁中摘要；不整篇搬運討論串。"
-    }
+      "translationScope": "短句對照與繁中摘要；不整篇搬運討論串。",
+      "cardId": "reddit-winrate"
+    },
+    "published": null,
+    "dateNoteZh": "正文僅顯示相對日期；精確發帖日期未核對。"
   },
   {
     "id": "7dadb93f6cae6c0032f1",
@@ -2318,7 +3019,7 @@
     "summaryZh": "AMZN 案例頁 FAQ 明示吸收不一定造成反轉，還需後續證據。這輪只整理公開文字，沒有聲稱看過影片。",
     "readScope": "已讀公開介紹及 FAQ；未取得完整影片、逐字稿或成交紀錄。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "community",
@@ -2329,17 +3030,18 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": [],
+    "authors": [
+      "Bookmap（公開課程頁）"
+    ],
     "existingExcerpt": {
       "summaryZh": "AMZN 案例頁 FAQ 明示吸收不一定造成反轉，還需後續證據。這輪只整理公開文字，沒有聲稱看過影片。",
-      "quote": {
-        "en": "No — it must be followed by additional confirming signs like CVD or momentum pause.",
-        "zh": "不一定——之後還必須出現其他確認跡象，例如 CVD 或動能暫停。",
-        "context": "原問題問吸收是否總會導致反轉；CVD 的變化方式不能由這句短答自行補造。"
-      },
       "readScope": "已讀公開介紹及 FAQ；未取得完整影片、逐字稿或成交紀錄。",
       "checked": "2026-10-29",
-      "translationScope": "公開短答翻譯與摘要；不是五分鐘影片的完整翻譯。"
-    }
+      "translationScope": "公開短答翻譯與摘要；不是五分鐘影片的完整翻譯。",
+      "cardId": "bookmap-absorption-faq"
+    },
+    "published": null,
+    "dateNoteZh": "原頁未列可核對的發布日；AMZN 是案例商品，沒有視為當日行情。"
   },
   {
     "id": "91c65725042121b361d3",
@@ -2351,7 +3053,7 @@
     "summaryZh": "留言者以較大 Delta 卻沒有相應價格進展討論吸收，並建議把價位成交量與價格條件一起用於提醒。",
     "readScope": "已讀指定貼文文字，沒有重製其他回覆或原圖。",
     "checked": "2026-10-28",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "community",
@@ -2362,17 +3064,52 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": [],
+    "authors": [
+      "binaryduke（自述為工具開發者與訂單流講師）"
+    ],
     "existingExcerpt": {
       "summaryZh": "留言者以較大 Delta 卻沒有相應價格進展討論吸收，並建議把價位成交量與價格條件一起用於提醒。",
-      "quote": {
-        "en": "if you can read footprint raw data, it's easy to see absorption.",
-        "zh": "如果你能讀懂足跡圖的原始資料，就很容易看出吸收。",
-        "context": "這是留言者對易讀性的主觀評價，不是本站已驗證結論。"
-      },
       "readScope": "已讀指定貼文文字，沒有重製其他回覆或原圖。",
       "checked": "2026-10-28",
-      "translationScope": "短句翻譯與摘要；留言不等於 Sierra 官方定義。"
-    }
+      "translationScope": "短句翻譯與摘要；留言不等於 Sierra 官方定義。",
+      "cardId": "sierra-absorption"
+    },
+    "published": "2020-06-07",
+    "dateNoteZh": "貼文時間 2020-06-07 14:12:25；原頁未明確標示該貼文時區。"
+  },
+  {
+    "id": "db22cee358b8e2a8e4c6",
+    "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=97845",
+    "sourceTitle": "Can't obtain stacking/pulling data on replay",
+    "titleZh": "掛單增加／撤減回放：先確認市場深度歷史",
+    "titleCoverage": "reviewed-title",
+    "status": "excerpt-summary",
+    "summaryZh": "官方支援說明，掛單增加與撤減由市場深度變化推導，並非另外儲存的一套資料。回放需要對應時段的深度歷史；連續期貨跨換月時，也可能需要逐契約取得資料。",
+    "readScope": "已讀單頁第 1–14 則全部文字；未操作軟體、下載或驗證深度歷史。",
+    "checked": "2026-10-29",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "sierra-depth-replay"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "提問 cmack1011；重點回覆 John — SC Support"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "官方支援說明，掛單增加與撤減由市場深度變化推導，並非另外儲存的一套資料。回放需要對應時段的深度歷史；連續期貨跨換月時，也可能需要逐契約取得資料。",
+      "readScope": "已讀單頁第 1–14 則全部文字；未操作軟體、下載或驗證深度歷史。",
+      "checked": "2026-10-29",
+      "translationScope": "公開討論的短摘要與必要短句；不是軟體操作手冊全文。",
+      "cardId": "sierra-depth-replay"
+    },
+    "published": "2025-02-01",
+    "dateNoteZh": "實讀首帖至 2025-02-17 回覆；原頁時間的時區未核對。"
   },
   {
     "id": "e5df3c433f8f08e4c1b1",
@@ -2384,7 +3121,7 @@
     "summaryZh": "文章把可見掛單、實際成交及價格反應放入目標規劃，並提示資料層級、深度歷史與商品支援需分別檢查。",
     "readScope": "已讀公開文字的資料與目標規劃段落；未重製原圖或驗證其 ES 案例成交。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "community",
@@ -2395,17 +3132,18 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": [],
+    "authors": [
+      "Bookmap"
+    ],
     "existingExcerpt": {
       "summaryZh": "文章把可見掛單、實際成交及價格反應放入目標規劃，並提示資料層級、深度歷史與商品支援需分別檢查。",
-      "quote": {
-        "en": "The map shows the passive side, and volume dots show the aggressive side.",
-        "zh": "圖上呈現被動委託這一側，成交量圓點則呈現主動成交這一側。",
-        "context": "對應原頁主動／被動委託的簡要說明；圖上的數量不是保證能成交的數量。"
-      },
       "readScope": "已讀公開文字的資料與目標規劃段落；未重製原圖或驗證其 ES 案例成交。",
       "checked": "2026-10-29",
-      "translationScope": "來源短摘要與短句對照；沒有完整重刊供應商文章。"
-    }
+      "translationScope": "來源短摘要與短句對照；沒有完整重刊供應商文章。",
+      "cardId": "bookmap-target-map"
+    },
+    "published": "2025-10-14",
+    "dateNoteZh": "原頁明列日期並有 Updated 標示；更新日未另提供。"
   },
   {
     "id": "f51078b6a9c53a692968",
@@ -2417,7 +3155,7 @@
     "summaryZh": "原文以理想化圖式整理累積與派發，也明示基本累積模型不能涵蓋交易區間的所有變化。",
     "readScope": "已讀公開 PDF 的文字，核對作者、刊期與模型限制；未重製圖式或原文市場圖。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "article-source",
@@ -2433,17 +3171,18 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": [],
+    "authors": [
+      "Hank Pruden、Max von Lichtenstein"
+    ],
     "existingExcerpt": {
       "summaryZh": "原文以理想化圖式整理累積與派發，也明示基本累積模型不能涵蓋交易區間的所有變化。",
-      "quote": {
-        "en": "this basic model does not offer a schematic for all the possible variations",
-        "zh": "這個基本模型並沒有為所有可能的變化提供圖式。",
-        "context": "原文第 1 頁（刊頁 6）的累積模型說明；不是宣稱可以預先識別每段行情。"
-      },
       "readScope": "已讀公開 PDF 的文字，核對作者、刊期與模型限制；未重製圖式或原文市場圖。",
       "checked": "2026-10-29",
-      "translationScope": "來源短摘要與必要短句翻譯；非論文全文譯文。"
-    }
+      "translationScope": "來源短摘要與必要短句翻譯；非論文全文譯文。",
+      "cardId": "wyckoff-schematics-paper"
+    },
+    "published": null,
+    "dateNoteZh": "刊物明列 Issue 55、2006 年 3 月；不以 2019 年下載路徑當成發表日期。"
   },
   {
     "id": "fc5f102a8f296ec9cd48",
@@ -2455,7 +3194,7 @@
     "summaryZh": "提問者覺得解讀常有兩種方向；回覆一方建議增加觀察練習，另一方談其他確認方法。分歧是學習感受，不能決定方法是否有效。",
     "readScope": "已讀公開提問與可見回覆，沒有加入私群或聯絡作者。",
     "checked": "2026-10-28",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "community",
@@ -2466,17 +3205,18 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": [],
+    "authors": [
+      "提問 hello_diddy；短句回覆 OffbeatConcur_109"
+    ],
     "existingExcerpt": {
       "summaryZh": "提問者覺得解讀常有兩種方向；回覆一方建議增加觀察練習，另一方談其他確認方法。分歧是學習感受，不能決定方法是否有效。",
-      "quote": {
-        "en": "maybe you just need more screen time instead of another book",
-        "zh": "也許你只是需要更多看盤練習，而不是另一本書。",
-        "context": "回覆者的建議；不是已測量的學習成效，也不能取代系統化練習。"
-      },
       "readScope": "已讀公開提問與可見回覆，沒有加入私群或聯絡作者。",
       "checked": "2026-10-28",
-      "translationScope": "必要短句翻譯與來源摘要；不同回覆不合併成社群共識。"
-    }
+      "translationScope": "必要短句翻譯與來源摘要；不同回覆不合併成社群共識。",
+      "cardId": "reddit-first-principles"
+    },
+    "published": null,
+    "dateNoteZh": "頁面只見相對時間，精確發布日未核對，不稱為今天新帖。"
   },
   {
     "id": "fcf8997c72866e681dbd",
@@ -2488,7 +3228,7 @@
     "summaryZh": "原文以整理前的價格移動幅度作為突破後目標的參考，並以股票先漲5的例子說明；沒有給出回補或目標達成率。",
     "readScope": "Targets小節的前兩段及緊接一行圖例占位文字。其後泡沫討論與另一行占位文字未翻入；非全小節或全章。",
     "checked": "2026-10-29",
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "article-source",
@@ -2583,7 +3323,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2617,7 +3357,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2656,7 +3396,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2690,7 +3430,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2724,7 +3464,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2758,7 +3498,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2792,7 +3532,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2831,7 +3571,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2870,7 +3610,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2909,7 +3649,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2943,7 +3683,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2982,7 +3722,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3016,7 +3756,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3050,7 +3790,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3089,7 +3829,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3123,7 +3863,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3162,7 +3902,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3206,7 +3946,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3240,7 +3980,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3274,7 +4014,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3308,7 +4048,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3342,7 +4082,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3390,7 +4130,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3424,7 +4164,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3449,40 +4189,6 @@
     ]
   },
   {
-    "id": "6b27f6a92edb0bb28ab8",
-    "url": "https://hub.hku.hk/bitstream/10722/184789/1/content.pdf",
-    "sourceTitle": "Overconfident Individual Day Traders: Evidence from the Taiwan Futures Market",
-    "titleZh": "過度自信的個人日內交易者：來自臺灣期貨市場的證據",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "r-traders"
-      }
-    ],
-    "resourceIds": [
-      "r-traders"
-    ],
-    "legacyObservations": [
-      {
-        "id": "r-traders",
-        "scope": "作者公開論文已核對",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Kuo / Lin"
-    ]
-  },
-  {
     "id": "6b9c99dbc6a101290d72",
     "url": "https://www.youtube.com/watch?v=n3eYTnlPBRA",
     "sourceTitle": "Signal Bars and Entry Sequence",
@@ -3492,7 +4198,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3526,7 +4232,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3565,7 +4271,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3604,7 +4310,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3643,7 +4349,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3682,7 +4388,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3716,7 +4422,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3750,7 +4456,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3798,7 +4504,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3832,7 +4538,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3866,7 +4572,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3900,7 +4606,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3934,7 +4640,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3973,7 +4679,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -4007,7 +4713,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -4041,7 +4747,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -4075,7 +4781,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -4109,7 +4815,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -4148,7 +4854,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -4182,7 +4888,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -4221,7 +4927,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -4260,7 +4966,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -4295,74 +5001,6 @@
     ]
   },
   {
-    "id": "c2be8b74a2def9feae0f",
-    "url": "https://www.quantsystems.ca/ptm-library",
-    "sourceTitle": "PTM Library｜逐月教學公開索引",
-    "titleZh": "PTM 資料庫：逐月教學公開索引",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "ali-ptm"
-      }
-    ],
-    "resourceIds": [
-      "ali-ptm"
-    ],
-    "legacyObservations": [
-      {
-        "id": "ali-ptm",
-        "scope": "公開逐月目錄已核對；完整錄影未取得",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Ali Moin-Afshari"
-    ]
-  },
-  {
-    "id": "c3708000578f39a35fe0",
-    "url": "https://www.sciencedirect.com/science/article/abs/pii/S105905601200072X",
-    "sourceTitle": "The predictability of opening returns for the returns of the trading day (2013)",
-    "titleZh": "開盤報酬對交易日報酬的預測能力（2013）",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "r-opening"
-      }
-    ],
-    "resourceIds": [
-      "r-opening"
-    ],
-    "legacyObservations": [
-      {
-        "id": "r-opening",
-        "scope": "摘要與公開預覽已核對",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Chun-nan Chen"
-    ]
-  },
-  {
     "id": "c800071a664890818c46",
     "url": "https://www.marketlife.com/subscriptions",
     "sourceTitle": "Daily Insight／Live Trade Rooms／Vault 內容說明",
@@ -4372,7 +5010,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -4411,7 +5049,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -4455,7 +5093,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -4489,7 +5127,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -4523,7 +5161,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -4562,7 +5200,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -4589,251 +5227,6 @@
     "titleNote": "",
     "authors": [
       "Nial Fuller／Learn To Trade The Market"
-    ]
-  },
-  {
-    "id": "d714c5fa54bb85e54c71",
-    "url": "https://www.youtube.com/watch?v=XjQ6BnFWCbI",
-    "sourceTitle": "Brad Wolff - Trading Room Sample - Wednesday 1400-1630 ET",
-    "titleZh": "Brad Wolff：交易室樣片，星期三美東時間 14:00–16:30",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-XjQ6BnFWCbI"
-      }
-    ],
-    "resourceIds": [
-      "yt-XjQ6BnFWCbI"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-XjQ6BnFWCbI",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "e68c5b574a80c04a4679",
-    "url": "https://www.tradingsetupsreview.com/course/info/overview/",
-    "sourceTitle": "Day Trading With Price Action：課綱與試讀入口",
-    "titleZh": "價格行為日內交易：課綱與試讀入口",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "discovery-galen-woods-3"
-      },
-      {
-        "kind": "discovery-material",
-        "id": "galen-woods",
-        "index": 2
-      },
-      {
-        "kind": "book-extra",
-        "id": "Day Trading with Price Action"
-      }
-    ],
-    "resourceIds": [
-      "discovery-galen-woods-3"
-    ],
-    "legacyObservations": [
-      {
-        "id": "discovery-galen-woods-3",
-        "scope": "已核對官方公開頁面與入口；未完整觀看全部影片或付費課程。",
-        "checked": "2026-10-24"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Galen Woods／Trading Setups Review"
-    ]
-  },
-  {
-    "id": "e984cd9f76527a9c49fa",
-    "url": "https://www.youtube.com/watch?v=PANDw0TEKXc",
-    "sourceTitle": "Quant Systems Q&A with Brad Wolff and James Regan",
-    "titleZh": "Quant Systems 問答：Brad Wolff 與 James Regan",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-PANDw0TEKXc"
-      }
-    ],
-    "resourceIds": [
-      "yt-PANDw0TEKXc"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-PANDw0TEKXc",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "f005d3ca47ce922a3006",
-    "url": "https://www.youtube.com/watch?v=4Fwt7CcEc1o",
-    "sourceTitle": "How Systematic Traders Study",
-    "titleZh": "系統化交易者如何學習",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-4Fwt7CcEc1o"
-      }
-    ],
-    "resourceIds": [
-      "yt-4Fwt7CcEc1o"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-4Fwt7CcEc1o",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "fc1562d7af2eab15f635",
-    "url": "https://www.youtube.com/watch?v=uLF4z6Z2WeU",
-    "sourceTitle": "Breakout Trading System",
-    "titleZh": "突破交易系統",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-uLF4z6Z2WeU"
-      }
-    ],
-    "resourceIds": [
-      "yt-uLF4z6Z2WeU"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-uLF4z6Z2WeU",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "0016aa5ebb7d21845a77",
-    "url": "https://www.youtube.com/watch?v=EScpoMFNvFw",
-    "sourceTitle": "Emini End of Day Review - Monday June 5, 2023 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-EScpoMFNvFw"
-      }
-    ],
-    "resourceIds": [
-      "yt-EScpoMFNvFw"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-EScpoMFNvFw",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "0020411f12c8f23bd1f5",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-to-continue-sideways/",
-    "sourceTitle": "Emini Likely to Continue Sideways into Year End",
-    "titleZh": "Brad 日內案例｜2022-12-28｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-167287"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-167287"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-167287",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

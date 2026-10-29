@@ -1,5 +1,203 @@
 [
   {
+    "id": "9f6c65b72e30059dc7e1",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-continued-trading-range-price-action-on-daily/",
+    "sourceTitle": "E-Mini Continued Trading Range Price Action on Daily",
+    "titleZh": "Brad 日內案例｜2025-09-03｜區間與通道",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-249447"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-249447"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-249447",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "9f7f8a6d2431842a7e8a",
+    "url": "https://www.youtube.com/watch?v=DB7Q_qw8yLM",
+    "sourceTitle": "Emini End of Day Review - Wednesday, February 26, 2025 - Brad Wolff",
+    "titleZh": "Brad 公開影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-DB7Q_qw8yLM"
+      }
+    ],
+    "resourceIds": [
+      "yt-DB7Q_qw8yLM"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-DB7Q_qw8yLM",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "9fa3395a21bf57872093",
+    "url": "https://www.youtube.com/watch?v=lS0Da2Cpeqs",
+    "sourceTitle": "Why Most Trading Systems Fail (Reason 3)",
+    "titleZh": "系統失敗的可能原因 3",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-lS0Da2Cpeqs"
+      }
+    ],
+    "resourceIds": [
+      "yt-lS0Da2Cpeqs"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-lS0Da2Cpeqs",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Ali／Quant Systems 頻道"
+    ]
+  },
+  {
+    "id": "9fb472eb480c443b6ab6",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-strong-enough-momentum-to-reach-7000/",
+    "sourceTitle": "E-mini Strong Enough Momentum to Reach 7,000",
+    "titleZh": "Brad 日內案例｜2025-12-03｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-256236"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-256236"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-256236",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "9fd2155ad86f25240948",
+    "url": "https://www.youtube.com/watch?v=YJWTy01KYlU",
+    "sourceTitle": "Emini End of Day Review - Tuesday, July 29, 2025 - Brad Wolff",
+    "titleZh": "Brad 公開影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-YJWTy01KYlU"
+      }
+    ],
+    "resourceIds": [
+      "yt-YJWTy01KYlU"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-YJWTy01KYlU",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "9fee62e9d9b6d4b15e4e",
+    "url": "https://www.youtube.com/watch?v=GBqA_oKFvmc",
+    "sourceTitle": "S&P 500 Emini Opening Bear Reversal, Selloff, then Trading Range into Close - May 4, 2026",
+    "titleZh": "Brooks 共享影片｜區間與通道／反轉與陷阱",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-GBqA_oKFvmc"
+      }
+    ],
+    "resourceIds": [
+      "yt-GBqA_oKFvmc"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-GBqA_oKFvmc",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "a0096a2a02cc4a01d5cd",
     "url": "https://www.youtube.com/watch?v=1b_8da8qbmc",
     "sourceTitle": "Outlook for 2010-02-08",
@@ -9,7 +207,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -42,7 +240,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "course-index",
@@ -64,7 +262,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -97,7 +295,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -130,7 +328,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -163,7 +361,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -196,7 +394,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -229,7 +427,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -262,7 +460,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -295,7 +493,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -328,7 +526,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -361,7 +559,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -394,7 +592,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -427,7 +625,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -460,7 +658,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -493,7 +691,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "article-source",
@@ -521,7 +719,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -554,7 +752,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -587,7 +785,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -620,7 +818,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -653,7 +851,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -686,7 +884,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -719,7 +917,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -752,7 +950,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -785,7 +983,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -818,7 +1016,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -851,7 +1049,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -884,7 +1082,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "media-episode",
@@ -907,7 +1105,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -941,7 +1139,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -974,7 +1172,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1007,7 +1205,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1040,7 +1238,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1073,7 +1271,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1106,7 +1304,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1139,7 +1337,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "course-index",
@@ -1161,7 +1359,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1194,7 +1392,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1227,7 +1425,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1260,7 +1458,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1293,7 +1491,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1326,7 +1524,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1359,7 +1557,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1393,7 +1591,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "book",
@@ -1415,7 +1613,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1448,7 +1646,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1482,7 +1680,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1515,7 +1713,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1548,7 +1746,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1581,7 +1779,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1614,7 +1812,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "course-index",
@@ -1636,7 +1834,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1669,7 +1867,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1702,7 +1900,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1735,7 +1933,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1768,7 +1966,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1801,7 +1999,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1834,7 +2032,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1867,7 +2065,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1900,7 +2098,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1933,7 +2131,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1966,7 +2164,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -1999,7 +2197,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2032,7 +2230,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2065,7 +2263,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2098,7 +2296,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2131,7 +2329,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2164,7 +2362,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2197,7 +2395,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2231,7 +2429,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2264,7 +2462,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2297,7 +2495,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2330,7 +2528,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2363,7 +2561,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "book",
@@ -2385,7 +2583,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2418,7 +2616,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2451,7 +2649,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2484,7 +2682,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2517,7 +2715,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2550,7 +2748,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2583,7 +2781,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2616,7 +2814,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2649,7 +2847,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2682,7 +2880,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2715,7 +2913,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "course-index",
@@ -2737,7 +2935,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2770,7 +2968,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2803,7 +3001,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2836,7 +3034,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2869,7 +3067,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2902,7 +3100,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2935,7 +3133,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -2969,7 +3167,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
@@ -3002,7 +3200,7 @@
     "summaryZh": "",
     "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
     "checked": null,
-    "inventoried": "2026-10-29",
+    "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "course-index",
@@ -3013,203 +3211,5 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": []
-  },
-  {
-    "id": "aaadc9198c811557f434",
-    "url": "https://www.youtube.com/watch?v=5NXoBnuEWkw",
-    "sourceTitle": "Emini End of Day Review - Thursday April 13, 2023",
-    "titleZh": "Brooks 共享影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-5NXoBnuEWkw"
-      }
-    ],
-    "resourceIds": [
-      "yt-5NXoBnuEWkw"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-5NXoBnuEWkw",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "aab7ca17c10e37af08ca",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-upside-breakout/",
-    "sourceTitle": "Emini bulls upside breakout wanted with test of 4,000",
-    "titleZh": "Brad 日內案例｜2022-07-08｜突破與延續",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-155579"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-155579"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-155579",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "aac4c6ca770e4b5cd2f4",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-fail-low-1-setup/",
-    "sourceTitle": "Emini Failed Low 1 Setup",
-    "titleZh": "Brad 日內案例｜2024-07-31｜反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-213781"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-213781"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-213781",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "aae2983d47d0e345c73c",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-unlikely-to-close-above-globex-open/",
-    "sourceTitle": "E-mini Unlikely to Close Above Globex Open",
-    "titleZh": "Brad 日內案例｜2026-06-02｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-270995"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-270995"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-270995",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "aafc7e127a830d84d5ba",
-    "url": "https://www.youtube.com/playlist?list=PLFA11UMiAJm-H5qXz3HwtZuyOtVjhF-OV",
-    "sourceTitle": "Ask Al Brooks Trading Room Q&A",
-    "titleZh": "Brooks 共享片單｜Ask Al Brooks Trading Room Q&A",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "list-PLFA11UMiAJm-H5qXz3HwtZuyOtVjhF-OV"
-      }
-    ],
-    "resourceIds": [
-      "list-PLFA11UMiAJm-H5qXz3HwtZuyOtVjhF-OV"
-    ],
-    "legacyObservations": [
-      {
-        "id": "list-PLFA11UMiAJm-H5qXz3HwtZuyOtVjhF-OV",
-        "scope": "官方片單入口已核對；包含多講者者不概括歸屬 Brad",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊"
-    ]
-  },
-  {
-    "id": "ab02acdfb44969e91085",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-want-2nd-leg-down/",
-    "sourceTitle": "Emini Bears Want 2nd Leg Down",
-    "titleZh": "Brad 日內案例｜2023-04-10｜回檔與第二段",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-175373"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-175373"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-175373",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
   }
 ]

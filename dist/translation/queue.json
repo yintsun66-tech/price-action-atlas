@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "items": [
     {
       "id": "01b130b5c1c1dd84c0bf",
@@ -45,6 +45,15 @@
       ],
       "status": "intro-only",
       "nextAction": "取得實際教材或字幕後才能補內容摘要"
+    },
+    {
+      "id": "6b27f6a92edb0bb28ab8",
+      "url": "https://hub.hku.hk/bitstream/10722/184789/1/content.pdf",
+      "resourceIds": [
+        "r-traders"
+      ],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
     },
     {
       "id": "80a94739d33f743ed25c",
@@ -133,6 +142,38 @@
       "nextAction": "取得實際教材或字幕後才能補內容摘要"
     },
     {
+      "id": "c2be8b74a2def9feae0f",
+      "url": "https://www.quantsystems.ca/ptm-library",
+      "resourceIds": [
+        "ali-ptm"
+      ],
+      "status": "intro-only",
+      "nextAction": "取得實際教材或字幕後才能補內容摘要"
+    },
+    {
+      "id": "c3708000578f39a35fe0",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S105905601200072X",
+      "resourceIds": [
+        "r-opening"
+      ],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
+      "id": "c5f7326765be153c6069",
+      "url": "https://www.adamhgrimes.com/volatility-has-a-memory/",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
+      "id": "da3162e2ea6c958819af",
+      "url": "https://www.brookstradingcourse.com/ask-al/how-many-points-to-risk-per-trade/",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
       "id": "dfafe0282e69d429a562",
       "url": "https://www.youtube.com/watch?v=guYhIhMkTv8",
       "resourceIds": [
@@ -191,6 +232,13 @@
       "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
     },
     {
+      "id": "72ce74c836caf68fe3fa",
+      "url": "https://www.tradingview.com/script/bUk7gcA1-AG-Pro-Fair-Value-Gap-Engine-AGPro-Series/",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
       "id": "7c42076ddc983d88797a",
       "url": "https://www.reddit.com/r/Daytrading/comments/1osewll/price_action_al_brooks_high_win_rate/",
       "resourceIds": [],
@@ -207,6 +255,13 @@
     {
       "id": "91c65725042121b361d3",
       "url": "https://www.sierrachart.com/SupportBoard.php?PostID=222357",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
+      "id": "db22cee358b8e2a8e4c6",
+      "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=97845",
       "resourceIds": [],
       "status": "excerpt-summary",
       "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
@@ -456,15 +511,6 @@
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
     {
-      "id": "6b27f6a92edb0bb28ab8",
-      "url": "https://hub.hku.hk/bitstream/10722/184789/1/content.pdf",
-      "resourceIds": [
-        "r-traders"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
       "id": "6b9c99dbc6a101290d72",
       "url": "https://www.youtube.com/watch?v=n3eYTnlPBRA",
       "resourceIds": [
@@ -658,24 +704,6 @@
       "url": "https://priceactiontradingsystem.com/faqs/",
       "resourceIds": [
         "discovery-mack-pats-2"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
-      "id": "c2be8b74a2def9feae0f",
-      "url": "https://www.quantsystems.ca/ptm-library",
-      "resourceIds": [
-        "ali-ptm"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
-      "id": "c3708000578f39a35fe0",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S105905601200072X",
-      "resourceIds": [
-        "r-opening"
       ],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
@@ -5965,13 +5993,6 @@
     {
       "id": "43228229d352c1f51b1e",
       "url": "https://www.tradingsetupsreview.com/manage-gap-risk-swing-trading/",
-      "resourceIds": [],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
-      "id": "436e9d771928f3a02941",
-      "url": "https://www.tradingsetupsreview.com/trading-records-discretionary-price-action-trader/",
       "resourceIds": [],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
@@ -18768,13 +18789,6 @@
       "resourceIds": [
         "brad-post-275453"
       ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
-      "id": "ea097b1f9392051cff5f",
-      "url": "https://www.wyckoffanalytics.com/wyckoff-reaccumulation-vs-distribution-how-to-tell-which-one-youre-in/",
-      "resourceIds": [],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },

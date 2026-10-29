@@ -2,6 +2,69 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch8-20261030",
+      "collected": "2026-10-29",
+      "updated": "2026-10-30",
+      "timezone": "Asia/Taipei",
+      "description": "三個新來源、核心英文來源續讀及中文呈現優化；沒有新增交易系統或付費全文。",
+      "sources": [
+        "sierra-depth-replay",
+        "tv-fvg-score-not-probability",
+        "wyckoff-spring-test-quality"
+      ],
+      "articles": [],
+      "decisions": [
+        {
+          "source": "Can't obtain stacking/pulling data on replay",
+          "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=97845",
+          "status": "採用指定範圍",
+          "reason": "已讀單頁第 1–14 則全部文字；未操作軟體、下載或驗證深度歷史。"
+        },
+        {
+          "source": "AG Pro Fair Value Gap Engine [AGPro Series]",
+          "url": "https://www.tradingview.com/script/bUk7gcA1-AG-Pro-Fair-Value-Gap-Engine-AGPro-Series/",
+          "status": "採用指定範圍",
+          "reason": "已讀公開說明的辨識、追蹤、老化、回補、評分、提醒及限制；未讀程式碼、執行指標或驗證非重繪與績效。"
+        },
+        {
+          "source": "Stock Market Primary Buying Opportunities — Test of Springs",
+          "url": "https://wyckoffstockmarketinstitute.com/Archives/Buying-Oppurtunities_Spring-test.pdf",
+          "status": "採用指定範圍",
+          "reason": "已讀公開 PDF 兩頁全部文字；未重製原圖或取得完整翻譯授權。"
+        },
+        {
+          "source": "Wyckoff Reaccumulation vs Distribution",
+          "url": "https://www.wyckoffanalytics.com/wyckoff-reaccumulation-vs-distribution-how-to-tell-which-one-youre-in/",
+          "status": "補讀既有來源",
+          "reason": "已存在 pending 索引，本次讀正文並補摘要，不另建重複來源卡。"
+        },
+        {
+          "source": "Chen 開盤報酬研究",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S105905601200072X",
+          "status": "直接入口失敗；僅公開預覽選讀",
+          "reason": "摘要與文章入口均 403；只讀出版社搜尋索引的公開內容。"
+        },
+        {
+          "source": "Volatility Has a Memory",
+          "url": "https://www.adamhgrimes.com/volatility-has-a-memory/",
+          "status": "原頁再次失敗；僅索引選段",
+          "reason": "保留失敗歷史；只整理可見開頭與 Roadmap，不宣稱全文已讀。"
+        },
+        {
+          "source": "Ask Al #113",
+          "url": "https://www.brookstradingcourse.com/ask-al/how-many-points-to-risk-per-trade/",
+          "status": "直接入口失敗；僅首段回答",
+          "reason": "原頁 403，未觀看影片；公開搜尋選段只涵蓋提問與首段。"
+        }
+      ],
+      "notes": [
+        "原文蒐集及查核在台北 10/29 深夜，更新跨至 10/30；各來源保留實際查核日。",
+        "社群短句、機構教材與交易研究分開；不新增星等或獲利排名。",
+        "所有原始閱讀單元與原有來源卡資料保留；筆記儲存鍵未更動。",
+        "主課程 33A 與 30A 只核對公開單元標題；未觀看付費影片。"
+      ]
+    },
+    {
       "id": "fullsite-zh-checkpoint2-20261029",
       "collected": "2026-10-29",
       "timezone": "Asia/Taipei",

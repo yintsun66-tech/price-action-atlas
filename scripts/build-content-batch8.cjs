@@ -1,0 +1,15 @@
+/* Additive source reading; article IDs, original payloads and notes stay intact. */
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
+const dist=path.resolve(__dirname,'../dist'),read=f=>JSON.parse(fs.readFileSync(path.join(dist,f),'utf8')),write=(f,v)=>fs.writeFileSync(path.join(dist,f),typeof v==='string'?v:JSON.stringify(v,null,2)+'\n');
+const sources=require('./batch8-sources.json'),data=read('reading/community.json'),manifest=read('reading/index.json');
+const ids=new Set(sources.map(s=>s.id));data.items=[...sources,...data.items.filter(s=>!ids.has(s.id))];
+assert.equal(new Set(data.items.map(s=>s.url)).size,data.items.length,'Duplicate source URL');
+data.checked='2026-10-30';data.batches=[{batch:8,title:'第八批｜10.30 新讀'},...(data.batches||[]).filter(b=>b.batch!==8)];
+data.intro={heading:'評分、資料與較可能，各自回答不同問題。',text:'本批新增三筆來源：深度歷史與回放、FVG 品質評分、Spring 後測試。保留作者限定與例外；另續讀核心英文來源，進度列在翻譯專區。',links:[{id:'flow-depth',label:'先分清深度與成交資料'},{id:'ict-event-rates',label:'評分、事件比例與勝率分開'},{id:'wyckoff-spring',label:'閱讀測試與後續反應'}]};
+write('reading/community.json',data);
+let html=fs.readFileSync(path.join(dist,'index.html'),'utf8');html=html.replace(/<!-- COMMUNITY_LIBRARY_START -->[\s\S]*?<!-- COMMUNITY_LIBRARY_END -->/,require('./render-community.cjs')(data,manifest));
+if(!html.includes('CONTENT_BATCH8_UPDATE'))html=html.replace('<!-- CONTENT_BATCH7_UPDATE -->','<!-- CONTENT_BATCH8_UPDATE --><a class="discovery-update" href="#community"><span>10.30 翻譯與新讀</span><strong>3 筆新來源 · 品質評分、深度回放與測試例外</strong><span>開始閱讀 →</span></a>\n<!-- CONTENT_BATCH7_UPDATE -->');
+write('index.html',html);
+const log=read('reading/content-updates.json'),entry={id:'content-batch8-20261030',collected:'2026-10-29',updated:'2026-10-30',timezone:'Asia/Taipei',description:'三個新來源、核心英文來源續讀及中文呈現優化；沒有新增交易系統或付費全文。',sources:sources.map(s=>s.id),articles:[],decisions:[...sources.map(s=>({source:s.originalTitle,url:s.url,status:'採用指定範圍',reason:s.access})),{source:'Wyckoff Reaccumulation vs Distribution',url:'https://www.wyckoffanalytics.com/wyckoff-reaccumulation-vs-distribution-how-to-tell-which-one-youre-in/',status:'補讀既有來源',reason:'已存在 pending 索引，本次讀正文並補摘要，不另建重複來源卡。'},{source:'Chen 開盤報酬研究',url:'https://www.sciencedirect.com/science/article/abs/pii/S105905601200072X',status:'直接入口失敗；僅公開預覽選讀',reason:'摘要與文章入口均 403；只讀出版社搜尋索引的公開內容。'},{source:'Volatility Has a Memory',url:'https://www.adamhgrimes.com/volatility-has-a-memory/',status:'原頁再次失敗；僅索引選段',reason:'保留失敗歷史；只整理可見開頭與 Roadmap，不宣稱全文已讀。'},{source:'Ask Al #113',url:'https://www.brookstradingcourse.com/ask-al/how-many-points-to-risk-per-trade/',status:'直接入口失敗；僅首段回答',reason:'原頁 403，未觀看影片；公開搜尋選段只涵蓋提問與首段。'}],notes:['原文蒐集及查核在台北 10/29 深夜，更新跨至 10/30；各來源保留實際查核日。','社群短句、機構教材與交易研究分開；不新增星等或獲利排名。','所有原始閱讀單元與原有來源卡資料保留；筆記儲存鍵未更動。','主課程 33A 與 30A 只核對公開單元標題；未觀看付費影片。']};
+log.batches=[entry,...log.batches.filter(b=>b.id!==entry.id)];write('reading/content-updates.json',log);
+console.log(JSON.stringify({newSources:sources.length,totalCommunity:data.items.length,articles:manifest.articles.length}));

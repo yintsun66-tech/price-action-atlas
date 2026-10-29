@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "scope": "站內所有英文文字與所有英文來源；中文優先，英文可展開。",
-  "totalSources": 2350,
+  "totalSources": 2355,
   "englishResourceRecords": 2056,
   "resourceRecords": 2110,
   "statusCounts": {
-    "intro-only": 10,
-    "body-summary": 9,
+    "intro-only": 11,
+    "body-summary": 12,
     "unavailable": 3,
-    "excerpt-summary": 14,
+    "excerpt-summary": 20,
     "licensed-excerpt": 2,
-    "pending": 2312
+    "pending": 2307
   },
   "siteArticles": 62,
   "articleAudit": "reading/text-audit.json",
@@ -85,6 +85,19 @@
       ]
     },
     {
+      "id": "15dbe08a4d1e6bf4fa5d",
+      "titleZh": "Spring 後測試：品質判讀與例外",
+      "sourceTitle": "Stock Market Primary Buying Opportunities — Test of Springs",
+      "status": "body-summary",
+      "resourceIds": [],
+      "chunk": "sources-000.json",
+      "url": "https://wyckoffstockmarketinstitute.com/Archives/Buying-Oppurtunities_Spring-test.pdf",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "Wyckoff Stock Market Institute；版權 The Jamison Group, Inc."
+      ]
+    },
+    {
       "id": "2336d48eb1d5ca4e3c46",
       "titleZh": "初學者應使用觸發式委託進場（作者建議）",
       "sourceTitle": "Beginners should enter with stop orders",
@@ -130,6 +143,17 @@
       ]
     },
     {
+      "id": "436e9d771928f3a02941",
+      "titleZh": "裁量價格行為交易者如何保存事前紀錄",
+      "sourceTitle": "How to Keep Trading Records as a Discretionary Price Action Trader",
+      "status": "body-summary",
+      "resourceIds": [],
+      "chunk": "sources-000.json",
+      "url": "https://www.tradingsetupsreview.com/trading-records-discretionary-price-action-trader/",
+      "titleCoverage": "reviewed-title",
+      "authors": []
+    },
+    {
       "id": "5c3eb7f0b391b748e060",
       "titleZh": "什麼是價格行為？六個觀察面向",
       "sourceTitle": "What is price action? 6 aspects to consider",
@@ -157,6 +181,21 @@
       "titleCoverage": "reviewed-title",
       "authors": [
         "Ali Moin-Afshari"
+      ]
+    },
+    {
+      "id": "6b27f6a92edb0bb28ab8",
+      "titleZh": "臺灣期貨日內交易者研究：摘要與導言選讀",
+      "sourceTitle": "Overconfident Individual Day Traders: Evidence from the Taiwan Futures Market",
+      "status": "excerpt-summary",
+      "resourceIds": [
+        "r-traders"
+      ],
+      "chunk": "sources-000.json",
+      "url": "https://hub.hku.hk/bitstream/10722/184789/1/content.pdf",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "Kuo / Lin"
       ]
     },
     {
@@ -361,6 +400,47 @@
       ]
     },
     {
+      "id": "c2be8b74a2def9feae0f",
+      "titleZh": "專業交易者輔導資料庫：公開介紹選讀",
+      "sourceTitle": "Pro-Trader Mentoring Library",
+      "status": "intro-only",
+      "resourceIds": [
+        "ali-ptm"
+      ],
+      "chunk": "sources-000.json",
+      "url": "https://www.quantsystems.ca/ptm-library",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "Ali Moin-Afshari"
+      ]
+    },
+    {
+      "id": "c3708000578f39a35fe0",
+      "titleZh": "臺灣期貨開盤報酬研究：公開摘要與導言選讀",
+      "sourceTitle": "The predictability of opening returns for the returns of the trading day: Evidence from Taiwan futures market",
+      "status": "excerpt-summary",
+      "resourceIds": [
+        "r-opening"
+      ],
+      "chunk": "sources-000.json",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S105905601200072X",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "Chun-nan Chen"
+      ]
+    },
+    {
+      "id": "c5f7326765be153c6069",
+      "titleZh": "波動具有記憶：公開索引選段",
+      "sourceTitle": "Volatility Has a Memory",
+      "status": "excerpt-summary",
+      "resourceIds": [],
+      "chunk": "sources-000.json",
+      "url": "https://www.adamhgrimes.com/volatility-has-a-memory/",
+      "titleCoverage": "reviewed-title",
+      "authors": []
+    },
+    {
       "id": "d91695d26b55824a5afc",
       "titleZh": "部位規模：用停損距離與風險預算建立參考表",
       "sourceTitle": "Position Sizing",
@@ -374,6 +454,17 @@
       "authors": [
         "Ali Moin-Afshari"
       ]
+    },
+    {
+      "id": "da3162e2ea6c958819af",
+      "titleZh": "每筆應冒多少點風險？公開問答選段",
+      "sourceTitle": "Ask Al #113: How many points to risk per trade?",
+      "status": "excerpt-summary",
+      "resourceIds": [],
+      "chunk": "sources-000.json",
+      "url": "https://www.brookstradingcourse.com/ask-al/how-many-points-to-risk-per-trade/",
+      "titleCoverage": "reviewed-title",
+      "authors": []
     },
     {
       "id": "dfafe0282e69d429a562",
@@ -391,6 +482,17 @@
       ]
     },
     {
+      "id": "ea097b1f9392051cff5f",
+      "titleZh": "再累積與派發：比較線索，保留未決",
+      "sourceTitle": "Wyckoff Reaccumulation vs Distribution: How to Tell Which One You’re In",
+      "status": "body-summary",
+      "resourceIds": [],
+      "chunk": "sources-000.json",
+      "url": "https://www.wyckoffanalytics.com/wyckoff-reaccumulation-vs-distribution-how-to-tell-which-one-youre-in/",
+      "titleCoverage": "reviewed-title",
+      "authors": []
+    },
+    {
       "id": "1d596485e1eff3e7a57f",
       "titleZh": "重繪有不同種類：即時更新與偷看未來分開檢查",
       "sourceTitle": "重繪有不同種類：即時更新與偷看未來分開檢查",
@@ -399,7 +501,9 @@
       "chunk": "sources-000.json",
       "url": "https://www.tradingview.com/pine-script-docs/concepts/repainting/",
       "titleCoverage": "existing-label",
-      "authors": []
+      "authors": [
+        "TradingView"
+      ]
     },
     {
       "id": "223ed9e47d26a4e68640",
@@ -410,7 +514,9 @@
       "chunk": "sources-000.json",
       "url": "https://www.adamhgrimes.com/breakouts-and-breakout-failures-real-world-trading/",
       "titleCoverage": "existing-label",
-      "authors": []
+      "authors": [
+        "Adam H. Grimes"
+      ]
     },
     {
       "id": "2617ab025c0fe09d104e",
@@ -421,7 +527,9 @@
       "chunk": "sources-000.json",
       "url": "https://www.tradingsetupsreview.com/beginners-guide-reading-price-action/",
       "titleCoverage": "existing-label",
-      "authors": []
+      "authors": [
+        "Galen Woods"
+      ]
     },
     {
       "id": "26e3244d33edc25b40bd",
@@ -432,7 +540,9 @@
       "chunk": "sources-000.json",
       "url": "https://www.tradingview.com/script/PqN9ejOj-FVG-IFVG-Pro-MTF-Fair-Value-Gap-and-Inverse-Fair-Value-Gap/",
       "titleCoverage": "existing-label",
-      "authors": []
+      "authors": [
+        "Stable_Logic"
+      ]
     },
     {
       "id": "3892838797764325e90f",
@@ -443,7 +553,9 @@
       "chunk": "sources-000.json",
       "url": "https://www.brookstradingcourse.com/support-forum/general-trading-discussion/when-al-said-sometimes-on-a-possibility-what-percentage-it-is-up-to-al/",
       "titleCoverage": "existing-label",
-      "authors": []
+      "authors": [
+        "提問 kenetrader；回覆 Zunquan（會員）"
+      ]
     },
     {
       "id": "556ebe1e576b291ac491",
@@ -465,7 +577,22 @@
       "chunk": "sources-000.json",
       "url": "https://www.tradingview.com/script/gjFSGRCo-Dynamic-Swing-Anchored-VWAP-STRAT-Zeiierman-PineIndicators/",
       "titleCoverage": "existing-label",
-      "authors": []
+      "authors": [
+        "PineIndicators；頁面致謝 Zeiierman"
+      ]
+    },
+    {
+      "id": "72ce74c836caf68fe3fa",
+      "titleZh": "三棒失衡區品質評分不是經校準的價格機率",
+      "sourceTitle": "AG Pro Fair Value Gap Engine [AGPro Series]",
+      "status": "excerpt-summary",
+      "resourceIds": [],
+      "chunk": "sources-000.json",
+      "url": "https://www.tradingview.com/script/bUk7gcA1-AG-Pro-Fair-Value-Gap-Engine-AGPro-Series/",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "AGProLabs"
+      ]
     },
     {
       "id": "7c42076ddc983d88797a",
@@ -476,7 +603,9 @@
       "chunk": "sources-000.json",
       "url": "https://www.reddit.com/r/Daytrading/comments/1osewll/price_action_al_brooks_high_win_rate/",
       "titleCoverage": "existing-label",
-      "authors": []
+      "authors": [
+        "r/Daytrading；重點留言 T3RCX"
+      ]
     },
     {
       "id": "7dadb93f6cae6c0032f1",
@@ -487,7 +616,9 @@
       "chunk": "sources-000.json",
       "url": "https://bookmap.com/learning-center/en/order-flow-phenomena/order-flow-education/amzn-absorption-and-exhaustion",
       "titleCoverage": "existing-label",
-      "authors": []
+      "authors": [
+        "Bookmap（公開課程頁）"
+      ]
     },
     {
       "id": "91c65725042121b361d3",
@@ -498,7 +629,22 @@
       "chunk": "sources-000.json",
       "url": "https://www.sierrachart.com/SupportBoard.php?PostID=222357",
       "titleCoverage": "existing-label",
-      "authors": []
+      "authors": [
+        "binaryduke（自述為工具開發者與訂單流講師）"
+      ]
+    },
+    {
+      "id": "db22cee358b8e2a8e4c6",
+      "titleZh": "掛單增加／撤減回放：先確認市場深度歷史",
+      "sourceTitle": "Can't obtain stacking/pulling data on replay",
+      "status": "excerpt-summary",
+      "resourceIds": [],
+      "chunk": "sources-000.json",
+      "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=97845",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "提問 cmack1011；重點回覆 John — SC Support"
+      ]
     },
     {
       "id": "e5df3c433f8f08e4c1b1",
@@ -509,7 +655,9 @@
       "chunk": "sources-000.json",
       "url": "https://bookmap.com/blog/how-to-set-profit-targets-using-liquidity-maps",
       "titleCoverage": "existing-label",
-      "authors": []
+      "authors": [
+        "Bookmap"
+      ]
     },
     {
       "id": "f51078b6a9c53a692968",
@@ -520,7 +668,9 @@
       "chunk": "sources-000.json",
       "url": "https://www.wyckoffanalytics.com/wp-content/uploads/2019/09/WyckoffSchematics-VisualTemplatesForMarketTimingDecisions.pdf",
       "titleCoverage": "existing-label",
-      "authors": []
+      "authors": [
+        "Hank Pruden、Max von Lichtenstein"
+      ]
     },
     {
       "id": "fc5f102a8f296ec9cd48",
@@ -531,7 +681,9 @@
       "chunk": "sources-000.json",
       "url": "https://www.reddit.com/r/Daytrading/comments/1xebtgu/price_action_recommendations/",
       "titleCoverage": "existing-label",
-      "authors": []
+      "authors": [
+        "提問 hello_diddy；短句回覆 OffbeatConcur_109"
+      ]
     },
     {
       "id": "fcf8997c72866e681dbd",
@@ -905,21 +1057,6 @@
       ]
     },
     {
-      "id": "6b27f6a92edb0bb28ab8",
-      "titleZh": "過度自信的個人日內交易者：來自臺灣期貨市場的證據",
-      "sourceTitle": "Overconfident Individual Day Traders: Evidence from the Taiwan Futures Market",
-      "status": "pending",
-      "resourceIds": [
-        "r-traders"
-      ],
-      "chunk": "sources-000.json",
-      "url": "https://hub.hku.hk/bitstream/10722/184789/1/content.pdf",
-      "titleCoverage": "title-only",
-      "authors": [
-        "Kuo / Lin"
-      ]
-    },
-    {
       "id": "6b9c99dbc6a101290d72",
       "titleZh": "訊號棒與進場順序",
       "sourceTitle": "Signal Bars and Entry Sequence",
@@ -1250,36 +1387,6 @@
       ]
     },
     {
-      "id": "c2be8b74a2def9feae0f",
-      "titleZh": "PTM 資料庫：逐月教學公開索引",
-      "sourceTitle": "PTM Library｜逐月教學公開索引",
-      "status": "pending",
-      "resourceIds": [
-        "ali-ptm"
-      ],
-      "chunk": "sources-000.json",
-      "url": "https://www.quantsystems.ca/ptm-library",
-      "titleCoverage": "existing-label",
-      "authors": [
-        "Ali Moin-Afshari"
-      ]
-    },
-    {
-      "id": "c3708000578f39a35fe0",
-      "titleZh": "開盤報酬對交易日報酬的預測能力（2013）",
-      "sourceTitle": "The predictability of opening returns for the returns of the trading day (2013)",
-      "status": "pending",
-      "resourceIds": [
-        "r-opening"
-      ],
-      "chunk": "sources-000.json",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S105905601200072X",
-      "titleCoverage": "title-only",
-      "authors": [
-        "Chun-nan Chen"
-      ]
-    },
-    {
       "id": "c800071a664890818c46",
       "titleZh": "每日觀點、即時交易室與資料庫內容說明",
       "sourceTitle": "Daily Insight／Live Trade Rooms／Vault 內容說明",
@@ -1377,7 +1484,7 @@
       "resourceIds": [
         "yt-XjQ6BnFWCbI"
       ],
-      "chunk": "sources-000.json",
+      "chunk": "sources-001.json",
       "url": "https://www.youtube.com/watch?v=XjQ6BnFWCbI",
       "titleCoverage": "title-only",
       "authors": [
@@ -1392,7 +1499,7 @@
       "resourceIds": [
         "discovery-galen-woods-3"
       ],
-      "chunk": "sources-000.json",
+      "chunk": "sources-001.json",
       "url": "https://www.tradingsetupsreview.com/course/info/overview/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -1407,7 +1514,7 @@
       "resourceIds": [
         "yt-PANDw0TEKXc"
       ],
-      "chunk": "sources-000.json",
+      "chunk": "sources-001.json",
       "url": "https://www.youtube.com/watch?v=PANDw0TEKXc",
       "titleCoverage": "title-only",
       "authors": [
@@ -1422,7 +1529,7 @@
       "resourceIds": [
         "yt-4Fwt7CcEc1o"
       ],
-      "chunk": "sources-000.json",
+      "chunk": "sources-001.json",
       "url": "https://www.youtube.com/watch?v=4Fwt7CcEc1o",
       "titleCoverage": "title-only",
       "authors": [
@@ -1437,7 +1544,7 @@
       "resourceIds": [
         "yt-uLF4z6Z2WeU"
       ],
-      "chunk": "sources-000.json",
+      "chunk": "sources-001.json",
       "url": "https://www.youtube.com/watch?v=uLF4z6Z2WeU",
       "titleCoverage": "title-only",
       "authors": [
@@ -1452,7 +1559,7 @@
       "resourceIds": [
         "yt-EScpoMFNvFw"
       ],
-      "chunk": "sources-000.json",
+      "chunk": "sources-001.json",
       "url": "https://www.youtube.com/watch?v=EScpoMFNvFw",
       "titleCoverage": "existing-label",
       "authors": [
@@ -1467,7 +1574,7 @@
       "resourceIds": [
         "brad-post-167287"
       ],
-      "chunk": "sources-000.json",
+      "chunk": "sources-001.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-to-continue-sideways/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -2817,7 +2924,7 @@
       "resourceIds": [
         "brad-post-209912"
       ],
-      "chunk": "sources-001.json",
+      "chunk": "sources-002.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-sideways-likely-for-bears/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -2832,7 +2939,7 @@
       "resourceIds": [
         "brad-post-271695"
       ],
-      "chunk": "sources-001.json",
+      "chunk": "sources-002.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-want-h1-buy-signal-bar/",
       "titleCoverage": "title-only",
       "authors": [
@@ -2847,7 +2954,7 @@
       "resourceIds": [
         "brad-post-180185"
       ],
-      "chunk": "sources-001.json",
+      "chunk": "sources-002.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-probably-buyers-below/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -2862,7 +2969,7 @@
       "resourceIds": [
         "brad-post-168878"
       ],
-      "chunk": "sources-001.json",
+      "chunk": "sources-002.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-test-of-4000/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -2875,7 +2982,7 @@
       "sourceTitle": "波段案例",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-001.json",
+      "chunk": "sources-002.json",
       "url": "https://www.brookstradingcourse.com/trade-price-action/video-49a-swing-trading-examples/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -2888,7 +2995,7 @@
       "resourceIds": [
         "yt-ckFwqyfgtIc"
       ],
-      "chunk": "sources-001.json",
+      "chunk": "sources-002.json",
       "url": "https://www.youtube.com/watch?v=ckFwqyfgtIc",
       "titleCoverage": "existing-label",
       "authors": [
@@ -2903,7 +3010,7 @@
       "resourceIds": [
         "brad-post-201389"
       ],
-      "chunk": "sources-001.json",
+      "chunk": "sources-002.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-test-of-february-23rd/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -4265,7 +4372,7 @@
       "resourceIds": [
         "yt-vxydrkW2W1I"
       ],
-      "chunk": "sources-002.json",
+      "chunk": "sources-003.json",
       "url": "https://www.youtube.com/watch?v=vxydrkW2W1I",
       "titleCoverage": "existing-label",
       "authors": [
@@ -4280,7 +4387,7 @@
       "resourceIds": [
         "brad-post-260484"
       ],
-      "chunk": "sources-002.json",
+      "chunk": "sources-003.json",
       "url": "https://www.brookstradingcourse.com/analysis/strong-bear-breakout-on-the-daily-chart/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -4295,7 +4402,7 @@
       "resourceIds": [
         "qs-ptm-202312"
       ],
-      "chunk": "sources-002.json",
+      "chunk": "sources-003.json",
       "url": "https://www.quantsystems.ca/course/ptm-202312",
       "titleCoverage": "existing-label",
       "authors": [
@@ -4310,7 +4417,7 @@
       "resourceIds": [
         "yt-jhNypLkyIh4"
       ],
-      "chunk": "sources-002.json",
+      "chunk": "sources-003.json",
       "url": "https://www.youtube.com/watch?v=jhNypLkyIh4",
       "titleCoverage": "existing-label",
       "authors": [
@@ -4323,7 +4430,7 @@
       "sourceTitle": "USDⓈ-M Futures: Diff. Book Depth Streams",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-002.json",
+      "chunk": "sources-003.json",
       "url": "https://developers.binance.com/en/docs/catalog/core-trading-derivatives-trading-usd-s-m-futures/api/ws-streams/public",
       "titleCoverage": "existing-label",
       "authors": []
@@ -4334,7 +4441,7 @@
       "sourceTitle": "方向判斷",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-002.json",
+      "chunk": "sources-003.json",
       "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-13b-always-in/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -4345,7 +4452,7 @@
       "sourceTitle": "高潮與突破失敗",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-002.json",
+      "chunk": "sources-003.json",
       "url": "https://www.brookstradingcourse.com/trade-price-action/video-42c-trading-climactic-reversals-failed-breakouts/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -5709,7 +5816,7 @@
       "resourceIds": [
         "yt-oJxqOyMsl9g"
       ],
-      "chunk": "sources-003.json",
+      "chunk": "sources-004.json",
       "url": "https://www.youtube.com/watch?v=oJxqOyMsl9g",
       "titleCoverage": "existing-label",
       "authors": [
@@ -5724,7 +5831,7 @@
       "resourceIds": [
         "yt-Bp6U0IY62vs"
       ],
-      "chunk": "sources-003.json",
+      "chunk": "sources-004.json",
       "url": "https://www.youtube.com/watch?v=Bp6U0IY62vs",
       "titleCoverage": "existing-label",
       "authors": [
@@ -5739,7 +5846,7 @@
       "resourceIds": [
         "yt--bnumkod8cg"
       ],
-      "chunk": "sources-003.json",
+      "chunk": "sources-004.json",
       "url": "https://www.youtube.com/watch?v=-bnumkod8cg",
       "titleCoverage": "existing-label",
       "authors": [
@@ -5754,7 +5861,7 @@
       "resourceIds": [
         "yt-ENCL5Yk7oKw"
       ],
-      "chunk": "sources-003.json",
+      "chunk": "sources-004.json",
       "url": "https://www.youtube.com/watch?v=ENCL5Yk7oKw",
       "titleCoverage": "existing-label",
       "authors": [
@@ -5769,7 +5876,7 @@
       "resourceIds": [
         "brad-post-212403"
       ],
-      "chunk": "sources-003.json",
+      "chunk": "sources-004.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-bears-want-to-end-bull-micro-channel/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -5784,7 +5891,7 @@
       "resourceIds": [
         "yt-wGvyTrjRp1o"
       ],
-      "chunk": "sources-003.json",
+      "chunk": "sources-004.json",
       "url": "https://www.youtube.com/watch?v=wGvyTrjRp1o",
       "titleCoverage": "existing-label",
       "authors": [
@@ -5799,7 +5906,7 @@
       "resourceIds": [
         "brad-post-208989"
       ],
-      "chunk": "sources-003.json",
+      "chunk": "sources-004.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-possible-final-flag/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -7177,7 +7284,7 @@
       "resourceIds": [
         "brad-post-207369"
       ],
-      "chunk": "sources-004.json",
+      "chunk": "sources-005.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-follow-through-after-high-1/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -7192,7 +7299,7 @@
       "resourceIds": [
         "yt-CkVLz7f108Q"
       ],
-      "chunk": "sources-004.json",
+      "chunk": "sources-005.json",
       "url": "https://www.youtube.com/watch?v=CkVLz7f108Q",
       "titleCoverage": "existing-label",
       "authors": [
@@ -7207,7 +7314,7 @@
       "resourceIds": [
         "brad-post-212876"
       ],
-      "chunk": "sources-004.json",
+      "chunk": "sources-005.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-testing-down-to-moving-average/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -7222,7 +7329,7 @@
       "resourceIds": [
         "brad-post-237343"
       ],
-      "chunk": "sources-004.json",
+      "chunk": "sources-005.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-taking-partial-profits-3/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -7237,7 +7344,7 @@
       "resourceIds": [
         "yt-oJ7LIbTsQqU"
       ],
-      "chunk": "sources-004.json",
+      "chunk": "sources-005.json",
       "url": "https://www.youtube.com/watch?v=oJ7LIbTsQqU",
       "titleCoverage": "existing-label",
       "authors": [
@@ -7250,7 +7357,7 @@
       "sourceTitle": "332: Steve Nison — The Man Who Introduced Candlestick Charting to the West",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-004.json",
+      "chunk": "sources-005.json",
       "url": "https://chatwithtraders.com/episode/332-steve-nison",
       "titleCoverage": "existing-label",
       "authors": []
@@ -7263,7 +7370,7 @@
       "resourceIds": [
         "brad-post-196633"
       ],
-      "chunk": "sources-004.json",
+      "chunk": "sources-005.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-sellers-above-december-20th/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -8633,7 +8740,7 @@
       "resourceIds": [
         "yt-jeqqzAOfupE"
       ],
-      "chunk": "sources-005.json",
+      "chunk": "sources-006.json",
       "url": "https://www.youtube.com/watch?v=jeqqzAOfupE",
       "titleCoverage": "existing-label",
       "authors": [
@@ -8648,7 +8755,7 @@
       "resourceIds": [
         "brad-post-193107"
       ],
-      "chunk": "sources-005.json",
+      "chunk": "sources-006.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want1-3-day-rally/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -8663,7 +8770,7 @@
       "resourceIds": [
         "yt-L4jPChVc4wY"
       ],
-      "chunk": "sources-005.json",
+      "chunk": "sources-006.json",
       "url": "https://www.youtube.com/watch?v=L4jPChVc4wY",
       "titleCoverage": "existing-label",
       "authors": [
@@ -8678,7 +8785,7 @@
       "resourceIds": [
         "brad-post-156427"
       ],
-      "chunk": "sources-005.json",
+      "chunk": "sources-006.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-consecutive-bull-closes/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -8693,7 +8800,7 @@
       "resourceIds": [
         "brad-post-193950"
       ],
-      "chunk": "sources-005.json",
+      "chunk": "sources-006.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-bears-want-bad-follow-through/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -8708,7 +8815,7 @@
       "resourceIds": [
         "yt-nVqW9LlAuq8"
       ],
-      "chunk": "sources-005.json",
+      "chunk": "sources-006.json",
       "url": "https://www.youtube.com/watch?v=nVqW9LlAuq8",
       "titleCoverage": "existing-label",
       "authors": [
@@ -8723,7 +8830,7 @@
       "resourceIds": [
         "brad-post-177913"
       ],
-      "chunk": "sources-005.json",
+      "chunk": "sources-006.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-breakout-mode-on-daily/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -10049,17 +10156,6 @@
       "authors": []
     },
     {
-      "id": "436e9d771928f3a02941",
-      "titleZh": "How to Keep Trading Records as a Discretionary Price Action Trader｜主觀價格行為交易的紀錄",
-      "sourceTitle": "How to Keep Trading Records as a Discretionary Price Action Trader｜主觀價格行為交易的紀錄",
-      "status": "pending",
-      "resourceIds": [],
-      "chunk": "sources-006.json",
-      "url": "https://www.tradingsetupsreview.com/trading-records-discretionary-price-action-trader/",
-      "titleCoverage": "existing-label",
-      "authors": []
-    },
-    {
       "id": "4372459cbd9ecd61f5e7",
       "titleZh": "PTM 月課綱｜2023/02",
       "sourceTitle": "QuantSystem's Pro Trader Mentoring",
@@ -10112,7 +10208,7 @@
       "resourceIds": [
         "brad-post-274962"
       ],
-      "chunk": "sources-006.json",
+      "chunk": "sources-007.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-hopeful-for-2nd-leg-up-to-8000/",
       "titleCoverage": "title-only",
       "authors": [
@@ -10127,7 +10223,7 @@
       "resourceIds": [
         "brad-post-255585"
       ],
-      "chunk": "sources-006.json",
+      "chunk": "sources-007.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-likely-to-rally-and-test-last-thursdays-high/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -10140,7 +10236,7 @@
       "sourceTitle": "短打",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-006.json",
+      "chunk": "sources-007.json",
       "url": "https://www.brookstradingcourse.com/trade-price-action/video-50e-scalping/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -10153,7 +10249,7 @@
       "resourceIds": [
         "brad-post-219895"
       ],
-      "chunk": "sources-006.json",
+      "chunk": "sources-007.json",
       "url": "https://www.brookstradingcourse.com/analysis/strong-rally-from-open-to-new-all-time-high/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -10168,7 +10264,7 @@
       "resourceIds": [
         "brad-post-279287"
       ],
-      "chunk": "sources-006.json",
+      "chunk": "sources-007.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-continues-in-breakout-mode/",
       "titleCoverage": "title-only",
       "authors": [
@@ -10181,7 +10277,7 @@
       "sourceTitle": "Binance Public Data — Futures Klines",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-006.json",
+      "chunk": "sources-007.json",
       "url": "https://github.com/binance/binance-public-data",
       "titleCoverage": "existing-label",
       "authors": []
@@ -11560,7 +11656,7 @@
       "resourceIds": [
         "yt-FuGgwFti-Yw"
       ],
-      "chunk": "sources-007.json",
+      "chunk": "sources-008.json",
       "url": "https://www.youtube.com/watch?v=FuGgwFti-Yw",
       "titleCoverage": "existing-label",
       "authors": [
@@ -11575,7 +11671,7 @@
       "resourceIds": [
         "brad-post-198182"
       ],
-      "chunk": "sources-007.json",
+      "chunk": "sources-008.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-bull-want-trend-continuation/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -11590,7 +11686,7 @@
       "resourceIds": [
         "yt-zwLSArPZs9Y"
       ],
-      "chunk": "sources-007.json",
+      "chunk": "sources-008.json",
       "url": "https://www.youtube.com/watch?v=zwLSArPZs9Y",
       "titleCoverage": "existing-label",
       "authors": [
@@ -11605,7 +11701,7 @@
       "resourceIds": [
         "yt-zPXQsHcd7xM"
       ],
-      "chunk": "sources-007.json",
+      "chunk": "sources-008.json",
       "url": "https://www.youtube.com/watch?v=zPXQsHcd7xM",
       "titleCoverage": "existing-label",
       "authors": [
@@ -11620,7 +11716,7 @@
       "resourceIds": [
         "brad-post-271001"
       ],
-      "chunk": "sources-007.json",
+      "chunk": "sources-008.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-testing-daily-moving-average-2/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -11635,7 +11731,7 @@
       "resourceIds": [
         "brad-post-166511"
       ],
-      "chunk": "sources-007.json",
+      "chunk": "sources-008.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-second-leg-down/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -13000,7 +13096,7 @@
       "resourceIds": [
         "brad-post-151209"
       ],
-      "chunk": "sources-008.json",
+      "chunk": "sources-009.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-likely-to-rally/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -13015,7 +13111,7 @@
       "resourceIds": [
         "brad-post-175618"
       ],
-      "chunk": "sources-008.json",
+      "chunk": "sources-009.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-disappointment-likely/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -13028,7 +13124,7 @@
       "sourceTitle": "Trustpilot：Tradingwithrayner（評論來源）",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-008.json",
+      "chunk": "sources-009.json",
       "url": "https://uk.trustpilot.com/review/tradingwithrayner.com",
       "titleCoverage": "existing-label",
       "authors": []
@@ -13041,7 +13137,7 @@
       "resourceIds": [
         "qs-ptm-202406"
       ],
-      "chunk": "sources-008.json",
+      "chunk": "sources-009.json",
       "url": "https://www.quantsystems.ca/course/ptm-202406",
       "titleCoverage": "existing-label",
       "authors": [
@@ -13056,7 +13152,7 @@
       "resourceIds": [
         "yt-AjH_yW037mw"
       ],
-      "chunk": "sources-008.json",
+      "chunk": "sources-009.json",
       "url": "https://www.youtube.com/watch?v=AjH_yW037mw",
       "titleCoverage": "existing-label",
       "authors": [
@@ -13071,7 +13167,7 @@
       "resourceIds": [
         "brad-post-172859"
       ],
-      "chunk": "sources-008.json",
+      "chunk": "sources-009.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-likely-2nd-leg-up/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -14464,7 +14560,7 @@
       "resourceIds": [
         "brad-post-181531"
       ],
-      "chunk": "sources-009.json",
+      "chunk": "sources-010.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-second-leg-down-likely-2/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -14479,7 +14575,7 @@
       "resourceIds": [
         "brad-post-194130"
       ],
-      "chunk": "sources-009.json",
+      "chunk": "sources-010.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-strong-bull-breakout-2/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -14492,7 +14588,7 @@
       "sourceTitle": "The Wyckoff Method: A Tutorial",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-009.json",
+      "chunk": "sources-010.json",
       "url": "https://chartschool.stockcharts.com/table-of-contents/market-analysis/wyckoff-analysis-articles/the-wyckoff-method-a-tutorial",
       "titleCoverage": "existing-label",
       "authors": []
@@ -14505,7 +14601,7 @@
       "resourceIds": [
         "yt-4xcyZwtwp1k"
       ],
-      "chunk": "sources-009.json",
+      "chunk": "sources-010.json",
       "url": "https://www.youtube.com/watch?v=4xcyZwtwp1k",
       "titleCoverage": "existing-label",
       "authors": [
@@ -14520,7 +14616,7 @@
       "resourceIds": [
         "yt-Bkisrmko0lI"
       ],
-      "chunk": "sources-009.json",
+      "chunk": "sources-010.json",
       "url": "https://www.youtube.com/watch?v=Bkisrmko0lI",
       "titleCoverage": "existing-label",
       "authors": [
@@ -14535,7 +14631,7 @@
       "resourceIds": [
         "yt-HhT6nJrodV0"
       ],
-      "chunk": "sources-009.json",
+      "chunk": "sources-010.json",
       "url": "https://www.youtube.com/watch?v=HhT6nJrodV0",
       "titleCoverage": "existing-label",
       "authors": [
@@ -15916,7 +16012,7 @@
       "resourceIds": [
         "brad-post-207367"
       ],
-      "chunk": "sources-010.json",
+      "chunk": "sources-011.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-high-1-buy-sigal-bar/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -15929,7 +16025,7 @@
       "sourceTitle": "交易區間",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-010.json",
+      "chunk": "sources-011.json",
       "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-18f-trading-ranges/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -15942,7 +16038,7 @@
       "resourceIds": [
         "brad-post-279062"
       ],
-      "chunk": "sources-010.json",
+      "chunk": "sources-011.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-want-buyers-below-yesterdays-low/",
       "titleCoverage": "title-only",
       "authors": [
@@ -15955,7 +16051,7 @@
       "sourceTitle": "開盤交易",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-010.json",
+      "chunk": "sources-011.json",
       "url": "https://www.brookstradingcourse.com/trade-price-action/video-48c-trading-the-open/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -15966,7 +16062,7 @@
       "sourceTitle": "交易流程",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-010.json",
+      "chunk": "sources-011.json",
       "url": "https://www.brookstradingcourse.com/trade-price-action/video-37a-how-to-trade/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -15979,7 +16075,7 @@
       "resourceIds": [
         "brad-post-174922"
       ],
-      "chunk": "sources-010.json",
+      "chunk": "sources-011.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-profit-taking-likely/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -17336,7 +17432,7 @@
       "resourceIds": [
         "brad-post-193774"
       ],
-      "chunk": "sources-011.json",
+      "chunk": "sources-012.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-high-1-buy-setup-likely/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -17351,7 +17447,7 @@
       "resourceIds": [
         "brad-post-221132"
       ],
-      "chunk": "sources-011.json",
+      "chunk": "sources-012.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-testing-the-daily-moving-average/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -17366,7 +17462,7 @@
       "resourceIds": [
         "brad-post-175989"
       ],
-      "chunk": "sources-011.json",
+      "chunk": "sources-012.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-likely-sideways/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -17379,7 +17475,7 @@
       "sourceTitle": "Price action and candlestick charts",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-011.json",
+      "chunk": "sources-012.json",
       "url": "https://www.brookstradingcourse.com/how-to-trade-manual/candlestick-charts/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -17392,7 +17488,7 @@
       "resourceIds": [
         "yt-GEGW60QZuLE"
       ],
-      "chunk": "sources-011.json",
+      "chunk": "sources-012.json",
       "url": "https://www.youtube.com/watch?v=GEGW60QZuLE",
       "titleCoverage": "existing-label",
       "authors": [
@@ -17405,7 +17501,7 @@
       "sourceTitle": "楔形",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-011.json",
+      "chunk": "sources-012.json",
       "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-24b-wedges/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -18776,7 +18872,7 @@
       "resourceIds": [
         "yt-sqLNCy5sOyw"
       ],
-      "chunk": "sources-012.json",
+      "chunk": "sources-013.json",
       "url": "https://www.youtube.com/watch?v=sqLNCy5sOyw",
       "titleCoverage": "existing-label",
       "authors": [
@@ -18791,7 +18887,7 @@
       "resourceIds": [
         "brad-post-236225"
       ],
-      "chunk": "sources-012.json",
+      "chunk": "sources-013.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-likely-to-close-near-open-of-week/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -18806,7 +18902,7 @@
       "resourceIds": [
         "brad-post-209308"
       ],
-      "chunk": "sources-012.json",
+      "chunk": "sources-013.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-testing-5400/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -18821,7 +18917,7 @@
       "resourceIds": [
         "yt-dkwyojkHZKs"
       ],
-      "chunk": "sources-012.json",
+      "chunk": "sources-013.json",
       "url": "https://www.youtube.com/watch?v=dkwyojkHZKs",
       "titleCoverage": "existing-label",
       "authors": [
@@ -18836,7 +18932,7 @@
       "resourceIds": [
         "yt-pbhjKiCGUEU"
       ],
-      "chunk": "sources-012.json",
+      "chunk": "sources-013.json",
       "url": "https://www.youtube.com/watch?v=pbhjKiCGUEU",
       "titleCoverage": "existing-label",
       "authors": [
@@ -18851,7 +18947,7 @@
       "resourceIds": [
         "yt-SKXj6_4Np5Q"
       ],
-      "chunk": "sources-012.json",
+      "chunk": "sources-013.json",
       "url": "https://www.youtube.com/watch?v=SKXj6_4Np5Q",
       "titleCoverage": "existing-label",
       "authors": [
@@ -20234,7 +20330,7 @@
       "sourceTitle": "反轉",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-013.json",
+      "chunk": "sources-014.json",
       "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-21a-reversals/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -20247,7 +20343,7 @@
       "resourceIds": [
         "brad-post-247861"
       ],
-      "chunk": "sources-013.json",
+      "chunk": "sources-014.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-weak-high-1-buy-signal-bar-9/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -20260,7 +20356,7 @@
       "sourceTitle": "Trading Price Action Trading Ranges",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-013.json",
+      "chunk": "sources-014.json",
       "url": "https://www.wiley-vch.de/en/areas-interest/finance-economics-law/trading-price-action-trading-ranges-978-1-118-06667-6",
       "titleCoverage": "existing-label",
       "authors": []
@@ -20273,7 +20369,7 @@
       "resourceIds": [
         "yt-9Bn-r-t1haE"
       ],
-      "chunk": "sources-013.json",
+      "chunk": "sources-014.json",
       "url": "https://www.youtube.com/watch?v=9Bn-r-t1haE",
       "titleCoverage": "existing-label",
       "authors": [
@@ -20288,7 +20384,7 @@
       "resourceIds": [
         "brad-post-215568"
       ],
-      "chunk": "sources-013.json",
+      "chunk": "sources-014.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-buyers-below-wednesdays-low/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -20303,7 +20399,7 @@
       "resourceIds": [
         "brad-post-226717"
       ],
-      "chunk": "sources-013.json",
+      "chunk": "sources-014.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-strong-entry-bar-3/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -21688,7 +21784,7 @@
       "resourceIds": [
         "brad-post-249447"
       ],
-      "chunk": "sources-014.json",
+      "chunk": "sources-015.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-continued-trading-range-price-action-on-daily/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -21703,7 +21799,7 @@
       "resourceIds": [
         "yt-DB7Q_qw8yLM"
       ],
-      "chunk": "sources-014.json",
+      "chunk": "sources-015.json",
       "url": "https://www.youtube.com/watch?v=DB7Q_qw8yLM",
       "titleCoverage": "existing-label",
       "authors": [
@@ -21718,7 +21814,7 @@
       "resourceIds": [
         "yt-lS0Da2Cpeqs"
       ],
-      "chunk": "sources-014.json",
+      "chunk": "sources-015.json",
       "url": "https://www.youtube.com/watch?v=lS0Da2Cpeqs",
       "titleCoverage": "existing-label",
       "authors": [
@@ -21733,7 +21829,7 @@
       "resourceIds": [
         "brad-post-256236"
       ],
-      "chunk": "sources-014.json",
+      "chunk": "sources-015.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-strong-enough-momentum-to-reach-7000/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -21748,7 +21844,7 @@
       "resourceIds": [
         "yt-YJWTy01KYlU"
       ],
-      "chunk": "sources-014.json",
+      "chunk": "sources-015.json",
       "url": "https://www.youtube.com/watch?v=YJWTy01KYlU",
       "titleCoverage": "existing-label",
       "authors": [
@@ -21763,7 +21859,7 @@
       "resourceIds": [
         "yt-GBqA_oKFvmc"
       ],
-      "chunk": "sources-014.json",
+      "chunk": "sources-015.json",
       "url": "https://www.youtube.com/watch?v=GBqA_oKFvmc",
       "titleCoverage": "existing-label",
       "authors": [
@@ -23152,7 +23248,7 @@
       "resourceIds": [
         "yt-5NXoBnuEWkw"
       ],
-      "chunk": "sources-015.json",
+      "chunk": "sources-016.json",
       "url": "https://www.youtube.com/watch?v=5NXoBnuEWkw",
       "titleCoverage": "existing-label",
       "authors": [
@@ -23167,7 +23263,7 @@
       "resourceIds": [
         "brad-post-155579"
       ],
-      "chunk": "sources-015.json",
+      "chunk": "sources-016.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-upside-breakout/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -23182,7 +23278,7 @@
       "resourceIds": [
         "brad-post-213781"
       ],
-      "chunk": "sources-015.json",
+      "chunk": "sources-016.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-fail-low-1-setup/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -23197,7 +23293,7 @@
       "resourceIds": [
         "brad-post-270995"
       ],
-      "chunk": "sources-015.json",
+      "chunk": "sources-016.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-unlikely-to-close-above-globex-open/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -23212,7 +23308,7 @@
       "resourceIds": [
         "list-PLFA11UMiAJm-H5qXz3HwtZuyOtVjhF-OV"
       ],
-      "chunk": "sources-015.json",
+      "chunk": "sources-016.json",
       "url": "https://www.youtube.com/playlist?list=PLFA11UMiAJm-H5qXz3HwtZuyOtVjhF-OV",
       "titleCoverage": "existing-label",
       "authors": [
@@ -23227,7 +23323,7 @@
       "resourceIds": [
         "brad-post-175373"
       ],
-      "chunk": "sources-015.json",
+      "chunk": "sources-016.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-bears-want-2nd-leg-down/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -24604,7 +24700,7 @@
       "resourceIds": [
         "brad-post-273279"
       ],
-      "chunk": "sources-016.json",
+      "chunk": "sources-017.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-bears-failing-to-get-downside-breakout/",
       "titleCoverage": "title-only",
       "authors": [
@@ -24619,7 +24715,7 @@
       "resourceIds": [
         "yt--5NsFldLaHQ"
       ],
-      "chunk": "sources-016.json",
+      "chunk": "sources-017.json",
       "url": "https://www.youtube.com/watch?v=-5NsFldLaHQ",
       "titleCoverage": "existing-label",
       "authors": [
@@ -24634,7 +24730,7 @@
       "resourceIds": [
         "brad-post-277269"
       ],
-      "chunk": "sources-016.json",
+      "chunk": "sources-017.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-finding-support-testing-september-11th-low/",
       "titleCoverage": "title-only",
       "authors": [
@@ -24649,7 +24745,7 @@
       "resourceIds": [
         "brad-post-204214"
       ],
-      "chunk": "sources-016.json",
+      "chunk": "sources-017.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-testing-below-march-8th-breakout-point/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -24664,7 +24760,7 @@
       "resourceIds": [
         "brad-post-220520"
       ],
-      "chunk": "sources-016.json",
+      "chunk": "sources-017.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-possible-vacuum-test-of-6000-round-number/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -24679,7 +24775,7 @@
       "resourceIds": [
         "brad-post-274966"
       ],
-      "chunk": "sources-016.json",
+      "chunk": "sources-017.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-bears-want-reversal-back-into-triangle/",
       "titleCoverage": "title-only",
       "authors": [
@@ -26070,7 +26166,7 @@
       "sourceTitle": "115: Adam Grimes — What Hand Traders Can Learn From System Traders, and Vice Versa",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-017.json",
+      "chunk": "sources-018.json",
       "url": "https://chatwithtraders.com/episode/115-adam-grimes-what-hand-traders-can-learn-from-system-traders-and-vice-versa",
       "titleCoverage": "existing-label",
       "authors": []
@@ -26083,7 +26179,7 @@
       "resourceIds": [
         "brad-post-218369"
       ],
-      "chunk": "sources-017.json",
+      "chunk": "sources-018.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-hesitation-above-august-high/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -26098,7 +26194,7 @@
       "resourceIds": [
         "brad-post-166513"
       ],
-      "chunk": "sources-017.json",
+      "chunk": "sources-018.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-bears-need-follow-through-2/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -26113,7 +26209,7 @@
       "resourceIds": [
         "brad-post-267537"
       ],
-      "chunk": "sources-017.json",
+      "chunk": "sources-018.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-profit-taking-at-all-time-high/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -26128,7 +26224,7 @@
       "resourceIds": [
         "yt-CUJcNYN9rUU"
       ],
-      "chunk": "sources-017.json",
+      "chunk": "sources-018.json",
       "url": "https://www.youtube.com/watch?v=CUJcNYN9rUU",
       "titleCoverage": "existing-label",
       "authors": [
@@ -26143,7 +26239,7 @@
       "resourceIds": [
         "brad-post-173522"
       ],
-      "chunk": "sources-017.json",
+      "chunk": "sources-018.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-downside-probably-limited/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -27512,7 +27608,7 @@
       "resourceIds": [
         "brad-post-211665"
       ],
-      "chunk": "sources-018.json",
+      "chunk": "sources-019.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-2nd-leg-down-to-moving-average-likely/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -27527,7 +27623,7 @@
       "resourceIds": [
         "qs-ptm-202308"
       ],
-      "chunk": "sources-018.json",
+      "chunk": "sources-019.json",
       "url": "https://www.quantsystems.ca/course/ptm-202308",
       "titleCoverage": "existing-label",
       "authors": [
@@ -27540,7 +27636,7 @@
       "sourceTitle": "波段與短打",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-018.json",
+      "chunk": "sources-019.json",
       "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-31d-swing-trading-scalping/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -27553,7 +27649,7 @@
       "resourceIds": [
         "yt-NH0vXdwz3IA"
       ],
-      "chunk": "sources-018.json",
+      "chunk": "sources-019.json",
       "url": "https://www.youtube.com/watch?v=NH0vXdwz3IA",
       "titleCoverage": "existing-label",
       "authors": [
@@ -27566,7 +27662,7 @@
       "sourceTitle": "買賣壓力",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-018.json",
+      "chunk": "sources-019.json",
       "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-10b-buying-selling-pressure/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -27579,7 +27675,7 @@
       "resourceIds": [
         "yt-FW9SH4hK8vE"
       ],
-      "chunk": "sources-018.json",
+      "chunk": "sources-019.json",
       "url": "https://www.youtube.com/watch?v=FW9SH4hK8vE",
       "titleCoverage": "existing-label",
       "authors": [
@@ -28950,7 +29046,7 @@
       "sourceTitle": "保護停損",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-019.json",
+      "chunk": "sources-020.json",
       "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-33f-protective-stops/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -28963,7 +29059,7 @@
       "resourceIds": [
         "yt-ClJMg8LUA4g"
       ],
-      "chunk": "sources-019.json",
+      "chunk": "sources-020.json",
       "url": "https://www.youtube.com/watch?v=ClJMg8LUA4g",
       "titleCoverage": "existing-label",
       "authors": [
@@ -28978,7 +29074,7 @@
       "resourceIds": [
         "yt-sTr43crIrsI"
       ],
-      "chunk": "sources-019.json",
+      "chunk": "sources-020.json",
       "url": "https://www.youtube.com/watch?v=sTr43crIrsI",
       "titleCoverage": "existing-label",
       "authors": [
@@ -28993,7 +29089,7 @@
       "resourceIds": [
         "yt-HSDq1eC_FbU"
       ],
-      "chunk": "sources-019.json",
+      "chunk": "sources-020.json",
       "url": "https://www.youtube.com/watch?v=HSDq1eC_FbU",
       "titleCoverage": "existing-label",
       "authors": [
@@ -29008,7 +29104,7 @@
       "resourceIds": [
         "yt-xE-N-rBtZoA"
       ],
-      "chunk": "sources-019.json",
+      "chunk": "sources-020.json",
       "url": "https://www.youtube.com/watch?v=xE-N-rBtZoA",
       "titleCoverage": "existing-label",
       "authors": [
@@ -29023,7 +29119,7 @@
       "resourceIds": [
         "qs-ptm-202506"
       ],
-      "chunk": "sources-019.json",
+      "chunk": "sources-020.json",
       "url": "https://www.quantsystems.ca/course/ptm-202506",
       "titleCoverage": "existing-label",
       "authors": [
@@ -30400,7 +30496,7 @@
       "resourceIds": [
         "yt-IiS8KTc_nPg"
       ],
-      "chunk": "sources-020.json",
+      "chunk": "sources-021.json",
       "url": "https://www.youtube.com/watch?v=IiS8KTc_nPg",
       "titleCoverage": "existing-label",
       "authors": [
@@ -30415,7 +30511,7 @@
       "resourceIds": [
         "yt-EDTi-7tmb6U"
       ],
-      "chunk": "sources-020.json",
+      "chunk": "sources-021.json",
       "url": "https://www.youtube.com/watch?v=EDTi-7tmb6U",
       "titleCoverage": "existing-label",
       "authors": [
@@ -30430,7 +30526,7 @@
       "resourceIds": [
         "qs-ptm-202601"
       ],
-      "chunk": "sources-020.json",
+      "chunk": "sources-021.json",
       "url": "https://www.quantsystems.ca/course/ptm-202601",
       "titleCoverage": "existing-label",
       "authors": [
@@ -30445,7 +30541,7 @@
       "resourceIds": [
         "brad-post-224318"
       ],
-      "chunk": "sources-020.json",
+      "chunk": "sources-021.json",
       "url": "https://www.brookstradingcourse.com/analysis/trading-update-thursday-december-5-2024/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -30458,7 +30554,7 @@
       "sourceTitle": "Market by Order (MBO)",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-020.json",
+      "chunk": "sources-021.json",
       "url": "https://www.cmegroup.com/articles/faqs/market-by-order-mbo.html",
       "titleCoverage": "existing-label",
       "authors": []
@@ -30469,7 +30565,7 @@
       "sourceTitle": "What is bar magnifier backtesting mode｜棒內回測與成交模擬",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-020.json",
+      "chunk": "sources-021.json",
       "url": "https://www.tradingview.com/support/solutions/43000669285-what-is-bar-magnifier-backtesting-mode/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -31261,17 +31357,6 @@
       ]
     },
     {
-      "id": "ea097b1f9392051cff5f",
-      "titleZh": "Wyckoff Reaccumulation vs Distribution: How to Tell Which One You're In",
-      "sourceTitle": "Wyckoff Reaccumulation vs Distribution: How to Tell Which One You're In",
-      "status": "pending",
-      "resourceIds": [],
-      "chunk": "sources-021.json",
-      "url": "https://www.wyckoffanalytics.com/wyckoff-reaccumulation-vs-distribution-how-to-tell-which-one-youre-in/",
-      "titleCoverage": "existing-label",
-      "authors": []
-    },
-    {
       "id": "ea162e742f8e920e36a5",
       "titleZh": "Brad 日內案例｜2022-10-06｜行情觀察與決策",
       "sourceTitle": "Emini Sideways to Up Likely and Test of 4,000",
@@ -31867,7 +31952,7 @@
       "resourceIds": [
         "yt-7hZMFWs-1U0"
       ],
-      "chunk": "sources-021.json",
+      "chunk": "sources-022.json",
       "url": "https://www.youtube.com/watch?v=7hZMFWs-1U0",
       "titleCoverage": "existing-label",
       "authors": [
@@ -31882,7 +31967,7 @@
       "resourceIds": [
         "brad-post-270240"
       ],
-      "chunk": "sources-021.json",
+      "chunk": "sources-022.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-testing-may-all-time-high/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -31897,7 +31982,7 @@
       "resourceIds": [
         "yt-s6AUR3-Krnc"
       ],
-      "chunk": "sources-021.json",
+      "chunk": "sources-022.json",
       "url": "https://www.youtube.com/watch?v=s6AUR3-Krnc",
       "titleCoverage": "existing-label",
       "authors": [
@@ -31912,7 +31997,7 @@
       "resourceIds": [
         "yt-MfNnC9FJO8I"
       ],
-      "chunk": "sources-021.json",
+      "chunk": "sources-022.json",
       "url": "https://www.youtube.com/watch?v=MfNnC9FJO8I",
       "titleCoverage": "existing-label",
       "authors": [
@@ -31927,7 +32012,7 @@
       "resourceIds": [
         "brad-post-213395"
       ],
-      "chunk": "sources-021.json",
+      "chunk": "sources-022.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-profit-taking-for-bears-likely/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -33307,7 +33392,7 @@
       "resourceIds": [
         "brad-post-203007"
       ],
-      "chunk": "sources-022.json",
+      "chunk": "sources-023.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-hopeful-for-upside-breakout-of-triangle/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -33320,7 +33405,7 @@
       "sourceTitle": "開盤交易",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-022.json",
+      "chunk": "sources-023.json",
       "url": "https://www.brookstradingcourse.com/trade-price-action/video-48b-trading-the-open/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -33333,7 +33418,7 @@
       "resourceIds": [
         "brad-post-157125"
       ],
-      "chunk": "sources-022.json",
+      "chunk": "sources-023.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-second-leg-up-likely/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -33348,7 +33433,7 @@
       "resourceIds": [
         "yt-sURdYNKxLcw"
       ],
-      "chunk": "sources-022.json",
+      "chunk": "sources-023.json",
       "url": "https://www.youtube.com/watch?v=sURdYNKxLcw",
       "titleCoverage": "existing-label",
       "authors": [
@@ -33363,7 +33448,7 @@
       "resourceIds": [
         "brad-post-240541"
       ],
-      "chunk": "sources-022.json",
+      "chunk": "sources-023.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-halting-the-buying-pressure-on-the-daily/",
       "titleCoverage": "existing-label",
       "authors": [

@@ -118,7 +118,8 @@
     } else if(name==="exercise"){
       body.innerHTML='<div class="reader-label">本網站自編練習 · 非作者官方交易系統</div><h2 id="reader-exercise">'+esc(a.exercise.title)+'</h2>'+diagram()+'<ol>'+a.exercise.steps.map(x=>'<li>'+esc(x)+'</li>').join("")+'</ol><h2 id="reader-review">完成後的檢核</h2>'+list(a.exercise.review)+'<p>練習可使用歷史回放與模擬紀錄。這些問題沒有替策略提供勝率或收益保證。</p>';
     } else if(name==="glossary"){
-      body.innerHTML='<h2 id="reader-glossary">中英術語</h2><p>以下是本篇使用的工作定義。不同作者可能有不同用法，請對照原文。</p><dl class="reader-terms">'+a.glossary.map(t=>'<div><dt><strong>'+esc(t.en.toLowerCase()==='fill'?'成交':t.zh)+'</strong></dt><dd>'+Z.inline(t.note,a.glossary)+Z.original(t.en,"展開英文術語")+'</dd></div>').join("")+'</dl>';
+      body.innerHTML=globalThis.AtlasGlossary?globalThis.AtlasGlossary.render(a,Z):'<h2 id="reader-glossary">中英術語</h2><p>以下是本篇使用的工作定義。不同作者可能有不同用法，請對照原文。</p><dl class="reader-terms">'+a.glossary.map(t=>'<div><dt><strong>'+esc(t.en.toLowerCase()==='fill'?'成交':t.zh)+'</strong></dt><dd>'+Z.inline(t.note,a.glossary)+Z.original(t.en,"展開英文術語")+'</dd></div>').join("")+'</dl>';
+      if(globalThis.AtlasGlossary)globalThis.AtlasGlossary.mount(body,a);
     } else if(name==="cases") {body.innerHTML=globalThis.AtlasPractice.render(a);globalThis.AtlasPractice.mount(body,a);}
     else if(name==="translation") body.innerHTML=translationHTML(a);
     else body.innerHTML=sourceHTML(a);

@@ -1,0 +1,121 @@
+[
+  {
+    "id": "sierra-depth-replay",
+    "platform": "Sierra Chart 公開支援討論區",
+    "kind": "community",
+    "language": "en",
+    "author": "提問 cmack1011；重點回覆 John — SC Support",
+    "title": "掛單增加／撤減回放：先確認市場深度歷史",
+    "originalTitle": "Can't obtain stacking/pulling data on replay",
+    "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=97845",
+    "published": "2025-02-01",
+    "dateNote": "實讀首帖至 2025-02-17 回覆；原頁時間的時區未核對。",
+    "summary": "官方支援說明，掛單增加與撤減由市場深度變化推導，並非另外儲存的一套資料。回放需要對應時段的深度歷史；連續期貨跨換月時，也可能需要逐契約取得資料。",
+    "quote": {
+      "en": "You are storing the Market Depth data, from which the Pulling/Stacking data is derived.",
+      "zh": "你儲存的是市場深度資料；掛單增加／撤減資料是由它推導而來。",
+      "context": "第 4 則，2025-02-04；官方支援回答是否需要另外記錄掛單增加／撤減資料。"
+    },
+    "access": "已讀單頁第 1–14 則全部文字；未操作軟體、下載或驗證深度歷史。",
+    "translation": "公開討論的短摘要與必要短句；不是軟體操作手冊全文。",
+    "review": {
+      "basis": "公開支援串可區分官方支援與一般會員，適合核對資料依賴及排錯順序。",
+      "learning": "區分成交歷史、深度歷史、衍生欄位與實際契約，避免只因有 K 線回放就推定有訂單流回放。",
+      "limits": "2025 年特定軟體問題，不證明目前每個商品的可下載年限或任何策略成效；不把刪檔排錯做法改寫成本站操作指令。",
+      "engagement": "瀏覽次數的搜尋及原頁快照不同，未採用人氣數字；沒有獨立教學成效評分。"
+    },
+    "related": [
+      "flow-depth",
+      "practice-replay-evidence"
+    ],
+    "tags": [
+      "訂單流",
+      "深度歷史",
+      "回放",
+      "換月"
+    ],
+    "batch": 8,
+    "collected": "2026-10-29",
+    "checked": "2026-10-29"
+  },
+  {
+    "id": "tv-fvg-score-not-probability",
+    "platform": "TradingView 公開腳本說明",
+    "kind": "community",
+    "language": "en",
+    "author": "AGProLabs",
+    "title": "三棒失衡區品質評分不是經校準的價格機率",
+    "originalTitle": "AG Pro Fair Value Gap Engine [AGPro Series]",
+    "url": "https://www.tradingview.com/script/bUk7gcA1-AG-Pro-Fair-Value-Gap-Engine-AGPro-Series/",
+    "published": null,
+    "dateNote": "頁面顯示 4 月 6 日、更新 6 月 13 日；年份未可靠核對，不補造完整日期。",
+    "summary": "作者依形成、存續、回補與老化追蹤三棒失衡區域，再用大小、返回速度、相對量及觸及後反應評分。分數用於比較模型內事件；作者明說高分不保證方向結果，提醒也不是交易指令。",
+    "quote": {
+      "en": "A high score does not guarantee a directional outcome.",
+      "zh": "高分並不保證價格會出現某個方向的結果。",
+      "context": "公開說明的限制與透明度段落；同段也說低分不自動使區域失去背景價值。"
+    },
+    "access": "已讀公開說明的辨識、追蹤、老化、回補、評分、提醒及限制；未讀程式碼、執行指標或驗證非重繪與績效。",
+    "translation": "第三方工具說明的短摘要與短句翻譯；不是 ICT 原課、程式全文或策略驗證。",
+    "review": {
+      "basis": "作者主動揭露評分屬模型，而非未來價格的客觀真理；這個界線有助於閱讀工具宣傳。",
+      "learning": "先問分數的輸入、計算時點及是否使用後來資訊，再區分評分、事件比例與交易勝率。",
+      "limits": "屬第三方自有 ICT 風格工具；開放原始碼標籤不等於本站已審查程式，沒有獨立績效證據。",
+      "engagement": "圖示數字口徑未清楚核對，未填喜歡數、使用者數或好評率。"
+    },
+    "related": [
+      "ict-event-rates",
+      "ict-fvg",
+      "pa3-bayes-evidence"
+    ],
+    "tags": [
+      "ICT",
+      "評分",
+      "機率",
+      "資料時點"
+    ],
+    "batch": 8,
+    "collected": "2026-10-29",
+    "checked": "2026-10-29"
+  },
+  {
+    "id": "wyckoff-spring-test-quality",
+    "platform": "Wyckoff Stock Market Institute",
+    "kind": "author",
+    "language": "en",
+    "author": "Wyckoff Stock Market Institute；版權 The Jamison Group, Inc.",
+    "title": "下破回收後的測試：較差品質不代表必然失敗",
+    "originalTitle": "Stock Market Primary Buying Opportunities — Test of Springs",
+    "url": "https://wyckoffstockmarketinstitute.com/Archives/Buying-Oppurtunities_Spring-test.pdf",
+    "published": null,
+    "dateNote": "PDF 未列發表日，不把搜尋引擎估計時間當成發布日期；未列個人作者。",
+    "summary": "教材以棒幅、成交量及測試低點位置比較下破回收後的測試品質：較窄棒幅、較低量與較高低點被視為較佳，也保留較低品質不必然失敗的例外。後續測試、退出保護及風險報酬需一起考慮。",
+    "quote": {
+      "en": "However, not all lower quality tests fail.",
+      "zh": "然而，並非所有品質較低的測試都會失敗。",
+      "context": "PDF 第 1 頁；原文先保留例外，再談低點更低、量較大等疑慮。"
+    },
+    "access": "已讀公開 PDF 兩頁全部文字；未重製原圖或取得完整翻譯授權。",
+    "translation": "公開教材的短摘要及必要短句；不是兩頁全文譯文。",
+    "review": {
+      "basis": "教育機構提供的可追溯短教材，包含品質比較與例外語句。",
+      "learning": "練習把較佳／較差品質保留為相對判讀；此處 price spread 是棒幅，並非買賣價差。",
+      "limits": "三比一等條件是該教材建議，不取代本站 2R 研究版本，也不是微台或 BTC 的實測勝率。",
+      "engagement": "未取得獨立成效評分，不以機構身分推論交易優勢。"
+    },
+    "related": [
+      "wyckoff-spring",
+      "wyckoff-effort",
+      "pp2-structural-stop"
+    ],
+    "tags": [
+      "威科夫",
+      "測試",
+      "棒幅",
+      "例外"
+    ],
+    "batch": 8,
+    "collected": "2026-10-29",
+    "checked": "2026-10-29"
+  }
+]
