@@ -20,6 +20,15 @@
       "nextAction": "取得實際教材或字幕後才能補內容摘要"
     },
     {
+      "id": "148a937543a7273f3096",
+      "url": "https://www.tradewithme.live/",
+      "resourceIds": [
+        "ali-twm"
+      ],
+      "status": "intro-only",
+      "nextAction": "取得實際教材或字幕後才能補內容摘要"
+    },
+    {
       "id": "30afa9388c801eb3c98e",
       "url": "https://www.youtube.com/watch?v=qEM1w6UqVDo",
       "resourceIds": [
@@ -27,6 +36,35 @@
       ],
       "status": "unavailable",
       "nextAction": "日後重試合法公開入口，保留本次失敗"
+    },
+    {
+      "id": "69c23b9b5e0ff90fe537",
+      "url": "https://www.quantsystems.ca/course/bo-research",
+      "resourceIds": [
+        "ali-bo"
+      ],
+      "status": "intro-only",
+      "nextAction": "取得實際教材或字幕後才能補內容摘要"
+    },
+    {
+      "id": "80a94739d33f743ed25c",
+      "url": "https://www.brookstradingcourse.com/price-action-trading-terms-glossary/",
+      "resourceIds": [
+        "b-glossary"
+      ],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
+      "id": "81fd24b444fc733d8b1d",
+      "url": "https://www.brookstradingcourse.com/price-action-trading-books/",
+      "resourceIds": [
+        "book-trends",
+        "book-ranges",
+        "book-reversals"
+      ],
+      "status": "intro-only",
+      "nextAction": "取得實際教材或字幕後才能補內容摘要"
     },
     {
       "id": "89a80e33df33142c1ae8",
@@ -41,6 +79,33 @@
       "nextAction": "取得實際教材或字幕後才能補內容摘要"
     },
     {
+      "id": "92ad506a14adec2eb335",
+      "url": "https://www.brookstradingcourse.com/blog/ask-al/",
+      "resourceIds": [
+        "b-qa"
+      ],
+      "status": "intro-only",
+      "nextAction": "取得實際教材或字幕後才能補內容摘要"
+    },
+    {
+      "id": "9590534c51e47b546623",
+      "url": "https://www.brookstradingcourse.com/how-to-trade-price-action-manual/",
+      "resourceIds": [
+        "b-manual"
+      ],
+      "status": "intro-only",
+      "nextAction": "取得實際教材或字幕後才能補內容摘要"
+    },
+    {
+      "id": "984d1f1de29b4c6ca9fb",
+      "url": "https://www.brookstradingcourse.com/disclaimer-and-agreement/",
+      "resourceIds": [
+        "b-disclosure"
+      ],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
       "id": "99e2a151d66fd24d0a7d",
       "url": "https://www.youtube.com/watch?v=iQB1QohZs6w",
       "resourceIds": [
@@ -50,6 +115,24 @@
       "nextAction": "日後重試合法公開入口，保留本次失敗"
     },
     {
+      "id": "ab0f0d3ebcea2a71dde9",
+      "url": "https://www.quantsystems.ca/sa-overview",
+      "resourceIds": [
+        "ali-sa"
+      ],
+      "status": "intro-only",
+      "nextAction": "取得實際教材或字幕後才能補內容摘要"
+    },
+    {
+      "id": "ba75a0a9c3bb01bd0e3b",
+      "url": "https://www.brookstradingcourse.com/trade-price-action/",
+      "resourceIds": [
+        "b-index"
+      ],
+      "status": "intro-only",
+      "nextAction": "取得實際教材或字幕後才能補內容摘要"
+    },
+    {
       "id": "dfafe0282e69d429a562",
       "url": "https://www.youtube.com/watch?v=guYhIhMkTv8",
       "resourceIds": [
@@ -57,6 +140,104 @@
       ],
       "status": "unavailable",
       "nextAction": "日後重試合法公開入口，保留本次失敗"
+    },
+    {
+      "id": "1d596485e1eff3e7a57f",
+      "url": "https://www.tradingview.com/pine-script-docs/concepts/repainting/",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
+      "id": "223ed9e47d26a4e68640",
+      "url": "https://www.adamhgrimes.com/breakouts-and-breakout-failures-real-world-trading/",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
+      "id": "2617ab025c0fe09d104e",
+      "url": "https://www.tradingsetupsreview.com/beginners-guide-reading-price-action/",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
+      "id": "26e3244d33edc25b40bd",
+      "url": "https://www.tradingview.com/script/PqN9ejOj-FVG-IFVG-Pro-MTF-Fair-Value-Gap-and-Inverse-Fair-Value-Gap/",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
+      "id": "3892838797764325e90f",
+      "url": "https://www.brookstradingcourse.com/support-forum/general-trading-discussion/when-al-said-sometimes-on-a-possibility-what-percentage-it-is-up-to-al/",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
+      "id": "556ebe1e576b291ac491",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=3562704&title=Technical_Analysis%2FBasis_of_Technical_Analysis",
+      "resourceIds": [],
+      "status": "licensed-excerpt",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
+      "id": "610f078cfecc628a0208",
+      "url": "https://www.tradingview.com/script/gjFSGRCo-Dynamic-Swing-Anchored-VWAP-STRAT-Zeiierman-PineIndicators/",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
+      "id": "7c42076ddc983d88797a",
+      "url": "https://www.reddit.com/r/Daytrading/comments/1osewll/price_action_al_brooks_high_win_rate/",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
+      "id": "7dadb93f6cae6c0032f1",
+      "url": "https://bookmap.com/learning-center/en/order-flow-phenomena/order-flow-education/amzn-absorption-and-exhaustion",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
+      "id": "91c65725042121b361d3",
+      "url": "https://www.sierrachart.com/SupportBoard.php?PostID=222357",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
+      "id": "e5df3c433f8f08e4c1b1",
+      "url": "https://bookmap.com/blog/how-to-set-profit-targets-using-liquidity-maps",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
+      "id": "f51078b6a9c53a692968",
+      "url": "https://www.wyckoffanalytics.com/wp-content/uploads/2019/09/WyckoffSchematics-VisualTemplatesForMarketTimingDecisions.pdf",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
+      "id": "fc5f102a8f296ec9cd48",
+      "url": "https://www.reddit.com/r/Daytrading/comments/1xebtgu/price_action_recommendations/",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
+      "id": "fcf8997c72866e681dbd",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4351762&title=Technical_Analysis%2FPatterns",
+      "resourceIds": [],
+      "status": "licensed-excerpt",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
     },
     {
       "id": "00abbdd08b2ec448c201",
@@ -81,15 +262,6 @@
       "url": "https://www.youtube.com/watch?v=FQVMRiuZp2U",
       "resourceIds": [
         "yt-FQVMRiuZp2U"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
-      "id": "148a937543a7273f3096",
-      "url": "https://www.tradewithme.live/",
-      "resourceIds": [
-        "ali-twm"
       ],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
@@ -284,15 +456,6 @@
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
     {
-      "id": "69c23b9b5e0ff90fe537",
-      "url": "https://www.quantsystems.ca/course/bo-research",
-      "resourceIds": [
-        "ali-bo"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
       "id": "6b27f6a92edb0bb28ab8",
       "url": "https://hub.hku.hk/bitstream/10722/184789/1/content.pdf",
       "resourceIds": [
@@ -383,26 +546,6 @@
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
     {
-      "id": "80a94739d33f743ed25c",
-      "url": "https://www.brookstradingcourse.com/price-action-trading-terms-glossary/",
-      "resourceIds": [
-        "b-glossary"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
-      "id": "81fd24b444fc733d8b1d",
-      "url": "https://www.brookstradingcourse.com/price-action-trading-books/",
-      "resourceIds": [
-        "book-trends",
-        "book-ranges",
-        "book-reversals"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
       "id": "85b56aa825ccfacfe85f",
       "url": "https://www.youtube.com/watch?v=T7T3WYk1anQ",
       "resourceIds": [
@@ -448,42 +591,6 @@
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
     {
-      "id": "92ad506a14adec2eb335",
-      "url": "https://www.brookstradingcourse.com/blog/ask-al/",
-      "resourceIds": [
-        "b-qa"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
-      "id": "9590534c51e47b546623",
-      "url": "https://www.brookstradingcourse.com/how-to-trade-price-action-manual/",
-      "resourceIds": [
-        "b-manual"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
-      "id": "984d1f1de29b4c6ca9fb",
-      "url": "https://www.brookstradingcourse.com/disclaimer-and-agreement/",
-      "resourceIds": [
-        "b-disclosure"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
-      "id": "a38fbe527b13fd0335d4",
-      "url": "https://www.brookstradingcourse.com/price-action/professional-price-action-trader/",
-      "resourceIds": [
-        "b-roadmap"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
       "id": "a3c99caa44df88fd6e35",
       "url": "https://www.youtube.com/watch?v=gIj8pV_0lNw",
       "resourceIds": [
@@ -502,15 +609,6 @@
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
     {
-      "id": "ab0f0d3ebcea2a71dde9",
-      "url": "https://www.quantsystems.ca/sa-overview",
-      "resourceIds": [
-        "ali-sa"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
       "id": "afac9492aaf43422f2ba",
       "url": "https://www.youtube.com/watch?v=PohrMfMo2T4",
       "resourceIds": [
@@ -524,15 +622,6 @@
       "url": "https://www.youtube.com/watch?v=Z6lKUPUEYJQ",
       "resourceIds": [
         "discovery-rayner-teo-2"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
-      "id": "ba75a0a9c3bb01bd0e3b",
-      "url": "https://www.brookstradingcourse.com/trade-price-action/",
-      "resourceIds": [
-        "b-index"
       ],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
@@ -650,15 +739,6 @@
       "url": "https://www.youtube.com/watch?v=XjQ6BnFWCbI",
       "resourceIds": [
         "yt-XjQ6BnFWCbI"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
-      "id": "d91695d26b55824a5afc",
-      "url": "https://www.quantsystems.ca/article-position-sizing",
-      "resourceIds": [
-        "ali-sizing"
       ],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
@@ -935,6 +1015,13 @@
       "resourceIds": [
         "brad-post-189083"
       ],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
+      "id": "02e275803e017bd43a9e",
+      "url": "https://www.trustpilot.com/review/quantsystems.ca",
+      "resourceIds": [],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
@@ -1306,6 +1393,13 @@
       "resourceIds": [
         "brad-post-230759"
       ],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
+      "id": "0684d6712465d5118cec",
+      "url": "https://www.forexpeacearmy.com/forex-reviews/7097/www.learntotradethemarket.com",
+      "resourceIds": [],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
@@ -1796,6 +1890,13 @@
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
     {
+      "id": "0d43f2702fd32e12670a",
+      "url": "https://www.reddit.com/r/FuturesTrading/comments/1euty33/thomas_wade_trading_course/",
+      "resourceIds": [],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
       "id": "0d7f21440547e99aed36",
       "url": "https://www.youtube.com/watch?v=j-KBGzEVkGg",
       "resourceIds": [
@@ -1943,6 +2044,13 @@
       "resourceIds": [
         "brad-post-153801"
       ],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
+      "id": "1019ccbc7cdd5eff5e8d",
+      "url": "https://www.trustpilot.com/review/www.smbtraining.com",
+      "resourceIds": [],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
@@ -2206,6 +2314,13 @@
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
     {
+      "id": "13fc6fdbc5fe67f44879",
+      "url": "https://www.reddit.com/r/Daytrading/comments/1s521k9/smb_capital_training_programs/",
+      "resourceIds": [],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
       "id": "1420d89ad9bd2ce34976",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-profit-taking-at-new-all-time-high/",
       "resourceIds": [
@@ -2317,6 +2432,13 @@
       "resourceIds": [
         "yt-oDOxGsGul9A"
       ],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
+      "id": "1539eae6506543178e58",
+      "url": "https://podcasts.apple.com/us/podcast/chat-with-traders/id957265404",
+      "resourceIds": [],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
@@ -4228,6 +4350,13 @@
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
     {
+      "id": "2f502575959eab1ca598",
+      "url": "https://www.trustpilot.com/review/www.brookstradingcourse.com",
+      "resourceIds": [],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
       "id": "2f6d53bb834514255ab4",
       "url": "https://www.brookstradingcourse.com/analysis/emini-beginning-to-stall-at-4600/",
       "resourceIds": [
@@ -5421,6 +5550,13 @@
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
     {
+      "id": "3d54f028da3a6cf07808",
+      "url": "https://nexusfi.com/showthread.php?p=842796&t=56978",
+      "resourceIds": [],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
       "id": "3dad92b14252125e5a8f",
       "url": "https://www.youtube.com/watch?v=7BWO-6wUIHI",
       "resourceIds": [
@@ -5507,6 +5643,13 @@
       "resourceIds": [
         "brad-post-158337"
       ],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
+      "id": "3ecfb5600bba78f3a3c6",
+      "url": "https://www.tradingsetupsreview.com/course/info/reviews/",
+      "resourceIds": [],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
@@ -6601,6 +6744,13 @@
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
     {
+      "id": "4def9acf240800f16321",
+      "url": "https://www.reddit.com/r/FuturesTrading/comments/1e1c0fy/macks_pats_trading_good/",
+      "resourceIds": [],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
       "id": "4e02c82c320ebfde37f1",
       "url": "https://www.brookstradingcourse.com/ask-al/trading-range-days-price-action/",
       "resourceIds": [],
@@ -6707,6 +6857,13 @@
     {
       "id": "4ed863b2f2fa1b9cfcb2",
       "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-09a-pullbacks-bar-counting/",
+      "resourceIds": [],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
+      "id": "4ef3fb8ce371aaaf16d0",
+      "url": "https://www.reddit.com/r/Daytrading/comments/1nw2mnw/tom_hougaards_broker_statement_analysis_to_find/",
       "resourceIds": [],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
@@ -7195,6 +7352,13 @@
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
     {
+      "id": "54fca5c99901052d8efd",
+      "url": "https://www.marketlife.com/",
+      "resourceIds": [],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
       "id": "55060cb525716acab5e3",
       "url": "https://www.brookstradingcourse.com/analysis/emini-bears-want-reversal-bar-today/",
       "resourceIds": [
@@ -7496,6 +7660,13 @@
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
     {
+      "id": "5926b7fac00877e5861b",
+      "url": "https://bettersystemtrader.com/055-adam-grimes-market-behavior/",
+      "resourceIds": [],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
       "id": "5928cb42b553e4df3417",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-trying-for-upside-breakout/",
       "resourceIds": [
@@ -7591,6 +7762,13 @@
       "resourceIds": [
         "brad-post-175618"
       ],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
+      "id": "5a760dc635d06a9bffcc",
+      "url": "https://uk.trustpilot.com/review/tradingwithrayner.com",
+      "resourceIds": [],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
@@ -7859,6 +8037,13 @@
       "resourceIds": [
         "brad-post-159699"
       ],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
+      "id": "5deb8886ba6376ecbaaf",
+      "url": "https://www.reddit.com/r/Daytrading/comments/ngmb0k/",
+      "resourceIds": [],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
@@ -9396,6 +9581,20 @@
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
     {
+      "id": "720f2cce6fa545dd251f",
+      "url": "https://www.reddit.com/r/Daytrading/comments/1oicck6/al_brooks_live_trading_room/",
+      "resourceIds": [],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
+      "id": "7227ee8abf1ac7c559ba",
+      "url": "https://podcasts.apple.com/us/podcast/top-traders-unplugged/id888420325",
+      "resourceIds": [],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
       "id": "7234cf2dc80c73279056",
       "url": "https://www.youtube.com/watch?v=WQV3tXmh_CA",
       "resourceIds": [
@@ -9605,6 +9804,13 @@
       "resourceIds": [
         "brad-post-261100"
       ],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
+      "id": "73b299d6fbdd40d79c09",
+      "url": "https://www.reddit.com/r/Daytrading/comments/1kigga4/",
+      "resourceIds": [],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
@@ -13079,6 +13285,13 @@
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
     {
+      "id": "a3ca4e52ef8b37f197f6",
+      "url": "https://www.toptradersunplugged.com/podcast/137-years-of-trend-what-the-evidence-really-shows-ft-yoav-git/",
+      "resourceIds": [],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
       "id": "a3ddcd0a0199f7672310",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-likely-to-get-2nd-leg-up-3/",
       "resourceIds": [
@@ -16135,6 +16348,13 @@
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
     {
+      "id": "c7752b12ef719210329b",
+      "url": "https://www.reddit.com/r/Daytrading/comments/18wfq3m/adam_grimes_content/",
+      "resourceIds": [],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
       "id": "c783850367a6fe5f7a8f",
       "url": "https://www.brookstradingcourse.com/analysis/emini-reach-february-low/",
       "resourceIds": [
@@ -17211,6 +17431,13 @@
       "resourceIds": [
         "brad-post-264994"
       ],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
+      "id": "d72b1d209556bc820c9a",
+      "url": "https://www.trustpilot.com/review/learntotradethemarket.com",
+      "resourceIds": [],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
@@ -19991,6 +20218,13 @@
       "resourceIds": [
         "brad-post-185322"
       ],
+      "status": "pending",
+      "nextAction": "讀取原始內容並撰寫忠實摘要"
+    },
+    {
+      "id": "fcabd1d9bd7c76505d93",
+      "url": "https://podcasts.apple.com/us/podcast/better-system-trader/id985870258",
+      "resourceIds": [],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },

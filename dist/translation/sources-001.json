@@ -804,6 +804,29 @@
     ]
   },
   {
+    "id": "02e275803e017bd43a9e",
+    "url": "https://www.trustpilot.com/review/quantsystems.ca",
+    "sourceTitle": "Trustpilot：Quant Systems 用戶評論與回覆",
+    "titleZh": "Trustpilot：Quant Systems 用戶評論與回覆",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "discovery-review",
+        "id": "quant",
+        "index": 0
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "02f3a3e3aca82468d3c2",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-daily-climactic-rally-likely-to-test-moving-average/",
     "sourceTitle": "E-mini Daily: Climactic Rally Likely to Test Moving Average",
@@ -2153,6 +2176,29 @@
     ]
   },
   {
+    "id": "0684d6712465d5118cec",
+    "url": "https://www.forexpeacearmy.com/forex-reviews/7097/www.learntotradethemarket.com",
+    "sourceTitle": "Forex Peace Army：LearnToTradeTheMarket.com Review（評論來源）",
+    "titleZh": "Forex Peace Army：LearnToTradeTheMarket.com Review（評論來源）",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "discovery-review",
+        "id": "nial-fuller",
+        "index": 1
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "0696d928c76e892ad2f0",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-likely-scaling-in-lower/",
     "sourceTitle": "E-mini Bulls Likely Scaling In Lower",
@@ -3091,61 +3137,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-201389",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "09aec332a6040beba57d",
-    "url": "https://www.brookstradingcourse.com/trade-price-action/video-40a-entering-late-trends/",
-    "sourceTitle": "趨勢後段進場",
-    "titleZh": "趨勢後段進場",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "趨勢後段進場"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
-  },
-  {
-    "id": "09cde57b644873f7b581",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-odds-favor-2nd-leg-up/",
-    "sourceTitle": "Emini Odds Favor 2nd Leg Up to February High",
-    "titleZh": "Brad 日內案例｜2023-05-22｜回檔與第二段",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-178710"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-178710"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-178710",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

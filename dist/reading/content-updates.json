@@ -2,6 +2,101 @@
   "version": 1,
   "batches": [
     {
+      "id": "fullsite-zh-checkpoint2-20261029",
+      "collected": "2026-10-29",
+      "timezone": "Asia/Taipei",
+      "description": "全站繁中第二個檢查點：11 筆核心來源實讀整理、35 組介面詞句與來源清單補漏。",
+      "sources": [
+        "b-roadmap",
+        "ali-sizing",
+        "b-manual",
+        "book-trends",
+        "ali-bo",
+        "ali-sa",
+        "b-qa",
+        "b-index",
+        "b-glossary",
+        "b-disclosure",
+        "ali-twm"
+      ],
+      "articles": [],
+      "decisions": [
+        {
+          "source": "Becoming a professional price action trader",
+          "url": "https://www.brookstradingcourse.com/price-action/professional-price-action-trader/",
+          "status": "body-summary",
+          "reason": "已讀公開正文：能力目標、螺旋學習、讀書與筆記、舒適圈、刻意練習、訊號與設定的區分及結語；未觀看文中連結的課程或練習影片。"
+        },
+        {
+          "source": "Position Sizing",
+          "url": "https://www.quantsystems.ca/article-position-sizing",
+          "status": "body-summary",
+          "reason": "已讀公開正文、快速部位表、動態加碼案例、使用者輸入、每日調整與首次發表說明；未下載試算表或重新計算原案例。"
+        },
+        {
+          "source": "How to trade price action manual",
+          "url": "https://www.brookstradingcourse.com/how-to-trade-price-action-manual/",
+          "status": "intro-only",
+          "reason": "已讀本頁導言、手冊目錄與交易管理等概述；本頁不是各章全文，未讀取全部連結章節或付費手冊。"
+        },
+        {
+          "source": "Price Action Trading Books",
+          "url": "https://www.brookstradingcourse.com/price-action-trading-books/",
+          "status": "intro-only",
+          "reason": "已讀官方書介、閱讀順序與圖表下載說明；未讀付費原書，未觀看 Books vs videos 內嵌影片或下載書圖。"
+        },
+        {
+          "source": "Breakouts Research",
+          "url": "https://www.quantsystems.ca/course/bo-research",
+          "status": "intro-only",
+          "reason": "已讀公開概述、教材清單、更新月份及作者介紹；未取得研究白皮書、技術文件、軟體或八小時教學內容。"
+        },
+        {
+          "source": "Systems Academy Overview",
+          "url": "https://www.quantsystems.ca/sa-overview",
+          "status": "intro-only",
+          "reason": "已讀頁首 overview、2026 招生公告、included、Ali 簡介及 Introduction；未逐項讀完其餘長篇課綱或觀看七十二分鐘影片。"
+        },
+        {
+          "source": "Ask Al Q&A Transcripts Archives",
+          "url": "https://www.brookstradingcourse.com/blog/ask-al/",
+          "status": "intro-only",
+          "reason": "已讀分類首頁列出的標題、日期與節錄介紹；未因此視為讀過各篇完整逐字稿、播放影片或翻閱全部分頁。"
+        },
+        {
+          "source": "Brooks Trading Course Videos Index",
+          "url": "https://www.brookstradingcourse.com/trade-price-action/",
+          "status": "intro-only",
+          "reason": "本次讀取課綱頁首、01–11 及 12A–13A 起始項目的標題與主題；未逐項翻譯全部課綱或觀看付費影片。"
+        },
+        {
+          "source": "Glossary of terms for price action trading",
+          "url": "https://www.brookstradingcourse.com/price-action-trading-terms-glossary/",
+          "status": "excerpt-summary",
+          "reason": "僅本次實讀頁首 always in 至 double top 一帶的詞條，包括 context、breakout 與 directional probability；其餘詞條未完成逐項整理。"
+        },
+        {
+          "source": "Disclaimer and Agreements",
+          "url": "https://www.brookstradingcourse.com/disclaimer-and-agreement/",
+          "status": "excerpt-summary",
+          "reason": "已讀風險、假設績效、Agreement、Use of Content、客座作者、推薦與見證等公開段落；頁末 Online trading course license 未完整取得。"
+        },
+        {
+          "source": "The Trade With Me Program",
+          "url": "https://www.tradewithme.live/",
+          "status": "intro-only",
+          "reason": "入口轉向 tradewithme.quantsystems.ca；本次讀頁首、三階段架構、創辦人說明、樣片介紹及前三個模組課綱；未播放樣片或讀完其餘長頁。"
+        }
+      ],
+      "notes": [
+        "新增 2 篇正文、7 筆公開介紹、2 筆部分內容摘要；其餘不核發正文完成。",
+        "Ali 客座文章作者與原索引一致；本批為作者確認，沒有虛構原索引錯誤。",
+        "補入影音單集與英文來源的評價入口共 22 個新去重網址，全部維持待讀取。",
+        "保留 62 篇原始文章、2,110 筆原始索引及兩組筆記鍵；修正切換閱讀標題後的原文殘留。",
+        "未新讀影片、付費書籍或課程；未重新評估來源星等、執行績效或交易。"
+      ]
+    },
+    {
       "id": "content-batch7-20261029",
       "collected": "2026-10-29",
       "timezone": "Asia/Taipei",

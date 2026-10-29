@@ -1,0 +1,289 @@
+[
+  {
+    "resourceId": "b-roadmap",
+    "url": "https://www.brookstradingcourse.com/price-action/professional-price-action-trader/",
+    "sourceTitle": "Becoming a professional price action trader",
+    "sourceTitleZh": "成為專業價格行為交易者：Ali 的學習路線",
+    "checked": "2026-10-29",
+    "published": "2022-02-21",
+    "status": "body-summary",
+    "attributionNoteZh": "原頁署名 Ali，與既有索引的 Ali Moin-Afshari 歸屬一致；本文是客座文章，螺旋學習模型與練習建議不標成 Brooks 親筆教材。",
+    "readScope": "已讀公開正文：能力目標、螺旋學習、讀書與筆記、舒適圈、刻意練習、訊號與設定的區分及結語；未觀看文中連結的課程或練習影片。",
+    "summaryZh": "Ali 把學習描述為反覆複習與實作的螺旋：先理解概念，再找自己的圖例、連接日內結構與較高週期背景，練習進場與持倉管理，並用筆記檢討。刻意練習須先選市場、情境與少數設定，訂出可衡量的執行目標，再逐步轉入較小部位的實務練習。",
+    "keyPointsZh": [
+      "交易設定是形成中的價格結構；訊號棒則協助決定具體進場位置，兩者不能混用。",
+      "文中的練習年數、圖表數量及直覺模型效果，是作者經驗與主張，沒有在本站獨立驗證。"
+    ],
+    "limitsZh": "這是 Ali 的方法論，並非 Brooks 親筆或官方付費課逐字稿；不能把建議的練習量解讀為成功門檻或收益保證。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/price-action/professional-price-action-trader/"
+      ],
+      "accessMethod": "實際讀取英文客座文章並核對署名、日期",
+      "scope": "公開正文各節至 Appreciating the Challenge 結語；不含連結中的影音內容。"
+    },
+    "courseRefs": [],
+    "authorConfirmed": "Ali Moin-Afshari"
+  },
+  {
+    "resourceId": "ali-sizing",
+    "url": "https://www.quantsystems.ca/article-position-sizing",
+    "sourceTitle": "Position Sizing",
+    "sourceTitleZh": "部位規模：用停損距離與風險預算建立參考表",
+    "checked": "2026-10-29",
+    "published": "2015-07-28",
+    "dateNoteZh": "原頁 First Publication 明列此日期；不是當前網頁的更新日期。",
+    "status": "body-summary",
+    "readScope": "已讀公開正文、快速部位表、動態加碼案例、使用者輸入、每日調整與首次發表說明；未下載試算表或重新計算原案例。",
+    "summaryZh": "Ali 建議事前輸入商品規格、資金、停損距離及可接受風險，製成部位參考表以減少盤中計算錯誤。波動增加、停損變遠時，部位需隨風險預算調整；保證金所容許的最大口數不等於適合承擔的風險。文末另示範縮短停損後加碼，並明說此管理方式增加工作負荷，不適合初學者。",
+    "keyPointsZh": [
+      "文中的 ES 保證金與風險比例屬原案例輸入，不是現在的微台規格或本站交易設定。",
+      "作者對 Z 分數、系統品質與未來表現的推論未經本站重算，不能當作統計保證。"
+    ],
+    "limitsZh": "僅整理方法與作者立場；未審計計算器、帳戶或動態加碼結果。停損價格也不能保證跳空時的最大實際損失。",
+    "evidence": {
+      "urls": [
+        "https://www.quantsystems.ca/article-position-sizing"
+      ],
+      "accessMethod": "實際讀取英文原作者文章",
+      "scope": "公開正文至下載與首次發表說明；未取得下載檔內容。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "b-manual",
+    "url": "https://www.brookstradingcourse.com/how-to-trade-price-action-manual/",
+    "sourceTitle": "How to trade price action manual",
+    "sourceTitleZh": "價格行為交易手冊：公開導言與章節入口",
+    "checked": "2026-10-29",
+    "published": null,
+    "status": "intro-only",
+    "readScope": "已讀本頁導言、手冊目錄與交易管理等概述；本頁不是各章全文，未讀取全部連結章節或付費手冊。",
+    "summaryZh": "這個入口以市場背景、機率與風險報酬、委託、持倉管理及心理說明 Brooks 的交易框架，並連向手冊章節。他重視持倉後的管理，也區分順勢突破與交易區間中的操作；本頁的市場機率是教學估計，不能直接移作特定商品的勝率。",
+    "keyPointsZh": [
+      "每一章仍須分別讀取與記錄；讀完目錄不等於讀完手冊。"
+    ],
+    "limitsZh": "僅公開導言與目錄摘要，沒有重製手冊或把示範收益當成可達成目標。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/how-to-trade-price-action-manual/"
+      ],
+      "accessMethod": "實際讀取英文官方入口頁",
+      "scope": "本頁公開導言與目錄；連結章節及付費內容另計。"
+    },
+    "courseRefs": [
+      {
+        "version": "Main（主課程）",
+        "unit": "30A",
+        "topic": "交易方程式與機率",
+        "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-30a-traders-equation-probability/",
+        "relation": "相關主題補讀；只核對公開課綱，不宣稱本文取自該付費影片。"
+      }
+    ]
+  },
+  {
+    "resourceId": "book-trends",
+    "url": "https://www.brookstradingcourse.com/price-action-trading-books/",
+    "sourceTitle": "Price Action Trading Books",
+    "sourceTitleZh": "Brooks 書籍官方介紹與閱讀順序",
+    "checked": "2026-10-29",
+    "published": null,
+    "status": "intro-only",
+    "readScope": "已讀官方書介、閱讀順序與圖表下載說明；未讀付費原書，未觀看 Books vs videos 內嵌影片或下載書圖。",
+    "summaryZh": "官方建議以三部曲作為書籍起點，依序讀趨勢、交易區間、反轉，並說明此系列回應早期逐棒分析書較難閱讀的問題。頁面另提供書籍圖表的下載入口；有下載連結不代表允許重新刊載圖表。",
+    "keyPointsZh": [
+      "同一書介網址關聯三卷，摘要僅涵蓋這個介紹頁，不增加三本書的全文完成數。"
+    ],
+    "limitsZh": "暢銷敘述來自官方自述，不是本次獨立銷量排名；尚未取得全書翻譯權限。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/price-action-trading-books/"
+      ],
+      "accessMethod": "實際讀取英文官方書介",
+      "scope": "介紹、推薦閱讀順序及版權／圖表下載說明；原書與影片未取得。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "ali-bo",
+    "url": "https://www.quantsystems.ca/course/bo-research",
+    "sourceTitle": "Breakouts Research",
+    "sourceTitleZh": "突破研究教材：公開介紹",
+    "checked": "2026-10-29",
+    "published": null,
+    "dateNoteZh": "頁面標示 Updated: June 2026；確切日期未列出。",
+    "status": "intro-only",
+    "readScope": "已讀公開概述、教材清單、更新月份及作者介紹；未取得研究白皮書、技術文件、軟體或八小時教學內容。",
+    "summaryZh": "Quant Systems 將此教材定位為突破概念研究與軟體工具套件，列有研究白皮書、技術文件及多個交易平台的指標。頁面說明它最初作為 Orlando 2022 工作坊的加贈內容；這些是教材構成資訊，尚不足以評估研究方法或交易優勢。",
+    "keyPointsZh": [
+      "應先取得研究樣本、條件與成本後，才能評估突破數據可否轉用。"
+    ],
+    "limitsZh": "僅銷售／課程介紹；不宣稱已讀研究、執行軟體或驗證獲利。Ali 自有研究不標成 Brooks 官方課程出處。",
+    "evidence": {
+      "urls": [
+        "https://www.quantsystems.ca/course/bo-research"
+      ],
+      "accessMethod": "實際讀取英文官方課程介紹",
+      "scope": "公開 overview、included、更新月份與作者欄位；登入後教材未取得。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "ali-sa",
+    "url": "https://www.quantsystems.ca/sa-overview",
+    "sourceTitle": "Systems Academy Overview",
+    "sourceTitleZh": "系統交易學院：公開課程概述選讀",
+    "checked": "2026-10-29",
+    "published": null,
+    "dateNoteZh": "本次讀到 Enrollment Notice 更新日為 2026-03-03；不等於頁面所有段落均同日更新。",
+    "status": "intro-only",
+    "readScope": "已讀頁首 overview、2026 招生公告、included、Ali 簡介及 Introduction；未逐項讀完其餘長篇課綱或觀看七十二分鐘影片。",
+    "summaryZh": "公開概述把系統交易拆為策略開發、風險管理、部位規模及整體交易事業的安排，課程結合教學、團體輔導與開發專案。招生公告說明團隊正投入另一教材開發；頁內同時可見開放與關閉招生字樣，現況需由提供者另行確認。",
+    "keyPointsZh": [
+      "降低破產風險及達成財務目標等語句是提供者的課程主張，未取得可審計成果。"
+    ],
+    "limitsZh": "只整理本次實讀的介紹部分；不以機構級等宣傳措辭代表獨立品質評分或課程成效。",
+    "evidence": {
+      "urls": [
+        "https://www.quantsystems.ca/sa-overview"
+      ],
+      "accessMethod": "實際讀取英文官方頁面指定部分",
+      "scope": "頁首至 Introduction 及招生狀態文字；未讀其餘全部課綱。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "b-qa",
+    "url": "https://www.brookstradingcourse.com/blog/ask-al/",
+    "sourceTitle": "Ask Al Q&A Transcripts Archives",
+    "sourceTitleZh": "詢問 Al：問答逐字稿分類入口",
+    "checked": "2026-10-29",
+    "published": null,
+    "status": "intro-only",
+    "readScope": "已讀分類首頁列出的標題、日期與節錄介紹；未因此視為讀過各篇完整逐字稿、播放影片或翻閱全部分頁。",
+    "summaryZh": "此分類入口列出交易風險、月報酬期待、演算法、歷史行情與訪談等問答。列表區分問答發生日與文章發布日，部分內容另有錄音重錄或文字更新，適合先選問題，再讀單篇逐字稿核對回答背景。",
+    "keyPointsZh": [
+      "影片長度是頁面提供的資訊，不能當成本站已觀看的時數。"
+    ],
+    "limitsZh": "僅分類首頁摘要；歷史行情討論不作當前市場建議，列表節錄不能代替完整回答。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/blog/ask-al/"
+      ],
+      "accessMethod": "實際讀取英文官方分類首頁",
+      "scope": "當前可見文章列表與摘要；未取全站分類分頁。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "b-index",
+    "url": "https://www.brookstradingcourse.com/trade-price-action/",
+    "sourceTitle": "Brooks Trading Course Videos Index",
+    "sourceTitleZh": "Brooks 主課程公開課綱：基礎部分選讀",
+    "checked": "2026-10-29",
+    "published": null,
+    "status": "intro-only",
+    "readScope": "本次讀取課綱頁首、01–11 及 12A–13A 起始項目的標題與主題；未逐項翻譯全部課綱或觀看付費影片。",
+    "summaryZh": "公開課綱由術語、圖表、市場與個人準備開始，再進入訊號棒、回檔計數、買賣壓力、缺口及市場週期。單元標題可用來尋找相關補讀，但標題本身無法證明某個外部交易規則或機率數字出自該影片。",
+    "keyPointsZh": [
+      "主課程與 Forex 版本分別查核；字幕供應公告不等於本站已取得字幕。"
+    ],
+    "limitsZh": "僅公開課綱指定部分摘要；付費影片、逐字稿與其餘課綱仍需另行處理。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/trade-price-action/"
+      ],
+      "accessMethod": "實際讀取英文官方公開課綱",
+      "scope": "Getting Started、Charting Analysis、Market Cycle 起始項目；未宣稱全課綱已讀完。"
+    },
+    "courseRefs": [
+      {
+        "version": "Main（主課程）／共用價格行為基礎",
+        "unit": "12A",
+        "topic": "市場週期",
+        "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-12a-market-cycle/",
+        "relation": "相關主題補讀；課綱可核對單元標題，不代表已觀看影片。"
+      }
+    ]
+  },
+  {
+    "resourceId": "b-glossary",
+    "url": "https://www.brookstradingcourse.com/price-action-trading-terms-glossary/",
+    "sourceTitle": "Glossary of terms for price action trading",
+    "sourceTitleZh": "價格行為術語表：背景、突破與方向機率選讀",
+    "checked": "2026-10-29",
+    "published": null,
+    "status": "excerpt-summary",
+    "readScope": "僅本次實讀頁首 always in 至 double top 一帶的詞條，包括 context、breakout 與 directional probability；其餘詞條未完成逐項整理。",
+    "summaryZh": "詞表把背景定義為左側價格、買賣壓力與支撐壓力對交易的支持或反對條件；突破則指越過先前有意義的價位。方向機率條目討論先到上方或下方指定距離的事件，與扣成本後的交易勝率不同。",
+    "keyPointsZh": [
+      "Always In 是作者判斷多空方向的框架，不是要求一直持有部位。",
+      "突破回檔的名稱含有延續預期；同一段走勢若預期失敗，作者會使用另一種描述。"
+    ],
+    "limitsZh": "指定詞條的部分摘要，並非整份詞表翻譯；詞條中的通常或較可能不能改寫成本站實測百分比。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/price-action-trading-terms-glossary/"
+      ],
+      "accessMethod": "實際讀取英文官方詞表指定詞條",
+      "scope": "頁首 always in 至 double top 一帶；其餘內容待續。"
+    },
+    "courseRefs": [
+      {
+        "version": "Main（主課程）",
+        "unit": "30A",
+        "topic": "交易方程式與機率",
+        "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-30a-traders-equation-probability/",
+        "relation": "相關主題補讀；不是上述各詞條的確定付費課程出處。"
+      }
+    ]
+  },
+  {
+    "resourceId": "b-disclosure",
+    "url": "https://www.brookstradingcourse.com/disclaimer-and-agreement/",
+    "sourceTitle": "Disclaimer and Agreements",
+    "sourceTitleZh": "官方聲明與使用條件：示範交易及教材使用選讀",
+    "checked": "2026-10-29",
+    "published": null,
+    "status": "excerpt-summary",
+    "readScope": "已讀風險、假設績效、Agreement、Use of Content、客座作者、推薦與見證等公開段落；頁末 Online trading course license 未完整取得。",
+    "summaryZh": "官方將教學案例與實際帳戶成果區分，說明假設績效會受事後資訊、執行與承受風險能力影響。頁面也限制影片分享與教材再刊，並明說客座文章的收錄本身不代表對其網站或課程的背書。",
+    "keyPointsZh": [
+      "課程見證可能不代表其他學員結果；推薦關係與獨立評價需要分開看。",
+      "可讀取或列印的權限，不能自行擴張為完整翻譯後重新發布的授權。"
+    ],
+    "limitsZh": "僅讀到的條款段落摘要，未宣稱完整翻譯全部條款；本摘要不是法律意見。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/disclaimer-and-agreement/"
+      ],
+      "accessMethod": "實際讀取英文官方條款指定段落",
+      "scope": "公開正文至 Testimonials；頁末授權段落僅部分取得，不核發全文完成。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "ali-twm",
+    "url": "https://www.tradewithme.live/",
+    "sourceTitle": "The Trade With Me Program",
+    "sourceTitleZh": "跟我交易計畫：公開學習架構與課綱選讀",
+    "checked": "2026-10-29",
+    "published": null,
+    "status": "intro-only",
+    "readScope": "入口轉向 tradewithme.quantsystems.ca；本次讀頁首、三階段架構、創辦人說明、樣片介紹及前三個模組課綱；未播放樣片或讀完其餘長頁。",
+    "summaryZh": "目前公開介紹將學習安排為課程、自己的圖表作業，再接現場觀摩。頁面標示十個模組中前七個已提供，後三個仍屬提供者的交付承諾；並將 Ali 的市場行為架構用於突破與反轉策略練習。",
+    "keyPointsZh": [
+      "公開樣片介紹提到其他講師，不能把全部教學或直播都歸為 Ali 親自授課。"
+    ],
+    "limitsZh": "僅公開介紹選讀；模組供應、現場安排與宣傳主張是查核日快照，不代表取得課程或驗證成效。不是 Brooks 官方課程。",
+    "evidence": {
+      "urls": [
+        "https://www.tradewithme.live/",
+        "https://tradewithme.quantsystems.ca/"
+      ],
+      "accessMethod": "實際讀取英文官方入口與重新導向頁",
+      "scope": "頁首架構至模組三課綱；影片與其餘模組尚待處理。"
+    },
+    "courseRefs": []
+  }
+]

@@ -19,23 +19,30 @@
  function list(values,glossary=[]){return '<ul>'+values.map(v=>'<li>'+E(text(v,glossary))+(text(v,glossary)!==String(v)?original(v):'')+'</li>').join('')+'</ul>';}
  function title(r){return titles[r.id]?.titleZh||text(r.title);}
  function resource(r){
-  const review=reviewById[r.id],english=/英文/.test(r.lang||'');
+  const review=reviewById[r.id]||reviewByUrl[r.url],english=/英文/.test(r.lang||'');
   if(!english)return '<p class="resource-note">'+E(text(r.note))+'</p>';
-  const labels={'body-summary':'已讀正文・繁中摘要','intro-only':'僅公開介紹摘要','unavailable':'本次無法取得・未完成摘要'};
+  const labels={'body-summary':'已讀正文・繁中摘要','intro-only':'僅公開介紹摘要','excerpt-summary':'僅短句／部分內容摘要','licensed-excerpt':'授權指定選段','unavailable':'本次無法取得・未完成摘要'};
   const label=review?labels[review.status]:'待讀取原文・尚無內容摘要';
-  return '<div class="zh-resource-summary"><strong>'+E(label)+'</strong>'+(review?paragraph(review.summaryZh)+'<p class="zh-scope"><strong>實際讀取：</strong>'+E(review.readScope)+'<br><strong>本次查核：</strong>'+E(review.checked)+'</p>':'<p>下列文字是既有學習方向，不能視為已讀原文的摘要。</p>')+(review?.attributionNoteZh?'<p><strong>作者更正：</strong>'+E(review.attributionNoteZh)+'</p>':'')+'<details><summary>既有學習方向與來源範圍</summary><p>'+E(text(r.note))+'</p></details><a href="#translation-resource-'+E(r.id)+'">查看翻譯範圍與處理進度 →</a></div>';
+  return '<div class="zh-resource-summary"><strong>'+E(label)+'</strong>'+(review?paragraph(review.summaryZh)+'<p class="zh-scope"><strong>實際讀取：</strong>'+E(review.readScope)+'<br><strong>本次查核：</strong>'+E(review.checked)+'</p>':'<p>下列文字是既有學習方向，不能視為已讀原文的摘要。</p>')+(review?.attributionNoteZh?'<p><strong>'+(review.authorCorrected?'作者更正：':'作者核對：')+'</strong>'+E(review.attributionNoteZh)+'</p>':'')+'<details><summary>既有學習方向與來源範圍</summary><p>'+E(text(r.note))+'</p></details><a href="#translation-resource-'+E(r.id)+'">查看翻譯範圍與處理進度 →</a></div>';
  }
  let currentGlossary=[];
+ const localizedBlocks=new Map();
  function localize(root){
   if(!document.createTreeWalker||!root)return;
+  // Reader headings are reused across articles. Discard the former article's
+  // translation marker and original-text disclosure when their text changes.
+  for(const [block,entry] of localizedBlocks){
+   if(!block.isConnected){entry.disclosure.remove();localizedBlocks.delete(block);continue;}
+   if(block.textContent!==entry.visible){entry.disclosure.remove();block.removeAttribute('data-zh-rendered');localizedBlocks.delete(block);}
+  }
   const skip='script,style,textarea,input,select,option,pre,code,[lang="en"],.zh-original,[data-zh-rendered],.resource-meta,.community-author,.brand';
   const walker=document.createTreeWalker(root,NodeFilter.SHOW_TEXT),nodes=[],blocks=new Map();let n;
   while((n=walker.nextNode())){const p=n.parentElement;if(!p||p.closest(skip)||!/[A-Za-z]/.test(n.nodeValue))continue;const g=p.closest('#reader-dialog')?currentGlossary:[],t=text(n.nodeValue,g);if(t===n.nodeValue)continue;nodes.push([n,t]);const b=p.closest('p,li,dd,dt,h1,h2,h3,h4,legend,.eyebrow,.map-en');if(b&&!b.closest('button,a')&&!blocks.has(b))blocks.set(b,b.textContent);}
   for(const [node,t] of nodes)node.nodeValue=t;
-  for(const [block,before] of blocks){if(block.dataset.zhRendered)continue;block.dataset.zhRendered='true';const d=document.createElement('details'),s=document.createElement('summary'),p=document.createElement('div');d.className='zh-original';s.textContent='展開英文用語與原版文字';p.lang='en';p.textContent=before;d.append(s,p);block.after(d);}
+  for(const [block,before] of blocks){if(block.dataset.zhRendered)continue;block.dataset.zhRendered='true';const d=document.createElement('details'),s=document.createElement('summary'),p=document.createElement('div');d.className='zh-original';s.textContent='展開英文用語與原版文字';p.lang='en';p.textContent=before;d.append(s,p);block.after(d);localizedBlocks.set(block,{visible:block.textContent,disclosure:d});}
   for(const e of root.querySelectorAll('.original-title[lang="en"]')){if(e.closest('.zh-original'))continue;const d=document.createElement('details'),s=document.createElement('summary');d.className='zh-original';s.textContent='展開英文原題';e.replaceWith(d);d.append(s,e);}
  }
- globalThis.AtlasZh={escape:E,text,inline:(v,g=[])=>E(text(v,g)),paragraph,list,original,title,resource,author:r=>reviewById[r.id]?.authorCorrected||r.author,sourceAuthor:s=>reviewByUrl[s.url]?.authorCorrected||s.author,setArticle:a=>{currentGlossary=a?.glossary||[];},localize};
+ globalThis.AtlasZh={escape:E,text,inline:(v,g=[])=>E(text(v,g)),paragraph,list,original,title,resource,author:r=>(reviewById[r.id]||reviewByUrl[r.url])?.authorCorrected||r.author,sourceAuthor:s=>reviewByUrl[s.url]?.authorCorrected||s.author,setArticle:a=>{currentGlossary=a?.glossary||[];},localize};
  if(typeof MutationObserver!=='undefined'&&document.body){
   let queued=false;const observer=new MutationObserver(()=>{if(queued)return;queued=true;queueMicrotask(()=>{queued=false;observer.disconnect();localize(document.body);observer.observe(document.body,{childList:true,subtree:true});});});
   localize(document.body);observer.observe(document.body,{childList:true,subtree:true});

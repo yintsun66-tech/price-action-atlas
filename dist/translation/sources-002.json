@@ -1,5 +1,60 @@
 [
   {
+    "id": "09aec332a6040beba57d",
+    "url": "https://www.brookstradingcourse.com/trade-price-action/video-40a-entering-late-trends/",
+    "sourceTitle": "趨勢後段進場",
+    "titleZh": "趨勢後段進場",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "趨勢後段進場"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "09cde57b644873f7b581",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-odds-favor-2nd-leg-up/",
+    "sourceTitle": "Emini Odds Favor 2nd Leg Up to February High",
+    "titleZh": "Brad 日內案例｜2023-05-22｜回檔與第二段",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-178710"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-178710"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-178710",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "09f225ca340538981425",
     "url": "https://www.youtube.com/playlist?list=PLzu-KFpHvl1GSuw9Ktk7vI4oO08LNrCOJ",
     "sourceTitle": "Trading Psychology",
@@ -749,6 +804,29 @@
     ]
   },
   {
+    "id": "0d43f2702fd32e12670a",
+    "url": "https://www.reddit.com/r/FuturesTrading/comments/1euty33/thomas_wade_trading_course/",
+    "sourceTitle": "Reddit：Thomas Wade Trading Course（評論來源）",
+    "titleZh": "Reddit：Thomas Wade Trading Course（評論來源）",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "discovery-review",
+        "id": "thomas-wade",
+        "index": 0
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "0d7f21440547e99aed36",
     "url": "https://www.youtube.com/watch?v=j-KBGzEVkGg",
     "sourceTitle": "The Dueling Lines Pattern",
@@ -1298,6 +1376,29 @@
     "authors": [
       "Brad Wolff"
     ]
+  },
+  {
+    "id": "1019ccbc7cdd5eff5e8d",
+    "url": "https://www.trustpilot.com/review/www.smbtraining.com",
+    "sourceTitle": "Trustpilot：SMB Capital／smbtraining.com（評論來源）",
+    "titleZh": "Trustpilot：SMB Capital／smbtraining.com（評論來源）",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "discovery-review",
+        "id": "smb-capital",
+        "index": 0
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
   },
   {
     "id": "102d46ca3d9cbbb07d18",
@@ -2248,6 +2349,29 @@
     ]
   },
   {
+    "id": "13fc6fdbc5fe67f44879",
+    "url": "https://www.reddit.com/r/Daytrading/comments/1s521k9/smb_capital_training_programs/",
+    "sourceTitle": "Reddit：SMB capital training programs?（評論來源）",
+    "titleZh": "Reddit：SMB capital training programs?（評論來源）",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "discovery-review",
+        "id": "smb-capital",
+        "index": 1
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "1420d89ad9bd2ce34976",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-profit-taking-at-new-all-time-high/",
     "sourceTitle": "E-mini Profit Taking at New All-Time High",
@@ -2668,6 +2792,28 @@
     ]
   },
   {
+    "id": "1539eae6506543178e58",
+    "url": "https://podcasts.apple.com/us/podcast/chat-with-traders/id957265404",
+    "sourceTitle": "交易者訪談・平台評分頁",
+    "titleZh": "交易者訪談・平台評分頁",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "media-review",
+        "id": "p01"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "1546338d4b4249a74a46",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-testing-back-to-all-time-high/",
     "sourceTitle": "E-mini Testing Back to All-Time High",
@@ -3003,203 +3149,5 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": []
-  },
-  {
-    "id": "1692565b5e6b5a9cc242",
-    "url": "https://www.youtube.com/watch?v=woUeUFJtqJU",
-    "sourceTitle": "Ask Al Brooks:  Advice on remaining upbeat losing money for so long",
-    "titleZh": "Brooks 共享影片｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-woUeUFJtqJU"
-      }
-    ],
-    "resourceIds": [
-      "yt-woUeUFJtqJU"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-woUeUFJtqJU",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "16e074ef4cfcfb8a8a13",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-closed-below-moving-average/",
-    "sourceTitle": "Emini Closed below Moving Average",
-    "titleZh": "Brad 日內案例｜2023-08-04｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-185027"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-185027"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-185027",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "176a2e54a595269cdfc7",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-likely-to-rally-above-october-17th-high/",
-    "sourceTitle": "Emini likely to Rally above October 17 High",
-    "titleZh": "Brad 日內案例｜2023-11-08｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-193770"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-193770"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-193770",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "1770271b8cc0abe7298d",
-    "url": "https://www.youtube.com/watch?v=6LVH2g_BMok",
-    "sourceTitle": "Emini End of Day Review - Tuesday, July 22, 2025 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-6LVH2g_BMok"
-      }
-    ],
-    "resourceIds": [
-      "yt-6LVH2g_BMok"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-6LVH2g_BMok",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "17827d43d91ea11d5540",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-at-5000-big-round-number/",
-    "sourceTitle": "Emini at 5,000 Big Round Number",
-    "titleZh": "Brad 日內案例｜2025-04-07｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-234058"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-234058"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-234058",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "17d3fdd4f2eec92de17f",
-    "url": "https://www.brookstradingcourse.com/analysis/fomc-to-rally-market/",
-    "sourceTitle": "Bulls Want FOMC to Rally Market up to December 13 High",
-    "titleZh": "Brad 日內案例｜2023-02-01｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-29",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-169500"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-169500"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-169500",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
   }
 ]
