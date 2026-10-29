@@ -36,6 +36,10 @@
 7. 每批更新 `reading/content-updates.json`，保留來源、採用／略過／失敗。通過後用 source helper 打包及推送精確 commit，以原有 owner-private 發布。成功 native 結果與 URL 才算已部署；失敗不要假稱網站更新。
 8. 工作區 `artifacts/` 保存該批檢查、commit、部署結果及必要畫面，不把敏感資料寫入站內。發布後檢查關鍵內容並保留交付頁，關閉 owned preview 與臨時分頁。
 
+## 全站繁中工作銜接（2026-10-29）
+
+完整範圍與未完成工序見 `docs/fullsite-translation.md`。新來源與標題整理須同步翻譯清單；只翻標題不增加正文摘要完成數。編輯或重跑歷史生成器後，最後依序執行 `node scripts/build-translation-ledger.cjs` 與 `node scripts/enable-chinese-first.cjs`，再跑 workspace 的 `tools/check_fullsite_zh_reader.cjs`、`tools/check_fullsite_zh.cjs`。維持中文優先、英文可展開，不讓歷史生成器恢復英文預設版面或清除未完成清單。
+
 ## 通知
 
 有實質新增、重要更正、發布失敗或需要使用者處理時，以繁中簡要回報並附網站直接連結。沒有合格新內容且狀態未變時保持安靜。不另建排程，不執行交易。

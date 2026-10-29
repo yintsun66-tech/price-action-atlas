@@ -1,0 +1,536 @@
+{
+  "b-definition": {
+    "titleZh": "什麼是價格行為？六個觀察面向",
+    "originalTitle": "What is price action? 6 aspects to consider",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "b-manual": {
+    "titleZh": "價格行為交易操作手冊",
+    "originalTitle": "How to Trade Price Action Manual",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "b-patterns": {
+    "titleZh": "十種最佳價格行為交易型態",
+    "originalTitle": "10 best price action trading patterns",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "b-stop": {
+    "titleZh": "初學者應使用觸價委託進場",
+    "originalTitle": "Beginners should enter with stop orders",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "b-perfect": {
+    "titleZh": "線上交易有完美的交易設定嗎？",
+    "originalTitle": "Is there a perfect trade setup when trading online?",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "b-size": {
+    "titleZh": "交易部位應該多大？",
+    "originalTitle": "What should my trading position size be?",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "b-glossary": {
+    "titleZh": "價格行為交易術語表",
+    "originalTitle": "Price Action Trading Glossary",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "b-roadmap": {
+    "titleZh": "成為專業的價格行為交易者",
+    "originalTitle": "Becoming a professional price action trader",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "b-qa": {
+    "titleZh": "向 Al 提問：問答逐字稿",
+    "originalTitle": "Ask Al Q&A Transcripts",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "b-index": {
+    "titleZh": "Brooks 交易課程影片目錄",
+    "originalTitle": "Brooks Trading Course Videos Index",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "b-disclosure": {
+    "titleZh": "免責聲明與協議",
+    "originalTitle": "Disclaimer and Agreement",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "b-cycle": {
+    "titleZh": "12A 影片：市場週期",
+    "originalTitle": "Video 12A · Market Cycle",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "b-mm": {
+    "titleZh": "20A／20B 影片：量度漲跌幅",
+    "originalTitle": "Videos 20A / 20B · Measured Moves",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "b-how": {
+    "titleZh": "第 37 單元影片：如何交易",
+    "originalTitle": "Video 37 · How to Trade",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "b-failed": {
+    "titleZh": "42A 影片：高潮反轉交易（失敗突破）",
+    "originalTitle": "Video 42A · Trading Climactic Reversals (Failed Breakouts)",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "book-trends": {
+    "titleZh": "價格行為交易：趨勢",
+    "originalTitle": "Trading Price Action Trends",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "book-ranges": {
+    "titleZh": "價格行為交易：交易區間",
+    "originalTitle": "Trading Price Action Trading Ranges",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "book-reversals": {
+    "titleZh": "價格行為交易：反轉",
+    "originalTitle": "Trading Price Action Reversals",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "r-opening": {
+    "titleZh": "開盤報酬對交易日報酬的預測能力（2013）",
+    "originalTitle": "The predictability of opening returns for the returns of the trading day (2013)",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "r-traders": {
+    "titleZh": "過度自信的個人日內交易者：來自臺灣期貨市場的證據",
+    "originalTitle": "Overconfident Individual Day Traders: Evidence from the Taiwan Futures Market",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "ali-intro": {
+    "titleZh": "Ali 免費入門課：從概念到實作",
+    "originalTitle": "Ali 免費入門課：從概念到實作",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "ali-overwhelm": {
+    "titleZh": "Ali：整理學習負荷與知識缺口",
+    "originalTitle": "Ali｜整理學習負荷與知識缺口",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "ali-visual": {
+    "titleZh": "Ali：以流程圖連接觀念與行動",
+    "originalTitle": "Ali｜以流程圖連接觀念與行動",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "ali-sizing": {
+    "titleZh": "Ali：部位大小與計畫風險",
+    "originalTitle": "Ali｜部位大小與計畫風險",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "ali-twm": {
+    "titleZh": "TWM 課程：完整十個模組公開課綱",
+    "originalTitle": "TWM｜完整 10 模組公開課綱",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "ali-bo": {
+    "titleZh": "突破研究",
+    "originalTitle": "Breakouts Research｜突破研究",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "ali-sa": {
+    "titleZh": "系統學院：系統開發課程",
+    "originalTitle": "Systems Academy｜系統開發課程",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "ali-ptm": {
+    "titleZh": "PTM 資料庫：逐月教學公開索引",
+    "originalTitle": "PTM Library｜逐月教學公開索引",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "brad-room": {
+    "titleZh": "Brad：官方交易室與免費完整樣片",
+    "originalTitle": "Brad｜官方交易室與免費完整樣片",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "yt-guYhIhMkTv8": {
+    "titleZh": "Brad Wolff：Brooks 交易室開放日，2024 年 11 月 1 日",
+    "originalTitle": "Brad Wolff - Brooks Trading Room Open House November 1, 2024",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-XjQ6BnFWCbI": {
+    "titleZh": "Brad Wolff：交易室樣片，星期三美東時間 14:00–16:30",
+    "originalTitle": "Brad Wolff - Trading Room Sample - Wednesday 1400-1630 ET",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-uSDmjqq1HqY": {
+    "titleZh": "Brad Wolff：在開盤、開盤區間至午盤期間使用百科全書",
+    "originalTitle": "Brad Wolff - Using Encyclopedia on the Open, Opening Range, and up to Midday.",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-2UZVe8F2qWc": {
+    "titleZh": "E-mini 盤後檢視：2023 年 5 月 15 日星期一，Brad Wolff",
+    "originalTitle": "Emini End of Day Review - Monday May 15, 2023 - Brad Wolff",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-R4fRHOEbgUg": {
+    "titleZh": "Brooks 交易課程問答：Brad Wolff",
+    "originalTitle": "Brooks Trading Course Q&A with Brad Wolff",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-qEM1w6UqVDo": {
+    "titleZh": "E-mini 盤後檢視：Brad Wolff 問答——理解交易位置",
+    "originalTitle": "Emini End of Day Review - Brad Wolff - Q&A - Understanding Trade Locations",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-0cm7OufOTYM": {
+    "titleZh": "E-mini 盤後檢視：Brad Wolff 問答——損益兩平",
+    "originalTitle": "Emini End of Day Review - Brad Wolff - Q&A - Breaking Even",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-T7T3WYk1anQ": {
+    "titleZh": "E-mini 盤後檢視：Brad Wolff 問答——何時結束當天交易？ #價格行為交易",
+    "originalTitle": "Emini End of Day Review - Brad Wolff - Q&A - When to stop trading for the day?  #priceactiontrading",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-FjxhAbtnKc0": {
+    "titleZh": "E-mini 盤後檢視：Brad Wolff 問答——何時停止？",
+    "originalTitle": "Emini End of Day Review - Brad Wolff - Q&A - When to stop?",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-9L_7ipYvq_o": {
+    "titleZh": "E-mini 盤後檢視：Brad Wolff 問答——誰套住了誰？",
+    "originalTitle": "Emini End of Day Review - Brad Wolff - Q&A - Who trapped who?",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-FQVMRiuZp2U": {
+    "titleZh": "E-mini 盤後檢視：Brad Wolff 問答——尋找合理的波段",
+    "originalTitle": "Emini End of Day Review - Brad Wolff - Q&A - Find reasonable swings",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-iQB1QohZs6w": {
+    "titleZh": "如何練習以培養有效的交易技能",
+    "originalTitle": "How to Practice to Develop Effective Trading Skills",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-tgMX02x0Aoo": {
+    "titleZh": "事件—回應的市場原則",
+    "originalTitle": "The Event - Response Market Principle",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-PohrMfMo2T4": {
+    "titleZh": "戰術性進場",
+    "originalTitle": "Tactical Entries",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-Dvb-EWlGOZI": {
+    "titleZh": "市場狀態",
+    "originalTitle": "Market Regime",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-WaJ1OHhgfyI": {
+    "titleZh": "三種可能的結果",
+    "originalTitle": "The Three Possible Outcomes",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-uKa3m3vEDJU": {
+    "titleZh": "市場能量",
+    "originalTitle": "Market Energy",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-n9psGn-iWtQ": {
+    "titleZh": "交易區間中的內包棒",
+    "originalTitle": "Inside Bars in Trading Ranges",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-n3eYTnlPBRA": {
+    "titleZh": "訊號棒與進場順序",
+    "originalTitle": "Signal Bars and Entry Sequence",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-62fbo9zT5Ms": {
+    "titleZh": "訊號棒與回檔深度",
+    "originalTitle": "Signal Bar and Depth of Pullback",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-ytXNYDMzPAc": {
+    "titleZh": "回檔交易",
+    "originalTitle": "Trading Pullbacks",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-rZ3XiGtv4Ks": {
+    "titleZh": "如何獲利了結",
+    "originalTitle": "How to Take Profits",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-n_6Fzigd0Mw": {
+    "titleZh": "一種趨勢濾網的概念",
+    "originalTitle": "A Trend Filter Concept",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-Pd8o682NbNA": {
+    "titleZh": "使用 CAD 準備交易日",
+    "originalTitle": "Preparing for the Trading Day with CAD",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-OPa0X-dRhjk": {
+    "titleZh": "為何即使優秀的交易系統也會被懷疑摧毀",
+    "originalTitle": "Why Doubt Destroys Even Great Trading Systems",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-WmMMGJmy2uc": {
+    "titleZh": "價格行為交易系統的程式設計，第三部分",
+    "originalTitle": "Coding for Price Action Trading Systems, Part 3",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-PfpNjDSeBp0": {
+    "titleZh": "價格行為交易系統的程式設計，第二部分",
+    "originalTitle": "Coding for Price Action Trading Systems, Part 2",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-PMLtztWcpGg": {
+    "titleZh": "價格行為交易系統的程式設計，第一部分",
+    "originalTitle": "Coding for Price Action Trading Systems, Part 1",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-4Fwt7CcEc1o": {
+    "titleZh": "系統化交易者如何學習",
+    "originalTitle": "How Systematic Traders Study",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-PANDw0TEKXc": {
+    "titleZh": "Quant Systems 問答：Brad Wolff 與 James Regan",
+    "originalTitle": "Quant Systems Q&A with Brad Wolff and James Regan",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-audn3JFDTI0": {
+    "titleZh": "為系統開發進行研究",
+    "originalTitle": "Conducting Research for System Development",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-gIj8pV_0lNw": {
+    "titleZh": "為何手動回測能改善系統績效",
+    "originalTitle": "Why Manual Backtesting Improves System Performance",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-j6I4BF-xOm0": {
+    "titleZh": "用於系統開發的行情背景濾網",
+    "originalTitle": "Context Filters for System Development",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-OgOF7sluwss": {
+    "titleZh": "為系統設計進行回測",
+    "originalTitle": "Backtesting for System Design",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-0cWzlanuaYc": {
+    "titleZh": "價格行為的程式設計",
+    "originalTitle": "Coding for Price Action",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "yt-uLF4z6Z2WeU": {
+    "titleZh": "突破交易系統",
+    "originalTitle": "Breakout Trading System",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "discovery-adam-grimes-marketlife-1": {
+    "titleZh": "交易入門第一步：免費入門課綱",
+    "originalTitle": "First Steps in Trading：免費入門課綱",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-adam-grimes-marketlife-2": {
+    "titleZh": "每日觀點、即時交易室與資料庫內容說明",
+    "originalTitle": "Daily Insight／Live Trade Rooms／Vault 內容說明",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-adam-grimes-marketlife-3": {
+    "titleZh": "回檔專題課：回檔結構與管理",
+    "originalTitle": "Pullback Masterclass：拉回結構與管理",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-mack-pats-1": {
+    "titleZh": "Mack 官方教材入口",
+    "originalTitle": "Mack 官方教材入口",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-mack-pats-2": {
+    "titleZh": "常見問答：逐筆計數圖、免費日評與學習方式",
+    "originalTitle": "FAQs：tick 圖、免費日評與學習方式",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-mack-pats-3": {
+    "titleZh": "免費文章篩選：官方免費文章與課堂入口",
+    "originalTitle": "Free Posts Filter：官方免費文章與課堂入口",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-thomas-wade-1": {
+    "titleZh": "初學者交易教學：免費播放清單",
+    "originalTitle": "Trading Tutorial For Beginners：免費播放清單",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-thomas-wade-2": {
+    "titleZh": "價格行為交易策略：現場交易錄影（2021-01-21）",
+    "originalTitle": "Price Action Trading Strategy - LIVE TRADING SESSION（2021-01-21）",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-thomas-wade-3": {
+    "titleZh": "Wade 交易學院官方入口",
+    "originalTitle": "Wade Trading Academy 官方入口",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-galen-woods-1": {
+    "titleZh": "免費價格行為圖文索引",
+    "originalTitle": "免費價格行為圖文索引",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-galen-woods-2": {
+    "titleZh": "如何從零開始發掘價格行為交易型態",
+    "originalTitle": "How To Uncover Price Action Trading Patterns From Scratch",
+    "scope": "title-only",
+    "basis": "既有索引英文原標題"
+  },
+  "discovery-galen-woods-3": {
+    "titleZh": "價格行為日內交易：課綱與試讀入口",
+    "originalTitle": "Day Trading With Price Action：課綱與試讀入口",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-smb-capital-1": {
+    "titleZh": "SMB 官方免費資源說明",
+    "originalTitle": "SMB 官方免費資源說明",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-smb-capital-2": {
+    "titleZh": "為何進場價格對高品質股票交易很重要（MRNA）",
+    "originalTitle": "Why entry prices matter to make quality stock trades（MRNA）",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-smb-capital-3": {
+    "titleZh": "SMB 內部觀摩：直播與回放範圍",
+    "originalTitle": "SMB Inside Access：直播與回放範圍",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-nial-fuller-1": {
+    "titleZh": "精通專業價格行為交易課程",
+    "originalTitle": "Professional Price Action Trading Mastery Course",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-nial-fuller-2": {
+    "titleZh": "什麼是價格行為交易？",
+    "originalTitle": "What Is Price Action Trading?",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-nial-fuller-3": {
+    "titleZh": "初學者外匯交易入門課程",
+    "originalTitle": "Beginners Forex Trading Introduction Course",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-rayner-teo-1": {
+    "titleZh": "價格行為（免費）：十八課免費課綱",
+    "originalTitle": "Price Action (Free)：18 課免費課綱",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-rayner-teo-2": {
+    "titleZh": "初學者價格行為交易：完整指南（2021-04-08）",
+    "originalTitle": "Price Action Trading For Beginners (The Ultimate Guide)（2021-04-08）",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-rayner-teo-3": {
+    "titleZh": "終極價格行為交易者",
+    "originalTitle": "The Ultimate Price Action Trader",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-tradertom-1": {
+    "titleZh": "TraderTom 即時交易：官方免費頻道連結",
+    "originalTitle": "TraderTom Live Trading：官方免費頻道連結",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-tradertom-2": {
+    "titleZh": "TraderTom 的 YouTube 直播與錄影索引",
+    "originalTitle": "TraderTom YouTube 直播與錄影索引",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  },
+  "discovery-tradertom-3": {
+    "titleZh": "TraderTom 美國時段即時交易（2024-11-11）",
+    "originalTitle": "TraderTom Live Trading US Session（2024-11-11）",
+    "scope": "title-only",
+    "basis": "既有索引顯示標題；未推測外部原標題"
+  }
+}

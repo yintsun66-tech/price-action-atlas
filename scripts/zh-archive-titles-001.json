@@ -1,0 +1,613 @@
+{
+  "ali-post-150700": {
+    "titleZh": "交易系統設計與開發——SA2 開放申請",
+    "originalTitle": "Trading systems design and development *SA2 open for application*",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文",
+    "titleNote": "「開放申請」為原歷史題名，沒有重新核實目前招生狀態。"
+  },
+  "ali-post-41314": {
+    "titleZh": "E-mini 部位大小計算器",
+    "originalTitle": "Emini position sizing calculator",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "ali-post-33533": {
+    "titleZh": "為什麼帶狀交易有效：第四部分，帶狀交易系統",
+    "originalTitle": "Why band trading works: Part 4 Band based trading systems",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文",
+    "titleNote": "「有效」為作者原標題論點；本輪未讀正文，不是本站驗證。"
+  },
+  "ali-post-33160": {
+    "titleZh": "為什麼帶狀交易有效：第三部分，標準誤差帶的優越性",
+    "originalTitle": "Why Band Trading Works: Part 3 Superiority of Standard Error Bands",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文",
+    "titleNote": "「有效」與「優越性」為作者原標題論點；本輪未讀正文，不是本站驗證。"
+  },
+  "ali-post-32827": {
+    "titleZh": "為什麼帶狀交易有效：第二部分，價格帶",
+    "originalTitle": "Why Band Trading Works: Part 2 — Bands",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文",
+    "titleNote": "「有效」為作者原標題論點；本輪未讀正文，不是本站驗證。"
+  },
+  "ali-post-32566": {
+    "titleZh": "為什麼帶狀交易有效：第一部分，趨勢",
+    "originalTitle": "Why Band Trading Works: Part 1 — Trends",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文",
+    "titleNote": "「有效」為作者原標題論點；本輪未讀正文，不是本站驗證。"
+  },
+  "ali-post-29229": {
+    "titleZh": "以視覺化學習作為建構獲利交易行為的工具",
+    "originalTitle": "Visual Learning as Tool to Structure Profitable Trading Behavior",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文",
+    "titleNote": "「獲利交易行為」是原題用語，不代表本輪驗證獲利成效。"
+  },
+  "brad-post-279445": {
+    "titleZh": "E-mini：多方希望在昨日走勢之後出現第二段上漲",
+    "originalTitle": "E-mini Bulls Want 2nd Leg Up After Yesterday",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文",
+    "titleNote": "原題只寫 After Yesterday，沒有補造昨日具體走勢。"
+  },
+  "brad-post-279439": {
+    "titleZh": "E-mini：多方希望測試 7,900 整數關卡",
+    "originalTitle": "E-mini Bulls Want Test of 7,900 Round Number",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-279287": {
+    "titleZh": "E-mini 持續處於突破模式",
+    "originalTitle": "E-mini Continues in Breakout Mode",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-279068": {
+    "titleZh": "E-mini：多方被套後，市場期待第二段下跌",
+    "originalTitle": "E-mini Hopeful for 2nd Leg Down After Trapped Bulls",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-279066": {
+    "titleZh": "E-mini 空頭突破失敗",
+    "originalTitle": "E-mini Failed Bear Breakout",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-279064": {
+    "titleZh": "E-mini：空方正出現強勢突破",
+    "originalTitle": "E-mini Bears Getting Strong Breakout",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-279062": {
+    "titleZh": "E-mini：多方希望昨日低點下方有買盤",
+    "originalTitle": "E-mini Bulls Want Buyers below Yesterday’s Low",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-278943": {
+    "titleZh": "E-mini：多方預期測試歷史高點",
+    "originalTitle": "E-mini Bulls Expect Test of All-Time High",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-278733": {
+    "titleZh": "E-mini：多方希望出現強勢高一（H1）買進訊號棒",
+    "originalTitle": "E-mini Bulls Want Strong High 1 Buy Signal Bar",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-278731": {
+    "titleZh": "E-mini：下方買方在更低價位分批進場",
+    "originalTitle": "E-mini Buyers Below Scaling In Lower",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-278729": {
+    "titleZh": "E-mini 測試 7,900 整數關卡後回檔",
+    "originalTitle": "E-mini Pullback after Test of 7,900 Round Number",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-278727": {
+    "titleZh": "E-mini：多方預期測試 7,900 歷史高點",
+    "originalTitle": "E-mini Bulls Expecting Test of 7,900 All-Time High",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-278659": {
+    "titleZh": "E-mini：九月漲勢之後，多方正出現第二段上漲",
+    "originalTitle": "E-mini Bulls Getting 2nd Leg Up After September Rally",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-278312": {
+    "titleZh": "多方希望測試 9 月 21 日高點",
+    "originalTitle": "Bulls Want Test of September 21st High",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-278309": {
+    "titleZh": "E-mini：多方嘗試形成多頭反轉棒",
+    "originalTitle": "E-mini Bulls Trying to Get Bull Reversal Bar",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-278306": {
+    "titleZh": "E-mini：多方嘗試推動第二段上漲",
+    "originalTitle": "E-mini Bulls Trying For 2nd Leg Up",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-278304": {
+    "titleZh": "E-mini：多方很可能在更低價位分批進場",
+    "originalTitle": "E-mini Bulls Likely Scaling In Lower",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-278151": {
+    "titleZh": "E-mini 持續呈現交易區間的價格行為",
+    "originalTitle": "E-mini Continued Trading Range Price Action",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-277918": {
+    "titleZh": "E-mini：多方希望測試歷史高點",
+    "originalTitle": "E-mini Bulls Want Test of All-Time High",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-277916": {
+    "titleZh": "E-mini：多方希望出現第二段上漲",
+    "originalTitle": "E-mini Bulls Want 2nd Leg Up",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-277914": {
+    "titleZh": "E-mini 回檔後，下方有買方",
+    "originalTitle": "E-mini Buyers below After Pullback",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-277912": {
+    "titleZh": "E-mini 很可能測試歷史高點",
+    "originalTitle": "E-mini Test of All-Time High Likely",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-277657": {
+    "titleZh": "E-mini：多方正強勢突破 7,800 整數關卡",
+    "originalTitle": "E-Mini Bulls Getting Strong Breakout above 7,800 Round Number",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-277438": {
+    "titleZh": "E-mini：多方希望向上反轉並測試 7,800 整數關卡",
+    "originalTitle": "E-mini Bulls Want Reversal Up and Test of 7,800 Round Number",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-277436": {
+    "titleZh": "E-mini 在 7,600 整數關卡找到支撐",
+    "originalTitle": "E-mini Finding Support at 7,600 Round Number",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-277434": {
+    "titleZh": "多方希望八月漲勢的中點有買盤",
+    "originalTitle": "Bulls Want Buyers at Midpoint of August Rally",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-277430": {
+    "titleZh": "E-mini：弱勢低一（L1）做空訊號之後，多方希望向上反轉",
+    "originalTitle": "E-mini Bulls Want Reversal Up after Weak Low 1 Short",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-277269": {
+    "titleZh": "E-mini：多方測試 9 月 11 日低點時找到支撐",
+    "originalTitle": "E-mini Bulls Finding Support Testing September 11 Low",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-277113": {
+    "titleZh": "E-mini：多方從九月低點強勢向上反轉",
+    "originalTitle": "E-mini Bulls Getting Strong Reversal Up From September Low",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-277111": {
+    "titleZh": "E-mini：多方嘗試強勢向上反轉",
+    "originalTitle": "E-mini Bulls Trying For Strong Reversal Up",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-277109": {
+    "titleZh": "E-mini：空方希望向下突破楔形多頭旗形",
+    "originalTitle": "E-mini Bears Want Breakout below Wedge Bull Flag",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-276946": {
+    "titleZh": "E-mini：多方在日線圖上失去動能",
+    "originalTitle": "E-mini Bulls Losing Momentum on Daily Chart",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-276744": {
+    "titleZh": "標普 500 E-mini：空頭趨勢型交易區間；趨勢轉為交易區間",
+    "originalTitle": "SP500 E-mini Bear Trending Trading Range Trend into Trading Range",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文",
+    "titleNote": "原題語句連接不清；保留其空頭趨勢型區間與轉入區間兩段表述，未讀正文釐清。"
+  },
+  "brad-post-276575": {
+    "titleZh": "E-mini：楔形多頭旗形之後，多方正強勢向上反轉",
+    "originalTitle": "E-mini Bulls Getting Strong Reversal Up after Wedge Bull Flag",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-276571": {
+    "titleZh": "E-mini：多方希望日線形成楔形多頭旗形",
+    "originalTitle": "E-mini Bulls Want Wedge Bull Flag on Daily",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-276569": {
+    "titleZh": "E-mini：空方希望成功向下突破 8 月 24 日價位",
+    "originalTitle": "E-mini Bears Want Successful Breakout Below August 24th",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文",
+    "titleNote": "原題未明指 8 月 24 日的高點或低點，不補成特定價位。"
+  },
+  "brad-post-276332": {
+    "titleZh": "E-mini：多方希望突破並測試 7,900",
+    "originalTitle": "E-mini Bulls Want Breakout and Test of 7,900",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-275962": {
+    "titleZh": "E-mini：失望的多方以短線交易方式退出",
+    "originalTitle": "E-mini Disappointed Bulls Scalping Out",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-275964": {
+    "titleZh": "E-mini：多方正向上突破",
+    "originalTitle": "E-mini Bulls Getting Upside Breakout",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-275960": {
+    "titleZh": "E-mini：多方期待日線移動平均線處有買盤",
+    "originalTitle": "E-mini Bulls Hopeful for Buyers at Daily Moving Average",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-275966": {
+    "titleZh": "E-mini 在日線移動平均線處停滯",
+    "originalTitle": "E-mini Market Stalling at Daily Moving Average",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-275711": {
+    "titleZh": "E-mini：支撐處的弱勢低一（L1）做空訊號下方有買方",
+    "originalTitle": "E-mini Buyers Below Weak Low 1 Short at Support",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-275453": {
+    "titleZh": "E-mini：八月漲勢之後，最可能出現橫向走勢",
+    "originalTitle": "E-mini Sideways Most Likely After August Rally",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-275451": {
+    "titleZh": "E-mini：空方到達六月的先前歷史高點",
+    "originalTitle": "E-mini Bears Reaching Prior June All-Time High",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-275449": {
+    "titleZh": "E-mini：空方期待第二段下跌",
+    "originalTitle": "E-mini Bears Hopeful for Second Leg Down",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-275447": {
+    "titleZh": "E-mini：空方測試六月的先前歷史高點",
+    "originalTitle": "E-mini Bears Testing June Prior All-Time High",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-275269": {
+    "titleZh": "E-mini：空方希望向下反轉並測試 7,700 整數關卡",
+    "originalTitle": "E-mini Bears Want Reversal Down and test of 7,700 Round Number",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-274966": {
+    "titleZh": "E-mini：空方希望反轉回三角形內",
+    "originalTitle": "E-mini Bears Want Reversal Back Into Triangle",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-274964": {
+    "titleZh": "E-mini：多方正出現第二段上漲",
+    "originalTitle": "E-mini Bulls Getting 2nd Leg Up",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-274962": {
+    "titleZh": "E-mini：多方期待第二段上漲至 8,000",
+    "originalTitle": "E-Mini Bulls Hopeful for 2nd Leg up to 8,000",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-274960": {
+    "titleZh": "E-mini 在 7,800 整數關卡遇到壓力",
+    "originalTitle": "E-mini Finding Resistance at 7,800 Round Number",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-274811": {
+    "titleZh": "E-mini：空方希望歷史高點上方的突破失敗",
+    "originalTitle": "E-mini Bears Want Failed Breakout Above All-Time High",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-274581": {
+    "titleZh": "E-mini：空方不太可能形成向下反轉",
+    "originalTitle": "E-mini Bears Unlikely to Get Reversal Down",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-274587": {
+    "titleZh": "E-mini：多方很可能出現第二段上漲",
+    "originalTitle": "E-mini Bulls Likely To Get 2nd Leg Up",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-274585": {
+    "titleZh": "E-mini 在 7,800 整數關卡出現獲利了結",
+    "originalTitle": "E-mini Profit Taking at 7,800 Round Number",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-274589": {
+    "titleZh": "E-mini：多方突破六月的歷史高點",
+    "originalTitle": "E-mini Bulls Breaking above June All-Time High",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-274406": {
+    "titleZh": "E-mini：空方放棄向下突破",
+    "originalTitle": "E-mini Bears Giving Up on Downside Breakout",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-274186": {
+    "titleZh": "E-mini：多方希望向上反轉至歷史高點",
+    "originalTitle": "E-mini Bulls Want Reversal Up to All-Time High",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-274184": {
+    "titleZh": "E-mini 在六月低點的空頭突破失敗",
+    "originalTitle": "E-mini Failed Bear Breakout at June Low",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-274182": {
+    "titleZh": "E-mini：空頭突破失敗最為可能",
+    "originalTitle": "E-mini Failed Bear Breakout Most Likely",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-274180": {
+    "titleZh": "E-mini：多方希望出現強勢買進訊號棒",
+    "originalTitle": "E-mini Bulls Want Strong Buy Signal Bar",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-274046": {
+    "titleZh": "E-mini：空方希望測試六月低點",
+    "originalTitle": "E-mini Bears Want Test of June Low",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-273839": {
+    "titleZh": "E-mini 空頭突破失敗",
+    "originalTitle": "E-mini Failed Bear Breakout",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-273837": {
+    "titleZh": "E-mini：空方嘗試成功向下突破",
+    "originalTitle": "E-mini Bears Trying for Successful Downside Breakout",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-273835": {
+    "titleZh": "E-mini 日線的下跌風險有限",
+    "originalTitle": "E-mini Daily Downside Risk is Limited",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文",
+    "titleNote": "「風險有限」是歷史文章的原題判斷，不是目前行情或風控保證。"
+  },
+  "brad-post-273833": {
+    "titleZh": "E-mini 日線圖處於突破模式",
+    "originalTitle": "E-mini Breakout Mode on Daily Chart",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-273663": {
+    "titleZh": "E-mini 日線圖持續橫向交易",
+    "originalTitle": "E-mini Continued Sideways Trading on Daily Chart",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-273279": {
+    "titleZh": "E-mini：空方未能向下突破",
+    "originalTitle": "E-mini Bears Failing To Get Downside Breakout",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-273277": {
+    "titleZh": "E-mini：空方希望出現強勢反轉棒",
+    "originalTitle": "E-mini Bears Want Strong Reversal Bar",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-273275": {
+    "titleZh": "E-mini：空方無法避免測試 7,700 整數關卡",
+    "originalTitle": "E-mini Bears Unable to Avoid Test of 7,700 Round Number",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-273272": {
+    "titleZh": "E-mini：多方希望測試 6 月 15 日的較低高點",
+    "originalTitle": "E-mini: Bulls Want Test of June 15th Lower High",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-272937": {
+    "titleZh": "E-mini：多方在三角形內出現強勢買進訊號棒",
+    "originalTitle": "E-mini Bulls Have Strong Buy Signal Bar inside of Triangle",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-272935": {
+    "titleZh": "E-mini：多方希望出現收於最高點的強勢買進訊號棒",
+    "originalTitle": "E-mini Bulls Want Strong Buy Signal Bar Closing on High",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-272933": {
+    "titleZh": "E-mini：7,500 整數關卡是重要的價格磁鐵",
+    "originalTitle": "E-mini 7,500 Round Number is Important Magnet",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-272930": {
+    "titleZh": "E-mini：多方嘗試測試 6 月 15 日的較低高點",
+    "originalTitle": "E-mini Bulls Trying for Test of June 15th Lower High",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-272310": {
+    "titleZh": "E-mini：多方嘗試以第二段上漲到達歷史高點",
+    "originalTitle": "E-mini Bulls Trying for 2nd Leg to All-Time High",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-272308": {
+    "titleZh": "E-mini 持續呈現橫向價格行為",
+    "originalTitle": "E-mini Continued Sideways Price Action",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-272306": {
+    "titleZh": "E-mini：多方嘗試到達 6 月 15 日高點",
+    "originalTitle": "E-mini Bulls Trying to Reach June 15th High",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-272304": {
+    "titleZh": "E-mini：多方嘗試向上突破",
+    "originalTitle": "E-mini Bulls Trying For Upside Breakout",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-272295": {
+    "titleZh": "E-mini：多方嘗試測試歷史高點",
+    "originalTitle": "E-mini Bulls Trying for Test of All-Time High",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-272100": {
+    "titleZh": "E-mini：多方希望測試歷史高點",
+    "originalTitle": "E-mini Bulls Want Test of All-Time High",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-272098": {
+    "titleZh": "E-mini：六月低點附近很可能有買方",
+    "originalTitle": "E-mini Buyers Likely Near June Low",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-272096": {
+    "titleZh": "E-mini 日線處於平衡的突破模式",
+    "originalTitle": "E-mini Daily Balanced in Breakout Mode",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-272094": {
+    "titleZh": "E-mini 日線圖的三角形持續發展",
+    "originalTitle": "E-mini Triangle Continues on Daily Chart",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-271697": {
+    "titleZh": "E-mini 日線圖形成三角形",
+    "originalTitle": "E-mini Triangle on Daily Chart",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-271695": {
+    "titleZh": "E-mini：多方希望出現高一（H1）買進訊號棒",
+    "originalTitle": "E-mini Bulls Want H1 Buy Signal Bar",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-271693": {
+    "titleZh": "E-mini 在聯邦公開市場委員會會議前呈橫向走勢",
+    "originalTitle": "E-mini Sideways into FOMC",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-271691": {
+    "titleZh": "E-mini 在歷史高點附近出現獲利了結",
+    "originalTitle": "E-mini Profit Taking Near All-Time High",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-271543": {
+    "titleZh": "E-mini 回測歷史高點",
+    "originalTitle": "E-mini Testing Back to All-Time High",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-271377": {
+    "titleZh": "E-mini 出現強勢多頭反轉棒，很可能形成交易區間",
+    "originalTitle": "E-mini Strong Bull Reversal Bar Trading Range Likely",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-271375": {
+    "titleZh": "E-mini：昨日低一（Low 1）下方有買方",
+    "originalTitle": "E-mini Buyers Below Yesterday’s Low 1",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文",
+    "titleNote": "原題為 Yesterday’s Low 1，保留 Low 1 用語，不擅自改為昨日最低價。"
+  },
+  "brad-post-271373": {
+    "titleZh": "E-mini：昨日低點附近有買方",
+    "originalTitle": "E-mini Buyers Near Yesterday’s Low",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  },
+  "brad-post-271371": {
+    "titleZh": "E-mini：上週低點下方有買方",
+    "originalTitle": "E-mini Buyers below Low of Last Week",
+    "scope": "title-only",
+    "basis": "原索引英文題名翻譯；未讀正文"
+  }
+}

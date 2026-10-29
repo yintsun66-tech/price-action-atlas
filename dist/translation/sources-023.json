@@ -1,0 +1,862 @@
+[
+  {
+    "id": "fd06159952bbcf6affd0",
+    "url": "https://www.youtube.com/watch?v=AF0GoA6YVFs",
+    "sourceTitle": "Recap for 2010-10-25 part 1",
+    "titleZh": "Brooks 共享影片｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-AF0GoA6YVFs"
+      }
+    ],
+    "resourceIds": [
+      "yt-AF0GoA6YVFs"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-AF0GoA6YVFs",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
+    "id": "fd09a5875a511f89b958",
+    "url": "https://www.youtube.com/watch?v=0hZW46Wu-k0",
+    "sourceTitle": "S&P 500 E-Mini Triangle in Trading Range Day - March 25, 2026",
+    "titleZh": "Brooks 共享影片｜區間與通道",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-0hZW46Wu-k0"
+      }
+    ],
+    "resourceIds": [
+      "yt-0hZW46Wu-k0"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-0hZW46Wu-k0",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
+    "id": "fd1e52c8bbeca80e76ea",
+    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-20a-measured-moves/",
+    "sourceTitle": "量度目標",
+    "titleZh": "量度目標",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "量度目標"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "fd35f18efb341ab3f1e6",
+    "url": "https://www.youtube.com/watch?v=_lHjwEs6qAU",
+    "sourceTitle": "Emini update 2014 October 18",
+    "titleZh": "Brooks 共享影片｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-_lHjwEs6qAU"
+      }
+    ],
+    "resourceIds": [
+      "yt-_lHjwEs6qAU"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-_lHjwEs6qAU",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
+    "id": "fd3f3d60ba8aecb99425",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-giving-up-below-last-fridays-low/",
+    "sourceTitle": "Emini Bulls Giving Up below Last Friday’s Low",
+    "titleZh": "Brad 日內案例｜2025-01-27｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-228545"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-228545"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-228545",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "fd56c95090eef492a741",
+    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-12c-market-cycle/",
+    "sourceTitle": "市場週期",
+    "titleZh": "市場週期",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "市場週期"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "fd6f400d6b43e90c644c",
+    "url": "https://www.youtube.com/watch?v=_FxyQi7pJEk",
+    "sourceTitle": "Emini End of Day Review - Thursday June 22, 2023 - Brad Wolff",
+    "titleZh": "Brad 公開影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-_FxyQi7pJEk"
+      }
+    ],
+    "resourceIds": [
+      "yt-_FxyQi7pJEk"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-_FxyQi7pJEk",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "fd7fe2193dfe31dd62cf",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-want-strong-buy-signal-bar-closing-on-high/",
+    "sourceTitle": "E-mini Bulls Want Strong Buy Signal Bar Closing on High",
+    "titleZh": "E-mini：多方希望出現收於最高點的強勢買進訊號棒",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-272935"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-272935"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-272935",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "fdf94bbd12923f3f1eeb",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bull-breakout-of-triangle-3/",
+    "sourceTitle": "Emini Bull Breakout of Triangle",
+    "titleZh": "Brad 日內案例｜2025-02-14｜突破與延續",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-229619"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-229619"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-229619",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "fe0e21e23afc3e8e105f",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-likely-to-test-may-19-recent-higher-low/",
+    "sourceTitle": "E-mini Likely to Test May 19 Recent Higher Low",
+    "titleZh": "Brad 日內案例｜2026-05-27｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-270477"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-270477"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-270477",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "fe1ae9d15153e6dcdc98",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-weak-low-2-signal-bar-on-daily/",
+    "sourceTitle": "Emini Weak Low 2 Signal Bar on Daily",
+    "titleZh": "Brad 日內案例｜2025-03-21｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-232632"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-232632"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-232632",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "fe2e8da5883c7614b99e",
+    "url": "https://www.youtube.com/watch?v=2n_bfaTvqY4",
+    "sourceTitle": "SP500 E mini Review Feb 20 2026: Broad Bull Channel Trending Trading Range Day",
+    "titleZh": "Brooks 共享影片｜區間與通道／練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-2n_bfaTvqY4"
+      }
+    ],
+    "resourceIds": [
+      "yt-2n_bfaTvqY4"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-2n_bfaTvqY4",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
+    "id": "fe740bb7e3d9dbc9d11a",
+    "url": "https://www.youtube.com/watch?v=-RxaslXZLQ8",
+    "sourceTitle": "Ask Al Brooks: Trading Room Advice Follow Up",
+    "titleZh": "Brooks 共享影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt--RxaslXZLQ8"
+      }
+    ],
+    "resourceIds": [
+      "yt--RxaslXZLQ8"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt--RxaslXZLQ8",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
+    "id": "feaa3f2bc717917d9dee",
+    "url": "https://www.quantsystems.ca/course/ptm-202210",
+    "sourceTitle": "QuantSystem's Pro Trader Mentoring",
+    "titleZh": "PTM 月課綱｜2022/10",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "qs-ptm-202210"
+      }
+    ],
+    "resourceIds": [
+      "qs-ptm-202210"
+    ],
+    "legacyObservations": [
+      {
+        "id": "qs-ptm-202210",
+        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Ali Moin-Afshari／Quant Systems"
+    ]
+  },
+  {
+    "id": "feae542c00599cd272a7",
+    "url": "https://www.youtube.com/watch?v=oNA6FRZ2fJA",
+    "sourceTitle": "Emini End of Day Review - Tuesday August 23, 2022",
+    "titleZh": "Brooks 共享影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-oNA6FRZ2fJA"
+      }
+    ],
+    "resourceIds": [
+      "yt-oNA6FRZ2fJA"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-oNA6FRZ2fJA",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
+    "id": "febc9ce74d36b2aea531",
+    "url": "https://www.youtube.com/watch?v=2gQYZOE6YZs",
+    "sourceTitle": "S&P500 E-mini Opening Triangle, Rally to New All  time High Then Trading Range - April 24, 2026",
+    "titleZh": "Brooks 共享影片｜區間與通道",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-2gQYZOE6YZs"
+      }
+    ],
+    "resourceIds": [
+      "yt-2gQYZOE6YZs"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-2gQYZOE6YZs",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
+    "id": "febe6e9de7e998d2a0bb",
+    "url": "https://www.brookstradingcourse.com/trade-price-action/video-44b-trading-tight-bear-channels/",
+    "sourceTitle": "緊空頭通道交易",
+    "titleZh": "緊空頭通道交易",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "緊空頭通道交易"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "fed77df2efb5d06b130c",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-need-strong-breakout/",
+    "sourceTitle": "Emini Bulls need Strong Breakout after Yesterday’s Bear Reversal Bar",
+    "titleZh": "Brad 日內案例｜2023-02-28｜突破與延續／反轉與陷阱",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-171567"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-171567"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-171567",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "fee0280f2793a80ee629",
+    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-19e-support-resistance/",
+    "sourceTitle": "支撐壓力",
+    "titleZh": "支撐壓力",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "支撐壓力"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "ff09ddae1c896046cda2",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-testing-april-2021-gap/",
+    "sourceTitle": "Emini testing March 2021 gap",
+    "titleZh": "Brad 日內案例｜2022-05-11｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-150556"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-150556"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-150556",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "ff0e18fe536f9c963da1",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-big-selloff-after-cpi/",
+    "sourceTitle": "Emini big selloff after CPI report",
+    "titleZh": "Brad 日內案例｜2022-09-13｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-160382"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-160382"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-160382",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "ff475d50db04e61deb7e",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bears-want-breakout-below-wedge-bull-flag/",
+    "sourceTitle": "E-mini Bears Want Breakout below Wedge Bull Flag",
+    "titleZh": "E-mini：空方希望向下突破楔形多頭旗形",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-277109"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-277109"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-277109",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "ff7814bcb53506577095",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-possible-bear-breakout/",
+    "sourceTitle": "Emini possible bear breakout below 6-day tight trading range",
+    "titleZh": "Brad 日內案例｜2022-06-07｜突破與延續／區間與通道",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-153305"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-153305"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-153305",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "ffa5f8ac9b7f079c34ac",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-expect-test-of-moving-average/",
+    "sourceTitle": "Emini Bears Expect Test of Moving Average",
+    "titleZh": "Brad 日內案例｜2025-03-20｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-232630"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-232630"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-232630",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "ffcedf01760274596ad2",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-at-the-daily-moving-average/",
+    "sourceTitle": "Emini at the Daily Moving Average",
+    "titleZh": "Brad 日內案例｜2025-05-23｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-237345"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-237345"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-237345",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "ffcef961c1bf278b8900",
+    "url": "https://www.youtube.com/watch?v=CzVTX9AkBm0",
+    "sourceTitle": "Emini End of Day Review - Wednesday April 5, 2023",
+    "titleZh": "Brooks 共享影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-CzVTX9AkBm0"
+      }
+    ],
+    "resourceIds": [
+      "yt-CzVTX9AkBm0"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-CzVTX9AkBm0",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
+    "id": "ffdd427eeaa6f24dfe3b",
+    "url": "https://www.brookstradingcourse.com/trade-price-action/video-44d-trading-tight-bear-channels/",
+    "sourceTitle": "緊空頭通道交易",
+    "titleZh": "緊空頭通道交易",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "緊空頭通道交易"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "fff95e819a086f02fec3",
+    "url": "https://www.brookstradingcourse.com/trade-price-action/video-50d-scalping/",
+    "sourceTitle": "短打",
+    "titleZh": "短打",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-29",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "短打"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  }
+]

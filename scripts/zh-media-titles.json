@@ -1,0 +1,168 @@
+{
+  "media": {
+    "v01": {
+      "titleZh": "價格行為官方免費樣片",
+      "originalTitle": "Free sample price action trading videos",
+      "scope": "title-only",
+      "basis": "沿用現有中文顯示名稱；不表示已取得影音內容"
+    },
+    "v02": {
+      "titleZh": "讓我們從頭來過：第一季",
+      "originalTitle": "讓我們從頭來過：第一季",
+      "scope": "title-only",
+      "basis": "沿用現有中文顯示名稱；不表示已取得影音內容"
+    },
+    "v03": {
+      "titleZh": "實盤邊做邊講",
+      "originalTitle": "實盤邊做邊講",
+      "scope": "title-only",
+      "basis": "沿用現有中文顯示名稱；不表示已取得影音內容"
+    },
+    "v04": {
+      "titleZh": "交易入門第一步",
+      "originalTitle": "First Steps in Trading",
+      "scope": "title-only",
+      "basis": "沿用現有中文顯示名稱；不表示已取得影音內容"
+    },
+    "v05": {
+      "titleZh": "逐棒閱讀價格圖：價格行為策略",
+      "originalTitle": "Reading A Price Chart Bar by Bar | Price Action Strategy",
+      "scope": "title-only",
+      "basis": "沿用現有中文顯示名稱；不表示已取得影音內容"
+    },
+    "v06": {
+      "titleZh": "為何進場價格會影響交易品質",
+      "originalTitle": "Why entry prices matter to make quality stock trades ($MRNA)",
+      "scope": "title-only",
+      "basis": "沿用現有中文顯示名稱；不表示已取得影音內容"
+    },
+    "a01": {
+      "titleZh": "會改變你交易方式的最佳價格行為交易策略",
+      "originalTitle": "Best Price Action Trading Strategy That Will Change The Way You Trade",
+      "scope": "title-only",
+      "basis": "沿用現有中文顯示名稱；不表示已取得影音內容",
+      "displayTitleZh": "價格行為策略示意：動能變化與反轉觀察",
+      "titleNote": "最佳與會改變為原標題主張，不是本站驗證。"
+    },
+    "a02": {
+      "titleZh": "貝氏定理：用新證據更新機率",
+      "originalTitle": "Bayes' theorem",
+      "scope": "title-only",
+      "basis": "沿用現有中文顯示名稱；不表示已取得影音內容"
+    },
+    "p01": {
+      "titleZh": "交易者訪談",
+      "originalTitle": "Chat With Traders",
+      "scope": "title-only",
+      "basis": "沿用現有中文顯示名稱；不表示已取得影音內容"
+    },
+    "p02": {
+      "titleZh": "改善系統化交易",
+      "originalTitle": "Better System Trader",
+      "scope": "title-only",
+      "basis": "沿用現有中文顯示名稱；不表示已取得影音內容"
+    },
+    "p03": {
+      "titleZh": "精通價格行為交易會讓你獲利",
+      "originalTitle": "Mastering Price Action Trading Will Make You Profitable",
+      "scope": "title-only",
+      "basis": "沿用現有中文顯示名稱；不表示已取得影音內容",
+      "displayTitleZh": "Al Brooks 價格行為、風險與機率資料庫訪談",
+      "titleNote": "會讓你獲利為原標題主張，不是本站驗證。"
+    },
+    "p04": {
+      "titleZh": "系統化投資者",
+      "originalTitle": "Systematic Investor",
+      "scope": "title-only",
+      "basis": "沿用現有中文顯示名稱；不表示已取得影音內容"
+    },
+    "p05": {
+      "titleZh": "MacroMicro 財經M平方",
+      "originalTitle": "MacroMicro 財經M平方",
+      "scope": "title-only",
+      "basis": "沿用現有中文顯示名稱；不表示已取得影音內容"
+    },
+    "p06": {
+      "titleZh": "股癌",
+      "originalTitle": "Gooaye 股癌",
+      "scope": "title-only",
+      "basis": "沿用現有中文顯示名稱；不表示已取得影音內容"
+    }
+  },
+  "books": {
+    "grimes": {
+      "titleZh": "關鍵買賣點：突破實戰交易的科學與藝術",
+      "originalTitle": "The Art and Science of Technical Analysis",
+      "scope": "title-only",
+      "basis": "沿用現有中文出版書名或已明列的主題譯名；非全文翻譯"
+    },
+    "brooks-trends": {
+      "titleZh": "價格行為交易：趨勢（中文主題譯名）",
+      "originalTitle": "Trading Price Action Trends",
+      "scope": "title-only",
+      "basis": "沿用現有中文出版書名或已明列的主題譯名；非全文翻譯"
+    },
+    "brooks-ranges": {
+      "titleZh": "高級波段技術分析：價格行為交易系統之區間分析（簡體書）",
+      "originalTitle": "Trading Price Action Trading Ranges",
+      "scope": "title-only",
+      "basis": "沿用現有中文出版書名或已明列的主題譯名；非全文翻譯"
+    },
+    "brooks-reversals": {
+      "titleZh": "價格行為交易：反轉（中文主題譯名）",
+      "originalTitle": "Trading Price Action Reversals",
+      "scope": "title-only",
+      "basis": "沿用現有中文出版書名或已明列的主題譯名；非全文翻譯"
+    },
+    "volman": {
+      "titleZh": "理解價格行為：五分鐘週期的實務分析（本報告譯名）",
+      "originalTitle": "Understanding Price Action: Practical Analysis of the 5-minute Time Frame",
+      "scope": "title-only",
+      "basis": "沿用現有中文出版書名或已明列的主題譯名；非全文翻譯"
+    },
+    "pardo": {
+      "titleZh": "交易策略評估與最佳化（第二版）",
+      "originalTitle": "The Evaluation and Optimization of Trading Strategies, 2nd Edition",
+      "scope": "title-only",
+      "basis": "沿用現有中文出版書名或已明列的主題譯名；非全文翻譯"
+    },
+    "aronson": {
+      "titleZh": "EBTA：讓證據說話的技術分析（上、下）",
+      "originalTitle": "Evidence-Based Technical Analysis",
+      "scope": "title-only",
+      "basis": "沿用現有中文出版書名或已明列的主題譯名；非全文翻譯"
+    },
+    "douglas": {
+      "titleZh": "賺錢，再自然不過",
+      "originalTitle": "Trading in the Zone",
+      "scope": "title-only",
+      "basis": "沿用現有中文出版書名或已明列的主題譯名；非全文翻譯"
+    },
+    "hougaard": {
+      "titleZh": "操盤手的秘訣：最懂輸的人才能成為贏家",
+      "originalTitle": "Best Loser Wins",
+      "scope": "title-only",
+      "basis": "沿用現有中文出版書名或已明列的主題譯名；非全文翻譯"
+    },
+    "murphy": {
+      "titleZh": "金融市場技術分析（上、下）",
+      "originalTitle": "Technical Analysis of the Financial Markets",
+      "scope": "title-only",
+      "basis": "沿用現有中文出版書名或已明列的主題譯名；非全文翻譯"
+    },
+    "nison": {
+      "titleZh": "陰線陽線（增訂第二版）",
+      "originalTitle": "Japanese Candlestick Charting Techniques, 2nd Edition",
+      "scope": "title-only",
+      "basis": "沿用現有中文出版書名或已明列的主題譯名；非全文翻譯"
+    }
+  },
+  "extraBooks": [
+    {
+      "titleZh": "價格行為日內交易",
+      "originalTitle": "Day Trading with Price Action",
+      "scope": "title-only",
+      "basis": "依既有英文題名翻譯；四冊PDF課程書"
+    }
+  ]
+}

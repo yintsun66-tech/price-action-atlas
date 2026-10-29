@@ -1,0 +1,194 @@
+[
+  {
+    "resourceId": "b-definition",
+    "url": "https://www.brookstradingcourse.com/price-action/what-is-price-action-6-aspects/",
+    "sourceTitle": "What is price action? 6 aspects to consider",
+    "sourceTitleZh": "什麼是價格行為？六個觀察面向",
+    "checked": "2026-10-29",
+    "status": "body-summary",
+    "readScope": "已讀公開文章正文，包括價格表示、圖表、微小價格變動、行為、背景及市場慣性的討論；沒有重刊圖表或觀看文章所連結的付費影片。",
+    "summaryZh": "Brooks 把價格行為廣義界定為價格移動的各種表示，強調讀圖不只背 K 棒名稱，還要觀察支撐壓力、趨勢或區間、動能與交易管理。他以市場慣性解釋為何要把當前棒放回前後背景。",
+    "keyPointsZh": [
+      "同一市場可以有時間、成交量或其他切棒方式；作者認為可從不同表示觀察價格結構。",
+      "小變動與時間順序也可能影響判讀，不能只挑單根棒型。",
+      "文中八成規則談趨勢反轉嘗試與區間突破嘗試的失敗，兩種背景仍須分開。"
+    ],
+    "limitsZh": "這是作者教學觀點；文中機率不是本站對微台或 BTC 的樣本統計。作者對市場與人類行為的廣泛主張也不等於獨立驗證的獲利證據。",
+    "evidence": {
+      "urls": ["https://www.brookstradingcourse.com/price-action/what-is-price-action-6-aspects/"],
+      "accessMethod": "web.open 公開原作者頁正文；另讀尾段 Market inertia。",
+      "scope": "公開文章正文，第 73–171 行；來源頁發布日 2020-08-30。"
+    },
+    "courseRefs": [
+      {"version":"Main（主課程）／共用價格行為基礎","unit":"02C","topic":"圖表基礎與價格行為","url":"https://www.brookstradingcourse.com/price-action-fundamentals/video-02c-chart-basics-price-action/","relation":"相關主題補讀；不是此文章的確定課程出處。"},
+      {"version":"Main（主課程）／共用價格行為基礎","unit":"08A","topic":"K 棒、交易設定與訊號棒","url":"https://www.brookstradingcourse.com/price-action-fundamentals/video-08a-candles-setups-signal-bars/","relation":"相關主題補讀；未觀看付費影片。"}
+    ]
+  },
+  {
+    "resourceId": "b-size",
+    "url": "https://www.brookstradingcourse.com/how-to-trade-manual/trading-position-size/",
+    "sourceTitle": "What should my trading position size be?",
+    "sourceTitleZh": "交易部位應該多大？",
+    "checked": "2026-10-29",
+    "status": "body-summary",
+    "readScope": "已讀公開文章正文的部位壓力、執行及停損距離例子；未觀看付費課程。",
+    "summaryZh": "Brooks 建議先採不致因損失焦慮而破壞管理的部位，並依保護停損距離調整數量。他把能否按計畫管理放在快速致富之前；停損變遠時，原口數的風險也會增加。",
+    "keyPointsZh": [
+      "原文建議比自己估計的可不在意部位再減少 50–75%，不是減至原部位的 50–75%。",
+      "在文中其他條件相同的例子，停損距離由 20 個外匯報價點變成 40 個，部位減半；原文單位為 pip。",
+      "作者也用持倉後的現價至停損距離討論減倉，不能只看原始進場成本。"
+    ],
+    "limitsZh": "減倉比例是作者建議與例題，不是本系統的風險參數；未計入本站微台或 BTC 的成本、最小數量及保證金限制。",
+    "evidence": {
+      "urls": ["https://www.brookstradingcourse.com/how-to-trade-manual/trading-position-size/"],
+      "accessMethod": "web.open 公開原作者文章。",
+      "scope": "公開正文第 60–76 行；發布日 2020-04-24。"
+    },
+    "courseRefs": [
+      {"version":"Main（主課程）／共用價格行為基礎","unit":"33A","topic":"保護停損","url":"https://www.brookstradingcourse.com/price-action-fundamentals/video-33a-protective-stops/","relation":"相關主題補讀；不是文章取自此單元的證明，未觀看付費影片。"}
+    ]
+  },
+  {
+    "resourceId": "b-cycle",
+    "url": "https://www.brookstradingcourse.com/free-sample-price-action-trading-videos/",
+    "sourceTitle": "Video 12A Market Cycle — Free sample price action trading videos",
+    "sourceTitleZh": "12A 市場週期：官方免費樣片介紹",
+    "checked": "2026-10-29",
+    "status": "intro-only",
+    "readScope": "只讀官方樣片介紹文字及 12A 單元公開標題；未播放、觀看或取得該影片逐字稿。",
+    "summaryZh": "官方公開頁把 12A〈市場週期〉列為價格行為基礎系列中的完整免費影片，片長 43 分 28 秒；同頁其他樣片有完整與節選之別。這份摘要說明樣片範圍，不代替影片內容摘要。",
+    "keyPointsZh": [
+      "12A 在本頁明列完整影片，不應與其他單元節選混稱。",
+      "官方表示課程影片有英文字幕及動態圖表；本輪未檢查實際字幕內容。"
+    ],
+    "limitsZh": "尚未完成影片內容翻譯或摘要；不得從標題推導片中規則、時間戳或案例。",
+    "evidence": {
+      "urls": ["https://www.brookstradingcourse.com/free-sample-price-action-trading-videos/","https://www.brookstradingcourse.com/price-action-fundamentals/video-12a-market-cycle/"],
+      "accessMethod": "web.open 官方樣片頁及正式單元頁；正式單元頁要求會員登入，未登入。",
+      "scope": "樣片公開文字第 57–81 行；正式單元只核對標題。"
+    },
+    "courseRefs": [
+      {"version":"Main 與 Forex（外匯版）共用價格行為基礎","unit":"12A","topic":"市場週期","url":"https://www.brookstradingcourse.com/price-action-fundamentals/video-12a-market-cycle/","relation":"確定的官方樣片出處；僅核對公開介紹，尚未翻譯影片。"}
+    ]
+  },
+  {
+    "resourceId": "ali-intro",
+    "url": "https://learn.tradewithme.live/",
+    "sourceTitle": "Quant Systems Introductory Course",
+    "sourceTitleZh": "Quant Systems 系統交易入門課程",
+    "checked": "2026-10-29",
+    "status": "intro-only",
+    "readScope": "已讀重新導向後的官方公開介紹、11 個課綱項目及限制說明；未註冊、播放預覽或觀看課程。",
+    "summaryZh": "Ali 的公開課綱用系統思考連接價格行為觀念與執行，列出大型突破、通道反轉及微型通道三種策略，並搭配案例模組。頁面也明說入門課本身不會讓人直接獲利，仍須投入更多實作。",
+    "keyPointsZh": [
+      "課綱重點是事前決策、規則驗證及具目標的觀察。",
+      "官方把第 5、7、9 模組描述為案例錄影；本輪沒有核實錄影內容或實際成交。",
+      "這是 Ali 自有課程，沒有因觀念相近而指定 Brooks 原始課程單元。"
+    ],
+    "limitsZh": "只摘要公開課綱，不是三個策略的完整規則或課程逐字稿；效果與交易紀錄描述仍是官方自述。",
+    "evidence": {
+      "urls": ["https://learn.tradewithme.live/","https://learn.quantsystems.ca/"],
+      "accessMethod": "web.open；原網址重新導向官方新站。",
+      "scope": "公開介紹、課綱及結尾限制文字；未登入課程。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "ali-visual",
+    "url": "https://www.quantsystems.ca/article-visual-learning",
+    "sourceTitle": "Visual Learning",
+    "sourceTitleZh": "視覺化學習：把觀念接到決策與練習",
+    "checked": "2026-10-29",
+    "status": "body-summary",
+    "readScope": "已讀 Ali 公開文章正文與訓練步驟；來源圖像未重製，未觀看文中提及的付費課程。",
+    "summaryZh": "Ali 以自身經驗說明：盤後能分析圖表，不代表盤中能及時運用。他用流程圖顯示決策分支，再配合情境預演、限縮範圍的模擬、詳細復盤與修正，把分散的知識連接成可練習的反應。",
+    "keyPointsZh": [
+      "先指定要辨識的訊號、需要做的決策與隨後行動。",
+      "在模擬中集中練已預演的情境，再檢查自己的實際行為。",
+      "作者承認學習偏好不同，視覺化是他使用的方法。"
+    ],
+    "limitsZh": "這是作者經驗與教學論述。文中的壓力、記憶容量及訓練效果主張，本輪沒有另外查證研究；不是已驗證的交易績效。",
+    "evidence": {
+      "urls": ["https://www.quantsystems.ca/article-visual-learning"],
+      "accessMethod": "web.open 原作者公開正文。",
+      "scope": "正文第 25–69 行；原頁表示 2022 年更新，未列確切更新日。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "brad-room",
+    "url": "https://www.brookstradingcourse.com/online-day-trading-room/",
+    "sourceTitle": "Online Day Trading Room",
+    "sourceTitleZh": "Brooks 線上日內交易室：公開介紹與回放入口",
+    "checked": "2026-10-29",
+    "status": "intro-only",
+    "readScope": "已讀官方服務介紹、市場範圍、公開樣片名單與教育用途聲明；未加入交易室或觀看完整回放。",
+    "summaryZh": "官方介紹交易室先看較高週期背景，再隨行情討論設定與管理。美國室主要使用 ES，歐洲室主要使用 FDAX。公開頁列不同講者的歷史樣片，並要求把展示交易視為假設性示範。",
+    "keyPointsZh": [
+      "交易室有多位講者，不能把每份解讀都歸屬 Al Brooks。",
+      "介紹頁與回放是不同層級資料；本輪只讀前者。",
+      "官方不保證觀看者能在實盤重現展示交易。"
+    ],
+    "limitsZh": "不是交易室影片內容摘要，也未核對完整成交、所有帳戶或績效。講者日期與服務條件以原站為準。",
+    "evidence": {
+      "urls": ["https://www.brookstradingcourse.com/online-day-trading-room/"],
+      "accessMethod": "web.open 官方公開介紹。",
+      "scope": "公開正文第 72–76、106–139 行；包含 Brad Wolff 歷史場次標示。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "yt-guYhIhMkTv8",
+    "url": "https://www.youtube.com/watch?v=guYhIhMkTv8",
+    "sourceTitle": "Brad Wolff - Brooks Trading Room Open House November 1, 2024",
+    "sourceTitleZh": "Brad Wolff：Brooks 交易室開放日，2024 年 11 月 1 日（既有標題待影片頁重核）",
+    "checked": "2026-10-29",
+    "status": "unavailable",
+    "readScope": "本輪直接開啟影片頁失敗；以精確影片 ID 搜尋無結果。未取得影片說明、字幕或內容。",
+    "summaryZh": "本輪無法取得內容，尚未完成影片摘要。既有標題只保留為查找線索，不由標題推定片中觀點。",
+    "keyPointsZh": [],
+    "limitsZh": "不能稱已看完整場次；官方交易室頁的公開樣片名單不能替代這支影片的內容。",
+    "evidence": {
+      "urls": ["https://www.youtube.com/watch?v=guYhIhMkTv8"],
+      "accessMethod": "web.open 失敗；精確 ID 搜尋無結果。",
+      "scope": "沒有新取得的影片內容；英文標題沿用既有索引，非本輪影片頁驗證。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "yt-qEM1w6UqVDo",
+    "url": "https://www.youtube.com/watch?v=qEM1w6UqVDo",
+    "sourceTitle": "Emini End of Day Review - Brad Wolff - Q&A - Understanding Trade Locations",
+    "sourceTitleZh": "E-mini 盤後檢視：Brad Wolff 問答—理解交易位置（既有標題待影片頁重核）",
+    "checked": "2026-10-29",
+    "status": "unavailable",
+    "readScope": "本輪直接開啟影片頁失敗；以精確影片 ID 搜尋無結果。未取得影片說明、字幕或內容。",
+    "summaryZh": "本輪無法取得內容，尚未完成影片摘要。標題翻譯可協助尋找原片，但不能用來推導 Brad 對位置的具體判斷。",
+    "keyPointsZh": [],
+    "limitsZh": "不補造交易條件、案例、時間戳或 Brooks 課程出處。",
+    "evidence": {
+      "urls": ["https://www.youtube.com/watch?v=qEM1w6UqVDo"],
+      "accessMethod": "web.open 失敗；精確 ID 搜尋無結果。",
+      "scope": "沒有新取得的影片內容；英文標題沿用既有索引，非本輪影片頁驗證。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "yt-iQB1QohZs6w",
+    "url": "https://www.youtube.com/watch?v=iQB1QohZs6w",
+    "sourceTitle": "How to Practice to Develop Effective Trading Skills",
+    "sourceTitleZh": "如何練習以培養有效的交易技能（既有標題待影片頁重核）",
+    "checked": "2026-10-29",
+    "status": "unavailable",
+    "readScope": "本輪直接開啟影片頁失敗；以精確影片 ID 搜尋無結果。未取得影片說明、字幕或內容。",
+    "summaryZh": "本輪無法取得內容，尚未完成影片摘要。這裡只翻譯既有標題，不把同作者其他文章的訓練方法當成這支影片內容。",
+    "keyPointsZh": [],
+    "limitsZh": "作者與原片的現行可用性仍待核對；沒有觀看或重建影片。",
+    "evidence": {
+      "urls": ["https://www.youtube.com/watch?v=iQB1QohZs6w"],
+      "accessMethod": "web.open 失敗；精確 ID 搜尋無結果。",
+      "scope": "沒有新取得的影片內容；英文標題沿用既有索引，非本輪影片頁驗證。"
+    },
+    "courseRefs": []
+  }
+]
