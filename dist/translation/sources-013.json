@@ -1,5 +1,68 @@
 [
   {
+    "id": "87dc37ff9a2ee6c0a789",
+    "url": "https://www.goodreads.com/author/show/1090259.Al_Brooks",
+    "sourceTitle": "Trading Price Action Trends",
+    "titleZh": "價格行為交易：趨勢（中文主題譯名）",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "book-review",
+        "id": "brooks-trends"
+      },
+      {
+        "kind": "book-review",
+        "id": "brooks-ranges"
+      },
+      {
+        "kind": "book-review",
+        "id": "brooks-reversals"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "87f697b3a8908d752860",
+    "url": "https://www.youtube.com/watch?v=Xj294t8jw0g",
+    "sourceTitle": "Systems Academy 2024 is Now Open",
+    "titleZh": "Systems Academy 2024 計畫介紹",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-Xj294t8jw0g"
+      }
+    ],
+    "resourceIds": [
+      "yt-Xj294t8jw0g"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-Xj294t8jw0g",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Ali／Quant Systems 頻道"
+    ]
+  },
+  {
     "id": "880f48594bd53c0c28a5",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-likely-to-stall-at-new-all-time-high/",
     "sourceTitle": "E-Mini Likely to Stall at New All-Time High",
@@ -3129,72 +3192,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "92e65463b730cdf2eed4",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-second-failed-breakout/",
-    "sourceTitle": "Emini bears want second failed breakout of February high",
-    "titleZh": "Brad 日內案例｜2022-04-05｜突破與延續／反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-147954"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-147954"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-147954",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "930861365d99fa935eed",
-    "url": "https://www.youtube.com/watch?v=oHqA9Ly2FeY",
-    "sourceTitle": "Brooks Trading Course free video Nov. 2, 2012. Emini Expanding Triangle, Major Trend Reversals",
-    "titleZh": "Brooks 共享影片｜反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-oHqA9Ly2FeY"
-      }
-    ],
-    "resourceIds": [
-      "yt-oHqA9Ly2FeY"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-oHqA9Ly2FeY",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
     ]
   }
 ]

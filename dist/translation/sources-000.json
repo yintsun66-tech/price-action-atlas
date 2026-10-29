@@ -534,6 +534,79 @@
     "attributionNoteZh": "Ali 客座系列，不是 Brooks 官方交易系統。"
   },
   {
+    "id": "1e5fa9eb5efcd116a7dd",
+    "url": "https://www.tradingsetupsreview.com/inside-daynr4/",
+    "sourceTitle": "Inside Day NR4 (ID/NR4) Pattern Trading Guide",
+    "titleZh": "內包縮幅：定義、期限與背景",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "型態提供縮幅觸發，背景決定方向；下一棒未觸發的取消規則與虧損反例也須一起讀。短句對照及圖解連回新文章與社群卡。",
+    "readScope": "已讀公開定義、規則、四個案例及結語；未驗證原圖交易、執行指標或取得整篇翻譯授權。",
+    "checked": "2026-10-30",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "woods-idnr4-context"
+      },
+      {
+        "kind": "review",
+        "id": "source-woods-idnr4"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-woods-idnr4",
+        "url": "https://www.tradingsetupsreview.com/inside-daynr4/",
+        "sourceTitle": "Inside Day NR4 (ID/NR4) Pattern Trading Guide",
+        "sourceTitleZh": "內包縮幅：定義、期限與背景",
+        "checked": "2026-10-30",
+        "published": "2013-01-31",
+        "dateNoteZh": "原頁明列更新 2021-04-29。",
+        "status": "body-summary",
+        "readScope": "已讀公開定義、規則、四個案例及結語；未驗證原圖交易、執行指標或取得整篇翻譯授權。",
+        "summaryZh": "型態提供縮幅觸發，背景決定方向；下一棒未觸發的取消規則與虧損反例也須一起讀。短句對照及圖解連回新文章與社群卡。",
+        "keyPointsZh": [],
+        "limitsZh": "作者教材的歷史例子，不是本站策略成效；與 Brooks 同價內包的定義分開。",
+        "evidence": {
+          "urls": [
+            "https://www.tradingsetupsreview.com/inside-daynr4/"
+          ],
+          "accessMethod": "實際讀取英文原作者完整公開正文",
+          "scope": "定義、規則、指引、四例、Review 與日期；原圖未重製。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "Galen Woods"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "文章結合內包棒與最近四棒最小棒幅，作為縮幅後的觸發；方向仍須先由背景判斷。作者明列下一棒未觸發就取消，也展示區間上緣多單失敗，提醒不能孤立使用型態。",
+      "readScope": "已讀公開定義、規則、指引、四個案例與結語；未執行指標、複算交易或重製原圖。",
+      "checked": "2026-10-30",
+      "translationScope": "精簡繁中摘要與必要短句翻譯；不是整篇逐字稿或可直接交易的完整系統。",
+      "cardId": "woods-idnr4-context"
+    },
+    "published": "2013-01-31",
+    "dateNoteZh": "原頁明列更新 2021-04-29。",
+    "keyPointsZh": [],
+    "limitsZh": "作者教材的歷史例子，不是本站策略成效；與 Brooks 同價內包的定義分開。",
+    "evidence": {
+      "urls": [
+        "https://www.tradingsetupsreview.com/inside-daynr4/"
+      ],
+      "accessMethod": "實際讀取英文原作者完整公開正文",
+      "scope": "定義、規則、指引、四例、Review 與日期；原圖未重製。"
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
+  },
+  {
     "id": "2336d48eb1d5ca4e3c46",
     "url": "https://www.brookstradingcourse.com/how-to-trade-manual/stop-orders/",
     "sourceTitle": "Beginners should enter with stop orders",
@@ -1258,16 +1331,20 @@
     "id": "6b27f6a92edb0bb28ab8",
     "url": "https://hub.hku.hk/bitstream/10722/184789/1/content.pdf",
     "sourceTitle": "Overconfident Individual Day Traders: Evidence from the Taiwan Futures Market",
-    "titleZh": "臺灣期貨當沖研究續讀：樣本定義、成本與口數",
+    "titleZh": "臺灣當沖研究續讀：門檻敏感性與結語",
     "titleCoverage": "reviewed-title",
     "status": "excerpt-summary",
-    "summaryZh": "Kuo 與 Lin 研究 2007/10/08–2008/09/30 事前指定當沖委託，並只納入期間完成超過五次當沖的交易者。原文一次來回交易以淨部位歸零為界，可能包含多口；不能把來回、單口與每名交易者的累計損益混為一談。",
-    "readScope": "保留前批 PDF 第 1–6 頁；本批續讀第 3 節與第 4.1–4.6 節指定文字（PDF 第 9–21 頁一帶）。未核對全部附表、4.7 節及其後內容，維持部分摘要。",
+    "summaryZh": "第 4.7 節改變納入樣本的交易次數門檻，作者指出平均虧損結論仍相似；結語仍將結果限定於歷史制度所辨識的當沖者。這是門檻敏感性檢查，不代表每種交易方法都無效。",
+    "readScope": "延續前批摘要、導言及第 3、4.1–4.6 節指定文字；新增實讀第 4.7 節與結語（PDF 第 22–23 頁）。附表、全部圖及其餘頁未逐項核對，維持部分摘要。",
     "checked": "2026-10-30",
     "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
+        "id": "r-traders"
+      },
+      {
+        "kind": "review",
         "id": "r-traders"
       },
       {
@@ -1340,6 +1417,34 @@
           "scope": "第 3 節、4.1–4.6 指定文字；表格及後續章節仍待續讀。"
         },
         "courseRefs": []
+      },
+      {
+        "resourceId": "r-traders",
+        "url": "https://hub.hku.hk/bitstream/10722/184789/1/content.pdf",
+        "sourceTitle": "Overconfident Individual Day Traders: Evidence from the Taiwan Futures Market",
+        "sourceTitleZh": "臺灣當沖研究續讀：門檻敏感性與結語",
+        "checked": "2026-10-30",
+        "published": "2013-04-03",
+        "dateNoteZh": "作者版本日，非正式期刊出版日期。",
+        "status": "excerpt-summary",
+        "readScope": "延續前批摘要、導言及第 3、4.1–4.6 節指定文字；新增實讀第 4.7 節與結語（PDF 第 22–23 頁）。附表、全部圖及其餘頁未逐項核對，維持部分摘要。",
+        "summaryZh": "第 4.7 節改變納入樣本的交易次數門檻，作者指出平均虧損結論仍相似；結語仍將結果限定於歷史制度所辨識的當沖者。這是門檻敏感性檢查，不代表每種交易方法都無效。",
+        "keyPointsZh": [
+          "保留前批單位：3,470 名個人的期間平均累計淨損失約 61,500 元，不是每筆或每口。",
+          "交易量與獲利的群組關聯不是加碼的因果證據，也不是隨機實驗；未取得詳細保證金帳戶。"
+        ],
+        "editorNotesZh": [
+          "原文 4.1 節寫超過五次，4.7 節卻寫至少五次，門檻文字不一致；本摘要不自行判定哪個才是實作條件，重現時須另核對。"
+        ],
+        "limitsZh": "2007–2008 歷史樣本，不等於現今微台、BTC 或個人的成功率；尚未逐表核驗及複算，不標全文完成。",
+        "evidence": {
+          "urls": [
+            "https://hub.hku.hk/bitstream/10722/184789/1/content.pdf"
+          ],
+          "accessMethod": "實際續讀大學典藏英文作者版本",
+          "scope": "4.7 交易次數門檻敏感性與第 5 節結語文字；附表與全部圖未逐項核對。"
+        },
+        "courseRefs": []
       }
     ],
     "courseRefs": [],
@@ -1348,19 +1453,92 @@
       "Kuo / Lin"
     ],
     "published": "2013-04-03",
-    "dateNoteZh": "作者版本日，不是正式期刊出版日。",
+    "dateNoteZh": "作者版本日，非正式期刊出版日期。",
     "keyPointsZh": [
-      "3,470 名個人的期間平均累計淨損失約 61,500 元；不是每筆或每口虧損。",
-      "增加口數與獲利在不同績效群組有不同關聯；這不是證明加碼會造成獲利的隨機實驗。",
-      "未取得詳細保證金帳戶，報酬代理不是實際帳戶報酬；機構樣本也不足以作強結論。"
+      "保留前批單位：3,470 名個人的期間平均累計淨損失約 61,500 元，不是每筆或每口。",
+      "交易量與獲利的群組關聯不是加碼的因果證據，也不是隨機實驗；未取得詳細保證金帳戶。"
     ],
-    "limitsZh": "歷史樣本，不是今日微台或特定價格行為策略的獲利機率；未重算統計或逐表核驗，不標全文完成。",
+    "limitsZh": "2007–2008 歷史樣本，不等於現今微台、BTC 或個人的成功率；尚未逐表核驗及複算，不標全文完成。",
     "evidence": {
       "urls": [
         "https://hub.hku.hk/bitstream/10722/184789/1/content.pdf"
       ],
-      "accessMethod": "實際續讀大學典藏英文作者版本的資料、績效與交易活動段落",
-      "scope": "第 3 節、4.1–4.6 指定文字；表格及後續章節仍待續讀。"
+      "accessMethod": "實際續讀大學典藏英文作者版本",
+      "scope": "4.7 交易次數門檻敏感性與第 5 節結語文字；附表與全部圖未逐項核對。"
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": [
+      "原文 4.1 節寫超過五次，4.7 節卻寫至少五次，門檻文字不一致；本摘要不自行判定哪個才是實作條件，重現時須另核對。"
+    ]
+  },
+  {
+    "id": "6fd0a5f60ad06b3b7d4e",
+    "url": "https://www.tradingsetupsreview.com/3-price-action-examples-trapped-traders/",
+    "sourceTitle": "3 Price Action Examples Of Trapped Traders",
+    "titleZh": "被套與踏空：觀念、背景與證據",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "作者用被套與踏空的解釋框架，把目光放回背景與重要位置，並明說觀念不等於策略。短句譯文與原創搭配圖集中在來源卡。",
+    "readScope": "已讀三例、背景／對比／自我控制結語及頁尾使用說明；未確認真實部位或績效。",
+    "checked": "2026-10-30",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "woods-trapped-context"
+      },
+      {
+        "kind": "review",
+        "id": "source-woods-trapped"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-woods-trapped",
+        "url": "https://www.tradingsetupsreview.com/3-price-action-examples-trapped-traders/",
+        "sourceTitle": "3 Price Action Examples Of Trapped Traders",
+        "sourceTitleZh": "被套與踏空：觀念、背景與證據",
+        "checked": "2026-10-30",
+        "published": null,
+        "status": "body-summary",
+        "readScope": "已讀三例、背景／對比／自我控制結語及頁尾使用說明；未確認真實部位或績效。",
+        "summaryZh": "作者用被套與踏空的解釋框架，把目光放回背景與重要位置，並明說觀念不等於策略。短句譯文與原創搭配圖集中在來源卡。",
+        "keyPointsZh": [],
+        "limitsZh": "三例是選取的教學例子，心理敘事不是帳戶證據；沒有獨立成效評分。",
+        "evidence": {
+          "urls": [
+            "https://www.tradingsetupsreview.com/3-price-action-examples-trapped-traders/"
+          ],
+          "accessMethod": "實際讀取英文原作者完整公開正文",
+          "scope": "三個市場案例與三項原則至頁尾說明；外連教材另計。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "Galen Woods"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "Woods 區分持有不利部位的被套者，以及提早退出後踏空的交易者，用期貨、外匯與股票例子比較。重點是前段背景、重要位置與後續反應，不是看見外包棒失敗就直接進場。",
+      "readScope": "已讀三個案例、背景／對比／自我控制結語與頁尾說明；未重製圖片、讀取外連全文或確認真實帳戶部位。",
+      "checked": "2026-10-30",
+      "translationScope": "精簡繁中摘要與必要英文短句；圖中的交易者心理仍是作者解釋。",
+      "cardId": "woods-trapped-context"
+    },
+    "published": null,
+    "dateNoteZh": "",
+    "keyPointsZh": [],
+    "limitsZh": "三例是選取的教學例子，心理敘事不是帳戶證據；沒有獨立成效評分。",
+    "evidence": {
+      "urls": [
+        "https://www.tradingsetupsreview.com/3-price-action-examples-trapped-traders/"
+      ],
+      "accessMethod": "實際讀取英文原作者完整公開正文",
+      "scope": "三個市場案例與三項原則至頁尾說明；外連教材另計。"
     },
     "shortExcerpt": null,
     "termNotes": [],
@@ -1467,11 +1645,11 @@
     "id": "80a94739d33f743ed25c",
     "url": "https://www.brookstradingcourse.com/price-action-trading-terms-glossary/",
     "sourceTitle": "Glossary of terms for price action trading",
-    "titleZh": "Brooks 詞表續讀：設定、訊號棒與進場棒",
+    "titleZh": "Brooks 詞表續讀：回檔計數、內外包棒與失敗再失敗",
     "titleCoverage": "reviewed-title",
     "status": "excerpt-summary",
-    "summaryZh": "詞表把設定放在左側背景中理解，再區分訊號棒、實際進場棒與後續延續。方向機率仍指先到指定距離的事件，不能替代扣成本後勝率；停損距離也不等於保證損失上限。",
-    "readScope": "保留前批背景、突破與方向機率選讀；本批續讀交易設定、訊號棒、進場棒、後續延續、第二次進場、風險距離六詞條。其餘詞條未逐項整理。",
+    "summaryZh": "回檔計數須放在多空旗形或區間位置中理解，不是單純數同色 K 棒。內外包比較整根高低點，包含特定同價情況；突破失敗後若又沿原方向恢復，作者會重新視為突破回檔。",
+    "readScope": "保留前批背景、方向機率及六個交易術語；本批新增高點／低點回檔計數、內包棒、外包棒、失敗再失敗與突破測試六項語意整理。其餘詞條仍未逐項完成。",
     "checked": "2026-10-30",
     "inventoried": "2026-10-30",
     "locations": [
@@ -1483,6 +1661,10 @@
         "kind": "article-source",
         "id": "brooks-pullback-language",
         "index": 0
+      },
+      {
+        "kind": "review",
+        "id": "b-glossary"
       },
       {
         "kind": "review",
@@ -1606,6 +1788,114 @@
             "relation": "相關主題補讀；僅核對公開課綱與單元標題，未觀看付費影片。"
           }
         ]
+      },
+      {
+        "resourceId": "b-glossary",
+        "url": "https://www.brookstradingcourse.com/price-action-trading-terms-glossary/",
+        "sourceTitle": "Glossary of terms for price action trading",
+        "sourceTitleZh": "Brooks 詞表續讀：回檔計數、內外包棒與失敗再失敗",
+        "checked": "2026-10-30",
+        "published": null,
+        "status": "excerpt-summary",
+        "readScope": "保留前批背景、方向機率及六個交易術語；本批新增高點／低點回檔計數、內包棒、外包棒、失敗再失敗與突破測試六項語意整理。其餘詞條仍未逐項完成。",
+        "summaryZh": "回檔計數須放在多空旗形或區間位置中理解，不是單純數同色 K 棒。內外包比較整根高低點，包含特定同價情況；突破失敗後若又沿原方向恢復，作者會重新視為突破回檔。",
+        "termNotes": [
+          {
+            "en": "high 1 / high 2",
+            "zh": "高點第一次／第二次嘗試",
+            "note": "多頭旗形或區間低處，棒高越過前棒高形成一次嘗試；其後先有較低棒高，再越過前棒高才續數。"
+          },
+          {
+            "en": "low 1 / low 2",
+            "zh": "低點第一次／第二次嘗試",
+            "note": "空頭旗形或區間高處對稱計數；一次下破後，先有較高棒低，再下破前棒低才續數。"
+          },
+          {
+            "en": "inside bar",
+            "zh": "內包棒",
+            "note": "棒高不高於前棒高，棒低不低於前棒低；Brooks 此定義允許等價。"
+          },
+          {
+            "en": "outside bar",
+            "zh": "外包棒",
+            "note": "高低範圍包住前棒；至少一端嚴格越過，另一端可相等。兩端都相等不算本詞條的外包。"
+          },
+          {
+            "en": "failed failure",
+            "zh": "失敗再失敗",
+            "note": "原突破失敗後，反向嘗試也失敗，價格恢復原突破方向；須依後續更新描述。"
+          },
+          {
+            "en": "breakout test",
+            "zh": "突破測試",
+            "note": "突破回檔接近原進場價，可能稍高或稍低，用來測試損益兩平停損附近。"
+          },
+          {
+            "en": "setup",
+            "zh": "交易設定",
+            "note": "形成進場依據的型態，包含左側背景與訊號棒。"
+          },
+          {
+            "en": "signal bar",
+            "zh": "訊號棒",
+            "note": "實際進場棒之前的那根棒，是設定的最後一棒。"
+          },
+          {
+            "en": "entry bar",
+            "zh": "進場棒",
+            "note": "交易實際進場所發生的 K 棒。"
+          },
+          {
+            "en": "follow-through",
+            "zh": "後續延續",
+            "note": "突破等初始走勢後，延續該方向的一根或數根棒。"
+          },
+          {
+            "en": "second entry",
+            "zh": "第二次進場",
+            "note": "第一次後數棒內，依相同邏輯再次形成的進場機會；不是自動加碼。"
+          },
+          {
+            "en": "risk",
+            "zh": "風險距離",
+            "note": "進場至保護停損的跳動距離；滑價等因素可使實際損失更大。"
+          }
+        ],
+        "keyPointsZh": [
+          "後六項保留前批整理；本批新增六項不代表全詞表翻譯完成。"
+        ],
+        "limitsZh": "指定詞條的精簡摘要；未觀看付費課，沒有將更可靠等語句補成數值勝率。",
+        "evidence": {
+          "urls": [
+            "https://www.brookstradingcourse.com/price-action-trading-terms-glossary/",
+            "https://www.brookstradingcourse.com/trade-price-action/"
+          ],
+          "accessMethod": "實際讀取官方英文詞條與公開課綱",
+          "scope": "本批六項詞條及前批六項保留；08B、09A、15A 僅核對公開課綱與題名。"
+        },
+        "courseRefs": [
+          {
+            "version": "Main（主課程）／共用價格行為基礎",
+            "unit": "08B",
+            "topic": "K 棒、交易設定與訊號棒：內外包棒",
+            "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-08b-candles-setups-signal-bars/",
+            "relation": "相關主題補讀；文字出處為公開詞表，未宣稱已觀看付費影片。"
+          },
+          {
+            "version": "Main（主課程）／共用價格行為基礎",
+            "unit": "09A",
+            "topic": "回檔與 K 棒計數",
+            "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-09a-pullbacks-bar-counting/",
+            "relation": "相關主題補讀；只核對公開課綱及題名，不是確定的付費課逐字稿出處。"
+          },
+          {
+            "version": "Main（主課程）／共用價格行為基礎",
+            "unit": "15A",
+            "topic": "突破",
+            "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-15a-breakouts/",
+            "relation": "相關主題補讀；未觀看付費影片，沒有以課綱代替影片內容。"
+          }
+        ]
       }
     ],
     "courseRefs": [
@@ -1629,6 +1919,27 @@
         "topic": "保護停損",
         "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-33a-protective-stops/",
         "relation": "相關主題補讀；僅核對公開課綱與單元標題，未觀看付費影片。"
+      },
+      {
+        "version": "Main（主課程）／共用價格行為基礎",
+        "unit": "08B",
+        "topic": "K 棒、交易設定與訊號棒：內外包棒",
+        "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-08b-candles-setups-signal-bars/",
+        "relation": "相關主題補讀；文字出處為公開詞表，未宣稱已觀看付費影片。"
+      },
+      {
+        "version": "Main（主課程）／共用價格行為基礎",
+        "unit": "09A",
+        "topic": "回檔與 K 棒計數",
+        "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-09a-pullbacks-bar-counting/",
+        "relation": "相關主題補讀；只核對公開課綱及題名，不是確定的付費課逐字稿出處。"
+      },
+      {
+        "version": "Main（主課程）／共用價格行為基礎",
+        "unit": "15A",
+        "topic": "突破",
+        "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-15a-breakouts/",
+        "relation": "相關主題補讀；未觀看付費影片，沒有以課綱代替影片內容。"
       }
     ],
     "titleNote": "",
@@ -1638,19 +1949,49 @@
     "published": null,
     "dateNoteZh": "",
     "keyPointsZh": [
-      "Always In 為方向判斷框架，並非要求一直持倉。"
+      "後六項保留前批整理；本批新增六項不代表全詞表翻譯完成。"
     ],
-    "limitsZh": "六詞條的精簡語意整理，不是全詞表逐字翻譯；沒有新增數值機率。",
+    "limitsZh": "指定詞條的精簡摘要；未觀看付費課，沒有將更可靠等語句補成數值勝率。",
     "evidence": {
       "urls": [
         "https://www.brookstradingcourse.com/price-action-trading-terms-glossary/",
         "https://www.brookstradingcourse.com/trade-price-action/"
       ],
-      "accessMethod": "實際讀取官方英文詞條，並核對主課程公開課綱及單元頁標題",
-      "scope": "指定六詞條；Main／共用基礎 08A、33A 僅核對公開題名，未觀看付費影片。"
+      "accessMethod": "實際讀取官方英文詞條與公開課綱",
+      "scope": "本批六項詞條及前批六項保留；08B、09A、15A 僅核對公開課綱與題名。"
     },
     "shortExcerpt": null,
     "termNotes": [
+      {
+        "en": "high 1 / high 2",
+        "zh": "高點第一次／第二次嘗試",
+        "note": "多頭旗形或區間低處，棒高越過前棒高形成一次嘗試；其後先有較低棒高，再越過前棒高才續數。"
+      },
+      {
+        "en": "low 1 / low 2",
+        "zh": "低點第一次／第二次嘗試",
+        "note": "空頭旗形或區間高處對稱計數；一次下破後，先有較高棒低，再下破前棒低才續數。"
+      },
+      {
+        "en": "inside bar",
+        "zh": "內包棒",
+        "note": "棒高不高於前棒高，棒低不低於前棒低；Brooks 此定義允許等價。"
+      },
+      {
+        "en": "outside bar",
+        "zh": "外包棒",
+        "note": "高低範圍包住前棒；至少一端嚴格越過，另一端可相等。兩端都相等不算本詞條的外包。"
+      },
+      {
+        "en": "failed failure",
+        "zh": "失敗再失敗",
+        "note": "原突破失敗後，反向嘗試也失敗，價格恢復原突破方向；須依後續更新描述。"
+      },
+      {
+        "en": "breakout test",
+        "zh": "突破測試",
+        "note": "突破回檔接近原進場價，可能稍高或稍低，用來測試損益兩平停損附近。"
+      },
       {
         "en": "setup",
         "zh": "交易設定",
@@ -5675,89 +6016,6 @@
     "titleNote": "",
     "authors": [
       "Thomas Wade／Wade Trading Academy"
-    ]
-  },
-  {
-    "id": "c22b982fb6bff453eec9",
-    "url": "https://priceactiontradingsystem.com/faqs/",
-    "sourceTitle": "FAQs：tick 圖、免費日評與學習方式",
-    "titleZh": "常見問答：逐筆計數圖、免費日評與學習方式",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "discovery-mack-pats-2"
-      },
-      {
-        "kind": "article-source",
-        "id": "practice-tick-time-transfer",
-        "index": 0
-      },
-      {
-        "kind": "discovery-material",
-        "id": "mack-pats",
-        "index": 1
-      }
-    ],
-    "resourceIds": [
-      "discovery-mack-pats-2"
-    ],
-    "legacyObservations": [
-      {
-        "id": "discovery-mack-pats-2",
-        "scope": "免費公開。 官方問答；2015 年回覆說明免費 YouTube chart lessons 於當日較晚時段上傳，並說不提供 real-time trade room。 這是歷史官方回覆，不能保證 2026 每個交易日都有更新；免費日評應標盤後／近收盤圖表復盤。 本輪未逐部完整觀看或核實真實成交。",
-        "checked": "2026-10-24"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Mack／PATs（Price Action Trading System）"
-    ]
-  },
-  {
-    "id": "c800071a664890818c46",
-    "url": "https://www.marketlife.com/subscriptions",
-    "sourceTitle": "Daily Insight／Live Trade Rooms／Vault 內容說明",
-    "titleZh": "每日觀點、即時交易室與資料庫內容說明",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "discovery-adam-grimes-marketlife-2"
-      },
-      {
-        "kind": "discovery-material",
-        "id": "adam-grimes-marketlife",
-        "index": 1
-      }
-    ],
-    "resourceIds": [
-      "discovery-adam-grimes-marketlife-2"
-    ],
-    "legacyObservations": [
-      {
-        "id": "discovery-adam-grimes-marketlife-2",
-        "scope": "付費訂閱；試用與價格以現行方案為準。 Daily Insight 明列每個交易日後發布；另每月兩次 live sessions 並提供 replay。Vault 為歷史日評與直播存檔。 不得把日評影片標成全交易日 live execution。完整存檔與透明度為官方自述，未登入逐檔確認。 本輪未逐部完整觀看或核實真實成交。",
-        "checked": "2026-10-24"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Adam Grimes／MarketLife"
     ]
   }
 ]

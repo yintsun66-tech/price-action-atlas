@@ -1,5 +1,71 @@
 [
   {
+    "id": "2c98d9cf251929042f68",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-pullback-likely-3/",
+    "sourceTitle": "Emini Pullback Likely",
+    "titleZh": "Brad 日內案例｜2023-11-16｜回檔與第二段",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-194132"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-194132"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-194132",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "2d15fb2edb18162a8245",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-breakout-mode-on-daily-2/",
+    "sourceTitle": "Emini Breakout Mode on Daily",
+    "titleZh": "Brad 日內案例｜2024-12-16｜突破與延續",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-225363"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-225363"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-225363",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "2d5bd3b25ccafa9f4d45",
     "url": "https://www.youtube.com/watch?v=P_FsuuoGl2w",
     "sourceTitle": "Using Systems to Stay Out of Trouble",
@@ -3120,72 +3186,6 @@
     "courseRefs": [],
     "authors": [
       "Brooks 團隊"
-    ]
-  },
-  {
-    "id": "38925316487242d9f1e4",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-may-close-above-3800/",
-    "sourceTitle": "Emini may close above 3,800 today or tomorrow",
-    "titleZh": "Brad 日內案例｜2022-06-23｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-154574"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-154574"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-154574",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "38afbc9dd44fee3d6880",
-    "url": "https://www.youtube.com/watch?v=m2f640uZflA",
-    "sourceTitle": "Emini End of Day Review - Thursday April 11, 2024 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-m2f640uZflA"
-      }
-    ],
-    "resourceIds": [
-      "yt-m2f640uZflA"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-m2f640uZflA",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

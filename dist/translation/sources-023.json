@@ -1,5 +1,61 @@
 [
   {
+    "id": "f9b20dd5e323fb0edbd1",
+    "url": "https://www.brookstradingcourse.com/trading-strategies/rules-for-scalping/",
+    "sourceTitle": "Scalping series: #01 Rules for scalping — public video transcript",
+    "titleZh": "Scalping series: #01 Rules for scalping — public video transcript",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "brooks-scalp-math",
+        "index": 0
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "f9b93d3b2cea9671e74c",
+    "url": "https://www.youtube.com/watch?v=Icsnq006NWk",
+    "sourceTitle": "Ask Al Brooks: Trading Room Market Commentary",
+    "titleZh": "Brooks 共享影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-Icsnq006NWk"
+      }
+    ],
+    "resourceIds": [
+      "yt-Icsnq006NWk"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-Icsnq006NWk",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "fa5ca9390082cbaa01de",
     "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-hopeful-for-upside-breakout-of-triangle/",
     "sourceTitle": "Emini Bulls Hopeful for Upside Breakout of Triangle",

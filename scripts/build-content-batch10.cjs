@@ -1,0 +1,16 @@
+/* New source selection plus scoped core translation; original article IDs stay fixed. */
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
+const dist=path.resolve(__dirname,'../dist'),read=f=>JSON.parse(fs.readFileSync(path.join(dist,f),'utf8')),write=(f,v)=>fs.writeFileSync(path.join(dist,f),typeof v==='string'?v:JSON.stringify(v,null,2)+'\n');
+const sources=require('./batch10-sources.json'),reviews=require('./zh-core-source-reviews-6.json'),data=read('reading/community.json'),manifest=read('reading/index.json');
+const ids=new Set(sources.map(s=>s.id));data.items=[...sources,...data.items.filter(s=>!ids.has(s.id))];
+assert.equal(new Set(data.items.map(s=>s.url)).size,data.items.length,'Duplicate source URL');
+for(const c of sources)assert.ok(fs.existsSync(path.join(dist,c.figure.src)),c.figure.src);
+data.checked='2026-10-30';data.batches=[{batch:10,title:'第十批｜10.30 背景與失敗'},...data.batches.filter(b=>b.batch!==10)];
+data.intro={heading:'同一根棒，先核對定義，再判斷背景。',text:'本批加入兩篇英文、一篇繁中原作者選讀：內包縮幅、被套與踏空、假突破檢查。配圖沿用本站原創合成案例，與來源原圖分開；另續譯 Brooks 詞條及臺灣研究指定段落。',links:[{id:'brooks-candle-evidence',label:'先分清棒形與證據'},{id:'bp2-range-location',label:'把訊號放回區間位置'},{id:'bp2-failed-breakout',label:'比較突破失敗的層次'}]};
+write('reading/community.json',data);
+let html=fs.readFileSync(path.join(dist,'index.html'),'utf8');html=html.replace(/<!-- COMMUNITY_LIBRARY_START -->[\s\S]*?<!-- COMMUNITY_LIBRARY_END -->/,require('./render-community.cjs')(data,manifest));
+const marker='<!-- CONTENT_BATCH10_UPDATE -->';if(!html.includes(marker))html=html.replace('<!-- TRANSLATION_BATCH9_UPDATE -->',marker+'<a class="discovery-update" href="#community"><span>10.30 新教材與續譯</span><strong>內包縮幅 · 被套與踏空 · 假突破，附繁中與原創搭配圖</strong><span>開始本批選讀 →</span></a>\n<!-- TRANSLATION_BATCH9_UPDATE -->');
+write('index.html',html);
+const log=read('reading/content-updates.json'),entry={id:'content-batch10-20261030',collected:'2026-10-30',updated:'2026-10-30',timezone:'Asia/Taipei',description:'三個未收錄的中英文原作者來源，兩筆核心指定內容續譯；保留定義差異與未完成範圍。',sources:sources.map(c=>c.id),articles:[],decisions:[...sources.map(c=>({source:c.originalTitle||c.title,url:c.url,status:'採用公開正文短摘要',reason:c.access})),...reviews.filter(r=>['b-glossary','r-traders'].includes(r.resourceId)).map(r=>({source:r.sourceTitle,url:r.url,status:'補讀既有指定範圍',reason:r.readScope})),{source:'Emini position sizing calculator',url:'https://www.brookstradingcourse.com/guest-traders/emini-position-sizing-calculator/',status:'本批略過重複主題',reason:'只讀指定公開部分，與已完成 ali-sizing 重疊；沒有另做相同摘要，原待讀項目不自動升級。'},{source:'Tefi 免費課入口',url:'https://tefistudio.com/zh/page/free-course',status:'略過重複入口',reason:'已收錄；課程目錄及搜尋片段不等於取得完整教材。'},{source:'Scribd 的 YTC 中文書卷',status:'未採',reason:'未核對商業教材授權，不下載或重製。'},{source:'Trade1469、Gate、KCM、Longbridge 搜尋候選',status:'未採',reason:'本批未取得足以驗收的原作者正文；不把搜尋片段或長篇銷售課綱列為完成。'}],notes:['新收錄來源包含舊文，發布、更新、查核分列；未造熱門度或獨立評分。','Brooks 內包允許同價，Woods 文中的定義較嚴格，明列規則版本差異。','配圖沿用既有三張原創示意，未新增圖數、未重製原作者圖。','英文來源只作精簡摘要與必要短句；未取得整篇翻譯授權。','原 62 閱讀單元、16 筆舊社群卡與兩組筆記鍵保留，沒有新排程或交易操作。']};
+log.batches=[entry,...log.batches.filter(b=>b.id!==entry.id)];write('reading/content-updates.json',log);
+console.log(JSON.stringify({newSourceCards:3,english:2,chinese:1,totalCommunity:data.items.length,articles:manifest.articles.length}));

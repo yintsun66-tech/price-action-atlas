@@ -1,5 +1,50 @@
 [
   {
+    "id": "42f61fff03bd6bd1cb70",
+    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-18d-trading-ranges/",
+    "sourceTitle": "交易區間",
+    "titleZh": "交易區間",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "交易區間"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "43228229d352c1f51b1e",
+    "url": "https://www.tradingsetupsreview.com/manage-gap-risk-swing-trading/",
+    "sourceTitle": "How to Manage Gap Risk in Swing Trading｜進場與停損跳空風險",
+    "titleZh": "How to Manage Gap Risk in Swing Trading｜進場與停損跳空風險",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "pp2-signal-gap",
+        "index": 0
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "4372459cbd9ecd61f5e7",
     "url": "https://www.quantsystems.ca/course/ptm-202302",
     "sourceTitle": "QuantSystem's Pro Trader Mentoring",
@@ -3128,70 +3173,5 @@
     "authors": [
       "Brad Wolff"
     ]
-  },
-  {
-    "id": "4ed616587ed8b412bd7f",
-    "url": "https://www.youtube.com/watch?v=sTjwFuoJ570",
-    "sourceTitle": "Emini End of Day Review - Monday August 15, 2022",
-    "titleZh": "Brooks 共享影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-sTjwFuoJ570"
-      }
-    ],
-    "resourceIds": [
-      "yt-sTjwFuoJ570"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-sTjwFuoJ570",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "4ed863b2f2fa1b9cfcb2",
-    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-09a-pullbacks-bar-counting/",
-    "sourceTitle": "回檔與棒數計數",
-    "titleZh": "回檔與棒數計數",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-reference",
-        "id": "pa3-label-consistency",
-        "unit": "09A"
-      },
-      {
-        "kind": "course-reference",
-        "id": "bp2-second-entry",
-        "unit": "09A"
-      },
-      {
-        "kind": "course-index",
-        "id": "回檔與計數"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   }
 ]

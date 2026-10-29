@@ -2,6 +2,7 @@
 const assert=require('node:assert/strict');
 const E=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const link=(u,t)=>{assert.ok(/^https:\/\//.test(u),'HTTPS source required');return '<a href="'+E(u)+'" target="_blank" rel="noopener noreferrer">'+E(t)+' ↗</a>';};
+const figure=c=>{if(!c.figure)return '';assert.match(c.figure.src,/^images\/study\/[a-z0-9-]+\.svg$/,'Only existing original study SVGs may be used');return '<figure class="community-study-figure"><a href="'+E(c.figure.src)+'" target="_blank" rel="noopener noreferrer" aria-label="開啟本站原創整理圖"><img src="'+E(c.figure.src)+'" alt="'+E(c.figure.alt)+'" loading="lazy"></a><figcaption>'+E(c.figure.caption)+'</figcaption></figure>';};
 module.exports=(data,manifest)=>{
  const title=id=>{const a=manifest.articles.find(a=>a.id===id);assert.ok(a,'Missing article '+id);return a.title;};
  const fallback=data.legacyChecked||data.checked;
@@ -10,7 +11,7 @@ module.exports=(data,manifest)=>{
 <p class="community-author">${E(c.author)}</p><h3>${E(c.title)}</h3>${c.originalTitle?'<details class="zh-original"><summary>展開英文原題</summary><div lang="en">'+E(c.originalTitle)+'</div></details>':''}<p class="community-summary"><strong>${E(c.summary)}</strong></p>
 <p class="community-date"><strong>發布：</strong>${E(c.published||'確切日期未核對')}<br>${E(c.dateNote)}<br><strong>收錄：</strong>${E(c.collected||fallback)} · <strong>查核：</strong>${E(c.checked||fallback)}</p>
 ${c.quote?'<div class="community-quote"><p lang="zh-Hant"><strong>'+E(c.quote.zh)+'</strong></p><p>'+E(c.quote.context)+'</p><details class="zh-original"><summary>展開英文短句</summary><blockquote lang="en">'+E(c.quote.en)+'</blockquote></details></div>':'<p class="community-translation">'+(c.language==='en'?'本卡提供繁中摘要；英文全文請由原始來源查閱。':'原文已為繁中，本卡提供摘要。')+'</p>'}
-<details class="community-review"><summary>評價依據、證據與限制</summary><p><strong>評價依據：</strong>${E(c.review.basis)}</p><p><strong>學習用途：</strong>${E(c.review.learning)}</p><p><strong>限制：</strong>${E(c.review.limits)}</p><p><strong>熱門度：</strong>${E(c.review.engagement)}</p><p><strong>實際讀取：</strong>${E(c.access)}</p><p><strong>翻譯範圍：</strong>${E(c.translation)}</p></details>
+${figure(c)}<details class="community-review"><summary>評價依據、證據與限制</summary><p><strong>評價依據：</strong>${E(c.review.basis)}</p><p><strong>學習用途：</strong>${E(c.review.learning)}</p><p><strong>限制：</strong>${E(c.review.limits)}</p><p><strong>熱門度：</strong>${E(c.review.engagement)}</p><p><strong>實際讀取：</strong>${E(c.access)}</p><p><strong>翻譯範圍：</strong>${E(c.translation)}</p></details>
 ${(c.courseRefs||[]).map(r=>'<p class="community-course"><strong>'+E(r.version+' '+r.unit+' · '+r.topic)+'</strong><br>'+E(r.relation)+' · '+link(r.url,'官方單元')+'<br>會員文章與官方課程分開歸屬，未觀看付費內容。</p>').join('')}
 <div class="community-tags">${c.tags.map(t=>'<span>'+E(t)+'</span>').join('')}</div><div class="community-related"><strong>搭配站內閱讀</strong>${c.related.map(id=>'<a href="#read/'+id+'">'+E(title(id))+' →</a>').join('')}</div><div class="community-actions">${link(c.url,'閱讀原始文章／討論')}</div></article>`).join('\n');
  const options=(data.batches||[]).map(b=>'<option value="'+b.batch+'">'+E(b.title)+'</option>').join('');

@@ -1,5 +1,71 @@
 [
   {
+    "id": "d62e8e22d2654e67afcf",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-breakout-below/",
+    "sourceTitle": "Emini Breakout below February 10 Likely to Fail",
+    "titleZh": "Brad 日內案例｜2023-02-21｜突破與延續／反轉與陷阱",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-170781"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-170781"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-170781",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "d652ab7b1a5c2789a1f2",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-6650-round-number-acting-as-resistance/",
+    "sourceTitle": "E-mini 6,650 Round Number Acting as Resistance",
+    "titleZh": "Brad 日內案例｜2026-04-07｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-267007"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-267007"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-267007",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "d696d079ebeb01866044",
     "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-33f-protective-stops/",
     "sourceTitle": "保護停損",
@@ -3108,61 +3174,6 @@
     "courseRefs": [],
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "e0ffa21e237d798cb536",
-    "url": "https://www.brookstradingcourse.com/trade-price-action/video-51c-losing-because-of-mistakes/",
-    "sourceTitle": "執行錯誤",
-    "titleZh": "執行錯誤",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "執行錯誤"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
-  },
-  {
-    "id": "e125ec403c5e05d27c28",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-testing-midpoint-of-2022-rally/",
-    "sourceTitle": "Emini Testing Midpoint of 2022 Rally",
-    "titleZh": "Brad 日內案例｜2023-10-26｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-192904"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-192904"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-192904",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

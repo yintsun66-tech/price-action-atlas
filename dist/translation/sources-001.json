@@ -1,5 +1,88 @@
 [
   {
+    "id": "c22b982fb6bff453eec9",
+    "url": "https://priceactiontradingsystem.com/faqs/",
+    "sourceTitle": "FAQs：tick 圖、免費日評與學習方式",
+    "titleZh": "常見問答：逐筆計數圖、免費日評與學習方式",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "discovery-mack-pats-2"
+      },
+      {
+        "kind": "article-source",
+        "id": "practice-tick-time-transfer",
+        "index": 0
+      },
+      {
+        "kind": "discovery-material",
+        "id": "mack-pats",
+        "index": 1
+      }
+    ],
+    "resourceIds": [
+      "discovery-mack-pats-2"
+    ],
+    "legacyObservations": [
+      {
+        "id": "discovery-mack-pats-2",
+        "scope": "免費公開。 官方問答；2015 年回覆說明免費 YouTube chart lessons 於當日較晚時段上傳，並說不提供 real-time trade room。 這是歷史官方回覆，不能保證 2026 每個交易日都有更新；免費日評應標盤後／近收盤圖表復盤。 本輪未逐部完整觀看或核實真實成交。",
+        "checked": "2026-10-24"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Mack／PATs（Price Action Trading System）"
+    ]
+  },
+  {
+    "id": "c800071a664890818c46",
+    "url": "https://www.marketlife.com/subscriptions",
+    "sourceTitle": "Daily Insight／Live Trade Rooms／Vault 內容說明",
+    "titleZh": "每日觀點、即時交易室與資料庫內容說明",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "discovery-adam-grimes-marketlife-2"
+      },
+      {
+        "kind": "discovery-material",
+        "id": "adam-grimes-marketlife",
+        "index": 1
+      }
+    ],
+    "resourceIds": [
+      "discovery-adam-grimes-marketlife-2"
+    ],
+    "legacyObservations": [
+      {
+        "id": "discovery-adam-grimes-marketlife-2",
+        "scope": "付費訂閱；試用與價格以現行方案為準。 Daily Insight 明列每個交易日後發布；另每月兩次 live sessions 並提供 replay。Vault 為歷史日評與直播存檔。 不得把日評影片標成全交易日 live execution。完整存檔與透明度為官方自述，未登入逐檔確認。 本輪未逐部完整觀看或核實真實成交。",
+        "checked": "2026-10-24"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Adam Grimes／MarketLife"
+    ]
+  },
+  {
     "id": "c8019364ae9f42cbe62b",
     "url": "https://wadetradingacademy.com/",
     "sourceTitle": "Wade Trading Academy 官方入口",
@@ -3141,72 +3224,6 @@
     "legacyObservations": [
       {
         "id": "yt-IY3v1-6opcw",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "08a4950ae43abca6595c",
-    "url": "https://www.youtube.com/watch?v=BOGDfiYpudo",
-    "sourceTitle": "Emini End of Day Review - Wednesday August 23, 2023 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-BOGDfiYpudo"
-      }
-    ],
-    "resourceIds": [
-      "yt-BOGDfiYpudo"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-BOGDfiYpudo",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "08b7f3a08be23819c0fb",
-    "url": "https://www.youtube.com/watch?v=iSvAj6Zm2tY",
-    "sourceTitle": "Emini End of Day Review - Wednesday May 17, 2023 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-iSvAj6Zm2tY"
-      }
-    ],
-    "resourceIds": [
-      "yt-iSvAj6Zm2tY"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-iSvAj6Zm2tY",
         "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
         "checked": "2026-10-22"
       }

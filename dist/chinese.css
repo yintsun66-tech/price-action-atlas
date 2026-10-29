@@ -7,3 +7,6 @@
 
 /* TRANSLATION_BATCH9_NOTES */
 .translation-terms h4,.translation-editor-note h4{font-size:1.08em;margin:0 0 .7em;font-weight:800}.translation-terms dt{margin-top:.8em}.translation-terms dd{margin:.15em 0 .8em}.translation-excerpt,.translation-editor-note{margin:1em 0;padding:1em;border-radius:16px;background:var(--surface,#f5f5f7);overflow-wrap:anywhere}.translation-editor-note{border-left:4px solid #6366a0}.translation-excerpt p:last-child,.translation-editor-note p:last-child{margin-bottom:0}
+
+/* CONTENT_BATCH10_FIGURES */
+.community-study-figure{margin:1.2em 0}.community-study-figure a{display:block}.community-study-figure img{display:block;width:100%;height:auto;border-radius:12px;background:#fff}.community-study-figure figcaption{font-size:.92em;line-height:1.7;color:var(--muted,#61616b);margin-top:.55em;overflow-wrap:anywhere}

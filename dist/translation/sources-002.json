@@ -1,5 +1,71 @@
 [
   {
+    "id": "08a4950ae43abca6595c",
+    "url": "https://www.youtube.com/watch?v=BOGDfiYpudo",
+    "sourceTitle": "Emini End of Day Review - Wednesday August 23, 2023 - Brad Wolff",
+    "titleZh": "Brad 公開影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-BOGDfiYpudo"
+      }
+    ],
+    "resourceIds": [
+      "yt-BOGDfiYpudo"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-BOGDfiYpudo",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "08b7f3a08be23819c0fb",
+    "url": "https://www.youtube.com/watch?v=iSvAj6Zm2tY",
+    "sourceTitle": "Emini End of Day Review - Wednesday May 17, 2023 - Brad Wolff",
+    "titleZh": "Brad 公開影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-iSvAj6Zm2tY"
+      }
+    ],
+    "resourceIds": [
+      "yt-iSvAj6Zm2tY"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-iSvAj6Zm2tY",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "08c3bfce5c14eb665e72",
     "url": "https://articles.stockcharts.com/article/articles-wyckoff-2015-12-the-illustrated-wyckoff/",
     "sourceTitle": "The Illustrated Wyckoff",
@@ -3088,72 +3154,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "151e6006d541c8e64dcd",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-pullback-to-last-fridays-low/",
-    "sourceTitle": "Emini Pullback to Last Friday’s Low",
-    "titleZh": "Brad 日內案例｜2025-02-26｜回檔與第二段",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-231047"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-231047"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-231047",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "152c59a035f14b0ceb9e",
-    "url": "https://www.youtube.com/watch?v=oDOxGsGul9A",
-    "sourceTitle": "Bitcoin Weekly Report Double Bottom at $60,000 - June 21, 2026",
-    "titleZh": "Brooks 共享影片｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-oDOxGsGul9A"
-      }
-    ],
-    "resourceIds": [
-      "yt-oDOxGsGul9A"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-oDOxGsGul9A",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
     ]
   }
 ]

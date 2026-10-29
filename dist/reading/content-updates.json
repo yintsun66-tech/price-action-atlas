@@ -2,6 +2,80 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch10-20261030",
+      "collected": "2026-10-30",
+      "updated": "2026-10-30",
+      "timezone": "Asia/Taipei",
+      "description": "三個未收錄的中英文原作者來源，兩筆核心指定內容續譯；保留定義差異與未完成範圍。",
+      "sources": [
+        "woods-idnr4-context",
+        "woods-trapped-context",
+        "rich-fakeout-checks"
+      ],
+      "articles": [],
+      "decisions": [
+        {
+          "source": "Inside Day NR4 (ID/NR4) Pattern Trading Guide",
+          "url": "https://www.tradingsetupsreview.com/inside-daynr4/",
+          "status": "採用公開正文短摘要",
+          "reason": "已讀公開定義、規則、指引、四個案例與結語；未執行指標、複算交易或重製原圖。"
+        },
+        {
+          "source": "3 Price Action Examples Of Trapped Traders",
+          "url": "https://www.tradingsetupsreview.com/3-price-action-examples-trapped-traders/",
+          "status": "採用公開正文短摘要",
+          "reason": "已讀三個案例、背景／對比／自我控制結語與頁尾說明；未重製圖片、讀取外連全文或確認真實帳戶部位。"
+        },
+        {
+          "source": "繁中選讀：突破拉回不一定是假突破",
+          "url": "https://chiefpapalearning.com/how-to-identify-fake-breakout/",
+          "status": "採用公開正文短摘要",
+          "reason": "已讀公開正文、兩個股票歷史案例、檢查表、FAQ 與作者日期；未觀看推廣課程。"
+        },
+        {
+          "source": "Glossary of terms for price action trading",
+          "url": "https://www.brookstradingcourse.com/price-action-trading-terms-glossary/",
+          "status": "補讀既有指定範圍",
+          "reason": "保留前批背景、方向機率及六個交易術語；本批新增高點／低點回檔計數、內包棒、外包棒、失敗再失敗與突破測試六項語意整理。其餘詞條仍未逐項完成。"
+        },
+        {
+          "source": "Overconfident Individual Day Traders: Evidence from the Taiwan Futures Market",
+          "url": "https://hub.hku.hk/bitstream/10722/184789/1/content.pdf",
+          "status": "補讀既有指定範圍",
+          "reason": "延續前批摘要、導言及第 3、4.1–4.6 節指定文字；新增實讀第 4.7 節與結語（PDF 第 22–23 頁）。附表、全部圖及其餘頁未逐項核對，維持部分摘要。"
+        },
+        {
+          "source": "Emini position sizing calculator",
+          "url": "https://www.brookstradingcourse.com/guest-traders/emini-position-sizing-calculator/",
+          "status": "本批略過重複主題",
+          "reason": "只讀指定公開部分，與已完成 ali-sizing 重疊；沒有另做相同摘要，原待讀項目不自動升級。"
+        },
+        {
+          "source": "Tefi 免費課入口",
+          "url": "https://tefistudio.com/zh/page/free-course",
+          "status": "略過重複入口",
+          "reason": "已收錄；課程目錄及搜尋片段不等於取得完整教材。"
+        },
+        {
+          "source": "Scribd 的 YTC 中文書卷",
+          "status": "未採",
+          "reason": "未核對商業教材授權，不下載或重製。"
+        },
+        {
+          "source": "Trade1469、Gate、KCM、Longbridge 搜尋候選",
+          "status": "未採",
+          "reason": "本批未取得足以驗收的原作者正文；不把搜尋片段或長篇銷售課綱列為完成。"
+        }
+      ],
+      "notes": [
+        "新收錄來源包含舊文，發布、更新、查核分列；未造熱門度或獨立評分。",
+        "Brooks 內包允許同價，Woods 文中的定義較嚴格，明列規則版本差異。",
+        "配圖沿用既有三張原創示意，未新增圖數、未重製原作者圖。",
+        "英文來源只作精簡摘要與必要短句；未取得整篇翻譯授權。",
+        "原 62 閱讀單元、16 筆舊社群卡與兩組筆記鍵保留，沒有新排程或交易操作。"
+      ]
+    },
+    {
       "id": "translation-batch9-20261030",
       "collected": "2026-10-30",
       "updated": "2026-10-30",

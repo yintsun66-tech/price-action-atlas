@@ -53,3 +53,5 @@ Brooks 課程對照須有 Main／Forex 版本、單元編號、中文主題、�
 第八批（2026-10-30）：新增三筆可追溯來源卡，續讀核心／既有英文資料，正文摘要累積 12 筆；新增逐篇中英術語快查與前置翻譯進度。重建順序 batch8 → translation ledger → chinese-first。使用者的長期品質目標見 docs/learner-quality-roadmap.md。
 
 核心翻譯第九批（2026-10-30）：七筆既有來源續讀，新增五篇正文摘要，累積 17 筆；Brooks 六詞條與臺灣當沖論文仍明列部分範圍。繁中短句先讀、英文可展開，原作者主張與本站校註分列。重建順序 batch9 → translation ledger → chinese-first；清單 2,355 個網址，完整計畫仍未完成。
+
+第十批（2026-10-30）：新增兩篇英文及一篇繁中原作者選讀，附既有原創搭配圖；續譯 Brooks 六項詞條與臺灣論文門檻敏感性／結語。社群卡共 19，英文來源清單共 2,357，正文摘要紀錄 19；全站仍在逐筆處理。重建 batch10 → translation ledger → chinese-first，驗證入口與未完成範圍見 docs。

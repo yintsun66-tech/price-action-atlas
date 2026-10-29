@@ -1,5 +1,71 @@
 [
   {
+    "id": "59f733e2f48bf1f5bc38",
+    "url": "https://www.quantsystems.ca/course/charts-2021",
+    "sourceTitle": "QuantSystem's Charts Archive for 2021",
+    "titleZh": "圖表檔案庫｜2021",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "qs-charts-2021"
+      }
+    ],
+    "resourceIds": [
+      "qs-charts-2021"
+    ],
+    "legacyObservations": [
+      {
+        "id": "qs-charts-2021",
+        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Ali Moin-Afshari／Quant Systems"
+    ]
+  },
+  {
+    "id": "5a3c9c1d65af68807f2c",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-possibly-sideways/",
+    "sourceTitle": "Emini possibly sideways trading range soon",
+    "titleZh": "Brad 日內案例｜2022-08-12｜區間與通道",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-157865"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-157865"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-157865",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "5a3f1e3f9b7fd7929309",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-want-2nd-leg-up/",
     "sourceTitle": "E-mini Bulls Want 2nd Leg Up",
@@ -3139,72 +3205,6 @@
     "courseRefs": [],
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "645347cd92d75d406ee0",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-support-at-5500-round-number/",
-    "sourceTitle": "Emini Support at 5,500 Round Number",
-    "titleZh": "Brad 日內案例｜2024-06-24｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-211183"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-211183"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-211183",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "6458b29410731eb3039d",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-want-double-top/",
-    "sourceTitle": "Emini Bears Want Double Top",
-    "titleZh": "Brad 日內案例｜2024-11-27｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-223906"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-223906"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-223906",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

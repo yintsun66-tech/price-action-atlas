@@ -1,5 +1,60 @@
 [
   {
+    "id": "e0ffa21e237d798cb536",
+    "url": "https://www.brookstradingcourse.com/trade-price-action/video-51c-losing-because-of-mistakes/",
+    "sourceTitle": "執行錯誤",
+    "titleZh": "執行錯誤",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "執行錯誤"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "e125ec403c5e05d27c28",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-testing-midpoint-of-2022-rally/",
+    "sourceTitle": "Emini Testing Midpoint of 2022 Rally",
+    "titleZh": "Brad 日內案例｜2023-10-26｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-192904"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-192904"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-192904",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "e1478f49c7d4fd2fb384",
     "url": "https://www.youtube.com/watch?v=IiS8KTc_nPg",
     "sourceTitle": "Emini End of Day Review - Thursday August 29, 2024 - Brad Wolff",
@@ -3124,71 +3179,5 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": []
-  },
-  {
-    "id": "ee7dee048813386be542",
-    "url": "https://www.youtube.com/watch?v=4hBr_L8Akmg",
-    "sourceTitle": "Market Outlook for 2021 Bitcoin",
-    "titleZh": "Brooks 共享影片｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-4hBr_L8Akmg"
-      }
-    ],
-    "resourceIds": [
-      "yt-4hBr_L8Akmg"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-4hBr_L8Akmg",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "ee8d51c0c3fd959cd07b",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-follow-through-after-give-up-bar/",
-    "sourceTitle": "Emini bears want follow-through after give-up bar yesterday",
-    "titleZh": "Brad 日內案例｜2022-06-10｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-153311"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-153311"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-153311",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
   }
 ]

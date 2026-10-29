@@ -1,5 +1,71 @@
 [
   {
+    "id": "79e69c33e0836bf2ec37",
+    "url": "https://www.youtube.com/playlist?list=FL2-JF8X_LDFEtSa3Ohfwvpg",
+    "sourceTitle": "Favorites",
+    "titleZh": "Brooks 共享片單｜Favorites",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "list-FL2-JF8X_LDFEtSa3Ohfwvpg"
+      }
+    ],
+    "resourceIds": [
+      "list-FL2-JF8X_LDFEtSa3Ohfwvpg"
+    ],
+    "legacyObservations": [
+      {
+        "id": "list-FL2-JF8X_LDFEtSa3Ohfwvpg",
+        "scope": "官方片單入口已核對；包含多講者者不概括歸屬 Brad",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊"
+    ]
+  },
+  {
+    "id": "79e780b14780ce7a41ee",
+    "url": "https://www.youtube.com/watch?v=zI9b72R_VQM",
+    "sourceTitle": "Scalping during the open, Las Vegas Traders Expo, Nov. 22, 2014",
+    "titleZh": "Brooks 共享影片｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-zI9b72R_VQM"
+      }
+    ],
+    "resourceIds": [
+      "yt-zI9b72R_VQM"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-zI9b72R_VQM",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "79fdece4d0f68b3c33ec",
     "url": "https://www.youtube.com/watch?v=LYu-s76bgwI",
     "sourceTitle": "Al Brooks Entering Late in Trends",
@@ -3099,69 +3165,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "87dc37ff9a2ee6c0a789",
-    "url": "https://www.goodreads.com/author/show/1090259.Al_Brooks",
-    "sourceTitle": "Trading Price Action Trends",
-    "titleZh": "價格行為交易：趨勢（中文主題譯名）",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "book-review",
-        "id": "brooks-trends"
-      },
-      {
-        "kind": "book-review",
-        "id": "brooks-ranges"
-      },
-      {
-        "kind": "book-review",
-        "id": "brooks-reversals"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
-  },
-  {
-    "id": "87f697b3a8908d752860",
-    "url": "https://www.youtube.com/watch?v=Xj294t8jw0g",
-    "sourceTitle": "Systems Academy 2024 is Now Open",
-    "titleZh": "Systems Academy 2024 計畫介紹",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-Xj294t8jw0g"
-      }
-    ],
-    "resourceIds": [
-      "yt-Xj294t8jw0g"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-Xj294t8jw0g",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Ali／Quant Systems 頻道"
     ]
   }
 ]
