@@ -45,3 +45,5 @@
 有實質新增、重要更正、發布失敗或需要使用者處理時，以繁中簡要回報並附網站直接連結。沒有合格新內容且狀態未變時保持安靜。不另建排程，不執行交易。
 
 第八批以 `scripts/build-content-batch8.cjs` 加入來源卡及更新紀錄，再執行翻譯清單與中文呈現生成器；不重跑寫死舊批次的完整生成器。網站 canonical 網域已轉為 yintsun66；舊網域會重新導向，瀏覽器筆記不會自動跨 origin 同步，不能宣稱已移轉。
+
+第九批為既有來源翻譯續讀，不新增社群卡。最新重建順序：`build-content-batch9.cjs` → `build-translation-ledger.cjs` → `enable-chinese-first.cjs`。實讀作者檔為 `zh-core-source-reviews-5.json`，可選 `shortExcerpt`、`termNotes`、`editorNotesZh` 分開短句、詞條與本站校註，不能以編輯判讀冒充原文。最新驗證入口為 workspace `tools/check_translation_batch9.cjs`、`tools/check_translation_batch9_reader.cjs`、`tools/check_translation_batch9_http.cjs`；保留前批全部斷言並新增本批範圍檢查。

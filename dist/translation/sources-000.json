@@ -82,7 +82,10 @@
       ],
       "accessMethod": "web.open；原網址重新導向官方新站。",
       "scope": "公開介紹、課綱及結尾限制文字；未登入課程。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "02179c32ead2f2816e12",
@@ -190,7 +193,10 @@
       ],
       "accessMethod": "實際讀取英文官方公開正文",
       "scope": "十種型態各節及開頭說明；課程僅核對公開標題。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "10795e3594bf859fb0b3",
@@ -273,7 +279,10 @@
       ],
       "accessMethod": "web.open 官方公開介紹。",
       "scope": "公開正文第 72–76、106–139 行；包含 Brad Wolff 歷史場次標示。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "148a937543a7273f3096",
@@ -350,7 +359,10 @@
       ],
       "accessMethod": "實際讀取英文官方入口與重新導向頁",
       "scope": "頁首架構至模組三課綱；影片與其餘模組尚待處理。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "15dbe08a4d1e6bf4fa5d",
@@ -419,7 +431,107 @@
       ],
       "accessMethod": "實際讀取原教育機構公開英文 PDF",
       "scope": "兩頁文字；來源卡另附 8 詞英文短句及翻譯。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
+  },
+  {
+    "id": "1e5a6240cc8e6a1a2802",
+    "url": "https://www.brookstradingcourse.com/guest-traders/why-band-trading-works-part-2-bands/",
+    "sourceTitle": "Why Band Trading Works: Part 2 — Bands",
+    "titleZh": "帶狀交易（二）：波動帶如何減少雜訊，也帶來延遲",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "文章比較肯特納通道、布林通道與改良帶。波動帶可用於趨勢突破，也可協助描述區間極端；價格沿帶外延伸時，不能只因越界就預期立即反轉。作者另指出，波動下降後帶寬收縮可能落後，等待壓縮也可能錯過行情。",
+    "readScope": "已讀公開正文、圖說、改良帶程式文字與原刊說明；未執行程式或重現行情圖。",
+    "checked": "2026-10-30",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "ali-post-32827"
+      },
+      {
+        "kind": "review",
+        "id": "ali-post-32827"
+      }
+    ],
+    "resourceIds": [
+      "ali-post-32827"
+    ],
+    "legacyObservations": [
+      {
+        "id": "ali-post-32827",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [
+      {
+        "resourceId": "ali-post-32827",
+        "url": "https://www.brookstradingcourse.com/guest-traders/why-band-trading-works-part-2-bands/",
+        "sourceTitle": "Why Band Trading Works: Part 2 — Bands",
+        "sourceTitleZh": "帶狀交易（二）：波動帶如何減少雜訊，也帶來延遲",
+        "checked": "2026-10-30",
+        "published": "2014-12-04",
+        "dateNoteZh": "此頁刊登日；頁末註明原刊於 Van Tharp 電子報 2013-06-19。",
+        "status": "body-summary",
+        "authorConfirmed": "Ali Moin-Afshari",
+        "attributionNoteZh": "Ali 客座系列，不是 Brooks 官方交易系統。",
+        "readScope": "已讀公開正文、圖說、改良帶程式文字與原刊說明；未執行程式或重現行情圖。",
+        "summaryZh": "文章比較肯特納通道、布林通道與改良帶。波動帶可用於趨勢突破，也可協助描述區間極端；價格沿帶外延伸時，不能只因越界就預期立即反轉。作者另指出，波動下降後帶寬收縮可能落後，等待壓縮也可能錯過行情。",
+        "keyPointsZh": [
+          "帶寬、趨勢背景與進場規則應分開理解。"
+        ],
+        "editorNotesZh": [
+          "原文提出兩個標準差對應 87% 的說法；本站保留為作者敘述，不標成普遍信賴區間。只知道分布有厚尾，無法決定固定覆蓋率；即使有覆蓋率，也不等於交易勝率。"
+        ],
+        "limitsZh": "沒有核驗原圖或程式的成效；本摘要不移植原頁公式為可直接下單的實作。",
+        "shortExcerpt": {
+          "en": "This type of behavior is called “crawling up the bands”",
+          "zh": "這類走勢稱為「沿著通道帶往上爬行」。",
+          "scope": "作者描述價格可連續多日位於帶外的動能現象，並非碰帶必然反轉。"
+        },
+        "evidence": {
+          "urls": [
+            "https://www.brookstradingcourse.com/guest-traders/why-band-trading-works-part-2-bands/"
+          ],
+          "accessMethod": "實際讀取英文正文、公開程式段及日期",
+          "scope": "Keltner、Bollinger、Modified Bollinger、結語至公開程式文字；未執行程式。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "titleNote": "「有效」為作者原標題論點；本輪未讀正文，不是本站驗證。",
+    "authors": [
+      "Ali Moin-Afshari"
+    ],
+    "published": "2014-12-04",
+    "dateNoteZh": "此頁刊登日；頁末註明原刊於 Van Tharp 電子報 2013-06-19。",
+    "keyPointsZh": [
+      "帶寬、趨勢背景與進場規則應分開理解。"
+    ],
+    "limitsZh": "沒有核驗原圖或程式的成效；本摘要不移植原頁公式為可直接下單的實作。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/guest-traders/why-band-trading-works-part-2-bands/"
+      ],
+      "accessMethod": "實際讀取英文正文、公開程式段及日期",
+      "scope": "Keltner、Bollinger、Modified Bollinger、結語至公開程式文字；未執行程式。"
+    },
+    "shortExcerpt": {
+      "en": "This type of behavior is called “crawling up the bands”",
+      "zh": "這類走勢稱為「沿著通道帶往上爬行」。",
+      "scope": "作者描述價格可連續多日位於帶外的動能現象，並非碰帶必然反轉。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [
+      "原文提出兩個標準差對應 87% 的說法；本站保留為作者敘述，不標成普遍信賴區間。只知道分布有厚尾，無法決定固定覆蓋率；即使有覆蓋率，也不等於交易勝率。"
+    ],
+    "authorConfirmed": "Ali Moin-Afshari",
+    "attributionNoteZh": "Ali 客座系列，不是 Brooks 官方交易系統。"
   },
   {
     "id": "2336d48eb1d5ca4e3c46",
@@ -517,7 +629,107 @@
       ],
       "accessMethod": "實際讀取英文官方正文",
       "scope": "公開正文至結語；未使用原圖或付費教材。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
+  },
+  {
+    "id": "30448c1eaa4bdc095d16",
+    "url": "https://www.brookstradingcourse.com/guest-traders/band-trading-superiority-of-standard-error-bands/",
+    "sourceTitle": "Why Band Trading Works: Part 3 — Superiority of Standard Error Bands",
+    "titleZh": "帶狀交易（三）：回歸誤差帶與趨勢整齊度",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "Ali 以線性回歸與回歸誤差建立帶狀指標，將窄帶解讀為價格較整齊地跟隨趨勢，帶寬擴大則是雜訊增加的線索。這與把布林窄帶單純看作低波動的用法不同；回看期、平滑與倍率也會改變結果。",
+    "readScope": "已讀公開正文、帶寬解讀、參數示例與結語；未重新計算指標或重現圖表。",
+    "checked": "2026-10-30",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "ali-post-33160"
+      },
+      {
+        "kind": "review",
+        "id": "ali-post-33160"
+      }
+    ],
+    "resourceIds": [
+      "ali-post-33160"
+    ],
+    "legacyObservations": [
+      {
+        "id": "ali-post-33160",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [
+      {
+        "resourceId": "ali-post-33160",
+        "url": "https://www.brookstradingcourse.com/guest-traders/band-trading-superiority-of-standard-error-bands/",
+        "sourceTitle": "Why Band Trading Works: Part 3 — Superiority of Standard Error Bands",
+        "sourceTitleZh": "帶狀交易（三）：回歸誤差帶與趨勢整齊度",
+        "checked": "2026-10-30",
+        "published": "2014-12-14",
+        "dateNoteZh": "此頁刊登日；頁末註明原刊於 Van Tharp 電子報 2013-06-26。",
+        "status": "body-summary",
+        "authorConfirmed": "Ali Moin-Afshari",
+        "attributionNoteZh": "Ali 客座文章；優越性是作者題名與主張。",
+        "readScope": "已讀公開正文、帶寬解讀、參數示例與結語；未重新計算指標或重現圖表。",
+        "summaryZh": "Ali 以線性回歸與回歸誤差建立帶狀指標，將窄帶解讀為價格較整齊地跟隨趨勢，帶寬擴大則是雜訊增加的線索。這與把布林窄帶單純看作低波動的用法不同；回看期、平滑與倍率也會改變結果。",
+        "keyPointsZh": [
+          "作者列出的 21 期、3 期平滑與 ±2 是指標示例，不是本站最佳化結果。"
+        ],
+        "editorNotesZh": [
+          "本站統計用語校註：平均值的標準誤與回歸殘差標準誤不是同一量。文中把回歸線描述為兩側各半，也不是最小平方法的一般保證。這些敘述不能轉成未來方向機率。"
+        ],
+        "limitsZh": "較快、較準或更優越屬作者主張；未取得獨立樣本外比較，不能宣稱優於其他方法。",
+        "shortExcerpt": {
+          "en": "Selection of a calculation period is important in regression analysis.",
+          "zh": "在回歸分析中，計算期間的選擇很重要。",
+          "scope": "原文討論不同回看期如何影響所辨識的趨勢。"
+        },
+        "evidence": {
+          "urls": [
+            "https://www.brookstradingcourse.com/guest-traders/band-trading-superiority-of-standard-error-bands/"
+          ],
+          "accessMethod": "實際讀取英文客座正文",
+          "scope": "回歸、標準誤、SE Bands 解讀、參數及 Summary；未複算指標。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "titleNote": "「有效」與「優越性」為作者原標題論點；本輪未讀正文，不是本站驗證。",
+    "authors": [
+      "Ali Moin-Afshari"
+    ],
+    "published": "2014-12-14",
+    "dateNoteZh": "此頁刊登日；頁末註明原刊於 Van Tharp 電子報 2013-06-26。",
+    "keyPointsZh": [
+      "作者列出的 21 期、3 期平滑與 ±2 是指標示例，不是本站最佳化結果。"
+    ],
+    "limitsZh": "較快、較準或更優越屬作者主張；未取得獨立樣本外比較，不能宣稱優於其他方法。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/guest-traders/band-trading-superiority-of-standard-error-bands/"
+      ],
+      "accessMethod": "實際讀取英文客座正文",
+      "scope": "回歸、標準誤、SE Bands 解讀、參數及 Summary；未複算指標。"
+    },
+    "shortExcerpt": {
+      "en": "Selection of a calculation period is important in regression analysis.",
+      "zh": "在回歸分析中，計算期間的選擇很重要。",
+      "scope": "原文討論不同回看期如何影響所辨識的趨勢。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [
+      "本站統計用語校註：平均值的標準誤與回歸殘差標準誤不是同一量。文中把回歸線描述為兩側各半，也不是最小平方法的一般保證。這些敘述不能轉成未來方向機率。"
+    ],
+    "authorConfirmed": "Ali Moin-Afshari",
+    "attributionNoteZh": "Ali 客座文章；優越性是作者題名與主張。"
   },
   {
     "id": "30afa9388c801eb3c98e",
@@ -587,7 +799,10 @@
       ],
       "accessMethod": "web.open 失敗；精確 ID 搜尋無結果。",
       "scope": "沒有新取得的影片內容；英文標題沿用既有索引，非本輪影片頁驗證。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "3889c07fadb42c09a7ce",
@@ -665,7 +880,10 @@
       ],
       "accessMethod": "web.open 原作者公開正文。",
       "scope": "正文第 25–69 行；原頁表示 2022 年更新，未列確切更新日。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "436e9d771928f3a02941",
@@ -730,7 +948,101 @@
       ],
       "accessMethod": "實際讀取英文原作者正文",
       "scope": "紀錄內容、裁量標記、事前／事後與減少干擾各節至結語。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
+  },
+  {
+    "id": "4d3ea35c9e0bb0c9d323",
+    "url": "https://www.brookstradingcourse.com/guest-traders/visual-learning-helps-structure-profitable-trading-behavior/",
+    "sourceTitle": "Visual Learning as Tool to Structure Profitable Trading Behavior",
+    "titleZh": "視覺化學習：把事後分析轉成事前決策",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "Ali 描述自己能在盤後分析，盤中卻無法及時運用觀念，因此改用流程圖連接訊號、決策與行動。他建議先選定少數情境，再做心智預演、模擬與事後檢討，依錯誤修正練習；反覆閱讀也應回到基本概念。",
+    "readScope": "已讀公開正文、主動訓練清單及結語；未重製原圖、觀看付費課或核驗外連研究。",
+    "checked": "2026-10-30",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "ali-post-29229"
+      },
+      {
+        "kind": "review",
+        "id": "ali-post-29229"
+      }
+    ],
+    "resourceIds": [
+      "ali-post-29229"
+    ],
+    "legacyObservations": [
+      {
+        "id": "ali-post-29229",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [
+      {
+        "resourceId": "ali-post-29229",
+        "url": "https://www.brookstradingcourse.com/guest-traders/visual-learning-helps-structure-profitable-trading-behavior/",
+        "sourceTitle": "Visual Learning as Tool to Structure Profitable Trading Behavior",
+        "sourceTitleZh": "視覺化學習：把事後分析轉成事前決策",
+        "checked": "2026-10-30",
+        "published": "2014-09-16",
+        "status": "body-summary",
+        "authorConfirmed": "Ali Moin-Afshari",
+        "attributionNoteZh": "官方頁署名 Ali，並非 Brooks 親筆。與既有視覺化學習選讀主題重疊；本次補核對 Brooks 網站客座版，不新增閱讀單元。",
+        "readScope": "已讀公開正文、主動訓練清單及結語；未重製原圖、觀看付費課或核驗外連研究。",
+        "summaryZh": "Ali 描述自己能在盤後分析，盤中卻無法及時運用觀念，因此改用流程圖連接訊號、決策與行動。他建議先選定少數情境，再做心智預演、模擬與事後檢討，依錯誤修正練習；反覆閱讀也應回到基本概念。",
+        "keyPointsZh": [
+          "圖解是作者適合自己的學習方式，不是所有人的唯一方法。"
+        ],
+        "limitsZh": "文中腦容量數字與訓練效果屬作者主張，本站未查證其心理學依據；未提供獨立交易績效。",
+        "shortExcerpt": {
+          "en": "The knowledge itself was offline.",
+          "zh": "那些知識本身，當時仍只能在盤後運用。",
+          "scope": "作者描述能盤後分析、卻不能即時調用觀念的落差；offline 在此不是指網路斷線。"
+        },
+        "evidence": {
+          "urls": [
+            "https://www.brookstradingcourse.com/guest-traders/visual-learning-helps-structure-profitable-trading-behavior/"
+          ],
+          "accessMethod": "實際讀取官方客座文章的英文正文",
+          "scope": "由個人學習經驗至主動訓練與結語；不含原圖重製或付費教材。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "titleNote": "「獲利交易行為」是原題用語，不代表本輪驗證獲利成效。",
+    "authors": [
+      "Ali Moin-Afshari"
+    ],
+    "published": "2014-09-16",
+    "dateNoteZh": "",
+    "keyPointsZh": [
+      "圖解是作者適合自己的學習方式，不是所有人的唯一方法。"
+    ],
+    "limitsZh": "文中腦容量數字與訓練效果屬作者主張，本站未查證其心理學依據；未提供獨立交易績效。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/guest-traders/visual-learning-helps-structure-profitable-trading-behavior/"
+      ],
+      "accessMethod": "實際讀取官方客座文章的英文正文",
+      "scope": "由個人學習經驗至主動訓練與結語；不含原圖重製或付費教材。"
+    },
+    "shortExcerpt": {
+      "en": "The knowledge itself was offline.",
+      "zh": "那些知識本身，當時仍只能在盤後運用。",
+      "scope": "作者描述能盤後分析、卻不能即時調用觀念的落差；offline 在此不是指網路斷線。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Ali Moin-Afshari",
+    "attributionNoteZh": "官方頁署名 Ali，並非 Brooks 親筆。與既有視覺化學習選讀主題重疊；本次補核對 Brooks 網站客座版，不新增閱讀單元。"
   },
   {
     "id": "5c3eb7f0b391b748e060",
@@ -858,7 +1170,10 @@
       ],
       "accessMethod": "web.open 公開原作者頁正文；另讀尾段 Market inertia。",
       "scope": "公開文章正文，第 73–171 行；來源頁發布日 2020-08-30。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "69c23b9b5e0ff90fe537",
@@ -934,22 +1249,29 @@
       ],
       "accessMethod": "實際讀取英文官方課程介紹",
       "scope": "公開 overview、included、更新月份與作者欄位；登入後教材未取得。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "6b27f6a92edb0bb28ab8",
     "url": "https://hub.hku.hk/bitstream/10722/184789/1/content.pdf",
     "sourceTitle": "Overconfident Individual Day Traders: Evidence from the Taiwan Futures Market",
-    "titleZh": "臺灣期貨日內交易者研究：摘要與導言選讀",
+    "titleZh": "臺灣期貨當沖研究續讀：樣本定義、成本與口數",
     "titleCoverage": "reviewed-title",
     "status": "excerpt-summary",
-    "summaryZh": "Kuo 與 Lin 利用事前指定當沖委託的制度辨識交易者。文中 3,470 名個人在 2007 年 10 月至 2008 年 9 月平均累計虧損，扣成本後約 61,500 元、扣成本前約 26,700 元；這是該樣本期間每名交易者的結果，並非每筆虧損。",
-    "readScope": "實讀 37 頁作者版本的 PDF 第 1–6 頁（零起算頁 0–5）：摘要、導言及其資料限制；未讀完整實證章節與表格。",
-    "checked": "2026-10-29",
+    "summaryZh": "Kuo 與 Lin 研究 2007/10/08–2008/09/30 事前指定當沖委託，並只納入期間完成超過五次當沖的交易者。原文一次來回交易以淨部位歸零為界，可能包含多口；不能把來回、單口與每名交易者的累計損益混為一談。",
+    "readScope": "保留前批 PDF 第 1–6 頁；本批續讀第 3 節與第 4.1–4.6 節指定文字（PDF 第 9–21 頁一帶）。未核對全部附表、4.7 節及其後內容，維持部分摘要。",
+    "checked": "2026-10-30",
     "inventoried": "2026-10-30",
     "locations": [
       {
         "kind": "resource",
+        "id": "r-traders"
+      },
+      {
+        "kind": "review",
         "id": "r-traders"
       },
       {
@@ -992,6 +1314,32 @@
           "scope": "PDF 第 1–6 頁文字；未核對後續全部表格或正式出版版。"
         },
         "courseRefs": []
+      },
+      {
+        "resourceId": "r-traders",
+        "url": "https://hub.hku.hk/bitstream/10722/184789/1/content.pdf",
+        "sourceTitle": "Overconfident Individual Day Traders: Evidence from the Taiwan Futures Market",
+        "sourceTitleZh": "臺灣期貨當沖研究續讀：樣本定義、成本與口數",
+        "checked": "2026-10-30",
+        "published": "2013-04-03",
+        "dateNoteZh": "作者版本日，不是正式期刊出版日。",
+        "status": "excerpt-summary",
+        "readScope": "保留前批 PDF 第 1–6 頁；本批續讀第 3 節與第 4.1–4.6 節指定文字（PDF 第 9–21 頁一帶）。未核對全部附表、4.7 節及其後內容，維持部分摘要。",
+        "summaryZh": "Kuo 與 Lin 研究 2007/10/08–2008/09/30 事前指定當沖委託，並只納入期間完成超過五次當沖的交易者。原文一次來回交易以淨部位歸零為界，可能包含多口；不能把來回、單口與每名交易者的累計損益混為一談。",
+        "keyPointsZh": [
+          "3,470 名個人的期間平均累計淨損失約 61,500 元；不是每筆或每口虧損。",
+          "增加口數與獲利在不同績效群組有不同關聯；這不是證明加碼會造成獲利的隨機實驗。",
+          "未取得詳細保證金帳戶，報酬代理不是實際帳戶報酬；機構樣本也不足以作強結論。"
+        ],
+        "limitsZh": "歷史樣本，不是今日微台或特定價格行為策略的獲利機率；未重算統計或逐表核驗，不標全文完成。",
+        "evidence": {
+          "urls": [
+            "https://hub.hku.hk/bitstream/10722/184789/1/content.pdf"
+          ],
+          "accessMethod": "實際續讀大學典藏英文作者版本的資料、績效與交易活動段落",
+          "scope": "第 3 節、4.1–4.6 指定文字；表格及後續章節仍待續讀。"
+        },
+        "courseRefs": []
       }
     ],
     "courseRefs": [],
@@ -1000,19 +1348,23 @@
       "Kuo / Lin"
     ],
     "published": "2013-04-03",
-    "dateNoteZh": "日期為 PDF 首頁明列的作者版本日，不是正式期刊出版日。",
+    "dateNoteZh": "作者版本日，不是正式期刊出版日。",
     "keyPointsZh": [
-      "作者未取得詳細保證金帳戶資料；文中報酬代理不能當作每個帳戶的實際資金報酬率。",
-      "過度自信是作者依研究設計作出的解釋，不是單靠一筆虧損就能診斷個人。"
+      "3,470 名個人的期間平均累計淨損失約 61,500 元；不是每筆或每口虧損。",
+      "增加口數與獲利在不同績效群組有不同關聯；這不是證明加碼會造成獲利的隨機實驗。",
+      "未取得詳細保證金帳戶，報酬代理不是實際帳戶報酬；機構樣本也不足以作強結論。"
     ],
-    "limitsZh": "歷史樣本不代表目前所有當沖者、微台或價格行為策略；完整方法與統計仍待續讀，未做本站複算。",
+    "limitsZh": "歷史樣本，不是今日微台或特定價格行為策略的獲利機率；未重算統計或逐表核驗，不標全文完成。",
     "evidence": {
       "urls": [
         "https://hub.hku.hk/bitstream/10722/184789/1/content.pdf"
       ],
-      "accessMethod": "實際讀取大學典藏的英文作者版本 PDF",
-      "scope": "PDF 第 1–6 頁文字；未核對後續全部表格或正式出版版。"
-    }
+      "accessMethod": "實際續讀大學典藏英文作者版本的資料、績效與交易活動段落",
+      "scope": "第 3 節、4.1–4.6 指定文字；表格及後續章節仍待續讀。"
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "731eefb1aaf98bad230f",
@@ -1106,18 +1458,21 @@
       ],
       "accessMethod": "web.open 公開原作者文章。",
       "scope": "公開正文第 60–76 行；發布日 2020-04-24。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "80a94739d33f743ed25c",
     "url": "https://www.brookstradingcourse.com/price-action-trading-terms-glossary/",
     "sourceTitle": "Glossary of terms for price action trading",
-    "titleZh": "價格行為術語表：背景、突破與方向機率選讀",
+    "titleZh": "Brooks 詞表續讀：設定、訊號棒與進場棒",
     "titleCoverage": "reviewed-title",
     "status": "excerpt-summary",
-    "summaryZh": "詞表把背景定義為左側價格、買賣壓力與支撐壓力對交易的支持或反對條件；突破則指越過先前有意義的價位。方向機率條目討論先到上方或下方指定距離的事件，與扣成本後的交易勝率不同。",
-    "readScope": "僅本次實讀頁首 always in 至 double top 一帶的詞條，包括 context、breakout 與 directional probability；其餘詞條未完成逐項整理。",
-    "checked": "2026-10-29",
+    "summaryZh": "詞表把設定放在左側背景中理解，再區分訊號棒、實際進場棒與後續延續。方向機率仍指先到指定距離的事件，不能替代扣成本後勝率；停損距離也不等於保證損失上限。",
+    "readScope": "保留前批背景、突破與方向機率選讀；本批續讀交易設定、訊號棒、進場棒、後續延續、第二次進場、風險距離六詞條。其餘詞條未逐項整理。",
+    "checked": "2026-10-30",
     "inventoried": "2026-10-30",
     "locations": [
       {
@@ -1128,6 +1483,10 @@
         "kind": "article-source",
         "id": "brooks-pullback-language",
         "index": 0
+      },
+      {
+        "kind": "review",
+        "id": "b-glossary"
       },
       {
         "kind": "review",
@@ -1176,6 +1535,77 @@
             "relation": "相關主題補讀；不是上述各詞條的確定付費課程出處。"
           }
         ]
+      },
+      {
+        "resourceId": "b-glossary",
+        "url": "https://www.brookstradingcourse.com/price-action-trading-terms-glossary/",
+        "sourceTitle": "Glossary of terms for price action trading",
+        "sourceTitleZh": "Brooks 詞表續讀：設定、訊號棒與進場棒",
+        "checked": "2026-10-30",
+        "published": null,
+        "status": "excerpt-summary",
+        "readScope": "保留前批背景、突破與方向機率選讀；本批續讀交易設定、訊號棒、進場棒、後續延續、第二次進場、風險距離六詞條。其餘詞條未逐項整理。",
+        "summaryZh": "詞表把設定放在左側背景中理解，再區分訊號棒、實際進場棒與後續延續。方向機率仍指先到指定距離的事件，不能替代扣成本後勝率；停損距離也不等於保證損失上限。",
+        "termNotes": [
+          {
+            "en": "setup",
+            "zh": "交易設定",
+            "note": "形成進場依據的型態，包含左側背景與訊號棒。"
+          },
+          {
+            "en": "signal bar",
+            "zh": "訊號棒",
+            "note": "實際進場棒之前的那根棒，是設定的最後一棒。"
+          },
+          {
+            "en": "entry bar",
+            "zh": "進場棒",
+            "note": "交易實際進場所發生的 K 棒。"
+          },
+          {
+            "en": "follow-through",
+            "zh": "後續延續",
+            "note": "突破等初始走勢後，延續該方向的一根或數根棒。"
+          },
+          {
+            "en": "second entry",
+            "zh": "第二次進場",
+            "note": "第一次後數棒內，依相同邏輯再次形成的進場機會；不是自動加碼。"
+          },
+          {
+            "en": "risk",
+            "zh": "風險距離",
+            "note": "進場至保護停損的跳動距離；滑價等因素可使實際損失更大。"
+          }
+        ],
+        "keyPointsZh": [
+          "Always In 為方向判斷框架，並非要求一直持倉。"
+        ],
+        "limitsZh": "六詞條的精簡語意整理，不是全詞表逐字翻譯；沒有新增數值機率。",
+        "evidence": {
+          "urls": [
+            "https://www.brookstradingcourse.com/price-action-trading-terms-glossary/",
+            "https://www.brookstradingcourse.com/trade-price-action/"
+          ],
+          "accessMethod": "實際讀取官方英文詞條，並核對主課程公開課綱及單元頁標題",
+          "scope": "指定六詞條；Main／共用基礎 08A、33A 僅核對公開題名，未觀看付費影片。"
+        },
+        "courseRefs": [
+          {
+            "version": "Main（主課程）／共用價格行為基礎",
+            "unit": "08A",
+            "topic": "K 棒、交易設定與訊號棒",
+            "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-08a-candles-setups-signal-bars/",
+            "relation": "相關主題補讀；詞條的確定文字出處是官方公開詞表，未宣稱來自付費影片。"
+          },
+          {
+            "version": "Main（主課程）／共用價格行為基礎",
+            "unit": "33A",
+            "topic": "保護停損",
+            "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-33a-protective-stops/",
+            "relation": "相關主題補讀；僅核對公開課綱與單元標題，未觀看付費影片。"
+          }
+        ]
       }
     ],
     "courseRefs": [
@@ -1185,6 +1615,20 @@
         "topic": "交易方程式與機率",
         "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-30a-traders-equation-probability/",
         "relation": "相關主題補讀；不是上述各詞條的確定付費課程出處。"
+      },
+      {
+        "version": "Main（主課程）／共用價格行為基礎",
+        "unit": "08A",
+        "topic": "K 棒、交易設定與訊號棒",
+        "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-08a-candles-setups-signal-bars/",
+        "relation": "相關主題補讀；詞條的確定文字出處是官方公開詞表，未宣稱來自付費影片。"
+      },
+      {
+        "version": "Main（主課程）／共用價格行為基礎",
+        "unit": "33A",
+        "topic": "保護停損",
+        "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-33a-protective-stops/",
+        "relation": "相關主題補讀；僅核對公開課綱與單元標題，未觀看付費影片。"
       }
     ],
     "titleNote": "",
@@ -1194,17 +1638,51 @@
     "published": null,
     "dateNoteZh": "",
     "keyPointsZh": [
-      "Always In 是作者判斷多空方向的框架，不是要求一直持有部位。",
-      "突破回檔的名稱含有延續預期；同一段走勢若預期失敗，作者會使用另一種描述。"
+      "Always In 為方向判斷框架，並非要求一直持倉。"
     ],
-    "limitsZh": "指定詞條的部分摘要，並非整份詞表翻譯；詞條中的通常或較可能不能改寫成本站實測百分比。",
+    "limitsZh": "六詞條的精簡語意整理，不是全詞表逐字翻譯；沒有新增數值機率。",
     "evidence": {
       "urls": [
-        "https://www.brookstradingcourse.com/price-action-trading-terms-glossary/"
+        "https://www.brookstradingcourse.com/price-action-trading-terms-glossary/",
+        "https://www.brookstradingcourse.com/trade-price-action/"
       ],
-      "accessMethod": "實際讀取英文官方詞表指定詞條",
-      "scope": "頁首 always in 至 double top 一帶；其餘內容待續。"
-    }
+      "accessMethod": "實際讀取官方英文詞條，並核對主課程公開課綱及單元頁標題",
+      "scope": "指定六詞條；Main／共用基礎 08A、33A 僅核對公開題名，未觀看付費影片。"
+    },
+    "shortExcerpt": null,
+    "termNotes": [
+      {
+        "en": "setup",
+        "zh": "交易設定",
+        "note": "形成進場依據的型態，包含左側背景與訊號棒。"
+      },
+      {
+        "en": "signal bar",
+        "zh": "訊號棒",
+        "note": "實際進場棒之前的那根棒，是設定的最後一棒。"
+      },
+      {
+        "en": "entry bar",
+        "zh": "進場棒",
+        "note": "交易實際進場所發生的 K 棒。"
+      },
+      {
+        "en": "follow-through",
+        "zh": "後續延續",
+        "note": "突破等初始走勢後，延續該方向的一根或數根棒。"
+      },
+      {
+        "en": "second entry",
+        "zh": "第二次進場",
+        "note": "第一次後數棒內，依相同邏輯再次形成的進場機會；不是自動加碼。"
+      },
+      {
+        "en": "risk",
+        "zh": "風險距離",
+        "note": "進場至保護停損的跳動距離；滑價等因素可使實際損失更大。"
+      }
+    ],
+    "editorNotesZh": []
   },
   {
     "id": "81fd24b444fc733d8b1d",
@@ -1307,7 +1785,10 @@
       ],
       "accessMethod": "實際讀取英文官方書介",
       "scope": "介紹、推薦閱讀順序及版權／圖表下載說明；原書與影片未取得。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "89a80e33df33142c1ae8",
@@ -1435,7 +1916,10 @@
       ],
       "accessMethod": "web.open 官方樣片頁及正式單元頁；正式單元頁要求會員登入，未登入。",
       "scope": "樣片公開文字第 57–81 行；正式單元只核對標題。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "92ad506a14adec2eb335",
@@ -1510,7 +1994,10 @@
       ],
       "accessMethod": "實際讀取英文官方分類首頁",
       "scope": "當前可見文章列表與摘要；未取全站分類分頁。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "9590534c51e47b546623",
@@ -1601,7 +2088,10 @@
       ],
       "accessMethod": "實際讀取英文官方入口頁",
       "scope": "本頁公開導言與目錄；連結章節及付費內容另計。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "984d1f1de29b4c6ca9fb",
@@ -1678,7 +2168,10 @@
       ],
       "accessMethod": "實際讀取英文官方條款指定段落",
       "scope": "公開正文至 Testimonials；頁末授權段落僅部分取得，不核發全文完成。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "99e2a151d66fd24d0a7d",
@@ -1748,7 +2241,102 @@
       ],
       "accessMethod": "web.open 失敗；精確 ID 搜尋無結果。",
       "scope": "沒有新取得的影片內容；英文標題沿用既有索引，非本輪影片頁驗證。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
+  },
+  {
+    "id": "9dca89fa57b796c5de55",
+    "url": "https://www.brookstradingcourse.com/guest-traders/band-based-trading-systems/",
+    "sourceTitle": "Why Band Trading Works: Part 4 — Band Based Trading Systems",
+    "titleZh": "帶狀交易（四）：成交價格變好，不等於系統績效變好",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "文章區分直接反手與可空手等待的系統，再討論觸發區、延遲進場及回檔掛單。等待回檔可能改善成交價，也可能漏掉快速突破，因此必須一起檢查漏單與整體績效；文末示範結合不同帶狀工具描述雜訊與波段區域。",
+    "readScope": "已讀交易頻率、進場時機、雜訊過濾與結語全文；未重製原圖或測試策略。",
+    "checked": "2026-10-30",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "ali-post-33533"
+      },
+      {
+        "kind": "review",
+        "id": "ali-post-33533"
+      }
+    ],
+    "resourceIds": [
+      "ali-post-33533"
+    ],
+    "legacyObservations": [
+      {
+        "id": "ali-post-33533",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [
+      {
+        "resourceId": "ali-post-33533",
+        "url": "https://www.brookstradingcourse.com/guest-traders/band-based-trading-systems/",
+        "sourceTitle": "Why Band Trading Works: Part 4 — Band Based Trading Systems",
+        "sourceTitleZh": "帶狀交易（四）：成交價格變好，不等於系統績效變好",
+        "checked": "2026-10-30",
+        "published": "2014-12-21",
+        "dateNoteZh": "此頁刊登日；頁末註明原刊於 Van Tharp 電子報 2013-07-10。",
+        "status": "body-summary",
+        "authorConfirmed": "Ali Moin-Afshari",
+        "attributionNoteZh": "Ali 客座系列的結篇，不是 Brooks 原課或本站研究策略的規則。",
+        "readScope": "已讀交易頻率、進場時機、雜訊過濾與結語全文；未重製原圖或測試策略。",
+        "summaryZh": "文章區分直接反手與可空手等待的系統，再討論觸發區、延遲進場及回檔掛單。等待回檔可能改善成交價，也可能漏掉快速突破，因此必須一起檢查漏單與整體績效；文末示範結合不同帶狀工具描述雜訊與波段區域。",
+        "keyPointsZh": [
+          "進場、出場與部位是否立即反手，都是不同的研究選擇，不能只改進場價便宣稱系統改善。"
+        ],
+        "limitsZh": "文中的比例與價位是作者歷史示例，沒有本站回測、成本或當前適用性驗證。",
+        "shortExcerpt": {
+          "en": "Timing rules usually improve execution but they do not always improve a trading system’s performance",
+          "zh": "時機規則通常能改善執行，卻不一定改善交易系統的績效。",
+          "scope": "作者接著以等待回檔而錯過快速突破解釋這項取捨。"
+        },
+        "evidence": {
+          "urls": [
+            "https://www.brookstradingcourse.com/guest-traders/band-based-trading-systems/"
+          ],
+          "accessMethod": "實際讀取英文客座正文與日期",
+          "scope": "Trade Frequency、Timing Better Entries、Filtering Out Noise 至 Conclusion；未實作策略。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "titleNote": "「有效」為作者原標題論點；本輪未讀正文，不是本站驗證。",
+    "authors": [
+      "Ali Moin-Afshari"
+    ],
+    "published": "2014-12-21",
+    "dateNoteZh": "此頁刊登日；頁末註明原刊於 Van Tharp 電子報 2013-07-10。",
+    "keyPointsZh": [
+      "進場、出場與部位是否立即反手，都是不同的研究選擇，不能只改進場價便宣稱系統改善。"
+    ],
+    "limitsZh": "文中的比例與價位是作者歷史示例，沒有本站回測、成本或當前適用性驗證。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/guest-traders/band-based-trading-systems/"
+      ],
+      "accessMethod": "實際讀取英文客座正文與日期",
+      "scope": "Trade Frequency、Timing Better Entries、Filtering Out Noise 至 Conclusion；未實作策略。"
+    },
+    "shortExcerpt": {
+      "en": "Timing rules usually improve execution but they do not always improve a trading system’s performance",
+      "zh": "時機規則通常能改善執行，卻不一定改善交易系統的績效。",
+      "scope": "作者接著以等待回檔而錯過快速突破解釋這項取捨。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Ali Moin-Afshari",
+    "attributionNoteZh": "Ali 客座系列的結篇，不是 Brooks 原課或本站研究策略的規則。"
   },
   {
     "id": "a38fbe527b13fd0335d4",
@@ -1828,6 +2416,9 @@
       "accessMethod": "實際讀取英文客座文章並核對署名、日期",
       "scope": "公開正文各節至 Appreciating the Challenge 結語；不含連結中的影音內容。"
     },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": [],
     "authorConfirmed": "Ali Moin-Afshari",
     "attributionNoteZh": "原頁署名 Ali，與既有索引的 Ali Moin-Afshari 歸屬一致；本文是客座文章，螺旋學習模型與練習建議不標成 Brooks 親筆教材。"
   },
@@ -1922,7 +2513,10 @@
       ],
       "accessMethod": "實際讀取英文官方正文",
       "scope": "公開正文至結語；課程僅作相關補讀。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "ab0f0d3ebcea2a71dde9",
@@ -2003,7 +2597,10 @@
       ],
       "accessMethod": "實際讀取英文官方頁面指定部分",
       "scope": "頁首至 Introduction 及招生狀態文字；未讀其餘全部課綱。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "ba75a0a9c3bb01bd0e3b",
@@ -2099,7 +2696,10 @@
       ],
       "accessMethod": "實際讀取英文官方公開課綱",
       "scope": "Getting Started、Charting Analysis、Market Cycle 起始項目；未宣稱全課綱已讀完。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "c0553d4a295ad2fd1da2",
@@ -2179,6 +2779,9 @@
       "accessMethod": "實際讀取英文原頁，核對標題下方作者、日期與全文",
       "scope": "作者、個人經歷、三項練習方法與結語；未核對文中付費影片。"
     },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": [],
     "authorCorrected": "Ankit Khound",
     "attributionNoteZh": "原頁作者為 Ankit Khound，文中轉述 Ali 的建議；舊索引將作者歸為 Ali，本版已在閱讀呈現層更正。"
   },
@@ -2255,7 +2858,10 @@
       ],
       "accessMethod": "實際讀取英文官方入口頁首",
       "scope": "PTM Recorded Sessions 介紹及年月命名；其他月份內容待續。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "c3708000578f39a35fe0",
@@ -2333,7 +2939,10 @@
       ],
       "accessMethod": "出版社搜尋索引公開預覽；直接開啟兩個官方入口均 403",
       "scope": "摘要、導言及部分資料段落；未取得付費全文。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "c5f7326765be153c6069",
@@ -2392,7 +3001,107 @@
       ],
       "accessMethod": "讀取原作者頁的公開搜尋索引選段；直接原頁取用失敗",
       "scope": "開頭與 Roadmap 指定文字；其他內容待取得。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
+  },
+  {
+    "id": "cfcac12d4a966a28c584",
+    "url": "https://www.brookstradingcourse.com/guest-traders/band-trading-works-part-1-trends/",
+    "sourceTitle": "Why Band Trading Works: Part 1 — Trends",
+    "titleZh": "帶狀交易（一）：先理解趨勢與反覆停損",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "Ali 從趨勢追蹤談起，比較盤中穿越均線、收盤穿越，以及加入均線方向的規則。均線較穩定，也會延遲；盤整可能反覆受挫，少數較大獲利則對整體結果重要。他的 Nasdaq 100 期貨示例假設零手續費、零滑價，不能直接視為可交易淨收益。",
+    "readScope": "已讀公開正文、均線規則、回測敘述與結語；未重建圖片數值或取得完整回測資料。",
+    "checked": "2026-10-30",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "ali-post-32566"
+      },
+      {
+        "kind": "review",
+        "id": "ali-post-32566"
+      }
+    ],
+    "resourceIds": [
+      "ali-post-32566"
+    ],
+    "legacyObservations": [
+      {
+        "id": "ali-post-32566",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [
+      {
+        "resourceId": "ali-post-32566",
+        "url": "https://www.brookstradingcourse.com/guest-traders/band-trading-works-part-1-trends/",
+        "sourceTitle": "Why Band Trading Works: Part 1 — Trends",
+        "sourceTitleZh": "帶狀交易（一）：先理解趨勢與反覆停損",
+        "checked": "2026-10-30",
+        "published": "2014-11-27",
+        "dateNoteZh": "此頁刊登日；頁末註明原刊於 Van Tharp 電子報 2013-06-12。",
+        "status": "body-summary",
+        "authorConfirmed": "Ali Moin-Afshari",
+        "attributionNoteZh": "Ali 客座系列，不指定為 Brooks 原課出處。",
+        "readScope": "已讀公開正文、均線規則、回測敘述與結語；未重建圖片數值或取得完整回測資料。",
+        "summaryZh": "Ali 從趨勢追蹤談起，比較盤中穿越均線、收盤穿越，以及加入均線方向的規則。均線較穩定，也會延遲；盤整可能反覆受挫，少數較大獲利則對整體結果重要。他的 Nasdaq 100 期貨示例假設零手續費、零滑價，不能直接視為可交易淨收益。",
+        "keyPointsZh": [
+          "原文約 30% 勝率與 100:30 比值是作者示例，不能移作本站策略門檻。"
+        ],
+        "editorNotesZh": [
+          "本站算式校註：若勝率恰為 30%，忽略成本，損益平衡的平均獲利／平均虧損為 70/30，須高於此值才有正期望；100/30 是更高的比值，並非最低必要值。這是算式核對，沒有改寫作者原數字。"
+        ],
+        "limitsZh": "原文未提供完整資料與測試細節；不代表微台、BTC 或當前市場已驗證。",
+        "shortExcerpt": {
+          "en": "For this test, I assumed zero slippage and zero transaction fees.",
+          "zh": "這次測試，我假設滑價為零，交易費用也為零。",
+          "scope": "作者介紹其十年 Nasdaq 100 期貨回測時的成本假設。"
+        },
+        "evidence": {
+          "urls": [
+            "https://www.brookstradingcourse.com/guest-traders/band-trading-works-part-1-trends/"
+          ],
+          "accessMethod": "實際讀取英文客座正文與原刊日期說明",
+          "scope": "Trend Trading、均線訊號、Results Profile 及 Summary；圖表數值未重建。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "titleNote": "「有效」為作者原標題論點；本輪未讀正文，不是本站驗證。",
+    "authors": [
+      "Ali Moin-Afshari"
+    ],
+    "published": "2014-11-27",
+    "dateNoteZh": "此頁刊登日；頁末註明原刊於 Van Tharp 電子報 2013-06-12。",
+    "keyPointsZh": [
+      "原文約 30% 勝率與 100:30 比值是作者示例，不能移作本站策略門檻。"
+    ],
+    "limitsZh": "原文未提供完整資料與測試細節；不代表微台、BTC 或當前市場已驗證。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/guest-traders/band-trading-works-part-1-trends/"
+      ],
+      "accessMethod": "實際讀取英文客座正文與原刊日期說明",
+      "scope": "Trend Trading、均線訊號、Results Profile 及 Summary；圖表數值未重建。"
+    },
+    "shortExcerpt": {
+      "en": "For this test, I assumed zero slippage and zero transaction fees.",
+      "zh": "這次測試，我假設滑價為零，交易費用也為零。",
+      "scope": "作者介紹其十年 Nasdaq 100 期貨回測時的成本假設。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [
+      "本站算式校註：若勝率恰為 30%，忽略成本，損益平衡的平均獲利／平均虧損為 70/30，須高於此值才有正期望；100/30 是更高的比值，並非最低必要值。這是算式核對，沒有改寫作者原數字。"
+    ],
+    "authorConfirmed": "Ali Moin-Afshari",
+    "attributionNoteZh": "Ali 客座系列，不指定為 Brooks 原課出處。"
   },
   {
     "id": "d91695d26b55824a5afc",
@@ -2470,7 +3179,10 @@
       ],
       "accessMethod": "實際讀取英文原作者文章",
       "scope": "公開正文至下載與首次發表說明；未取得下載檔內容。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "da3162e2ea6c958819af",
@@ -2546,7 +3258,10 @@
       ],
       "accessMethod": "讀取官方搜尋索引選段；直接原頁 403",
       "scope": "問題與首段停損回答；其餘未取得。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "dfafe0282e69d429a562",
@@ -2616,7 +3331,10 @@
       ],
       "accessMethod": "web.open 失敗；精確 ID 搜尋無結果。",
       "scope": "沒有新取得的影片內容；英文標題沿用既有索引，非本輪影片頁驗證。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "ea097b1f9392051cff5f",
@@ -2680,7 +3398,10 @@
       ],
       "accessMethod": "實際讀取英文原作者完整公開正文",
       "scope": "五項線索、誤判、FAQ 至結語；外連教材未計入。"
-    }
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": []
   },
   {
     "id": "1d596485e1eff3e7a57f",
@@ -5037,196 +5758,6 @@
     "titleNote": "",
     "authors": [
       "Adam Grimes／MarketLife"
-    ]
-  },
-  {
-    "id": "c8019364ae9f42cbe62b",
-    "url": "https://wadetradingacademy.com/",
-    "sourceTitle": "Wade Trading Academy 官方入口",
-    "titleZh": "Wade 交易學院官方入口",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "discovery-thomas-wade-3"
-      },
-      {
-        "kind": "article-source",
-        "id": "practice-replay-evidence",
-        "index": 0
-      },
-      {
-        "kind": "discovery-material",
-        "id": "thomas-wade",
-        "index": 2
-      }
-    ],
-    "resourceIds": [
-      "discovery-thomas-wade-3"
-    ],
-    "legacyObservations": [
-      {
-        "id": "discovery-thomas-wade-3",
-        "scope": "免費訓練入口；premium 會員付費，首頁本次標示 37 美元／月，方案以結帳頁為準。 付費預錄教育、社群、市場分析與 Q&A；首頁說明 live trading community，但未核對固定直播時間或完整回放權限。 使用無 www 的可取回官網；www 版本本次工具無法存取。 本輪未逐部完整觀看或核實真實成交。",
-        "checked": "2026-10-24"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Thomas Wade／Wade Trading Academy"
-    ]
-  },
-  {
-    "id": "ccf6f3e4c6c3a4e581cc",
-    "url": "https://www.youtube.com/watch?v=PMLtztWcpGg",
-    "sourceTitle": "Coding for Price Action Trading Systems, Part 1",
-    "titleZh": "價格行為交易系統的程式設計，第一部分",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-PMLtztWcpGg"
-      }
-    ],
-    "resourceIds": [
-      "yt-PMLtztWcpGg"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-PMLtztWcpGg",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "cda7ae02b3e4753e79f8",
-    "url": "https://www.youtube.com/watch?v=FjxhAbtnKc0",
-    "sourceTitle": "Emini End of Day Review - Brad Wolff - Q&A - When to stop?",
-    "titleZh": "E-mini 盤後檢視：Brad Wolff 問答——何時停止？",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-FjxhAbtnKc0"
-      }
-    ],
-    "resourceIds": [
-      "yt-FjxhAbtnKc0"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-FjxhAbtnKc0",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "d0248cce1a1760b577a6",
-    "url": "https://tradertom.com/youtube/",
-    "sourceTitle": "TraderTom YouTube 直播與錄影索引",
-    "titleZh": "TraderTom 的 YouTube 直播與錄影索引",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "discovery-tradertom-2"
-      },
-      {
-        "kind": "discovery-material",
-        "id": "tradertom",
-        "index": 1
-      }
-    ],
-    "resourceIds": [
-      "discovery-tradertom-2"
-    ],
-    "legacyObservations": [
-      {
-        "id": "discovery-tradertom-2",
-        "scope": "免費公開入口。 可選 Live Streaming／Day Trading／Scalping／Psychology 等；搜尋擷取列出多個約 1–2 小時以上錄影。 屬可觀察盤中連續流程的候選；未確認每部都涵蓋整個 EU 或 US 交易時段。 本輪未逐部完整觀看或核實真實成交。",
-        "checked": "2026-10-24"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Tom Hougaard／TraderTom"
-    ]
-  },
-  {
-    "id": "d4b4e7b4bbb29d8af8a8",
-    "url": "https://www.learntotradethemarket.com/forex-trading-course",
-    "sourceTitle": "Professional Price Action Trading Mastery Course",
-    "titleZh": "精通專業價格行為交易課程",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "discovery-nial-fuller-1"
-      },
-      {
-        "kind": "discovery-material",
-        "id": "nial-fuller",
-        "index": 0
-      }
-    ],
-    "resourceIds": [
-      "discovery-nial-fuller-1"
-    ],
-    "legacyObservations": [
-      {
-        "id": "discovery-nial-fuller-1",
-        "scope": "本次官網明列 100% Free Access／Life-Time Membership／No Hidden Fees；需 Sign Up。未代為註冊。 三部分自學課、預錄影片與文章會員庫；沒有從公開頁確認固定盤中直播或完整交易日回放。 現價性質與舊評價不同：不能繼續標成原本付費課。課綱主打 end-of-day、低頻，包含 1h／4h／daily。 本輪未逐部完整觀看或核實真實成交。",
-        "checked": "2026-10-24"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Nial Fuller／Learn To Trade The Market"
     ]
   }
 ]

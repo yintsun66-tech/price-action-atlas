@@ -2,6 +2,74 @@
   "version": 1,
   "batches": [
     {
+      "id": "translation-batch9-20261030",
+      "collected": "2026-10-30",
+      "updated": "2026-10-30",
+      "timezone": "Asia/Taipei",
+      "description": "七個既有英文來源續讀：五篇正文摘要、Brooks 六詞條與臺灣當沖論文指定文字；英文短句收合，中文優先。",
+      "sources": [
+        "ali-post-29229",
+        "ali-post-32566",
+        "ali-post-32827",
+        "ali-post-33160",
+        "ali-post-33533",
+        "b-glossary",
+        "r-traders"
+      ],
+      "articles": [],
+      "decisions": [
+        {
+          "source": "Visual Learning as Tool to Structure Profitable Trading Behavior",
+          "url": "https://www.brookstradingcourse.com/guest-traders/visual-learning-helps-structure-profitable-trading-behavior/",
+          "status": "採用正文摘要",
+          "reason": "已讀公開正文、主動訓練清單及結語；未重製原圖、觀看付費課或核驗外連研究。"
+        },
+        {
+          "source": "Why Band Trading Works: Part 1 — Trends",
+          "url": "https://www.brookstradingcourse.com/guest-traders/band-trading-works-part-1-trends/",
+          "status": "採用正文摘要",
+          "reason": "已讀公開正文、均線規則、回測敘述與結語；未重建圖片數值或取得完整回測資料。"
+        },
+        {
+          "source": "Why Band Trading Works: Part 2 — Bands",
+          "url": "https://www.brookstradingcourse.com/guest-traders/why-band-trading-works-part-2-bands/",
+          "status": "採用正文摘要",
+          "reason": "已讀公開正文、圖說、改良帶程式文字與原刊說明；未執行程式或重現行情圖。"
+        },
+        {
+          "source": "Why Band Trading Works: Part 3 — Superiority of Standard Error Bands",
+          "url": "https://www.brookstradingcourse.com/guest-traders/band-trading-superiority-of-standard-error-bands/",
+          "status": "採用正文摘要",
+          "reason": "已讀公開正文、帶寬解讀、參數示例與結語；未重新計算指標或重現圖表。"
+        },
+        {
+          "source": "Why Band Trading Works: Part 4 — Band Based Trading Systems",
+          "url": "https://www.brookstradingcourse.com/guest-traders/band-based-trading-systems/",
+          "status": "採用正文摘要",
+          "reason": "已讀交易頻率、進場時機、雜訊過濾與結語全文；未重製原圖或測試策略。"
+        },
+        {
+          "source": "Glossary of terms for price action trading",
+          "url": "https://www.brookstradingcourse.com/price-action-trading-terms-glossary/",
+          "status": "補讀既有部分內容",
+          "reason": "保留前批背景、突破與方向機率選讀；本批續讀交易設定、訊號棒、進場棒、後續延續、第二次進場、風險距離六詞條。其餘詞條未逐項整理。"
+        },
+        {
+          "source": "Overconfident Individual Day Traders: Evidence from the Taiwan Futures Market",
+          "url": "https://hub.hku.hk/bitstream/10722/184789/1/content.pdf",
+          "status": "補讀既有部分內容",
+          "reason": "保留前批 PDF 第 1–6 頁；本批續讀第 3 節與第 4.1–4.6 節指定文字（PDF 第 9–21 頁一帶）。未核對全部附表、4.7 節及其後內容，維持部分摘要。"
+        }
+      ],
+      "notes": [
+        "全部七個網址已在來源清單，不重複新增來源卡或灌增網址總數。",
+        "五篇 Ali 客座文章未標作 Brooks 親筆或付費課來源；沒有讀取付費內容。",
+        "原文百分比、優越性與心理學主張分列作者立場及本站校註，不當作樣本外績效。",
+        "原 62 篇文章、16 筆社群來源及兩組筆記鍵保留。",
+        "08A、33A 依官方公開課綱及單元頁題名核對，只列相關補讀。"
+      ]
+    },
+    {
       "id": "content-batch8-20261030",
       "collected": "2026-10-29",
       "updated": "2026-10-30",

@@ -1,5 +1,195 @@
 [
   {
+    "id": "c8019364ae9f42cbe62b",
+    "url": "https://wadetradingacademy.com/",
+    "sourceTitle": "Wade Trading Academy 官方入口",
+    "titleZh": "Wade 交易學院官方入口",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "discovery-thomas-wade-3"
+      },
+      {
+        "kind": "article-source",
+        "id": "practice-replay-evidence",
+        "index": 0
+      },
+      {
+        "kind": "discovery-material",
+        "id": "thomas-wade",
+        "index": 2
+      }
+    ],
+    "resourceIds": [
+      "discovery-thomas-wade-3"
+    ],
+    "legacyObservations": [
+      {
+        "id": "discovery-thomas-wade-3",
+        "scope": "免費訓練入口；premium 會員付費，首頁本次標示 37 美元／月，方案以結帳頁為準。 付費預錄教育、社群、市場分析與 Q&A；首頁說明 live trading community，但未核對固定直播時間或完整回放權限。 使用無 www 的可取回官網；www 版本本次工具無法存取。 本輪未逐部完整觀看或核實真實成交。",
+        "checked": "2026-10-24"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Thomas Wade／Wade Trading Academy"
+    ]
+  },
+  {
+    "id": "ccf6f3e4c6c3a4e581cc",
+    "url": "https://www.youtube.com/watch?v=PMLtztWcpGg",
+    "sourceTitle": "Coding for Price Action Trading Systems, Part 1",
+    "titleZh": "價格行為交易系統的程式設計，第一部分",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-PMLtztWcpGg"
+      }
+    ],
+    "resourceIds": [
+      "yt-PMLtztWcpGg"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-PMLtztWcpGg",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Ali／Quant Systems 頻道"
+    ]
+  },
+  {
+    "id": "cda7ae02b3e4753e79f8",
+    "url": "https://www.youtube.com/watch?v=FjxhAbtnKc0",
+    "sourceTitle": "Emini End of Day Review - Brad Wolff - Q&A - When to stop?",
+    "titleZh": "E-mini 盤後檢視：Brad Wolff 問答——何時停止？",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-FjxhAbtnKc0"
+      }
+    ],
+    "resourceIds": [
+      "yt-FjxhAbtnKc0"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-FjxhAbtnKc0",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "d0248cce1a1760b577a6",
+    "url": "https://tradertom.com/youtube/",
+    "sourceTitle": "TraderTom YouTube 直播與錄影索引",
+    "titleZh": "TraderTom 的 YouTube 直播與錄影索引",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "discovery-tradertom-2"
+      },
+      {
+        "kind": "discovery-material",
+        "id": "tradertom",
+        "index": 1
+      }
+    ],
+    "resourceIds": [
+      "discovery-tradertom-2"
+    ],
+    "legacyObservations": [
+      {
+        "id": "discovery-tradertom-2",
+        "scope": "免費公開入口。 可選 Live Streaming／Day Trading／Scalping／Psychology 等；搜尋擷取列出多個約 1–2 小時以上錄影。 屬可觀察盤中連續流程的候選；未確認每部都涵蓋整個 EU 或 US 交易時段。 本輪未逐部完整觀看或核實真實成交。",
+        "checked": "2026-10-24"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Tom Hougaard／TraderTom"
+    ]
+  },
+  {
+    "id": "d4b4e7b4bbb29d8af8a8",
+    "url": "https://www.learntotradethemarket.com/forex-trading-course",
+    "sourceTitle": "Professional Price Action Trading Mastery Course",
+    "titleZh": "精通專業價格行為交易課程",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "discovery-nial-fuller-1"
+      },
+      {
+        "kind": "discovery-material",
+        "id": "nial-fuller",
+        "index": 0
+      }
+    ],
+    "resourceIds": [
+      "discovery-nial-fuller-1"
+    ],
+    "legacyObservations": [
+      {
+        "id": "discovery-nial-fuller-1",
+        "scope": "本次官網明列 100% Free Access／Life-Time Membership／No Hidden Fees；需 Sign Up。未代為註冊。 三部分自學課、預錄影片與文章會員庫；沒有從公開頁確認固定盤中直播或完整交易日回放。 現價性質與舊評價不同：不能繼續標成原本付費課。課綱主打 end-of-day、低頻，包含 1h／4h／daily。 本輪未逐部完整觀看或核實真實成交。",
+        "checked": "2026-10-24"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Nial Fuller／Learn To Trade The Market"
+    ]
+  },
+  {
     "id": "d714c5fa54bb85e54c71",
     "url": "https://www.youtube.com/watch?v=XjQ6BnFWCbI",
     "sourceTitle": "Brad Wolff - Trading Room Sample - Wednesday 1400-1630 ET",
@@ -3018,150 +3208,6 @@
       {
         "id": "yt-iSvAj6Zm2tY",
         "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "08c3bfce5c14eb665e72",
-    "url": "https://articles.stockcharts.com/article/articles-wyckoff-2015-12-the-illustrated-wyckoff/",
-    "sourceTitle": "The Illustrated Wyckoff",
-    "titleZh": "The Illustrated Wyckoff",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "article-source",
-        "id": "wyckoff-effort",
-        "index": 0
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
-  },
-  {
-    "id": "08c6c6e615d9874ea153",
-    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-06-personality-traits-of-successful-traders/",
-    "sourceTitle": "交易者特質",
-    "titleZh": "交易者特質",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "交易者特質"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
-  },
-  {
-    "id": "08e5a110b7b159353cee",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-follow-through-buying-bulls-want-2nd-leg-up/",
-    "sourceTitle": "Emini Follow-through Buying Bulls Want 2nd Leg Up",
-    "titleZh": "Brad 日內案例｜2025-04-02｜回檔與第二段",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-233696"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-233696"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-233696",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "08e6d1f0f473cda0a1f4",
-    "url": "https://www.youtube.com/watch?v=11q8CwB1nn0",
-    "sourceTitle": "Rose – Using Encyclopedia on Trading Range Days",
-    "titleZh": "Brooks 共享影片｜區間與通道",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-11q8CwB1nn0"
-      }
-    ],
-    "resourceIds": [
-      "yt-11q8CwB1nn0"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-11q8CwB1nn0",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "08e9b6134455fdc7d818",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-3-consecutive-bull-trend-bars/",
-    "sourceTitle": "Emini 3 Consecutive Bull Trend Bars",
-    "titleZh": "Brad 日內案例｜2023-02-03｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-169505"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-169505"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-169505",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }
     ],

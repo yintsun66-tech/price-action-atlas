@@ -1,5 +1,38 @@
 [
   {
+    "id": "c941e2adfa151c7d4189",
+    "url": "https://www.youtube.com/watch?v=lg7P7zkPj4s",
+    "sourceTitle": "Patterns on the Open - futures.io Webinar October 30, 2018",
+    "titleZh": "Brooks 共享影片｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-lg7P7zkPj4s"
+      }
+    ],
+    "resourceIds": [
+      "yt-lg7P7zkPj4s"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-lg7P7zkPj4s",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "c95fd149c84be2033ab7",
     "url": "https://www.brookstradingcourse.com/analysis/emini-2nd-leg-down-to-moving-average-likely/",
     "sourceTitle": "Emini 2nd Leg Down to Moving Average Likely",
@@ -1463,40 +1496,6 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": []
-  },
-  {
-    "id": "cfcac12d4a966a28c584",
-    "url": "https://www.brookstradingcourse.com/guest-traders/band-trading-works-part-1-trends/",
-    "sourceTitle": "Why Band Trading Works: Part 1 — Trends",
-    "titleZh": "為什麼帶狀交易有效：第一部分，趨勢",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "ali-post-32566"
-      }
-    ],
-    "resourceIds": [
-      "ali-post-32566"
-    ],
-    "legacyObservations": [
-      {
-        "id": "ali-post-32566",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "「有效」為作者原標題論點；本輪未讀正文，不是本站驗證。",
-    "authors": [
-      "Ali Moin-Afshari"
-    ]
   },
   {
     "id": "cfd145fd550ae6aacc0b",

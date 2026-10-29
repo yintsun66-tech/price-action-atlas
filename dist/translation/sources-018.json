@@ -1,5 +1,39 @@
 [
   {
+    "id": "bee04c789d2a330cbce7",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-buyers-below-yesterdays-low-1/",
+    "sourceTitle": "E-mini Buyers Below Yesterday’s Low 1",
+    "titleZh": "E-mini：昨日低一（Low 1）下方有買方",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-271375"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-271375"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-271375",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "原題為 Yesterday’s Low 1，保留 Low 1 用語，不擅自改為昨日最低價。",
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "bf0ae9c0ba610abb4162",
     "url": "https://chatwithtraders.com/episode/115-adam-grimes-what-hand-traders-can-learn-from-system-traders-and-vice-versa",
     "sourceTitle": "115: Adam Grimes — What Hand Traders Can Learn From System Traders, and Vice Versa",
@@ -3122,39 +3156,6 @@
     "legacyObservations": [
       {
         "id": "yt-STipSvmBEXw",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "c941e2adfa151c7d4189",
-    "url": "https://www.youtube.com/watch?v=lg7P7zkPj4s",
-    "sourceTitle": "Patterns on the Open - futures.io Webinar October 30, 2018",
-    "titleZh": "Brooks 共享影片｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-lg7P7zkPj4s"
-      }
-    ],
-    "resourceIds": [
-      "yt-lg7P7zkPj4s"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-lg7P7zkPj4s",
         "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
         "checked": "2026-10-22"
       }

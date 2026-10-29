@@ -1,5 +1,38 @@
 [
   {
+    "id": "b41ecc31fd8236309112",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-second-leg-up-likely-2/",
+    "sourceTitle": "Emini Second Leg Up Likely after Complex Bottom",
+    "titleZh": "Brad 日內案例｜2023-10-13｜回檔與第二段",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-191929"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-191929"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-191929",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "b41f67c2676dc8312b5e",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-bears-failing-to-get-downside-breakout/",
     "sourceTitle": "E-mini Bears Failing To Get Downside Breakout",
@@ -3181,40 +3214,6 @@
     "courseRefs": [],
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "bee04c789d2a330cbce7",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-buyers-below-yesterdays-low-1/",
-    "sourceTitle": "E-mini Buyers Below Yesterday’s Low 1",
-    "titleZh": "E-mini：昨日低一（Low 1）下方有買方",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-271375"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-271375"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-271375",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "原題為 Yesterday’s Low 1，保留 Low 1 用語，不擅自改為昨日最低價。",
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

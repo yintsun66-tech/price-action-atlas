@@ -1,5 +1,72 @@
 [
   {
+    "id": "5a3f1e3f9b7fd7929309",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-want-2nd-leg-up/",
+    "sourceTitle": "E-mini Bulls Want 2nd Leg Up",
+    "titleZh": "E-mini：多方希望出現第二段上漲",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-277916"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-277916"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-277916",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "5a5c506d0ff0ee2188c9",
+    "url": "https://www.quantsystems.ca/course/cad-essentials",
+    "sourceTitle": "Context Analysis Dashboard: Essentials",
+    "titleZh": "CAD Essentials｜背景研究工具",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "qs-cad-essentials"
+      }
+    ],
+    "resourceIds": [
+      "qs-cad-essentials"
+    ],
+    "legacyObservations": [
+      {
+        "id": "qs-cad-essentials",
+        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Ali Moin-Afshari／Quant Systems"
+    ]
+  },
+  {
     "id": "5a645f9c546cbf006bc4",
     "url": "https://www.brookstradingcourse.com/analysis/emini-likely-to-rally/",
     "sourceTitle": "Emini likely to rally after reaching 20% correction",
@@ -3130,72 +3197,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-223906",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "645b954b1fcc38db8954",
-    "url": "https://www.brookstradingcourse.com/analysis/market-update/emini-stalling-at-november-and-december-highs/",
-    "sourceTitle": "Emini stalling at November and December highs",
-    "titleZh": "Brad 日內案例｜2022-01-13｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-141309"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-141309"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-141309",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "64875775f80a7bcacbb5",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-second-leg-up-to-august-high/",
-    "sourceTitle": "Emini Second Leg Up to August High",
-    "titleZh": "Brad 日內案例｜2023-06-13｜回檔與第二段",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-180550"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-180550"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-180550",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

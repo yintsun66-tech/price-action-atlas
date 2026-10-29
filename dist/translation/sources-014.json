@@ -1,5 +1,72 @@
 [
   {
+    "id": "930d1f074f73ef9907f6",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-profit-taking-likely-2/",
+    "sourceTitle": "Emini Profit Taking Likely",
+    "titleZh": "Brad 日內案例｜2025-07-07｜風險與退出",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-243062"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-243062"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-243062",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "934da0305a02b18c63a9",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-getting-strong-reversal-up-from-september-low/",
+    "sourceTitle": "E-mini Bulls Getting Strong Reversal Up From September Low",
+    "titleZh": "E-mini：多方從九月低點強勢向上反轉",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-277113"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-277113"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-277113",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "93577e33ed8d38396f07",
     "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-21a-reversals/",
     "sourceTitle": "反轉",
@@ -2841,40 +2908,6 @@
     ]
   },
   {
-    "id": "9dca89fa57b796c5de55",
-    "url": "https://www.brookstradingcourse.com/guest-traders/band-based-trading-systems/",
-    "sourceTitle": "Why band trading works: Part 4 Band based trading systems",
-    "titleZh": "為什麼帶狀交易有效：第四部分，帶狀交易系統",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "ali-post-33533"
-      }
-    ],
-    "resourceIds": [
-      "ali-post-33533"
-    ],
-    "legacyObservations": [
-      {
-        "id": "ali-post-33533",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "「有效」為作者原標題論點；本輪未讀正文，不是本站驗證。",
-    "authors": [
-      "Ali Moin-Afshari"
-    ]
-  },
-  {
     "id": "9e0625784501f8936ef9",
     "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-disappointment-soon/",
     "sourceTitle": "Emini Bulls Disappointment Likely Soon",
@@ -3137,39 +3170,6 @@
     "courseRefs": [],
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "9eba2b1ab6f6d8071f1d",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-move-100-points-higher/",
-    "sourceTitle": "Emini likely to go 100 points higher and reach 3,800",
-    "titleZh": "Brad 日內案例｜2022-06-21｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-153803"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-153803"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-153803",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]
