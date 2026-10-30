@@ -1,0 +1,13 @@
+const fs=require('node:fs'),path=require('node:path'),crypto=require('node:crypto');
+const root=path.resolve(__dirname,'..'),dist=path.join(root,'dist'),reviews=require('./zh-core-source-reviews-11.json');
+const target=url=>'#translation-source-'+crypto.createHash('sha256').update(new URL(url).href).digest('hex').slice(0,20);
+const note='<!-- READING_BATCH15_NOTE -->\n <div class="card translation-coverage-note"><strong>本批續譯：停損觸發與棒內成交。</strong><p><a href="'+target(reviews[0].url)+'">CME：委託類型與價格保護</a> · <a href="'+target(reviews[1].url)+'">TradingView：棒內放大回測的覆蓋限制</a>。兩筆實讀官方英文正文，提供繁中摘要、術語與必要短句；未把頁面影片或程式測試列為完成。</p><p>搭配閱讀：<a href="#read/pa3-stop-execution">停損觸發之後</a> → <a href="#read/pp2-intrabar-path">棒內路徑與回測</a>。長文保留單欄大字，收整英文展開區、段落留白與標題層次；筆記及已讀紀錄沿用。</p></div>\n';
+const sectionFile=path.join(__dirname,'translation-section.html');let section=fs.readFileSync(sectionFile,'utf8');
+if(!section.includes('<!-- READING_BATCH15_NOTE -->'))section=section.replace('<!-- CONTENT_BATCH14_NOTE -->',note+'<!-- CONTENT_BATCH14_NOTE -->');
+section=section.replace(/(<!-- CONTENT_BATCH14_NOTE -->\s*)<div class="card translation-coverage-note">([\s\S]*?)<\/div>/,'$1<details class="card translation-coverage-note"><summary>前批：觸發、反例與圖表參數</summary>$2</details>');fs.writeFileSync(sectionFile,section);
+const indexFile=path.join(dist,'index.html');let html=fs.readFileSync(indexFile,'utf8');
+if(!html.includes('reading-comfort.css'))html=html.replace(/(<link rel="stylesheet" href="learning-paths\.css[^>]+>)/,'$1\n<link rel="stylesheet" href="reading-comfort.css?v=20261030read2">');
+const marker='<!-- READING_BATCH15_UPDATE -->';if(!html.includes(marker))html=html.replace('<!-- CONTENT_BATCH14_UPDATE -->',marker+'<a class="discovery-update" href="'+target(reviews[0].url)+'"><span>10.30 續譯與閱讀優化</span><strong>停損觸發、棒內回測：把成交條件讀清楚</strong><span>閱讀官方來源摘要 →</span></a>\n<!-- CONTENT_BATCH14_UPDATE -->');fs.writeFileSync(indexFile,html);
+const file=path.join(dist,'reading/content-updates.json'),log=JSON.parse(fs.readFileSync(file,'utf8'));
+const entry={id:'reading-batch15-20261030',collected:'2026-10-30',updated:'2026-10-30',timezone:'Asia/Taipei',description:'兩筆既有英文來源續譯，另改善長文的字體、段落節奏與英文原文展開區。',sources:reviews.map(r=>r.resourceId),articles:[],decisions:reviews.map(r=>({source:r.sourceTitle,url:r.url,status:'既有待讀來源完成指定正文摘要',reason:r.readScope})),notes:['兩筆從待讀轉為正文摘要，不新增重複來源；未觀看影片或執行程式。','一分鐘棒仍有分鐘內路徑不明；本站推論與來源主張分列。','不變更 62 個原始文章內容與筆記資料格式。','閱讀維持桌機 22px、手機 20px；較輕的英文揭露列仍可完整展開。','全站翻譯仍未完成；其餘來源照實分列待處理。']};log.batches=[entry,...log.batches.filter(b=>b.id!==entry.id)];fs.writeFileSync(file,JSON.stringify(log,null,2)+'\n');
+console.log(JSON.stringify({reviewed:reviews.length,edition:'20261030zh10',preservedArticlePayloads:62}));

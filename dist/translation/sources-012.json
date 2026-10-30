@@ -1,5 +1,39 @@
 [
   {
+    "id": "799093087d5e11f99e1b",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-breaking-above-june-all-time-high/",
+    "sourceTitle": "E-mini Bulls Breaking above June All-Time High",
+    "titleZh": "E-mini：多方突破六月的歷史高點",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-274589"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-274589"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-274589",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "79b98dac1ec5111414f8",
     "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-disappointed-with-close-on-low/",
     "sourceTitle": "Emini bulls disappointed with yesterday’s close on low",
@@ -3132,39 +3166,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "87238f07b8cda4447f92",
-    "url": "https://www.quantsystems.ca/course/ptm-202407",
-    "sourceTitle": "QuantSystem's Pro Trader Mentoring",
-    "titleZh": "PTM 月課綱｜2024/07",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "qs-ptm-202407"
-      }
-    ],
-    "resourceIds": [
-      "qs-ptm-202407"
-    ],
-    "legacyObservations": [
-      {
-        "id": "qs-ptm-202407",
-        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Ali Moin-Afshari／Quant Systems"
     ]
   }
 ]

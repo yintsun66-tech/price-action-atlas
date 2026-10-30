@@ -1,5 +1,38 @@
 [
   {
+    "id": "9e6af8cc29d268660a9c",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-strong-follow-through-2/",
+    "sourceTitle": "Emini Bulls Strong Follow-through Bar Wanted Today",
+    "titleZh": "Brad 日內案例｜2022-08-26｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-158909"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-158909"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-158909",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "9e7f8ce02a1be5fe8af8",
     "url": "https://www.youtube.com/watch?v=89_MCGCAAB8",
     "sourceTitle": "Recap for 2010-03-11 and Outlook for 2010-03-12",
@@ -3179,39 +3212,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-178936",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "aa3ea4a15da0a32aed59",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-likely-to-bounce-after-yesterdays-sell-climax/",
-    "sourceTitle": "E-mini Likely to Bounce After Yesterday’s Sell Climax",
-    "titleZh": "Brad 日內案例｜2025-11-21｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-255261"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-255261"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-255261",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

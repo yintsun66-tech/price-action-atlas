@@ -893,6 +893,116 @@
     "editorNotesZh": []
   },
   {
+    "id": "25faf673657a9f0d88ec",
+    "url": "https://www.cmegroup.com/education/courses/things-to-know-before-trading-cme-futures/futures-order-types",
+    "sourceTitle": "Futures Order Types",
+    "titleZh": "期貨委託類型：觸發、價格保護與成交分開看",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "芝商所集團 的教學區分市價轉限價、具保護範圍的市價、限價與停損委託。限價限定可接受的最差價格，行情離開時仍可能未成交；停損需先觸發，再依類型轉為限價或受保護市價。單日有效與取消前有效，另決定委託存續時間。",
+    "readScope": "已讀公開教學文字的市價、限價、停損及有效時間四節；未觀看頁面影片、未讀外連細則，沒有把影片列為完成。",
+    "checked": "2026-10-30",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "pa3-stop-execution",
+        "index": 0
+      },
+      {
+        "kind": "review",
+        "id": "source-cme-futures-order-types"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-cme-futures-order-types",
+        "url": "https://www.cmegroup.com/education/courses/things-to-know-before-trading-cme-futures/futures-order-types",
+        "sourceTitle": "Futures Order Types",
+        "sourceTitleZh": "期貨委託類型：觸發、價格保護與成交分開看",
+        "authorConfirmed": "芝商所集團（官方教育頁；正文未列個人署名）",
+        "published": null,
+        "checked": "2026-10-30",
+        "status": "body-summary",
+        "readScope": "已讀公開教學文字的市價、限價、停損及有效時間四節；未觀看頁面影片、未讀外連細則，沒有把影片列為完成。",
+        "summaryZh": "芝商所集團 的教學區分市價轉限價、具保護範圍的市價、限價與停損委託。限價限定可接受的最差價格，行情離開時仍可能未成交；停損需先觸發，再依類型轉為限價或受保護市價。單日有效與取消前有效，另決定委託存續時間。",
+        "keyPointsZh": [
+          "市價轉限價若只部分成交，剩餘數量會以指定限價留在委託簿。",
+          "限價可以成交在更好價格，卻不保證一定成交。",
+          "停損觸發價與觸發後委託的可成交範圍須分開讀。"
+        ],
+        "shortExcerpt": {
+          "en": "must be triggered by a trade",
+          "zh": "必須先由一筆市場成交觸發。",
+          "scope": "僅對應本頁描述的 芝商所集團 停損委託；不是所有市場、平台的通用觸發規則。"
+        },
+        "termNotes": [
+          {
+            "en": "market limit order",
+            "zh": "市價轉限價委託",
+            "note": "先按可得價格執行；本頁另說明部分成交後，剩餘數量轉為限價。"
+          },
+          {
+            "en": "stop-limit",
+            "zh": "停損限價委託",
+            "note": "觸發後成為限價委託；觸發本身不是成交回報。"
+          }
+        ],
+        "editorNotesZh": [
+          "本站校註：本頁描述 芝商所集團 的設計。微台、Binance 的觸發依據、保護範圍與券商支援須另查；本次沒有核驗個別商品細則。"
+        ],
+        "limitsZh": "發布日未確認；官方第一手說明可用來理解 芝商所集團 委託語意，沒有獨立學習成效評分。交易所教育內容並非策略獲利證明；未取得全文翻譯授權，僅提供短摘要。",
+        "evidence": {
+          "urls": [
+            "https://www.cmegroup.com/education/courses/things-to-know-before-trading-cme-futures/futures-order-types"
+          ],
+          "accessMethod": "實際讀取英文官方公開教學正文",
+          "scope": "Market Order、Limit Order、Stop Order、Time Limits 的文字；影片、外連細則與頁尾測驗未納入摘要。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "published": null,
+    "dateNoteZh": "",
+    "keyPointsZh": [
+      "市價轉限價若只部分成交，剩餘數量會以指定限價留在委託簿。",
+      "限價可以成交在更好價格，卻不保證一定成交。",
+      "停損觸發價與觸發後委託的可成交範圍須分開讀。"
+    ],
+    "limitsZh": "發布日未確認；官方第一手說明可用來理解 芝商所集團 委託語意，沒有獨立學習成效評分。交易所教育內容並非策略獲利證明；未取得全文翻譯授權，僅提供短摘要。",
+    "evidence": {
+      "urls": [
+        "https://www.cmegroup.com/education/courses/things-to-know-before-trading-cme-futures/futures-order-types"
+      ],
+      "accessMethod": "實際讀取英文官方公開教學正文",
+      "scope": "Market Order、Limit Order、Stop Order、Time Limits 的文字；影片、外連細則與頁尾測驗未納入摘要。"
+    },
+    "shortExcerpt": {
+      "en": "must be triggered by a trade",
+      "zh": "必須先由一筆市場成交觸發。",
+      "scope": "僅對應本頁描述的 芝商所集團 停損委託；不是所有市場、平台的通用觸發規則。"
+    },
+    "termNotes": [
+      {
+        "en": "market limit order",
+        "zh": "市價轉限價委託",
+        "note": "先按可得價格執行；本頁另說明部分成交後，剩餘數量轉為限價。"
+      },
+      {
+        "en": "stop-limit",
+        "zh": "停損限價委託",
+        "note": "觸發後成為限價委託；觸發本身不是成交回報。"
+      }
+    ],
+    "editorNotesZh": [
+      "本站校註：本頁描述 芝商所集團 的設計。微台、Binance 的觸發依據、保護範圍與券商支援須另查；本次沒有核驗個別商品細則。"
+    ],
+    "authorConfirmed": "芝商所集團（官方教育頁；正文未列個人署名）"
+  },
+  {
     "id": "30448c1eaa4bdc095d16",
     "url": "https://www.brookstradingcourse.com/guest-traders/band-trading-superiority-of-standard-error-bands/",
     "sourceTitle": "Why Band Trading Works: Part 3 — Superiority of Standard Error Bands",
@@ -4803,6 +4913,106 @@
     "editorNotesZh": []
   },
   {
+    "id": "e2423aa28aeb8cf07ffe",
+    "url": "https://www.tradingview.com/support/solutions/43000669285-what-is-bar-magnifier-backtesting-mode/",
+    "sourceTitle": "What is bar magnifier backtesting mode",
+    "titleZh": "棒內放大回測：較小週期資料如何改變進出場順序",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "棒內放大功能讓模擬器使用較小週期資料。官方例子中，進出場價不變，較小週期資料卻顯示同一根主圖 K 棒內先進場、再觸發停損。對照表目前列十分鐘圖使用一分鐘資料；較小週期最多請求二十萬根，較早交易可能未受此功能影響。",
+    "readScope": "已讀官方文字正文、週期對照表、開關功能的案例與二十萬根資料限制；未執行示例程式、未核驗原圖或付費功能。",
+    "checked": "2026-10-30",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "pp2-intrabar-path",
+        "index": 0
+      },
+      {
+        "kind": "review",
+        "id": "source-tv-bar-magnifier"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-tv-bar-magnifier",
+        "url": "https://www.tradingview.com/support/solutions/43000669285-what-is-bar-magnifier-backtesting-mode/",
+        "sourceTitle": "What is bar magnifier backtesting mode",
+        "sourceTitleZh": "棒內放大回測：較小週期資料如何改變進出場順序",
+        "authorConfirmed": "TradingView（官方支援文件；正文未列個人署名）",
+        "published": null,
+        "checked": "2026-10-30",
+        "status": "body-summary",
+        "readScope": "已讀官方文字正文、週期對照表、開關功能的案例與二十萬根資料限制；未執行示例程式、未核驗原圖或付費功能。",
+        "summaryZh": "棒內放大功能讓模擬器使用較小週期資料。官方例子中，進出場價不變，較小週期資料卻顯示同一根主圖 K 棒內先進場、再觸發停損。對照表目前列十分鐘圖使用一分鐘資料；較小週期最多請求二十萬根，較早交易可能未受此功能影響。",
+        "keyPointsZh": [
+          "相同主圖開高低收，仍可能因棒內先後順序而改變持有時間及出場。",
+          "二十萬根是較小週期資料的請求上限，不是每一張圖都保證涵蓋相同天數。",
+          "官方估算覆蓋區間的方式只是近似；每根主圖對應的小棒數可能不同。"
+        ],
+        "shortExcerpt": {
+          "en": "more similar to what would happen during forward testing",
+          "zh": "更接近同期間向前測試可能發生的情形。",
+          "scope": "原文使用比較語氣；沒有保證與真實成交完全一致。"
+        },
+        "termNotes": [
+          {
+            "en": "intrabar timeframe",
+            "zh": "棒內資料週期",
+            "note": "相對主圖更細的週期；不是逐筆成交資料的同義詞。"
+          }
+        ],
+        "editorNotesZh": [
+          "本站校註：一分鐘棒仍無法確定該分鐘內停利與停損誰先發生。雙觸價時，研究引擎仍需事前定義處理規則，或取得更細資料；這不是原文件宣稱的自動解決方案。"
+        ],
+        "limitsZh": "發布日未確認；為功能提供者的第一手規格說明，沒有獨立效能評分。資料週期、覆蓋與功能可用性會變動，實際研究需保存當時設定；未取得全文翻譯授權，未重刊程式碼及圖片。",
+        "evidence": {
+          "urls": [
+            "https://www.tradingview.com/support/solutions/43000669285-what-is-bar-magnifier-backtesting-mode/"
+          ],
+          "accessMethod": "實際讀取英文官方支援文件正文",
+          "scope": "功能文字、週期對照、同棒進出例、覆蓋上限及近似公式；未執行策略或購買服務。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "published": null,
+    "dateNoteZh": "",
+    "keyPointsZh": [
+      "相同主圖開高低收，仍可能因棒內先後順序而改變持有時間及出場。",
+      "二十萬根是較小週期資料的請求上限，不是每一張圖都保證涵蓋相同天數。",
+      "官方估算覆蓋區間的方式只是近似；每根主圖對應的小棒數可能不同。"
+    ],
+    "limitsZh": "發布日未確認；為功能提供者的第一手規格說明，沒有獨立效能評分。資料週期、覆蓋與功能可用性會變動，實際研究需保存當時設定；未取得全文翻譯授權，未重刊程式碼及圖片。",
+    "evidence": {
+      "urls": [
+        "https://www.tradingview.com/support/solutions/43000669285-what-is-bar-magnifier-backtesting-mode/"
+      ],
+      "accessMethod": "實際讀取英文官方支援文件正文",
+      "scope": "功能文字、週期對照、同棒進出例、覆蓋上限及近似公式；未執行策略或購買服務。"
+    },
+    "shortExcerpt": {
+      "en": "more similar to what would happen during forward testing",
+      "zh": "更接近同期間向前測試可能發生的情形。",
+      "scope": "原文使用比較語氣；沒有保證與真實成交完全一致。"
+    },
+    "termNotes": [
+      {
+        "en": "intrabar timeframe",
+        "zh": "棒內資料週期",
+        "note": "相對主圖更細的週期；不是逐筆成交資料的同義詞。"
+      }
+    ],
+    "editorNotesZh": [
+      "本站校註：一分鐘棒仍無法確定該分鐘內停利與停損誰先發生。雙觸價時，研究引擎仍需事前定義處理規則，或取得更細資料；這不是原文件宣稱的自動解決方案。"
+    ],
+    "authorConfirmed": "TradingView（官方支援文件；正文未列個人署名）"
+  },
+  {
     "id": "ea097b1f9392051cff5f",
     "url": "https://www.wyckoffanalytics.com/wyckoff-reaccumulation-vs-distribution-how-to-tell-which-one-youre-in/",
     "sourceTitle": "Wyckoff Reaccumulation vs Distribution: How to Tell Which One You’re In",
@@ -6675,74 +6885,6 @@
     "titleNote": "",
     "authors": [
       "Thomas Wade／Wade Trading Academy"
-    ]
-  },
-  {
-    "id": "925a0dcc8a0c20d23fd1",
-    "url": "https://www.youtube.com/watch?v=n_6Fzigd0Mw",
-    "sourceTitle": "A Trend Filter Concept",
-    "titleZh": "一種趨勢濾網的概念",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-n_6Fzigd0Mw"
-      }
-    ],
-    "resourceIds": [
-      "yt-n_6Fzigd0Mw"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-n_6Fzigd0Mw",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "a3c99caa44df88fd6e35",
-    "url": "https://www.youtube.com/watch?v=gIj8pV_0lNw",
-    "sourceTitle": "Why Manual Backtesting Improves System Performance",
-    "titleZh": "為何手動回測能改善系統績效",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-gIj8pV_0lNw"
-      }
-    ],
-    "resourceIds": [
-      "yt-gIj8pV_0lNw"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-gIj8pV_0lNw",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Ali／Quant Systems 頻道"
     ]
   }
 ]

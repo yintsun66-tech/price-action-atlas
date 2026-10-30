@@ -1,5 +1,38 @@
 [
   {
+    "id": "6fd0b9b0482b35bda630",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-final-day-of-the-month/",
+    "sourceTitle": "Emini final day of the month",
+    "titleZh": "Brad 日內案例｜2022-08-31｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-159423"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-159423"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-159423",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "6fe7bd04db8ab786a4fe",
     "url": "https://www.brookstradingcourse.com/analysis/emini-pullback-to-moving-average-likely-3/",
     "sourceTitle": "Emini Pullback to Moving Average Likely",
@@ -3049,40 +3082,6 @@
     ],
     "reviews": [],
     "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "799093087d5e11f99e1b",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-breaking-above-june-all-time-high/",
-    "sourceTitle": "E-mini Bulls Breaking above June All-Time High",
-    "titleZh": "E-mini：多方突破六月的歷史高點",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-274589"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-274589"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-274589",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
     "authors": [
       "Brad Wolff"
     ]

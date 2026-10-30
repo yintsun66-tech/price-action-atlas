@@ -1,5 +1,60 @@
 [
   {
+    "id": "14c05b0197ca69c3fcdd",
+    "url": "https://www.brookstradingcourse.com/trade-price-action/video-45c-trading-broad-bull-channels/",
+    "sourceTitle": "寬多頭通道交易",
+    "titleZh": "寬多頭通道交易",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "寬多頭通道交易"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "14c4588c11f27fd79c75",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-final-day-of-month/",
+    "sourceTitle": "Emini Final Day of Month",
+    "titleZh": "Brad 日內案例｜2023-03-31｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-174571"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-174571"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-174571",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "14c69d808d36615ded4c",
     "url": "https://www.brookstradingcourse.com/analysis/emini-profit-taking-above-all-time-high-likely/",
     "sourceTitle": "Emini Profit Taking Above All-Time High Likely",
@@ -3113,72 +3168,6 @@
     "reviews": [],
     "courseRefs": [],
     "titleNote": "原題未明指 8 月 24 日的高點或低點，不補成特定價位。",
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "20e17169cf1ec1949378",
-    "url": "https://www.youtube.com/watch?v=3M37OHneEQY",
-    "sourceTitle": "E-mini S&P 500 Horizontal Trading Range - September 9, 2026",
-    "titleZh": "Brooks 共享影片｜區間與通道",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-3M37OHneEQY"
-      }
-    ],
-    "resourceIds": [
-      "yt-3M37OHneEQY"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-3M37OHneEQY",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "20e3ab7d82b5f6cdad4f",
-    "url": "https://www.youtube.com/watch?v=42XGPVVTnUM",
-    "sourceTitle": "Emini End of Day Review - Wednesday, November 6, 2024 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-42XGPVVTnUM"
-      }
-    ],
-    "resourceIds": [
-      "yt-42XGPVVTnUM"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-42XGPVVTnUM",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
     "authors": [
       "Brad Wolff"
     ]

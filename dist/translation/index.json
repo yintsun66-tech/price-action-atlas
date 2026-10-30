@@ -6,12 +6,12 @@
   "englishResourceRecords": 2056,
   "resourceRecords": 2110,
   "statusCounts": {
-    "body-summary": 26,
+    "body-summary": 28,
     "intro-only": 13,
     "unavailable": 3,
     "excerpt-summary": 21,
     "licensed-excerpt": 2,
-    "pending": 2294
+    "pending": 2292
   },
   "siteArticles": 62,
   "articleAudit": "reading/text-audit.json",
@@ -169,6 +169,17 @@
       "authors": [
         "Al Brooks"
       ]
+    },
+    {
+      "id": "25faf673657a9f0d88ec",
+      "titleZh": "期貨委託類型：觸發、價格保護與成交分開看",
+      "sourceTitle": "Futures Order Types",
+      "status": "body-summary",
+      "resourceIds": [],
+      "chunk": "sources-000.json",
+      "url": "https://www.cmegroup.com/education/courses/things-to-know-before-trading-cme-futures/futures-order-types",
+      "titleCoverage": "reviewed-title",
+      "authors": []
     },
     {
       "id": "30448c1eaa4bdc095d16",
@@ -727,6 +738,17 @@
       "authors": [
         "Brad Wolff"
       ]
+    },
+    {
+      "id": "e2423aa28aeb8cf07ffe",
+      "titleZh": "棒內放大回測：較小週期資料如何改變進出場順序",
+      "sourceTitle": "What is bar magnifier backtesting mode",
+      "status": "body-summary",
+      "resourceIds": [],
+      "chunk": "sources-000.json",
+      "url": "https://www.tradingview.com/support/solutions/43000669285-what-is-bar-magnifier-backtesting-mode/",
+      "titleCoverage": "reviewed-title",
+      "authors": []
     },
     {
       "id": "ea097b1f9392051cff5f",
@@ -1446,7 +1468,7 @@
       "resourceIds": [
         "yt-n_6Fzigd0Mw"
       ],
-      "chunk": "sources-000.json",
+      "chunk": "sources-001.json",
       "url": "https://www.youtube.com/watch?v=n_6Fzigd0Mw",
       "titleCoverage": "title-only",
       "authors": [
@@ -1461,7 +1483,7 @@
       "resourceIds": [
         "yt-gIj8pV_0lNw"
       ],
-      "chunk": "sources-000.json",
+      "chunk": "sources-001.json",
       "url": "https://www.youtube.com/watch?v=gIj8pV_0lNw",
       "titleCoverage": "title-only",
       "authors": [
@@ -2894,7 +2916,7 @@
       "resourceIds": [
         "brad-post-142685"
       ],
-      "chunk": "sources-001.json",
+      "chunk": "sources-002.json",
       "url": "https://www.brookstradingcourse.com/analysis/market-update/emini-reversal-up-after-sell-climax/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -2909,7 +2931,7 @@
       "resourceIds": [
         "brad-post-265340"
       ],
-      "chunk": "sources-001.json",
+      "chunk": "sources-002.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-november-2025-low-likely-support/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -4340,7 +4362,7 @@
       "sourceTitle": "寬多頭通道交易",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-002.json",
+      "chunk": "sources-003.json",
       "url": "https://www.brookstradingcourse.com/trade-price-action/video-45c-trading-broad-bull-channels/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -4353,7 +4375,7 @@
       "resourceIds": [
         "brad-post-174571"
       ],
-      "chunk": "sources-002.json",
+      "chunk": "sources-003.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-final-day-of-month/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -5782,7 +5804,7 @@
       "resourceIds": [
         "yt-3M37OHneEQY"
       ],
-      "chunk": "sources-003.json",
+      "chunk": "sources-004.json",
       "url": "https://www.youtube.com/watch?v=3M37OHneEQY",
       "titleCoverage": "existing-label",
       "authors": [
@@ -5797,7 +5819,7 @@
       "resourceIds": [
         "yt-42XGPVVTnUM"
       ],
-      "chunk": "sources-003.json",
+      "chunk": "sources-004.json",
       "url": "https://www.youtube.com/watch?v=42XGPVVTnUM",
       "titleCoverage": "existing-label",
       "authors": [
@@ -6466,17 +6488,6 @@
       "authors": [
         "Brad Wolff"
       ]
-    },
-    {
-      "id": "25faf673657a9f0d88ec",
-      "titleZh": "Futures Order Types",
-      "sourceTitle": "Futures Order Types",
-      "status": "pending",
-      "resourceIds": [],
-      "chunk": "sources-004.json",
-      "url": "https://www.cmegroup.com/education/courses/things-to-know-before-trading-cme-futures/futures-order-types",
-      "titleCoverage": "existing-label",
-      "authors": []
     },
     {
       "id": "261f68ca607bd6d5a57a",
@@ -7261,7 +7272,7 @@
       "resourceIds": [
         "yt-OQP8oJs4cIg"
       ],
-      "chunk": "sources-004.json",
+      "chunk": "sources-005.json",
       "url": "https://www.youtube.com/watch?v=OQP8oJs4cIg",
       "titleCoverage": "existing-label",
       "authors": [
@@ -8721,7 +8732,7 @@
       "resourceIds": [
         "brad-post-168370"
       ],
-      "chunk": "sources-005.json",
+      "chunk": "sources-006.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-likely-bear-close/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -10195,7 +10206,7 @@
       "sourceTitle": "高潮",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-006.json",
+      "chunk": "sources-007.json",
       "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-29e-climaxes/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -11645,7 +11656,7 @@
       "resourceIds": [
         "brad-post-144456"
       ],
-      "chunk": "sources-007.json",
+      "chunk": "sources-008.json",
       "url": "https://www.brookstradingcourse.com/analysis/market-update/emini-7-month-trading-range/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -13073,7 +13084,7 @@
       "resourceIds": [
         "brad-post-272306"
       ],
-      "chunk": "sources-008.json",
+      "chunk": "sources-009.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-trying-to-reach-june-15th-high/",
       "titleCoverage": "title-only",
       "authors": [
@@ -14537,7 +14548,7 @@
       "resourceIds": [
         "yt-fQUUxyHNC6o"
       ],
-      "chunk": "sources-009.json",
+      "chunk": "sources-010.json",
       "url": "https://www.youtube.com/watch?v=fQUUxyHNC6o",
       "titleCoverage": "existing-label",
       "authors": [
@@ -15989,7 +16000,7 @@
       "resourceIds": [
         "brad-post-159423"
       ],
-      "chunk": "sources-010.json",
+      "chunk": "sources-011.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-final-day-of-the-month/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -17409,7 +17420,7 @@
       "resourceIds": [
         "brad-post-274589"
       ],
-      "chunk": "sources-011.json",
+      "chunk": "sources-012.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-breaking-above-june-all-time-high/",
       "titleCoverage": "title-only",
       "authors": [
@@ -18853,7 +18864,7 @@
       "resourceIds": [
         "qs-ptm-202407"
       ],
-      "chunk": "sources-012.json",
+      "chunk": "sources-013.json",
       "url": "https://www.quantsystems.ca/course/ptm-202407",
       "titleCoverage": "existing-label",
       "authors": [
@@ -20309,7 +20320,7 @@
       "resourceIds": [
         "yt-IEiKCZJOmVM"
       ],
-      "chunk": "sources-013.json",
+      "chunk": "sources-014.json",
       "url": "https://www.youtube.com/watch?v=IEiKCZJOmVM",
       "titleCoverage": "existing-label",
       "authors": [
@@ -21761,7 +21772,7 @@
       "resourceIds": [
         "brad-post-158909"
       ],
-      "chunk": "sources-014.json",
+      "chunk": "sources-015.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-strong-follow-through-2/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -23229,7 +23240,7 @@
       "resourceIds": [
         "brad-post-255261"
       ],
-      "chunk": "sources-015.json",
+      "chunk": "sources-016.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-likely-to-bounce-after-yesterdays-sell-climax/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -24679,7 +24690,7 @@
       "sourceTitle": "Wyckoff Stock Analysis",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-016.json",
+      "chunk": "sources-017.json",
       "url": "https://chartschool.stockcharts.com/table-of-contents/market-analysis/wyckoff-analysis-articles/wyckoff-stock-analysis",
       "titleCoverage": "existing-label",
       "authors": []
@@ -26145,7 +26156,7 @@
       "resourceIds": [
         "brad-post-229276"
       ],
-      "chunk": "sources-017.json",
+      "chunk": "sources-018.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-flat-moving-average-on-daily/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -27585,7 +27596,7 @@
       "resourceIds": [
         "yt-0jJZDhvBBY8"
       ],
-      "chunk": "sources-018.json",
+      "chunk": "sources-019.json",
       "url": "https://www.youtube.com/watch?v=0jJZDhvBBY8",
       "titleCoverage": "existing-label",
       "authors": [
@@ -29027,7 +29038,7 @@
       "sourceTitle": "Daylight Saving Time Rules",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-019.json",
+      "chunk": "sources-020.json",
       "url": "https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst",
       "titleCoverage": "existing-label",
       "authors": []
@@ -30477,7 +30488,7 @@
       "resourceIds": [
         "brad-post-277918"
       ],
-      "chunk": "sources-020.json",
+      "chunk": "sources-021.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-want-test-of-all-time-high-3/",
       "titleCoverage": "title-only",
       "authors": [
@@ -30608,17 +30619,6 @@
       "resourceIds": [],
       "chunk": "sources-021.json",
       "url": "https://www.cmegroup.com/articles/faqs/market-by-order-mbo.html",
-      "titleCoverage": "existing-label",
-      "authors": []
-    },
-    {
-      "id": "e2423aa28aeb8cf07ffe",
-      "titleZh": "What is bar magnifier backtesting mode｜棒內回測與成交模擬",
-      "sourceTitle": "What is bar magnifier backtesting mode｜棒內回測與成交模擬",
-      "status": "pending",
-      "resourceIds": [],
-      "chunk": "sources-021.json",
-      "url": "https://www.tradingview.com/support/solutions/43000669285-what-is-bar-magnifier-backtesting-mode/",
       "titleCoverage": "existing-label",
       "authors": []
     },

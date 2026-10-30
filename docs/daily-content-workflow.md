@@ -57,3 +57,13 @@
 第十三批（2026-10-30）續讀三筆既有文字來源，未新增文章、卡片或導航。實讀檔 `zh-core-source-reviews-9.json`，範圍見 `docs/translation-batch13.md`。最新重建為 `build-translation-batch13.cjs` → 翻譯清單 → 中文呈現，驗證為 workspace `tools/check_translation_batch13*.cjs`。SMB 讀取公開字幕不能寫成影片已觀看；Brad 歷史評論中的 Today 必須對應發布日。後續作者檔第 10 號起須先檢查排序再覆蓋同網址紀錄。
 
 第十四批（2026-10-30）新增兩篇英文來源卡並續讀 PATs 指定問答。作者檔 `zh-core-source-reviews-10.json`；已加入數字排序 helper，基礎檔先讀，再依數字批次覆蓋。最新重建為 `build-content-batch14.cjs` → 翻譯清單 → 中文呈現，驗證為 workspace `tools/check_content_batch14*.cjs`，範圍及略過紀錄見 `docs/content-batch14.md`。新來源卡共 21，不改原 62 篇文章、導航或筆記鍵。
+
+
+## 2026-10-30｜第十五批：成交語意續譯與閱讀優化
+
+- 實讀 CME Futures Order Types 的四節公開文字、TradingView Bar Magnifier 的正文、週期表與限制；兩筆既有來源由 pending 改為 body-summary，不新增重複網址。
+- CME 的委託語意不套用至微台或 Binance；Bar Magnifier 不是逐筆重建，一分鐘內雙觸價的處理另列本站校註。兩頁發布日未確認，影片與程式均未執行。
+- 繁中摘要、必要短句、術語及原文連結集中於來源清單；不宣稱全文翻譯。官方規格不是獨立成效評分。
+- 新增 reading-comfort.css：中文內文使用本機無襯線字體，維持桌機 22px／手機 20px，精簡標頭空白及英文揭露列；重點粗黑與鍵盤焦點保留。前批提示收折，減少翻譯入口的閱讀負擔。
+- 保留 62 個文章檔、68 張原圖、21 張選讀卡、2110 筆原始資源，以及既有筆記、進度與讀者權限。驗證及發布紀錄見 artifacts/content_batch15_2026-10-30/。
+- 目前 2359 個英文來源：正文摘要 28、介紹 13、部分 21、授權選段 2、未取得 3、待讀 2292；完整計畫仍未完成。

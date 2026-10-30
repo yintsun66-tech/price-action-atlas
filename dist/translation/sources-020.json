@@ -1,5 +1,28 @@
 [
   {
+    "id": "d5a3bd62e871a3f9b972",
+    "url": "https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst",
+    "sourceTitle": "Daylight Saving Time Rules",
+    "titleZh": "Daylight Saving Time Rules",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "ict-liquidity",
+        "index": 3
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "d5f4a9209b1ff532e1e2",
     "url": "https://www.brookstradingcourse.com/analysis/emini-profit-taking-likely-at-5800-round-number/",
     "sourceTitle": "Emini Profit Taking Likely at 5,800 Round Number",
@@ -3138,40 +3161,6 @@
     ],
     "reviews": [],
     "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "e0d29f13c880c19fef14",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-want-test-of-all-time-high-3/",
-    "sourceTitle": "E-mini Bulls Want Test of All-Time High",
-    "titleZh": "E-mini：多方希望測試歷史高點",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-277918"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-277918"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-277918",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
     "authors": [
       "Brad Wolff"
     ]

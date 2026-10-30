@@ -1,5 +1,38 @@
 [
   {
+    "id": "4eb0a0a0cfebf797cabd",
+    "url": "https://www.brookstradingcourse.com/analysis/market-update/emini-7-month-trading-range/",
+    "sourceTitle": "Emini disappointment in middle of 7-month trading range",
+    "titleZh": "Brad 日內案例｜2022-02-17｜區間與通道",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-144456"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-144456"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-144456",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "4eba6ba22c59480e29b1",
     "url": "https://www.brookstradingcourse.com/wp-content/uploads/2016/05/Al-Brooks-Webinar-Distinguishing-Strong-Legs-TR-vs-Trends-May-3-2016.pdf",
     "sourceTitle": "Distinguishing Strong Legs within Trading Ranges and Trends — futures.io webinar, May 3, 2016",
@@ -3085,40 +3118,6 @@
     "courseRefs": [],
     "authors": [
       "Ali Moin-Afshari／Quant Systems"
-    ]
-  },
-  {
-    "id": "5974855ff7e119d64949",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-trying-to-reach-june-15th-high/",
-    "sourceTitle": "E-mini Bulls Trying to Reach June 15th High",
-    "titleZh": "E-mini：多方嘗試到達 6 月 15 日高點",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-272306"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-272306"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-272306",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

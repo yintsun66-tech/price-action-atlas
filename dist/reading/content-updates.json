@@ -2,6 +2,39 @@
   "version": 1,
   "batches": [
     {
+      "id": "reading-batch15-20261030",
+      "collected": "2026-10-30",
+      "updated": "2026-10-30",
+      "timezone": "Asia/Taipei",
+      "description": "兩筆既有英文來源續譯，另改善長文的字體、段落節奏與英文原文展開區。",
+      "sources": [
+        "source-cme-futures-order-types",
+        "source-tv-bar-magnifier"
+      ],
+      "articles": [],
+      "decisions": [
+        {
+          "source": "Futures Order Types",
+          "url": "https://www.cmegroup.com/education/courses/things-to-know-before-trading-cme-futures/futures-order-types",
+          "status": "既有待讀來源完成指定正文摘要",
+          "reason": "已讀公開教學文字的市價、限價、停損及有效時間四節；未觀看頁面影片、未讀外連細則，沒有把影片列為完成。"
+        },
+        {
+          "source": "What is bar magnifier backtesting mode",
+          "url": "https://www.tradingview.com/support/solutions/43000669285-what-is-bar-magnifier-backtesting-mode/",
+          "status": "既有待讀來源完成指定正文摘要",
+          "reason": "已讀官方文字正文、週期對照表、開關功能的案例與二十萬根資料限制；未執行示例程式、未核驗原圖或付費功能。"
+        }
+      ],
+      "notes": [
+        "兩筆從待讀轉為正文摘要，不新增重複來源；未觀看影片或執行程式。",
+        "一分鐘棒仍有分鐘內路徑不明；本站推論與來源主張分列。",
+        "不變更 62 個原始文章內容與筆記資料格式。",
+        "閱讀維持桌機 22px、手機 20px；較輕的英文揭露列仍可完整展開。",
+        "全站翻譯仍未完成；其餘來源照實分列待處理。"
+      ]
+    },
+    {
       "id": "content-batch14-20261030",
       "collected": "2026-10-30",
       "updated": "2026-10-30",

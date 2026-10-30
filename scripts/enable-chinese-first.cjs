@@ -30,11 +30,11 @@ let html=read('index.html');
 const labels={'Context before signal.':'先判斷背景，再看訊號。','READ · UNDERSTAND · PRACTICE':'閱讀・理解・練習','READ THE SOURCE · KEEP THE CONTEXT':'閱讀來源・保留語境','FOUR LENSES · ONE BODY OF EVIDENCE':'四種觀點・共同證據','PROBABILITY · IN CONTEXT':'機率・連著背景讀','WATCH · VISUALIZE · LISTEN':'觀看・圖解・聆聽','A READING SHELF WITH A PURPOSE':'按問題選擇參考書','THE LEARNING MAP':'學習地圖','YOUR STUDY PLAN':'我的學習計畫','TWO COMPLEMENTARY LENSES':'兩種互補的觀點','SOURCE DISCOVERY · 2026.10.24':'教材評選・2026.10.24','A SMALL READING EXPERIMENT':'小型閱讀比較練習','THE RESOURCE LIBRARY':'資源圖書館','THINK BEFORE YOU TRADE':'先思考，再交易','FROM KNOWLEDGE TO EVIDENCE':'從知識走向證據','YOUR LEARNING JOURNAL':'我的學習筆記'};
 for(const [en,zh] of Object.entries(labels))html=html.split('>'+en+'<').join('>'+zh+'<');
 html=html.replace(/<div class="eyebrow">READING[^<]*<\/div>/g,'<div class="eyebrow">繁體中文閱讀庫</div>');
-if(!html.includes('chinese-data.js')){html=html.replace('</head>','<link rel="stylesheet" href="chinese.css?v=20261030zh9">\n</head>');html=html.replace('<script defer src="data/core.js','<script defer src="chinese-data.js?v=20261030zh9"></script><script defer src="chinese.js?v=20261030zh9"></script>\n<script defer src="data/core.js');}
+if(!html.includes('chinese-data.js')){html=html.replace('</head>','<link rel="stylesheet" href="chinese.css?v=20261030zh10">\n</head>');html=html.replace('<script defer src="data/core.js','<script defer src="chinese-data.js?v=20261030zh10"></script><script defer src="chinese.js?v=20261030zh10"></script>\n<script defer src="data/core.js');}
 assert.ok(html.includes('chinese-data.js'),'Chinese script load location not found');
-html=html.replace(/(<script[^>]+(?:atlas|reader|media|community|reader-probabilities)\.js)\?v=[^"']+/g,'$1?v=20261030zh9');
-html=html.replace(/((?:chinese-data|chinese|translation|reader-glossary)\.js|chinese\.css)\?v=[^"']+/g,'$1?v=20261030zh9');
-if(!html.includes('translation.js'))html=html.replace('</body>','<script defer src="translation.js?v=20261030zh9"></script>\n</body>');
+html=html.replace(/(<script[^>]+(?:atlas|reader|media|community|reader-probabilities)\.js)\?v=[^"']+/g,'$1?v=20261030zh10');
+html=html.replace(/((?:chinese-data|chinese|translation|reader-glossary)\.js|chinese\.css)\?v=[^"']+/g,'$1?v=20261030zh10');
+if(!html.includes('translation.js'))html=html.replace('</body>','<script defer src="translation.js?v=20261030zh10"></script>\n</body>');
 if(!html.includes('href="#translation"'))html=html.replace('<a href="#community">社群與新文</a>','<a href="#community">社群與新文</a><a href="#translation">翻譯進度</a>');
 const section=fs.readFileSync(path.join(__dirname,'translation-section.html'),'utf8').trimEnd();
 if(html.includes('<!-- TRANSLATION_LEDGER_START -->'))html=html.replace(/<!-- TRANSLATION_LEDGER_START -->[\s\S]*?<!-- TRANSLATION_LEDGER_END -->\s*/,section+'\n');else html=html.replace('<!-- COMMUNITY_LIBRARY_START -->',section+'\n<!-- COMMUNITY_LIBRARY_START -->');
@@ -43,7 +43,7 @@ html=html.replace(/<details class="community-quote"><summary>英文短句、繁�
 html=html.replace(/<p class="media-original" lang="en">([\s\S]*?)<\/p>/g,'<details class="zh-original"><summary>展開英文原題</summary><p class="media-source-title" lang="en">$1</p></details>');
 html=html.replace(/<span lang="en">([^<]+)<\/span>/g,'<details class="zh-original"><summary>展開英文題名</summary><span lang="en" data-keep-original>$1</span></details>');
 html=html.replaceAll('>Podcast<','>播客／聲音節目<').replaceAll('>Podcast ·','>播客・').replaceAll('訪談 Podcast','訪談聲音節目');
-if(!html.includes('reader-glossary.js'))html=html.replace('<script defer src="reader.js','<script defer src="reader-glossary.js?v=20261030zh9"></script><script defer src="reader.js');
+if(!html.includes('reader-glossary.js'))html=html.replace('<script defer src="reader.js','<script defer src="reader-glossary.js?v=20261030zh10"></script><script defer src="reader.js');
 write('index.html',html);
 for(const f of fs.readdirSync(path.join(dist,'images/study')).filter(f=>f.endsWith('.svg'))){let s=read('images/study/'+f);s=s.replace('>Delta<','>成交量差<').replace('>95% Wilson <','>95% 威爾遜區間 <').replace('>01  Brooks PA<','>01 Brooks 價格行為<').replace('>03  ICT<','>03 ICT 方法<');write('images/study/'+f,s);}
 console.log('Chinese-first presentation enabled');

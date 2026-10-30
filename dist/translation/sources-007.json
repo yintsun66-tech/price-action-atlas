@@ -1,5 +1,27 @@
 [
   {
+    "id": "4276ff625ab7ccc58b02",
+    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-29e-climaxes/",
+    "sourceTitle": "高潮",
+    "titleZh": "高潮",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "高潮"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "428cf1c6bba55d05ff0b",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-possible-buy-vacuum-test-to-7000-round-number/",
     "sourceTitle": "E-mini Possible Buy Vacuum Test to 7,000 Round Number",
@@ -3140,39 +3162,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-195555",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "4eb0a0a0cfebf797cabd",
-    "url": "https://www.brookstradingcourse.com/analysis/market-update/emini-7-month-trading-range/",
-    "sourceTitle": "Emini disappointment in middle of 7-month trading range",
-    "titleZh": "Brad 日內案例｜2022-02-17｜區間與通道",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-144456"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-144456"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-144456",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }
