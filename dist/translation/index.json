@@ -6,12 +6,12 @@
   "englishResourceRecords": 2056,
   "resourceRecords": 2110,
   "statusCounts": {
+    "body-summary": 24,
     "intro-only": 13,
-    "body-summary": 21,
     "unavailable": 3,
     "excerpt-summary": 20,
     "licensed-excerpt": 2,
-    "pending": 2298
+    "pending": 2295
   },
   "siteArticles": 62,
   "articleAudit": "reading/text-audit.json",
@@ -24,6 +24,36 @@
     "相同網址去重不代表不同影片或付費課程已讀。"
   ],
   "sources": [
+    {
+      "id": "0045cd3b8bb15b4f8ff1",
+      "titleZh": "多方需要強進場棒：把盤前預期與盤後結果分開",
+      "sourceTitle": "Emini Bulls Need Strong Entry Bar Today",
+      "status": "body-summary",
+      "resourceIds": [
+        "brad-post-167291"
+      ],
+      "chunk": "sources-000.json",
+      "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-need-strong-entry-bar-2/",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "Brad Wolff"
+      ]
+    },
+    {
+      "id": "00c58e3cc31665f957fc",
+      "titleZh": "緊區間中的弱多訊號：偏空也須檢查力道",
+      "sourceTitle": "Emini Weak Buy Signal Bar in Tight Trading Range",
+      "status": "body-summary",
+      "resourceIds": [
+        "brad-post-223566"
+      ],
+      "chunk": "sources-000.json",
+      "url": "https://www.brookstradingcourse.com/analysis/emini-weak-buy-sigal-bar-in-tight-trading-ragne/",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "Brad Wolff"
+      ]
+    },
     {
       "id": "01b130b5c1c1dd84c0bf",
       "titleZh": "Quant Systems 系統交易入門課程",
@@ -224,6 +254,21 @@
       "titleCoverage": "reviewed-title",
       "authors": [
         "Ali Moin-Afshari"
+      ]
+    },
+    {
+      "id": "4f301708d0f7f088f4f8",
+      "titleZh": "進場價格也要成立：MRNA 虧損交易的公開字幕選讀",
+      "sourceTitle": "Why entry prices matter to make quality stock trades ($MRNA)",
+      "status": "body-summary",
+      "resourceIds": [
+        "discovery-smb-capital-2"
+      ],
+      "chunk": "sources-000.json",
+      "url": "https://www.smbtraining.com/blog/why-entry-prices-matter-to-make-quality-stock-trades-mrna",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "SMB Capital／SMB Training（Mike Bellafiore 等）"
       ]
     },
     {
@@ -1158,21 +1203,6 @@
       ]
     },
     {
-      "id": "4f301708d0f7f088f4f8",
-      "titleZh": "為何進場價格對高品質股票交易很重要（MRNA）",
-      "sourceTitle": "Why entry prices matter to make quality stock trades（MRNA）",
-      "status": "pending",
-      "resourceIds": [
-        "discovery-smb-capital-2"
-      ],
-      "chunk": "sources-000.json",
-      "url": "https://www.smbtraining.com/blog/why-entry-prices-matter-to-make-quality-stock-trades-mrna",
-      "titleCoverage": "existing-label",
-      "authors": [
-        "SMB Capital／SMB Training（Mike Bellafiore 等）"
-      ]
-    },
-    {
       "id": "601d861be0981d398a04",
       "titleZh": "為何即使優秀的交易系統也會被懷疑摧毀",
       "sourceTitle": "Why Doubt Destroys Even Great Trading Systems",
@@ -1450,7 +1480,7 @@
       "resourceIds": [
         "yt-j6I4BF-xOm0"
       ],
-      "chunk": "sources-000.json",
+      "chunk": "sources-001.json",
       "url": "https://www.youtube.com/watch?v=j6I4BF-xOm0",
       "titleCoverage": "title-only",
       "authors": [
@@ -1465,7 +1495,7 @@
       "resourceIds": [
         "discovery-thomas-wade-1"
       ],
-      "chunk": "sources-000.json",
+      "chunk": "sources-001.json",
       "url": "https://www.youtube.com/playlist?list=PLjbvx7ZHf-czwdnkUgteDUJFhPp5QiZix",
       "titleCoverage": "existing-label",
       "authors": [
@@ -1698,21 +1728,6 @@
       ]
     },
     {
-      "id": "0045cd3b8bb15b4f8ff1",
-      "titleZh": "Brad 日內案例｜2022-12-30｜行情觀察與決策",
-      "sourceTitle": "Emini Bulls Need Strong Entry Bar Today",
-      "status": "pending",
-      "resourceIds": [
-        "brad-post-167291"
-      ],
-      "chunk": "sources-001.json",
-      "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-need-strong-entry-bar-2/",
-      "titleCoverage": "existing-label",
-      "authors": [
-        "Brad Wolff"
-      ]
-    },
-    {
       "id": "006b6130a75bf094c1fa",
       "titleZh": "Brad 日內案例｜2025-04-17｜行情觀察與決策",
       "sourceTitle": "Emini Test of 5,200 Likely",
@@ -1808,21 +1823,6 @@
       ],
       "chunk": "sources-001.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-tight-trading-range-at-september-high/",
-      "titleCoverage": "existing-label",
-      "authors": [
-        "Brad Wolff"
-      ]
-    },
-    {
-      "id": "00c58e3cc31665f957fc",
-      "titleZh": "Brad 日內案例｜2024-11-22｜區間與通道",
-      "sourceTitle": "Emini Weak Buy Signal Bar in Tight Trading Range",
-      "status": "pending",
-      "resourceIds": [
-        "brad-post-223566"
-      ],
-      "chunk": "sources-001.json",
-      "url": "https://www.brookstradingcourse.com/analysis/emini-weak-buy-sigal-bar-in-tight-trading-ragne/",
       "titleCoverage": "existing-label",
       "authors": [
         "Brad Wolff"

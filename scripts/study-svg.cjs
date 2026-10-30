@@ -25,7 +25,7 @@ function processFigure(title,subtitle,steps,footer='每次更新都保存當時�
 function tableFigure(title,subtitle,headers,rows,footer='各欄描述的是不同事件，請先確認計算口徑。'){
  const widths=headers.map(()=>880/headers.length),rowH=86,H=235+(rows.length+1)*rowH;let s=start(title,subtitle,H);const y=122;
  headers.forEach((h,j)=>{const x=40+widths[j]*j;s+=`<rect x="${x}" y="${y}" width="${widths[j]}" height="72" fill="${C.wash}"/>`+para(x+16,y+29,h,Math.floor((widths[j]-28)/23),22,C.ink);});
- rows.forEach((row,i)=>row.forEach((v,j)=>{const x=40+widths[j]*j,yy=y+72+i*rowH;s+=`<rect x="${x}" y="${yy}" width="${widths[j]}" height="${rowH}" fill="${i%2?'#f8f9fb':'#fff'}" stroke="${C.line}"/>`+para(x+16,yy+31,v,Math.floor((widths[j]-28)/22),22,C.ink);}));
+ rows.forEach((row,i)=>row.forEach((v,j)=>{const x=40+widths[j]*j,yy=y+72+i*rowH;s+=`<rect x="${x}" y="${yy}" width="${widths[j]}" height="${rowH}" fill="${i%2?'#f8f9fb':'#fff'}" stroke="${C.line}"/>`+(Array.isArray(v)?v.map((line,k)=>text(x+16,yy+31+k*32,line,22,C.ink)).join(''):para(x+16,yy+31,v,Math.floor((widths[j]-28)/22),22,C.ink));}));
  s+=para(40,H-107,footer,38,21);return s+end(H);
 }
 function candlePlot(bars,{x=90,y=150,w=770,h=260,min,max,levels=[]}={}){

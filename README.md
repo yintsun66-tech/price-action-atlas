@@ -59,3 +59,5 @@ Brooks 課程對照須有 Main／Forex 版本、單元編號、中文主題、�
 第十一批（2026-10-30）：Woods、Fuller 兩筆既有英文來源補上正文摘要，累積 21 筆；文章改為專注單欄與收合目錄，保留原文及筆記。
 
 第十二批（2026-10-30）：保留十二條路線並新增入門四篇，提供路線選擇、下一篇未讀及逐篇任務。Brooks 指定詞條累計十八項，兩個 MarketLife 課程只完成公開介紹。英文來源 2,357：21 正文、13 介紹、2,298 待讀，其餘範圍分列。最新重建為 learning batch12 → translation ledger → chinese-first，說明見 `docs/learning-navigation.md`，驗證為 workspace `tools/check_learning_batch12*.cjs`。
+
+第十三批（2026-10-30）：兩篇 Brad 歷史分析與一篇 SMB 公開字幕選讀，文字正文摘要累計 24 筆；50% 回檔位置、50/50 主觀說法與統計勝率分開。既有文章、圖、路線及筆記保留。重建為 translation batch13 → translation ledger → chinese-first，驗證為 workspace `tools/check_translation_batch13*.cjs`，範圍見 `docs/translation-batch13.md`。

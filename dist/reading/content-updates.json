@@ -2,6 +2,56 @@
   "version": 1,
   "batches": [
     {
+      "id": "translation-batch13-20261030",
+      "collected": "2026-10-30",
+      "updated": "2026-10-30",
+      "timezone": "Asia/Taipei",
+      "description": "三筆既有英文來源補上文字正文摘要；兩篇 Brad 歷史分析與 SMB 公開字幕分列時間、作者及未讀範圍。",
+      "sources": [
+        "brad-post-223566",
+        "brad-post-167291",
+        "discovery-smb-capital-2"
+      ],
+      "articles": [],
+      "decisions": [
+        {
+          "source": "Emini Weak Buy Signal Bar in Tight Trading Range",
+          "url": "https://www.brookstradingcourse.com/analysis/emini-weak-buy-sigal-bar-in-tight-trading-ragne/",
+          "status": "既有待讀來源轉為文字正文摘要",
+          "reason": "已讀日線、截至第九棒的盤中分析、EURUSD 文字及圖表使用說明；未核驗原圖、觀看日終影片或付費課。"
+        },
+        {
+          "source": "Emini Bulls Need Strong Entry Bar Today",
+          "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-need-strong-entry-bar-2/",
+          "status": "既有待讀來源轉為文字正文摘要",
+          "reason": "已讀盤前、盤中、盤後及 EURUSD 文字與圖說；未逐棒核對原圖、觀看影片或付費課。"
+        },
+        {
+          "source": "Why entry prices matter to make quality stock trades ($MRNA)",
+          "url": "https://www.smbtraining.com/blog/why-entry-prices-matter-to-make-quality-stock-trades-mrna",
+          "status": "既有待讀來源轉為文字正文摘要",
+          "reason": "已讀公開頁介紹及全部公開字幕文字至結尾，包含交易檢討與限制；未播放影片、核對圖表或重建成交。"
+        },
+        {
+          "source": "原影片、歷史圖像及付費課",
+          "status": "未採為已完成",
+          "reason": "沒有觀看、逐棒重建或取得付費內容；字幕讀取不等於觀看影片。"
+        },
+        {
+          "source": "重複市場入口及銷售課綱",
+          "status": "本批略過",
+          "reason": "本批優先處理三個有具體閱讀價值的既有正文，不另外以入口摘要充數。"
+        }
+      ],
+      "notes": [
+        "Today 對應歷史發布日；盤前、盤中及盤後資訊分開，不寫成現時交易提示。",
+        "50% 回檔位置、50/50 主觀說法與統計勝率分開，未補造策略成功率。",
+        "Brad 自有評論與 SMB 對談沒有冒充 Brooks 原課；本批沒有另加未核對單元。",
+        "搭配圖沿用本站原創合成位置表，修正數字斷行而保留原數值；不是三篇來源的原圖、當日行情或績效，圖數不增加。",
+        "既有 62 篇文章、十九筆來源卡、導航與筆記檔案保留。沒有取用失敗，也不以未讀材料宣稱沒有新內容。"
+      ]
+    },
+    {
       "id": "learning-batch12-20261030",
       "collected": "2026-10-30",
       "updated": "2026-10-30",

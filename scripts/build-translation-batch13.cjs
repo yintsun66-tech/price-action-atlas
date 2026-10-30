@@ -1,0 +1,11 @@
+const fs=require('node:fs'),path=require('node:path');
+const dist=path.resolve(__dirname,'../dist'),read=f=>fs.readFileSync(path.join(dist,f),'utf8'),write=(f,v)=>fs.writeFileSync(path.join(dist,f),typeof v==='string'?v:JSON.stringify(v,null,2)+'\n');
+write('images/study/bp2-range-location-table.svg',require('./range-location-table.cjs')());
+let html=read('index.html');
+const marker='<!-- TRANSLATION_BATCH13_UPDATE -->';
+if(!html.includes(marker))html=html.replace('<!-- LEARNING_BATCH12_UPDATE -->',marker+'<a class="discovery-update" href="#translation-resource-brad-post-223566"><span>10.30 英文案例續譯</span><strong>弱訊號、強進場棒與不利價格：三篇歷史文字選讀</strong><span>保留條件與時間順序 →</span></a>\n<!-- LEARNING_BATCH12_UPDATE -->');
+write('index.html',html);
+const reviews=require('./zh-core-source-reviews-9.json'),log=JSON.parse(read('reading/content-updates.json'));
+const entry={id:'translation-batch13-20261030',collected:'2026-10-30',updated:'2026-10-30',timezone:'Asia/Taipei',description:'三筆既有英文來源補上文字正文摘要；兩篇 Brad 歷史分析與 SMB 公開字幕分列時間、作者及未讀範圍。',sources:reviews.map(r=>r.resourceId),articles:[],decisions:[...reviews.map(r=>({source:r.sourceTitle,url:r.url,status:'既有待讀來源轉為文字正文摘要',reason:r.readScope})),{source:'原影片、歷史圖像及付費課',status:'未採為已完成',reason:'沒有觀看、逐棒重建或取得付費內容；字幕讀取不等於觀看影片。'},{source:'重複市場入口及銷售課綱',status:'本批略過',reason:'本批優先處理三個有具體閱讀價值的既有正文，不另外以入口摘要充數。'}],notes:['Today 對應歷史發布日；盤前、盤中及盤後資訊分開，不寫成現時交易提示。','50% 回檔位置、50/50 主觀說法與統計勝率分開，未補造策略成功率。','Brad 自有評論與 SMB 對談沒有冒充 Brooks 原課；本批沒有另加未核對單元。','搭配圖沿用本站原創合成位置表，修正數字斷行而保留原數值；不是三篇來源的原圖、當日行情或績效，圖數不增加。','既有 62 篇文章、十九筆來源卡、導航與筆記檔案保留。沒有取用失敗，也不以未讀材料宣稱沒有新內容。']};
+log.batches=[entry,...log.batches.filter(b=>b.id!==entry.id)];write('reading/content-updates.json',log);
+console.log(JSON.stringify({existingSourcesSummarized:reviews.length,newArticles:0,newCommunityCards:0}));
