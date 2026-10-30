@@ -11,8 +11,9 @@
 <link rel="stylesheet" href="media.css?v=20261027media"><link rel="stylesheet" href="probabilities.css?v=20261028prob3">
 <link rel="stylesheet" href="schools.css?v=20261029b7">
 <link rel="stylesheet" href="community.css?v=20261029b7">
-<link rel="stylesheet" href="chinese.css?v=20261030read1">
+<link rel="stylesheet" href="chinese.css?v=20261030learn1">
 <link rel="stylesheet" href="reading-layout.css?v=20261030read1">
+<link rel="stylesheet" href="learning-paths.css?v=20261030learn1">
 </head>
 <body>
 <a class="skip" href="#map">跳到學習地圖</a>
@@ -36,6 +37,7 @@
 <a class="discovery-update" href="#schools"><span>10.28 圖解與流派比較</span><strong>62 篇都有圖 · 威科夫、ICT、訂單流新教材</strong><span>開始比較 →</span></a>
 <!-- TRANSLATION_BATCH5 --><a class="discovery-update" href="#read/licensed-trends"><span>10.28 英文精讀</span><strong>三篇新增繁中節譯 · 原文、語氣與校對註一起讀</strong><span>開啟對照 →</span></a>
 <!-- COMMUNITY_BATCH6_UPDATE --><a class="discovery-update" href="#community"><span>10.28 文章與社群選讀</span><strong>8 篇新來源 · 英文短句附繁中 · 評價與限制可核對</strong><span>開始選讀 →</span></a>
+<!-- LEARNING_BATCH12_UPDATE --><a class="discovery-update" href="#reading"><span>10.30 學習導航與續譯</span><strong>從背景到紀錄：新入門路線、下一篇未讀與十八項詞條</strong><span>選一條路線開始 →</span></a>
 <!-- READING_BATCH11_UPDATE --><a class="discovery-update" href="#translation-resource-discovery-galen-woods-2"><span>10.30 續譯與閱讀更新</span><strong>從型態發想到行情背景，兩篇英文原作者摘要</strong><span>單欄大字，繼續閱讀 →</span></a>
 <!-- CONTENT_BATCH10_UPDATE --><a class="discovery-update" href="#community"><span>10.30 新教材與續譯</span><strong>內包縮幅 · 被套與踏空 · 假突破，附繁中與原創搭配圖</strong><span>開始本批選讀 →</span></a>
 <!-- TRANSLATION_BATCH9_UPDATE --><a class="discovery-update" href="#translation"><span>10.30 核心翻譯續讀</span><strong>帶狀交易四篇 · 視覺化學習 · Brooks 六個術語</strong><span>閱讀繁中摘要 →</span></a>
@@ -44,8 +46,8 @@
 <!-- READING_BATCH3_UPDATE --><a class="discovery-update" href="#read/pa3-bayes-evidence"><span>10.28 實作教材更新</span><strong>8 篇新導讀 · 24 題測驗 · 3 個逐根圖例</strong><span>開始閱讀 →</span></a>
 <section id="reading" class="reading-library" aria-labelledby="reading-title">
 <div class="section-head"><div><div class="eyebrow">閱讀・理解・練習</div><h2 id="reading-title">從找到教材，到真正讀懂。</h2></div><p>先讀摘要，再理解條件與反例。把原創導讀、來源短摘要及授權譯文分開，讓每次閱讀都有可留下的練習。</p></div>
-<div class="reading-intro card"><div><span class="pill blue">第七批翻譯與辨識練習</span><h3>目標、比例與判斷，逐一讀清楚。</h3><p>累積 56 篇繁中原創導讀與 6 篇授權節譯，全部 62 篇附有整理圖，共 68 張原創 SVG。這批新增兩篇原創導讀、一篇量度目標的授權中英選段與九題練習；來源短句、本站算例與完整範圍譯文分開標示。</p><a class="btn primary" href="#read/licensed-measured-move" id="reader-start">開始本批閱讀 →</a></div><div class="reading-stats"><div><strong id="reading-count">62</strong><span>個可讀單元</span></div><div><strong id="reading-done">0</strong><span>個標記已讀</span></div><div><strong id="reading-saved">0</strong><span>個收藏</span></div><p id="reading-storage">閱讀筆記儲存在此瀏覽器，可匯出備份。</p></div></div>
-<div class="reading-routes card"><h3>這次從哪裡讀起？</h3><p>依問題選一條路線；圖解、原典條件與本站研究假說分開。</p><div class="reading-route-grid" id="reading-route-grid"></div></div>
+<div class="reading-intro card"><div><span class="pill blue">繁中精讀・持續更新</span><h3>先建立語言，再練習判斷。</h3><p>累積 56 篇繁中原創導讀與 6 篇授權節譯，全部 62 篇附有整理圖，共 68 張原創 SVG。先沿入門順序建立背景、K 棒、風險與紀錄，再按問題選擇進階路線；來源摘要、本站算例與授權譯文分開標示。</p><a class="btn primary" href="#read/brooks-context-first" id="reader-start">從入門第一篇開始 →</a></div><div class="reading-stats"><div><strong id="reading-count">62</strong><span>個可讀單元</span></div><div><strong id="reading-done">0</strong><span>個標記已讀</span></div><div><strong id="reading-saved">0</strong><span>個收藏</span></div><p id="reading-storage">閱讀筆記儲存在此瀏覽器，可匯出備份。</p></div></div>
+<div class="reading-routes card learning-path-shell"><h3>先選一條路線，留下一個答案。</h3><p>從背景、K 棒、風險與紀錄開始，或依問題選擇進階路線。順序由本站編排；已讀進度沿用原有筆記紀錄。</p><label class="learning-path-picker">選擇學習路線<select id="reading-path-select" aria-label="選擇學習路線" disabled><option>正在載入路線…</option></select></label><div class="learning-path-content" id="reading-route-grid"></div></div>
 <div class="reading-tools"><label class="search-box"><span class="search-icon" aria-hidden="true"></span><input id="reading-search" type="search" placeholder="搜尋：突破、取消、複盤、成本…" aria-label="搜尋閱讀單元"></label><select id="reading-category" aria-label="篩選閱讀來源"><option value="all">全部閱讀來源</option><option>Brooks</option><option>方方土</option><option>推薦來源</option><option>威科夫</option><option>ICT</option><option>訂單流</option><option>流派比較</option><option>授權節譯</option></select><select id="reading-topic" aria-label="篩選學習主題"><option value="all">全部學習主題</option><option>基礎</option><option>趨勢</option><option>區間</option><option>突破</option><option>進出場</option><option>研究</option></select><select id="reading-batch" aria-label="篩選內容批次"><option value="all">全部內容批次</option><option value="7">第七批翻譯與辨識</option><option value="6">第六批文章與社群</option><option value="5">第五批英文精讀節譯</option><option value="4">第四批圖解與流派</option><option value="3">第三批實作</option><option value="2">第二批新增</option><option value="1">第一批基礎</option></select><select id="reading-state" aria-label="篩選閱讀進度"><option value="all">全部進度</option><option value="unread">尚未標記已讀</option><option value="bookmarked">我的收藏</option><option value="read">已讀</option></select></div>
 <div class="reading-catalog-meta"><span id="reading-result" role="status">載入閱讀目錄…</span><div><button id="reading-export" class="text-btn">匯出閱讀筆記 ↗</button><button id="reading-import" class="text-btn">匯入閱讀備份</button><input type="file" id="reading-import-file" accept=".json,application/json" hidden></div></div>
 <div class="reading-grid" id="reading-grid"><div class="empty-state">正在載入閱讀目錄。原有學習計畫與資源索引仍可使用。</div></div>
@@ -68,6 +70,8 @@
 <section id="translation" aria-labelledby="translation-title">
  <div class="section-head"><div><div class="eyebrow">繁中優先・逐筆追溯</div><h2 id="translation-title">讀得懂，也查得到原文。</h2></div><p>持續盤點文章、影音與評價入口。正文、介紹、部分內容及待處理分開；標題翻譯不代替內容摘要。</p></div>
  <div class="translation-metrics" id="translation-metrics"><div><strong>—</strong><span>去重後的英文來源</span></div><div><strong>—</strong><span>已讀正文摘要</span></div><div><strong>—</strong><span>僅介紹／選段</span></div><div><strong>—</strong><span>待讀取／未取得</span></div></div>
+<!-- LEARNING_BATCH12_NOTE -->
+ <div class="card translation-coverage-note"><strong>先讀一條路線，再留下自己的答案。</strong><p><a href="#reading">開啟學習導航</a>：新增背景 → K 棒 → 風險 → 紀錄的四篇入門順序；十二條既有路線保留，可顯示下一篇未讀與每篇練習提示。</p><p><strong>續譯：</strong><a href="#translation-resource-b-glossary">Brooks 新增六項詞條</a>，累計十八項，仍是指定範圍；<a href="#translation-resource-discovery-adam-grimes-marketlife-1">MarketLife 入門課</a>與<a href="#translation-resource-discovery-adam-grimes-marketlife-3">回檔專題</a>只完成公開介紹，沒有宣稱已看影片。</p></div>
 <!-- TRANSLATION_BATCH11_NOTE -->
  <div class="card translation-coverage-note"><strong>續譯兩篇原作者文章，讓型態回到背景。</strong><p><a href="#translation-resource-discovery-galen-woods-2">Woods：從零發掘交易型態</a> · <a href="#translation-resource-discovery-nial-fuller-2">Fuller：什麼是價格行為交易</a>。兩篇均實讀公開正文，補上繁中摘要、必要短句及限制；原文可展開對照。</p><p>閱讀頁改為<strong>單欄大字、清楚留白與可展開目錄</strong>，保留圖解、原文與個人筆記。這兩筆從待讀轉為正文摘要；全站其餘來源仍依實際範圍逐批處理。</p></div>
 <!-- TRANSLATION_BATCH10_NOTE -->
@@ -325,10 +329,10 @@
 <noscript><div class="wrap" style="padding:30px">請啟用 JavaScript 以顯示完整學習單元與資源。上方原始教材連結仍可使用。</div></noscript>
 
 
-<script defer src="chinese-data.js?v=20261030read1"></script><script defer src="chinese.js?v=20261030read1"></script>
-<script defer src="data/core.js?v=20261027b2"></script><script defer src="atlas.js?v=20261030read1"></script><script defer src="reader-state.js?v=20261027b2"></script><script defer src="reader-practice.js?v=20261027b2"></script><script defer src="reading/probabilities.js?v=20261028prob3"></script><script defer src="reader-probabilities.js?v=20261030read1"></script><script defer src="reading/figures.js?v=20261029b7"></script><script defer src="reader-figures.js?v=20261029b7"></script><script defer src="school-titles.js?v=20261029b7"></script><script defer src="schools.js?v=20261029b7"></script><script defer src="reader-glossary.js?v=20261030read1"></script><script defer src="reader.js?v=20261030read1"></script>
-<script defer src="media.js?v=20261030read1"></script>
-<script defer src="community.js?v=20261030read1"></script>
-<script defer src="translation.js?v=20261030read1"></script>
+<script defer src="chinese-data.js?v=20261030learn1"></script><script defer src="chinese.js?v=20261030learn1"></script>
+<script defer src="data/core.js?v=20261027b2"></script><script defer src="atlas.js?v=20261030learn1"></script><script defer src="reader-state.js?v=20261027b2"></script><script defer src="reader-practice.js?v=20261027b2"></script><script defer src="reading/probabilities.js?v=20261028prob3"></script><script defer src="reader-probabilities.js?v=20261030learn1"></script><script defer src="reading/figures.js?v=20261029b7"></script><script defer src="reader-figures.js?v=20261029b7"></script><script defer src="school-titles.js?v=20261029b7"></script><script defer src="schools.js?v=20261029b7"></script><script defer src="reader-glossary.js?v=20261030learn1"></script><script defer src="reader-paths.js?v=20261030learn1"></script><script defer src="reader.js?v=20261030learn1"></script>
+<script defer src="media.js?v=20261030learn1"></script>
+<script defer src="community.js?v=20261030learn1"></script>
+<script defer src="translation.js?v=20261030learn1"></script>
 </body>
 </html>

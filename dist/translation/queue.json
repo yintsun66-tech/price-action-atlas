@@ -56,6 +56,15 @@
       "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
     },
     {
+      "id": "8079781d63397f66df43",
+      "url": "https://www.marketlife.com/firststeps",
+      "resourceIds": [
+        "discovery-adam-grimes-marketlife-1"
+      ],
+      "status": "intro-only",
+      "nextAction": "取得實際教材或字幕後才能補內容摘要"
+    },
+    {
       "id": "80a94739d33f743ed25c",
       "url": "https://www.brookstradingcourse.com/price-action-trading-terms-glossary/",
       "resourceIds": [
@@ -137,6 +146,15 @@
       "url": "https://www.brookstradingcourse.com/trade-price-action/",
       "resourceIds": [
         "b-index"
+      ],
+      "status": "intro-only",
+      "nextAction": "取得實際教材或字幕後才能補內容摘要"
+    },
+    {
+      "id": "c02ff74b0b9077c20021",
+      "url": "https://www.marketlife.com/pullbacks",
+      "resourceIds": [
+        "discovery-adam-grimes-marketlife-3"
       ],
       "status": "intro-only",
       "nextAction": "取得實際教材或字幕後才能補內容摘要"
@@ -556,15 +574,6 @@
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
     {
-      "id": "8079781d63397f66df43",
-      "url": "https://www.marketlife.com/firststeps",
-      "resourceIds": [
-        "discovery-adam-grimes-marketlife-1"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
       "id": "80a92c8e4e23e9adc99c",
       "url": "https://www.youtube.com/watch?v=WaJ1OHhgfyI",
       "resourceIds": [
@@ -659,15 +668,6 @@
       "url": "https://www.youtube.com/watch?v=j6I4BF-xOm0",
       "resourceIds": [
         "yt-j6I4BF-xOm0"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
-      "id": "c02ff74b0b9077c20021",
-      "url": "https://www.marketlife.com/pullbacks",
-      "resourceIds": [
-        "discovery-adam-grimes-marketlife-3"
       ],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"

@@ -1,0 +1,189 @@
+[
+  {
+    "resourceId": "b-glossary",
+    "url": "https://www.brookstradingcourse.com/price-action-trading-terms-glossary/",
+    "sourceTitle": "Glossary of terms for price action trading",
+    "sourceTitleZh": "Brooks 詞表續讀：方向判斷、突破與小實體棒",
+    "checked": "2026-10-30",
+    "published": null,
+    "status": "excerpt-summary",
+    "readScope": "保留前批十二項詞條；新增方向判斷、棒回檔、突破、突破模式、突破回檔及小實體棒六項。其餘詞條仍未逐項完成。",
+    "summaryZh": "突破可先由棒高低越過重要價位辨識；收盤越過是強度資訊。把返回稱為回檔，也包含對原方向恢復的判斷。",
+    "termNotes": [
+      {
+        "en": "high 1 / high 2",
+        "zh": "高點第一次／第二次嘗試",
+        "note": "多頭旗形或區間低處，棒高越過前棒高形成一次嘗試；其後先有較低棒高，再越過前棒高才續數。"
+      },
+      {
+        "en": "low 1 / low 2",
+        "zh": "低點第一次／第二次嘗試",
+        "note": "空頭旗形或區間高處對稱計數；一次下破後，先有較高棒低，再下破前棒低才續數。"
+      },
+      {
+        "en": "inside bar",
+        "zh": "內包棒",
+        "note": "棒高不高於前棒高，棒低不低於前棒低；Brooks 此定義允許等價。"
+      },
+      {
+        "en": "outside bar",
+        "zh": "外包棒",
+        "note": "高低範圍包住前棒；至少一端嚴格越過，另一端可相等。兩端都相等不算本詞條的外包。"
+      },
+      {
+        "en": "failed failure",
+        "zh": "失敗再失敗",
+        "note": "原突破失敗後，反向嘗試也失敗，價格恢復原突破方向；須依後續更新描述。"
+      },
+      {
+        "en": "breakout test",
+        "zh": "突破測試",
+        "note": "突破回檔接近原進場價，可能稍高或稍低，用來測試損益兩平停損附近。"
+      },
+      {
+        "en": "setup",
+        "zh": "交易設定",
+        "note": "形成進場依據的型態，包含左側背景與訊號棒。"
+      },
+      {
+        "en": "signal bar",
+        "zh": "訊號棒",
+        "note": "實際進場棒之前的那根棒，是設定的最後一棒。"
+      },
+      {
+        "en": "entry bar",
+        "zh": "進場棒",
+        "note": "交易實際進場所發生的 K 棒。"
+      },
+      {
+        "en": "follow-through",
+        "zh": "後續延續",
+        "note": "突破等初始走勢後，延續該方向的一根或數根棒。"
+      },
+      {
+        "en": "second entry",
+        "zh": "第二次進場",
+        "note": "第一次後數棒內，依相同邏輯再次形成的進場機會；不是自動加碼。"
+      },
+      {
+        "en": "risk",
+        "zh": "風險距離",
+        "note": "進場至保護停損的跳動距離；滑價等因素可使實際損失更大。"
+      },
+      {
+        "en": "always in",
+        "zh": "假設持續在場時的方向判斷",
+        "note": "假設必須選多或空時較有把握的方向；不等於要求永遠持倉。"
+      },
+      {
+        "en": "bar pullback",
+        "zh": "棒回檔",
+        "note": "上行中棒低低於前棒低；下行中棒高高於前棒高。"
+      },
+      {
+        "en": "breakout",
+        "zh": "突破",
+        "note": "價格越過先前重要價位；收盤越過屬較強情況，不是定義的必要條件。"
+      },
+      {
+        "en": "breakout mode",
+        "zh": "突破模式",
+        "note": "作者預期任一方向突破可延續的設定；不是保證雙向獲利。"
+      },
+      {
+        "en": "breakout pullback",
+        "zh": "突破回檔",
+        "note": "把突破後的小幅返回視為原方向恢復前的整理，帶有背景判斷。"
+      },
+      {
+        "en": "doji",
+        "zh": "小實體棒（十字線類）",
+        "note": "實體很小或近零，須相對圖表週期理解；不單憑名字宣告反轉。"
+      }
+    ],
+    "keyPointsZh": [
+      "十八項為指定詞條整理；不是全詞表或付費課翻譯完成。"
+    ],
+    "limitsZh": "只作指定詞條摘要，未觀看付費課；定性語氣不轉成數值勝率。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/price-action-trading-terms-glossary/",
+        "https://www.brookstradingcourse.com/trade-price-action/",
+        "https://www.brookstradingcourse.com/website-sitemap/",
+        "https://www.brookstradingcourse.com/price-action-fundamentals/video-13a-always-in/"
+      ],
+      "accessMethod": "實讀公開英文詞表，另核對官方 Main 課綱、網站地圖與會員單元題名",
+      "scope": "六個新詞條與十二項既有整理；只核對 13A 公開題名及網址，未登入或觀看影片。"
+    },
+    "courseRefs": [
+      {
+        "version": "Main（主課程）／共用價格行為基礎",
+        "unit": "13A",
+        "topic": "假設持續在場時的多空方向判斷",
+        "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-13a-always-in/",
+        "relation": "相關主題補讀；文字出處為公開詞表，只核對公開課綱及單元題名，未觀看付費影片。"
+      }
+    ]
+  },
+  {
+    "resourceId": "discovery-adam-grimes-marketlife-1",
+    "url": "https://www.marketlife.com/firststeps",
+    "sourceTitle": "First Steps in Trading",
+    "sourceTitleZh": "交易入門第一步：公開課綱與學習範圍",
+    "authorConfirmed": "MarketLife（官方課程介紹頁；未列單篇署名）",
+    "checked": "2026-10-30",
+    "published": null,
+    "status": "intro-only",
+    "readScope": "已讀官方介紹、六組課綱項目及頁尾聲明；另核對首頁的免費入門課說明。未註冊、播放 34 段影片或取得課程講義。",
+    "summaryZh": "官方介紹從風險、R、部位規模與系統開發開始，再連接歷史回測、前瞻測試和交易計畫；頁面列出 34 段影片及九類技巧，但課綱不等於完整教材。",
+    "keyPointsZh": [
+      "風險與測試安排在技巧目錄之前，可作為學習順序的對照。",
+      "只說明公開課綱，未驗證課程方法的實際獲利。"
+    ],
+    "shortExcerpt": {
+      "en": "Back & Forward Testing",
+      "zh": "歷史回測與前瞻測試。",
+      "scope": "官方課綱中的題目；未讀取該課教學正文。"
+    },
+    "limitsZh": "MarketLife 同時銷售訂閱及進階課程；沒有取得獨立教學評分或可對帳績效。免費入門課不代表付費服務皆免費。未取得完整翻譯授權。",
+    "evidence": {
+      "urls": [
+        "https://www.marketlife.com/firststeps",
+        "https://www.marketlife.com/"
+      ],
+      "accessMethod": "實際讀取官方英文介紹及公開課綱",
+      "scope": "課程介紹與六組課綱；首頁僅核對免費入門定位及平台背景。影片及講義未讀。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "discovery-adam-grimes-marketlife-3",
+    "url": "https://www.marketlife.com/pullbacks",
+    "sourceTitle": "Unlock the Market's Hidden Patterns: Master Trading Pullbacks with Adam H. Grimes",
+    "sourceTitleZh": "Adam H. Grimes 回檔專題課：公開介紹與範圍",
+    "authorConfirmed": "MarketLife（課程講師 Adam H. Grimes）",
+    "checked": "2026-10-30",
+    "published": null,
+    "status": "intro-only",
+    "readScope": "已讀課程介紹、適用對象、八章課綱、預錄形式、站方選刊心得及退款限制；未播放影片、學員訪談或觀看付費課。",
+    "summaryZh": "官方把回檔課程分為趨勢與變形、部位與選擇、進場、管理及多時間級別等八章，標示超過十一小時。市場分析與問答主要為預錄內容，不能把直播存檔當成當下訊號。",
+    "keyPointsZh": [
+      "介紹涵蓋辨識、選擇與管理，沒有提供本次可驗證的完整進出場規則。",
+      "所有市場適用及高機率等文字屬銷售主張，不是微台或 BTC 的成效證據。"
+    ],
+    "shortExcerpt": {
+      "en": "All pre-recorded",
+      "zh": "全部為預錄內容。",
+      "scope": "說明此頁既有教材形式；頁面另提未來直播及更新權益，未驗證實際提供情況。"
+    },
+    "limitsZh": "付費課程銷售頁；Damian Clarke 心得由站方選刊，沒有獨立核實或對照組。未驗證高機率、所有市場適用及績效，亦未取得整篇翻譯授權。",
+    "evidence": {
+      "urls": [
+        "https://www.marketlife.com/pullbacks"
+      ],
+      "accessMethod": "實際讀取官方英文課程銷售頁",
+      "scope": "公開介紹、八章目錄、預錄形式、選刊心得及退款文字；影片與付費教材未讀。"
+    },
+    "courseRefs": []
+  }
+]

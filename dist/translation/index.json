@@ -6,12 +6,12 @@
   "englishResourceRecords": 2056,
   "resourceRecords": 2110,
   "statusCounts": {
-    "intro-only": 11,
+    "intro-only": 13,
     "body-summary": 21,
     "unavailable": 3,
     "excerpt-summary": 20,
     "licensed-excerpt": 2,
-    "pending": 2300
+    "pending": 2298
   },
   "siteArticles": 62,
   "articleAudit": "reading/text-audit.json",
@@ -315,8 +315,23 @@
       ]
     },
     {
+      "id": "8079781d63397f66df43",
+      "titleZh": "交易入門第一步：公開課綱與學習範圍",
+      "sourceTitle": "First Steps in Trading",
+      "status": "intro-only",
+      "resourceIds": [
+        "discovery-adam-grimes-marketlife-1"
+      ],
+      "chunk": "sources-000.json",
+      "url": "https://www.marketlife.com/firststeps",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "Adam Grimes／MarketLife"
+      ]
+    },
+    {
       "id": "80a94739d33f743ed25c",
-      "titleZh": "Brooks 詞表續讀：回檔計數、內外包棒與失敗再失敗",
+      "titleZh": "Brooks 詞表續讀：方向判斷、突破與小實體棒",
       "sourceTitle": "Glossary of terms for price action trading",
       "status": "excerpt-summary",
       "resourceIds": [
@@ -497,6 +512,21 @@
       "titleCoverage": "reviewed-title",
       "authors": [
         "Al Brooks"
+      ]
+    },
+    {
+      "id": "c02ff74b0b9077c20021",
+      "titleZh": "Adam H. Grimes 回檔專題課：公開介紹與範圍",
+      "sourceTitle": "Unlock the Market's Hidden Patterns: Master Trading Pullbacks with Adam H. Grimes",
+      "status": "intro-only",
+      "resourceIds": [
+        "discovery-adam-grimes-marketlife-3"
+      ],
+      "chunk": "sources-000.json",
+      "url": "https://www.marketlife.com/pullbacks",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "Adam Grimes／MarketLife"
       ]
     },
     {
@@ -1263,21 +1293,6 @@
       ]
     },
     {
-      "id": "8079781d63397f66df43",
-      "titleZh": "交易入門第一步：免費入門課綱",
-      "sourceTitle": "First Steps in Trading：免費入門課綱",
-      "status": "pending",
-      "resourceIds": [
-        "discovery-adam-grimes-marketlife-1"
-      ],
-      "chunk": "sources-000.json",
-      "url": "https://www.marketlife.com/firststeps",
-      "titleCoverage": "existing-label",
-      "authors": [
-        "Adam Grimes／MarketLife"
-      ]
-    },
-    {
       "id": "80a92c8e4e23e9adc99c",
       "titleZh": "三種可能的結果",
       "sourceTitle": "The Three Possible Outcomes",
@@ -1440,21 +1455,6 @@
       "titleCoverage": "title-only",
       "authors": [
         "Ali／Quant Systems 頻道"
-      ]
-    },
-    {
-      "id": "c02ff74b0b9077c20021",
-      "titleZh": "回檔專題課：回檔結構與管理",
-      "sourceTitle": "Pullback Masterclass：拉回結構與管理",
-      "status": "pending",
-      "resourceIds": [
-        "discovery-adam-grimes-marketlife-3"
-      ],
-      "chunk": "sources-000.json",
-      "url": "https://www.marketlife.com/pullbacks",
-      "titleCoverage": "existing-label",
-      "authors": [
-        "Adam Grimes／MarketLife"
       ]
     },
     {

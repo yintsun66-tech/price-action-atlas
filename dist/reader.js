@@ -52,6 +52,17 @@
         terms.every(t=>[a.title,a.subtitle,a.summary,a.category,...a.tags].join(" ").toLocaleLowerCase().includes(t));
     });
   }
+  let learningPaths=[], activeLearningPath="start";
+  function renderLearningRoutes() {
+    const P=globalThis.AtlasLearningPaths;
+    if(!P||!learningPaths.length)return;
+    const picker=q("#reading-path-select");
+    if(picker){
+      if(!picker.dataset.ready){picker.innerHTML=P.options(learningPaths);picker.dataset.ready="true";}
+      picker.disabled=false;picker.value=activeLearningPath;
+    }
+    q("#reading-route-grid").innerHTML=P.render(P.model(learningPaths,activeLearningPath,state.records));
+  }
   function renderCatalog() {
     if (!manifestReady) return;
     const rows=filtered(), shown=rows.slice(0,limit);
@@ -65,7 +76,7 @@
       return '<article class="reading-card card"><div class="reading-card-top"><span class="pill '+(a.mode==="licensed-section"?"green":"blue")+'">'+esc(a.category)+'</span><span>'+esc(a.minutes)+' 分鐘</span>'+((a.batch||1)>=2?'<span class="batch-label">'+(a.batch===7?'第七批新讀':a.batch===6?'第六批選讀':a.batch===5?'第五批節譯':a.batch===4?'第四批新增':a.batch===3?'第三批新增':'第二批新增')+'</span>':'')+'</div><h3><a href="#read/'+a.id+'">'+esc(a.title)+'</a></h3><p>'+esc(a.summary)+'</p><div class="reading-card-meta"><span>'+esc(a.mode==="licensed-section"?"CC BY-SA 範圍譯文":"本網站原創導讀")+'</span><span>'+esc(a.level)+'</span><span>'+esc(a.topic||'基礎')+'</span><span>'+esc(a.figureCount||0)+' 張整理圖</span></div><div class="reading-card-bottom"><a href="#read/'+a.id+'" class="text-btn">開啟閱讀 →</a><span aria-label="閱讀狀態">'+(r.read?"已讀 ✓":"尚未標記已讀")+(r.bookmarked?" · 已收藏":"")+'</span></div></article>';
     }).join("") : '<div class="empty-state">沒有符合的單元。請縮短關鍵字或改用「全部閱讀來源」。</div>';
     q("#reading-more").hidden=shown.length>=rows.length;
-    storageStatus();
+    storageStatus();renderLearningRoutes();
   }
   function actions() {
     const r=record(current.id);
@@ -203,6 +214,7 @@
   q("#reading-more").addEventListener("click",()=>{limit=manifest.length;renderCatalog();});
   q("#reader-previous").addEventListener("click",()=>{const i=ids.indexOf(current?.id);if(i>0)location.hash="read/"+ids[i-1];});
   q("#reader-next").addEventListener("click",()=>{const i=ids.indexOf(current?.id);if(i>=0&&i<ids.length-1)location.hash="read/"+ids[i+1];});
+  q("#reading-path-select")?.addEventListener("change",e=>{activeLearningPath=e.target.value;renderLearningRoutes();});
   window.addEventListener("hashchange",route);
   window.addEventListener("storage",e=>{
     if(e.key===KEY)notice("另一個分頁更新了閱讀筆記。請先匯出本頁備份，再重新整理以載入；不會覆蓋正在寫的內容。");
@@ -213,8 +225,10 @@
       const data=await res.json();manifest=data.articles;ids=manifest.map(a=>a.id);
       if(new Set(ids).size!==ids.length||!ids.every(id=>/^[a-z0-9-]+$/.test(id)))throw new Error("目錄格式錯誤");
       try{state=S.clean(JSON.parse(localStorage.getItem(KEY)||"{}"),ids);}catch{saved=false;}
-      q("#reading-route-grid").innerHTML=(data.paths||[]).map(p=>'<div><strong>'+esc(p.title)+'</strong><p>'+esc(p.description)+'</p>'+p.ids.filter(id=>ids.includes(id)).map((id,i)=>'<a href="#read/'+id+'">'+(i+1)+'．'+esc(manifest.find(a=>a.id===id).title)+' →</a>').join('<br>')+'</div>').join("");
-      manifestReady=true;q("#reader-start").href="#read/"+ids[0];renderCatalog();route();
+      learningPaths=globalThis.AtlasLearningPaths?.prepare(data.paths||[],manifest)||[];
+      if(learningPaths.length)renderLearningRoutes();
+      else q("#reading-route-grid").innerHTML=(data.paths||[]).map(p=>'<div><strong>'+esc(p.title)+'</strong><p>'+esc(p.description)+'</p>'+p.ids.filter(id=>ids.includes(id)).map((id,i)=>'<a href="#read/'+id+'">'+(i+1)+'．'+esc(manifest.find(a=>a.id===id).title)+' →</a>').join('<br>')+'</div>').join("");
+      manifestReady=true;q("#reader-start").href="#read/"+(learningPaths[0]?.steps[0]?.id||ids[0]);renderCatalog();route();
       // Catalog routes add height above this section. Resolve its initial deep link afterwards.
       if(["#probabilities","#schools","#community"].includes(location.hash)||location.hash.startsWith("#community-"))q(location.hash)?.scrollIntoView({block:"start"});
     }catch(e){

@@ -2,6 +2,55 @@
   "version": 1,
   "batches": [
     {
+      "id": "learning-batch12-20261030",
+      "collected": "2026-10-30",
+      "updated": "2026-10-30",
+      "timezone": "Asia/Taipei",
+      "description": "保留十二條既有路線，新增四篇入門順序、逐篇任務及下一篇未讀導航；續讀 Brooks 六項術語及兩個 MarketLife 公開介紹。",
+      "sources": [
+        "b-glossary",
+        "discovery-adam-grimes-marketlife-1",
+        "discovery-adam-grimes-marketlife-3"
+      ],
+      "articles": [],
+      "decisions": [
+        {
+          "source": "Glossary of terms for price action trading",
+          "url": "https://www.brookstradingcourse.com/price-action-trading-terms-glossary/",
+          "status": "指定詞條續讀，仍為部分摘要",
+          "reason": "保留前批十二項詞條；新增方向判斷、棒回檔、突破、突破模式、突破回檔及小實體棒六項。其餘詞條仍未逐項完成。"
+        },
+        {
+          "source": "First Steps in Trading",
+          "url": "https://www.marketlife.com/firststeps",
+          "status": "只完成公開介紹",
+          "reason": "已讀官方介紹、六組課綱項目及頁尾聲明；另核對首頁的免費入門課說明。未註冊、播放 34 段影片或取得課程講義。"
+        },
+        {
+          "source": "Unlock the Market's Hidden Patterns: Master Trading Pullbacks with Adam H. Grimes",
+          "url": "https://www.marketlife.com/pullbacks",
+          "status": "只完成公開介紹",
+          "reason": "已讀課程介紹、適用對象、八章課綱、預錄形式、站方選刊心得及退款限制；未播放影片、學員訪談或觀看付費課。"
+        },
+        {
+          "source": "兩個 MarketLife 課程影片與講義",
+          "status": "未採為正文完成",
+          "reason": "只取得公開課綱，未登入或觀看影片，不把目錄標為完整教材。"
+        },
+        {
+          "source": "Brooks 付費 13A",
+          "status": "只核對單元，不讀付費內容",
+          "reason": "公開課綱與網站地圖核對題名及官方網址；文字出處是公開詞表。"
+        }
+      ],
+      "notes": [
+        "新入門順序與練習提示為本站編排，不冒充講師官方課綱。",
+        "所有既有文章、十二條路線資料、十九筆社群卡及筆記 schema 保留；導航只讀現有已讀標記，切換路線不寫入儲存。",
+        "已讀不是理解、考核或獲利資格；不顯示未驗證的學習成功率。",
+        "本批沒有取用失敗；未讀或未觀看的延伸內容繼續保留未完成範圍。"
+      ]
+    },
+    {
       "id": "reading-batch11-20261030",
       "collected": "2026-10-30",
       "updated": "2026-10-30",

@@ -55,3 +55,7 @@ Brooks 課程對照須有 Main／Forex 版本、單元編號、中文主題、�
 核心翻譯第九批（2026-10-30）：七筆既有來源續讀，新增五篇正文摘要，累積 17 筆；Brooks 六詞條與臺灣當沖論文仍明列部分範圍。繁中短句先讀、英文可展開，原作者主張與本站校註分列。重建順序 batch9 → translation ledger → chinese-first；清單 2,355 個網址，完整計畫仍未完成。
 
 第十批（2026-10-30）：新增兩篇英文及一篇繁中原作者選讀，附既有原創搭配圖；續譯 Brooks 六項詞條與臺灣論文門檻敏感性／結語。社群卡共 19，英文來源清單共 2,357，正文摘要紀錄 19；全站仍在逐筆處理。重建 batch10 → translation ledger → chinese-first，驗證入口與未完成範圍見 docs。
+
+第十一批（2026-10-30）：Woods、Fuller 兩筆既有英文來源補上正文摘要，累積 21 筆；文章改為專注單欄與收合目錄，保留原文及筆記。
+
+第十二批（2026-10-30）：保留十二條路線並新增入門四篇，提供路線選擇、下一篇未讀及逐篇任務。Brooks 指定詞條累計十八項，兩個 MarketLife 課程只完成公開介紹。英文來源 2,357：21 正文、13 介紹、2,298 待讀，其餘範圍分列。最新重建為 learning batch12 → translation ledger → chinese-first，說明見 `docs/learning-navigation.md`，驗證為 workspace `tools/check_learning_batch12*.cjs`。
