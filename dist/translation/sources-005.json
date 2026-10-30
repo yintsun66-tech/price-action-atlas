@@ -1,5 +1,71 @@
 [
   {
+    "id": "2c635513ac270a5779b4",
+    "url": "https://www.youtube.com/watch?v=Lb7uCe9FJt4",
+    "sourceTitle": "Emini End of Day Review - Thursday, September 26, 2024 - Brad Wolff",
+    "titleZh": "Brad 公開影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-Lb7uCe9FJt4"
+      }
+    ],
+    "resourceIds": [
+      "yt-Lb7uCe9FJt4"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-Lb7uCe9FJt4",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "2c77a7962e03657580a1",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-want-bear-flag/",
+    "sourceTitle": "Emini Bears Want Bear Flag",
+    "titleZh": "Brad 日內案例｜2024-04-25｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-206106"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-206106"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-206106",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "2c98d9cf251929042f68",
     "url": "https://www.brookstradingcourse.com/analysis/emini-pullback-likely-3/",
     "sourceTitle": "Emini Pullback Likely",
@@ -3131,61 +3197,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "386ad46eb8aafb762337",
-    "url": "https://www.goodreads.com/en/book/show/23428489-understanding-price-action",
-    "sourceTitle": "Understanding Price Action: Practical Analysis of the 5-minute Time Frame",
-    "titleZh": "理解價格行為：五分鐘週期的實務分析（本報告譯名）",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "book-review",
-        "id": "volman"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
-  },
-  {
-    "id": "386f49649b1fa2c72e9f",
-    "url": "https://www.youtube.com/playlist?list=PLFA11UMiAJm9PEthLwhC1fC0JB0vELzEQ",
-    "sourceTitle": "S&P500 Emini Opening Review",
-    "titleZh": "Brooks 共享片單｜S&P500 Emini Opening Review",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "list-PLFA11UMiAJm9PEthLwhC1fC0JB0vELzEQ"
-      }
-    ],
-    "resourceIds": [
-      "list-PLFA11UMiAJm9PEthLwhC1fC0JB0vELzEQ"
-    ],
-    "legacyObservations": [
-      {
-        "id": "list-PLFA11UMiAJm9PEthLwhC1fC0JB0vELzEQ",
-        "scope": "官方片單入口已核對；包含多講者者不概括歸屬 Brad",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊"
     ]
   }
 ]

@@ -1,5 +1,71 @@
 [
   {
+    "id": "d5f4a9209b1ff532e1e2",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-profit-taking-likely-at-5800-round-number/",
+    "sourceTitle": "Emini Profit Taking Likely at 5,800 Round Number",
+    "titleZh": "Brad 日內案例｜2024-09-25｜風險與退出",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-218939"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-218939"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-218939",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "d5f8c42d9cf7924dbe42",
+    "url": "https://www.youtube.com/watch?v=-Ot9YON0jV8",
+    "sourceTitle": "Brooks Trading Course free video Nov. 9, 2012. , Strong buy setup in the Emini",
+    "titleZh": "Brooks 共享影片｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt--Ot9YON0jV8"
+      }
+    ],
+    "resourceIds": [
+      "yt--Ot9YON0jV8"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt--Ot9YON0jV8",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "d62e8e22d2654e67afcf",
     "url": "https://www.brookstradingcourse.com/analysis/emini-breakout-below/",
     "sourceTitle": "Emini Breakout below February 10 Likely to Fail",
@@ -3108,72 +3174,6 @@
     "titleNote": "",
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "e0d5ee5c414e35c4809c",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-buyers-below-april-4th-low/",
-    "sourceTitle": "Emini Buyers below April 4th Low",
-    "titleZh": "Brad 日內案例｜2024-04-11｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-204960"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-204960"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-204960",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "e0e32fee26afa432a274",
-    "url": "https://www.youtube.com/watch?v=K_yT1NdL59I",
-    "sourceTitle": "Recap for 2010-12-03 part 2 and Outlook for 2010-12-06",
-    "titleZh": "Brooks 共享影片｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-K_yT1NdL59I"
-      }
-    ],
-    "resourceIds": [
-      "yt-K_yT1NdL59I"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-K_yT1NdL59I",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
     ]
   }
 ]

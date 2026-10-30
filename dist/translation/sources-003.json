@@ -1,5 +1,71 @@
 [
   {
+    "id": "14c69d808d36615ded4c",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-profit-taking-above-all-time-high-likely/",
+    "sourceTitle": "Emini Profit Taking Above All-Time High Likely",
+    "titleZh": "Brad 日內案例｜2025-09-10｜風險與退出",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-250079"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-250079"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-250079",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "15072a465aaa52cd7932",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-may-pullback/",
+    "sourceTitle": "Emini May Pullback for a Few Days",
+    "titleZh": "Brad 日內案例｜2023-04-28｜回檔與第二段",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-176781"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-176781"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-176781",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "151e6006d541c8e64dcd",
     "url": "https://www.brookstradingcourse.com/analysis/emini-pullback-to-last-fridays-low/",
     "sourceTitle": "Emini Pullback to Last Friday’s Low",
@@ -3107,72 +3173,6 @@
     "legacyObservations": [
       {
         "id": "yt-42XGPVVTnUM",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "20edd67ab9f458593999",
-    "url": "https://www.youtube.com/watch?v=wc8f3VC82sU",
-    "sourceTitle": "Ali's Presentation in Dr Al Brooks' Orlando Workshop 2022",
-    "titleZh": "Ali 在 Brooks Orlando 2022 工作坊的演講",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-wc8f3VC82sU"
-      }
-    ],
-    "resourceIds": [
-      "yt-wc8f3VC82sU"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-wc8f3VC82sU",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "2105c4089406d2a5a24c",
-    "url": "https://www.youtube.com/watch?v=p0cgGPD401Y",
-    "sourceTitle": "Emini End of Day Review - Wednesday December 6, 2023 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-p0cgGPD401Y"
-      }
-    ],
-    "resourceIds": [
-      "yt-p0cgGPD401Y"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-p0cgGPD401Y",
         "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
         "checked": "2026-10-22"
       }

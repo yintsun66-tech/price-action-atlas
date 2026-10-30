@@ -3998,6 +3998,112 @@
     "attributionNoteZh": "原頁作者為 Ankit Khound，文中轉述 Ali 的建議；舊索引將作者歸為 Ali，本版已在閱讀呈現層更正。"
   },
   {
+    "id": "c22b982fb6bff453eec9",
+    "url": "https://priceactiontradingsystem.com/faqs/",
+    "sourceTitle": "FAQs",
+    "titleZh": "PATs 問答選讀：逐筆計數圖、訊號與風險",
+    "titleCoverage": "reviewed-title",
+    "status": "excerpt-summary",
+    "summaryZh": "官方問答指出逐筆計數圖不能要求逐棒完全相同，跨市場也要另選棒數。訊號棒、結構停損與風險必須分開檢查。",
+    "readScope": "只整理逐筆計數圖差異、跨市場棒數、訊號棒、計數及停損／目標問答；其餘問答、留言、手冊與影片未逐項整理。",
+    "checked": "2026-10-30",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "discovery-mack-pats-2"
+      },
+      {
+        "kind": "article-source",
+        "id": "practice-tick-time-transfer",
+        "index": 0
+      },
+      {
+        "kind": "discovery-material",
+        "id": "mack-pats",
+        "index": 1
+      },
+      {
+        "kind": "review",
+        "id": "discovery-mack-pats-2"
+      }
+    ],
+    "resourceIds": [
+      "discovery-mack-pats-2"
+    ],
+    "legacyObservations": [
+      {
+        "id": "discovery-mack-pats-2",
+        "scope": "免費公開。 官方問答；2015 年回覆說明免費 YouTube chart lessons 於當日較晚時段上傳，並說不提供 real-time trade room。 這是歷史官方回覆，不能保證 2026 每個交易日都有更新；免費日評應標盤後／近收盤圖表復盤。 本輪未逐部完整觀看或核實真實成交。",
+        "checked": "2026-10-24"
+      }
+    ],
+    "reviews": [
+      {
+        "resourceId": "discovery-mack-pats-2",
+        "url": "https://priceactiontradingsystem.com/faqs/",
+        "sourceTitle": "FAQs",
+        "sourceTitleZh": "PATs 問答選讀：逐筆計數圖、訊號與風險",
+        "authorConfirmed": "PATs（官方問答；所選正文未列個人署名）",
+        "published": null,
+        "checked": "2026-10-30",
+        "status": "excerpt-summary",
+        "readScope": "只整理逐筆計數圖差異、跨市場棒數、訊號棒、計數及停損／目標問答；其餘問答、留言、手冊與影片未逐項整理。",
+        "summaryZh": "官方問答指出逐筆計數圖不能要求逐棒完全相同，跨市場也要另選棒數。訊號棒、結構停損與風險必須分開檢查。",
+        "keyPointsZh": [
+          "1/3 是訊號棒收盤位置，不是勝率。",
+          "tick 在此是圖表計數，不是價格最小跳動；棒數不是通用參數。"
+        ],
+        "shortExcerpt": {
+          "en": "every market is slightly different",
+          "zh": "每個市場都略有不同。",
+          "scope": "跨市場選圖的問答；不能直接移植 ES 圖表參數。"
+        },
+        "editorNotesZh": [
+          "本站校註：停損加寬後拉遠目標，不足以證明成本後正期望，仍需勝率及成交資料。"
+        ],
+        "limitsZh": "仍為部分摘要。各市場適用、幾乎無滑價等為提供者主張，未作成效證明；網站銷售手冊，未取得全文翻譯授權。",
+        "evidence": {
+          "urls": [
+            "https://priceactiontradingsystem.com/faqs/"
+          ],
+          "accessMethod": "實際讀取英文官方 FAQ 指定問答",
+          "scope": "公開正文指定主題；留言、付費手冊及影片未核驗，發布日未確認。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Mack／PATs（Price Action Trading System）"
+    ],
+    "published": null,
+    "dateNoteZh": "",
+    "keyPointsZh": [
+      "1/3 是訊號棒收盤位置，不是勝率。",
+      "tick 在此是圖表計數，不是價格最小跳動；棒數不是通用參數。"
+    ],
+    "limitsZh": "仍為部分摘要。各市場適用、幾乎無滑價等為提供者主張，未作成效證明；網站銷售手冊，未取得全文翻譯授權。",
+    "evidence": {
+      "urls": [
+        "https://priceactiontradingsystem.com/faqs/"
+      ],
+      "accessMethod": "實際讀取英文官方 FAQ 指定問答",
+      "scope": "公開正文指定主題；留言、付費手冊及影片未核驗，發布日未確認。"
+    },
+    "shortExcerpt": {
+      "en": "every market is slightly different",
+      "zh": "每個市場都略有不同。",
+      "scope": "跨市場選圖的問答；不能直接移植 ES 圖表參數。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [
+      "本站校註：停損加寬後拉遠目標，不足以證明成本後正期望，仍需勝率及成交資料。"
+    ],
+    "authorConfirmed": "PATs（官方問答；所選正文未列個人署名）"
+  },
+  {
     "id": "c2be8b74a2def9feae0f",
     "url": "https://www.quantsystems.ca/ptm-library",
     "sourceTitle": "Pro-Trader Mentoring Library",
@@ -4316,6 +4422,80 @@
     "attributionNoteZh": "Ali 客座系列，不指定為 Brooks 原課出處。"
   },
   {
+    "id": "d61508d16a01e82fd3cc",
+    "url": "https://www.tradingsetupsreview.com/intraday-trend-trading-price-action-trade-price/",
+    "sourceTitle": "Intraday Trend Trading With Price Action (Trade Price)",
+    "titleZh": "順勢方法：成功、失敗與評級的界線",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "繁中摘要與必要短句集中於新文選讀；原方法與 Woods 整理分開，沒有核發策略成效。",
+    "readScope": "已讀公開規則、兩例、檢討及頁尾限制；原圖、外連與程式未核驗。",
+    "checked": "2026-10-30",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "woods-trend-method-counterexample"
+      },
+      {
+        "kind": "review",
+        "id": "source-woods-trend-method-counterexample"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-woods-trend-method-counterexample",
+        "url": "https://www.tradingsetupsreview.com/intraday-trend-trading-price-action-trade-price/",
+        "sourceTitle": "Intraday Trend Trading With Price Action (Trade Price)",
+        "sourceTitleZh": "順勢方法：成功、失敗與評級的界線",
+        "authorConfirmed": "Galen Woods（整理）；Trade price／Sho（原方法）",
+        "published": null,
+        "checked": "2026-10-30",
+        "status": "body-summary",
+        "readScope": "已讀公開規則、兩例、檢討及頁尾限制；原圖、外連與程式未核驗。",
+        "summaryZh": "繁中摘要與必要短句集中於新文選讀；原方法與 Woods 整理分開，沒有核發策略成效。",
+        "keyPointsZh": [],
+        "limitsZh": "選例不代表實際交易；未取得全文翻譯授權。",
+        "evidence": {
+          "urls": [
+            "https://www.tradingsetupsreview.com/intraday-trend-trading-price-action-trade-price/"
+          ],
+          "accessMethod": "實際讀取英文原作者公開文章",
+          "scope": "多空條件、成功與失敗文字例子、方法限制及署名；外連串及 PDF 未讀。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "Galen Woods（整理）；Trade price／Sho（原方法）"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "Woods 整理 Sho 的順勢想法，以肯特納通道、回檔與訊號棒搭配，並展示停損反例。他明說這只是方法的一種整理，並非規則固定的交易系統。",
+      "readScope": "已讀規則、多空例子、檢討與頁尾限制；未核驗圖表、外連討論串或 PDF。",
+      "checked": "2026-10-30",
+      "translationScope": "短摘要與必要短句，非全文翻譯。",
+      "cardId": "woods-trend-method-counterexample"
+    },
+    "published": null,
+    "dateNoteZh": "",
+    "keyPointsZh": [],
+    "limitsZh": "選例不代表實際交易；未取得全文翻譯授權。",
+    "evidence": {
+      "urls": [
+        "https://www.tradingsetupsreview.com/intraday-trend-trading-price-action-trade-price/"
+      ],
+      "accessMethod": "實際讀取英文原作者公開文章",
+      "scope": "多空條件、成功與失敗文字例子、方法限制及署名；外連串及 PDF 未讀。"
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Galen Woods（整理）；Trade price／Sho（原方法）"
+  },
+  {
     "id": "d91695d26b55824a5afc",
     "url": "https://www.quantsystems.ca/article-position-sizing",
     "sourceTitle": "Position Sizing",
@@ -4474,6 +4654,80 @@
     "shortExcerpt": null,
     "termNotes": [],
     "editorNotesZh": []
+  },
+  {
+    "id": "dc077a4c44eb66cbd5a4",
+    "url": "https://www.adamhgrimes.com/being-right-being-wrong/",
+    "sourceTitle": "Being Right Being Wrong",
+    "titleZh": "看法、觸發與持有條件分開",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "繁中摘要、短句與搭配練習集中在新文選讀卡；讀取本文不等於驗證作者績效。",
+    "readScope": "已讀公開正文至結語；未核驗原圖、成交或外連服務。",
+    "checked": "2026-10-30",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "grimes-trigger-before-opinion"
+      },
+      {
+        "kind": "review",
+        "id": "source-grimes-trigger-before-opinion"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-grimes-trigger-before-opinion",
+        "url": "https://www.adamhgrimes.com/being-right-being-wrong/",
+        "sourceTitle": "Being Right Being Wrong",
+        "sourceTitleZh": "看法、觸發與持有條件分開",
+        "authorConfirmed": "Adam H. Grimes",
+        "published": "2022-10-07",
+        "checked": "2026-10-30",
+        "status": "body-summary",
+        "readScope": "已讀公開正文至結語；未核驗原圖、成交或外連服務。",
+        "summaryZh": "繁中摘要、短句與搭配練習集中在新文選讀卡；讀取本文不等於驗證作者績效。",
+        "keyPointsZh": [],
+        "limitsZh": "歷史個案，不是今日訊號；未取得全文翻譯授權。",
+        "evidence": {
+          "urls": [
+            "https://www.adamhgrimes.com/being-right-being-wrong/"
+          ],
+          "accessMethod": "實際讀取英文原作者公開正文",
+          "scope": "XLE 想法、未觸發、持有條件與結語；詳見新文選讀。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "Adam H. Grimes"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "Grimes 回顧 XLE 看空想法卻遇到向上跳空；他說因未出現向下突破而沒有下單。重點是事前觸發、持有條件，以及願意放下原先看法。",
+      "readScope": "已讀 XLE 背景、觸發與持有條件、彈性調整及結語；未核驗原圖或成交。",
+      "checked": "2026-10-30",
+      "translationScope": "短摘要與必要短句，非全文翻譯。",
+      "cardId": "grimes-trigger-before-opinion"
+    },
+    "published": "2022-10-07",
+    "dateNoteZh": "",
+    "keyPointsZh": [],
+    "limitsZh": "歷史個案，不是今日訊號；未取得全文翻譯授權。",
+    "evidence": {
+      "urls": [
+        "https://www.adamhgrimes.com/being-right-being-wrong/"
+      ],
+      "accessMethod": "實際讀取英文原作者公開正文",
+      "scope": "XLE 想法、未觸發、持有條件與結語；詳見新文選讀。"
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Adam H. Grimes"
   },
   {
     "id": "dfafe0282e69d429a562",
@@ -6489,113 +6743,6 @@
     "titleNote": "",
     "authors": [
       "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "a9e35f1d4dd29926fa60",
-    "url": "https://www.youtube.com/watch?v=uKa3m3vEDJU",
-    "sourceTitle": "Market Energy",
-    "titleZh": "市場能量",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-uKa3m3vEDJU"
-      }
-    ],
-    "resourceIds": [
-      "yt-uKa3m3vEDJU"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-uKa3m3vEDJU",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "afac9492aaf43422f2ba",
-    "url": "https://www.youtube.com/watch?v=PohrMfMo2T4",
-    "sourceTitle": "Tactical Entries",
-    "titleZh": "戰術性進場",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-PohrMfMo2T4"
-      }
-    ],
-    "resourceIds": [
-      "yt-PohrMfMo2T4"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-PohrMfMo2T4",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "b9125e6fcdb4401b0472",
-    "url": "https://www.youtube.com/watch?v=Z6lKUPUEYJQ",
-    "sourceTitle": "Price Action Trading For Beginners (The Ultimate Guide)（2021-04-08）",
-    "titleZh": "初學者價格行為交易：完整指南（2021-04-08）",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "discovery-rayner-teo-2"
-      },
-      {
-        "kind": "discovery-material",
-        "id": "rayner-teo",
-        "index": 1
-      }
-    ],
-    "resourceIds": [
-      "discovery-rayner-teo-2"
-    ],
-    "legacyObservations": [
-      {
-        "id": "discovery-rayner-teo-2",
-        "scope": "免費 YouTube；作者 Rayner Teo。 價格行為、進出場與圖表範例的預錄課程；非交易直播。 只核對作者、標題、日期與描述，不採影片標題中的效果宣稱為證據。 本輪未逐部完整觀看或核實真實成交。",
-        "checked": "2026-10-24"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Rayner Teo／TradingwithRayner"
     ]
   }
 ]

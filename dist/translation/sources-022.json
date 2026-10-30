@@ -1,5 +1,60 @@
 [
   {
+    "id": "ee3f17b401d2432922d1",
+    "url": "https://www.youtube.com/watch?v=updw1XHwV5g",
+    "sourceTitle": "Easy Scalp & Trade Management in the E-mini 2010-03-26 and Outlook for 2010-03-29",
+    "titleZh": "Brooks 共享影片｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-updw1XHwV5g"
+      }
+    ],
+    "resourceIds": [
+      "yt-updw1XHwV5g"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-updw1XHwV5g",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
+    "id": "ee5db1bd42b629d4e0d6",
+    "url": "https://www.brookstradingcourse.com/trade-price-action/video-49d-swing-trading-examples/",
+    "sourceTitle": "波段案例",
+    "titleZh": "波段案例",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "波段案例"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "ee7dee048813386be542",
     "url": "https://www.youtube.com/watch?v=4hBr_L8Akmg",
     "sourceTitle": "Market Outlook for 2021 Bitcoin",
@@ -3078,72 +3133,6 @@
     "legacyObservations": [
       {
         "id": "yt-7BrH_Nqm4vk",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "f90306bb10dddfb6663e",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-reversal-up-from-low-1/",
-    "sourceTitle": "Emini reversal up from Low 1 pullback",
-    "titleZh": "Brad 日內案例｜2022-03-24｜回檔與第二段／反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-146796"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-146796"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-146796",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "f97ae0b508381d60345c",
-    "url": "https://www.youtube.com/watch?v=4O9X7_VmR3E",
-    "sourceTitle": "Brooks Trading Course free video Nov. 30, 2012. Emini open of day and month, support or resistance.",
-    "titleZh": "Brooks 共享影片｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-4O9X7_VmR3E"
-      }
-    ],
-    "resourceIds": [
-      "yt-4O9X7_VmR3E"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-4O9X7_VmR3E",
         "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
         "checked": "2026-10-22"
       }

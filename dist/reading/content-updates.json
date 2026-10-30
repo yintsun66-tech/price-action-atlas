@@ -2,6 +2,57 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch14-20261030",
+      "collected": "2026-10-30",
+      "updated": "2026-10-30",
+      "timezone": "Asia/Taipei",
+      "description": "兩個去重後的新英文來源及一筆既有 FAQ 選段續譯；正文與部分範圍分列。",
+      "sources": [
+        "grimes-trigger-before-opinion",
+        "woods-trend-method-counterexample",
+        "discovery-mack-pats-2"
+      ],
+      "articles": [],
+      "decisions": [
+        {
+          "source": "Being Right Being Wrong",
+          "url": "https://www.adamhgrimes.com/being-right-being-wrong/",
+          "status": "新收錄正文選讀",
+          "reason": "已讀 XLE 背景、觸發與持有條件、彈性調整及結語；未核驗原圖或成交。"
+        },
+        {
+          "source": "Intraday Trend Trading With Price Action (Trade Price)",
+          "url": "https://www.tradingsetupsreview.com/intraday-trend-trading-price-action-trade-price/",
+          "status": "新收錄正文選讀",
+          "reason": "已讀規則、多空例子、檢討與頁尾限制；未核驗圖表、外連討論串或 PDF。"
+        },
+        {
+          "source": "PATs FAQs",
+          "url": "https://priceactiontradingsystem.com/faqs/",
+          "status": "既有來源指定問答續譯",
+          "reason": "只整理逐筆計數圖、跨市場、訊號與風險問答；其餘部分未逐項完成。"
+        },
+        {
+          "source": "太妃課綱及首頁候選",
+          "url": "https://tefistudio.com/zh/page/detail",
+          "status": "本批略過",
+          "reason": "繁中搜尋主要回到既有課綱及銷售介紹，不把搜尋片段當成完整教材或重複加入。"
+        },
+        {
+          "source": "商業書籍轉載 PDF、彙整頁及 Reddit 搜尋片段",
+          "status": "未採",
+          "reason": "本批優先原作者正文；未下載授權不明書籍，也不把搜尋摘要當成社群全文。"
+        }
+      ],
+      "notes": [
+        "新收錄不等於新發表；Grimes 2022 日期與 Woods 未核對確日分列。",
+        "配圖沿用原創合成示意，不重製來源圖，也不增加圖數。",
+        "新來源短句集中於新文章卡，翻譯清單連回選讀，避免重複長段。",
+        "PATs 自有方法不冒充 Brooks 課程；沒有新增未核對的單元。",
+        "作者檔改按數字批次排序，保留舊版來源內容；全文翻譯仍未完成。"
+      ]
+    },
+    {
       "id": "translation-batch13-20261030",
       "collected": "2026-10-30",
       "updated": "2026-10-30",

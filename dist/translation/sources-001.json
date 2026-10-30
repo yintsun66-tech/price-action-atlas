@@ -1,5 +1,112 @@
 [
   {
+    "id": "a9e35f1d4dd29926fa60",
+    "url": "https://www.youtube.com/watch?v=uKa3m3vEDJU",
+    "sourceTitle": "Market Energy",
+    "titleZh": "市場能量",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-uKa3m3vEDJU"
+      }
+    ],
+    "resourceIds": [
+      "yt-uKa3m3vEDJU"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-uKa3m3vEDJU",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Ali／Quant Systems 頻道"
+    ]
+  },
+  {
+    "id": "afac9492aaf43422f2ba",
+    "url": "https://www.youtube.com/watch?v=PohrMfMo2T4",
+    "sourceTitle": "Tactical Entries",
+    "titleZh": "戰術性進場",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-PohrMfMo2T4"
+      }
+    ],
+    "resourceIds": [
+      "yt-PohrMfMo2T4"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-PohrMfMo2T4",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Ali／Quant Systems 頻道"
+    ]
+  },
+  {
+    "id": "b9125e6fcdb4401b0472",
+    "url": "https://www.youtube.com/watch?v=Z6lKUPUEYJQ",
+    "sourceTitle": "Price Action Trading For Beginners (The Ultimate Guide)（2021-04-08）",
+    "titleZh": "初學者價格行為交易：完整指南（2021-04-08）",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "discovery-rayner-teo-2"
+      },
+      {
+        "kind": "discovery-material",
+        "id": "rayner-teo",
+        "index": 1
+      }
+    ],
+    "resourceIds": [
+      "discovery-rayner-teo-2"
+    ],
+    "legacyObservations": [
+      {
+        "id": "discovery-rayner-teo-2",
+        "scope": "免費 YouTube；作者 Rayner Teo。 價格行為、進出場與圖表範例的預錄課程；非交易直播。 只核對作者、標題、日期與描述，不採影片標題中的效果宣稱為證據。 本輪未逐部完整觀看或核實真實成交。",
+        "checked": "2026-10-24"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Rayner Teo／TradingwithRayner"
+    ]
+  },
+  {
     "id": "be36eb1f53e0d4927f8d",
     "url": "https://www.youtube.com/watch?v=j6I4BF-xOm0",
     "sourceTitle": "Context Filters for System Development",
@@ -70,50 +177,6 @@
     "titleNote": "",
     "authors": [
       "Thomas Wade／Wade Trading Academy"
-    ]
-  },
-  {
-    "id": "c22b982fb6bff453eec9",
-    "url": "https://priceactiontradingsystem.com/faqs/",
-    "sourceTitle": "FAQs：tick 圖、免費日評與學習方式",
-    "titleZh": "常見問答：逐筆計數圖、免費日評與學習方式",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "discovery-mack-pats-2"
-      },
-      {
-        "kind": "article-source",
-        "id": "practice-tick-time-transfer",
-        "index": 0
-      },
-      {
-        "kind": "discovery-material",
-        "id": "mack-pats",
-        "index": 1
-      }
-    ],
-    "resourceIds": [
-      "discovery-mack-pats-2"
-    ],
-    "legacyObservations": [
-      {
-        "id": "discovery-mack-pats-2",
-        "scope": "免費公開。 官方問答；2015 年回覆說明免費 YouTube chart lessons 於當日較晚時段上傳，並說不提供 real-time trade room。 這是歷史官方回覆，不能保證 2026 每個交易日都有更新；免費日評應標盤後／近收盤圖表復盤。 本輪未逐部完整觀看或核實真實成交。",
-        "checked": "2026-10-24"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Mack／PATs（Price Action Trading System）"
     ]
   },
   {
@@ -3166,72 +3229,6 @@
       {
         "id": "brad-post-265340",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "08977fdabf65149639e6",
-    "url": "https://www.youtube.com/watch?v=V9V33vUkih8",
-    "sourceTitle": "Emini End of Day Review - Thursday July 27, 2023 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-V9V33vUkih8"
-      }
-    ],
-    "resourceIds": [
-      "yt-V9V33vUkih8"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-V9V33vUkih8",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "089c3e04894d3c6e6f4e",
-    "url": "https://www.youtube.com/watch?v=IY3v1-6opcw",
-    "sourceTitle": "Emini End of Day Review - Wednesday August 2, 2023 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-IY3v1-6opcw"
-      }
-    ],
-    "resourceIds": [
-      "yt-IY3v1-6opcw"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-IY3v1-6opcw",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
         "checked": "2026-10-22"
       }
     ],

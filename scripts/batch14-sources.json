@@ -1,0 +1,90 @@
+[
+  {
+    "id": "grimes-trigger-before-opinion",
+    "platform": "Adam H. Grimes 原作者部落格",
+    "kind": "author",
+    "language": "en",
+    "author": "Adam H. Grimes",
+    "title": "看法錯了，觸發條件仍能讓你保持空手",
+    "originalTitle": "Being Right Being Wrong",
+    "url": "https://www.adamhgrimes.com/being-right-being-wrong/",
+    "published": "2022-10-07",
+    "dateNote": "新收錄的歷史文章，非今日市場分析。",
+    "summary": "Grimes 回顧 XLE 看空想法卻遇到向上跳空；他說因未出現向下突破而沒有下單。重點是事前觸發、持有條件，以及願意放下原先看法。",
+    "quote": {
+      "en": "no trades were entered",
+      "zh": "未發生任何交易。",
+      "context": "作者對該次個案的自述；不是所有錯誤想法都能避損的保證。"
+    },
+    "access": "已讀 XLE 背景、觸發與持有條件、彈性調整及結語；未核驗原圖或成交。",
+    "translation": "短摘要與必要短句，非全文翻譯。",
+    "review": {
+      "basis": "把未觸發與已成交交易分開。",
+      "learning": "先寫觸發及失效條件，再看結果。",
+      "limits": "作者連結商業服務；個案與自述零損益未獨立驗證。",
+      "engagement": "未取得獨立評分，不填星等。"
+    },
+    "figure": {
+      "src": "images/study/louie-wait-cancel-map.svg",
+      "alt": "本站原創等待與取消流程",
+      "caption": "原創合成流程，非 XLE 原圖或成交證據。"
+    },
+    "related": [
+      "louie-wait-cancel",
+      "brooks-breakout-test",
+      "practice-journal-before-after"
+    ],
+    "tags": [
+      "觸發條件",
+      "未成交",
+      "彈性判斷"
+    ],
+    "batch": 14,
+    "collected": "2026-10-30",
+    "checked": "2026-10-30"
+  },
+  {
+    "id": "woods-trend-method-counterexample",
+    "platform": "Trading Setups Review：社群方法整理",
+    "kind": "author",
+    "language": "en",
+    "author": "Galen Woods（整理）；Trade price／Sho（原方法）",
+    "title": "順勢方法也保留失敗例：評級不是勝率",
+    "originalTitle": "Intraday Trend Trading With Price Action (Trade Price)",
+    "url": "https://www.tradingsetupsreview.com/intraday-trend-trading-price-action-trade-price/",
+    "published": null,
+    "dateNote": "正文未列確日，不以版權年份或搜尋年齡補填。",
+    "summary": "Woods 整理 Sho 的順勢想法，以肯特納通道、回檔與訊號棒搭配，並展示停損反例。他明說這只是方法的一種整理，並非規則固定的交易系統。",
+    "quote": {
+      "en": "not a rigid system",
+      "zh": "不是一套規則固定的系統。",
+      "context": "結語限制本文規則的身分；A++ 是作者評級，50% 是回檔位置，均非實測勝率。"
+    },
+    "access": "已讀規則、多空例子、檢討與頁尾限制；未核驗圖表、外連討論串或 PDF。",
+    "translation": "短摘要與必要短句，非全文翻譯。",
+    "review": {
+      "basis": "成功與失敗例並列。",
+      "learning": "檢查回檔中的逆向力道及背景。",
+      "limits": "網站推廣教材；選例非實際交易，未驗證微台／BTC 成效。",
+      "engagement": "未取得獨立評分，不把 A++ 當好評率。"
+    },
+    "figure": {
+      "src": "images/study/bp2-breakout-followthrough-replay-overview.svg",
+      "alt": "本站原創合成突破後續路徑",
+      "caption": "原創合成回放圖，非作者 6A 原圖或方法績效。"
+    },
+    "related": [
+      "bp2-range-location",
+      "pp2-signal-gap",
+      "bp2-breakout-followthrough"
+    ],
+    "tags": [
+      "順勢",
+      "反例",
+      "方法版本"
+    ],
+    "batch": 14,
+    "collected": "2026-10-30",
+    "checked": "2026-10-30"
+  }
+]

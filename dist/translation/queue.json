@@ -160,6 +160,15 @@
       "nextAction": "取得實際教材或字幕後才能補內容摘要"
     },
     {
+      "id": "c22b982fb6bff453eec9",
+      "url": "https://priceactiontradingsystem.com/faqs/",
+      "resourceIds": [
+        "discovery-mack-pats-2"
+      ],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
       "id": "c2be8b74a2def9feae0f",
       "url": "https://www.quantsystems.ca/ptm-library",
       "resourceIds": [
@@ -668,15 +677,6 @@
       "url": "https://www.youtube.com/playlist?list=PLjbvx7ZHf-czwdnkUgteDUJFhPp5QiZix",
       "resourceIds": [
         "discovery-thomas-wade-1"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
-      "id": "c22b982fb6bff453eec9",
-      "url": "https://priceactiontradingsystem.com/faqs/",
-      "resourceIds": [
-        "discovery-mack-pats-2"
       ],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"

@@ -1,0 +1,79 @@
+[
+  {
+    "resourceId": "source-grimes-trigger-before-opinion",
+    "url": "https://www.adamhgrimes.com/being-right-being-wrong/",
+    "sourceTitle": "Being Right Being Wrong",
+    "sourceTitleZh": "看法、觸發與持有條件分開",
+    "authorConfirmed": "Adam H. Grimes",
+    "published": "2022-10-07",
+    "checked": "2026-10-30",
+    "status": "body-summary",
+    "readScope": "已讀公開正文至結語；未核驗原圖、成交或外連服務。",
+    "summaryZh": "繁中摘要、短句與搭配練習集中在新文選讀卡；讀取本文不等於驗證作者績效。",
+    "keyPointsZh": [],
+    "limitsZh": "歷史個案，不是今日訊號；未取得全文翻譯授權。",
+    "evidence": {
+      "urls": [
+        "https://www.adamhgrimes.com/being-right-being-wrong/"
+      ],
+      "accessMethod": "實際讀取英文原作者公開正文",
+      "scope": "XLE 想法、未觸發、持有條件與結語；詳見新文選讀。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "source-woods-trend-method-counterexample",
+    "url": "https://www.tradingsetupsreview.com/intraday-trend-trading-price-action-trade-price/",
+    "sourceTitle": "Intraday Trend Trading With Price Action (Trade Price)",
+    "sourceTitleZh": "順勢方法：成功、失敗與評級的界線",
+    "authorConfirmed": "Galen Woods（整理）；Trade price／Sho（原方法）",
+    "published": null,
+    "checked": "2026-10-30",
+    "status": "body-summary",
+    "readScope": "已讀公開規則、兩例、檢討及頁尾限制；原圖、外連與程式未核驗。",
+    "summaryZh": "繁中摘要與必要短句集中於新文選讀；原方法與 Woods 整理分開，沒有核發策略成效。",
+    "keyPointsZh": [],
+    "limitsZh": "選例不代表實際交易；未取得全文翻譯授權。",
+    "evidence": {
+      "urls": [
+        "https://www.tradingsetupsreview.com/intraday-trend-trading-price-action-trade-price/"
+      ],
+      "accessMethod": "實際讀取英文原作者公開文章",
+      "scope": "多空條件、成功與失敗文字例子、方法限制及署名；外連串及 PDF 未讀。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "discovery-mack-pats-2",
+    "url": "https://priceactiontradingsystem.com/faqs/",
+    "sourceTitle": "FAQs",
+    "sourceTitleZh": "PATs 問答選讀：逐筆計數圖、訊號與風險",
+    "authorConfirmed": "PATs（官方問答；所選正文未列個人署名）",
+    "published": null,
+    "checked": "2026-10-30",
+    "status": "excerpt-summary",
+    "readScope": "只整理逐筆計數圖差異、跨市場棒數、訊號棒、計數及停損／目標問答；其餘問答、留言、手冊與影片未逐項整理。",
+    "summaryZh": "官方問答指出逐筆計數圖不能要求逐棒完全相同，跨市場也要另選棒數。訊號棒、結構停損與風險必須分開檢查。",
+    "keyPointsZh": [
+      "1/3 是訊號棒收盤位置，不是勝率。",
+      "tick 在此是圖表計數，不是價格最小跳動；棒數不是通用參數。"
+    ],
+    "shortExcerpt": {
+      "en": "every market is slightly different",
+      "zh": "每個市場都略有不同。",
+      "scope": "跨市場選圖的問答；不能直接移植 ES 圖表參數。"
+    },
+    "editorNotesZh": [
+      "本站校註：停損加寬後拉遠目標，不足以證明成本後正期望，仍需勝率及成交資料。"
+    ],
+    "limitsZh": "仍為部分摘要。各市場適用、幾乎無滑價等為提供者主張，未作成效證明；網站銷售手冊，未取得全文翻譯授權。",
+    "evidence": {
+      "urls": [
+        "https://priceactiontradingsystem.com/faqs/"
+      ],
+      "accessMethod": "實際讀取英文官方 FAQ 指定問答",
+      "scope": "公開正文指定主題；留言、付費手冊及影片未核驗，發布日未確認。"
+    },
+    "courseRefs": []
+  }
+]

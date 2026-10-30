@@ -1,5 +1,62 @@
 [
   {
+    "id": "4eba6ba22c59480e29b1",
+    "url": "https://www.brookstradingcourse.com/wp-content/uploads/2016/05/Al-Brooks-Webinar-Distinguishing-Strong-Legs-TR-vs-Trends-May-3-2016.pdf",
+    "sourceTitle": "Distinguishing Strong Legs within Trading Ranges and Trends — futures.io webinar, May 3, 2016",
+    "titleZh": "Distinguishing Strong Legs within Trading Ranges and Trends — futures.io webinar, May 3, 2016",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "bp2-trend-channel",
+        "index": 0
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "4ecb483d2e91a6380273",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bears-giving-up-on-downside-breakout/",
+    "sourceTitle": "E-mini Bears Giving Up on Downside Breakout",
+    "titleZh": "E-mini：空方放棄向下突破",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-274406"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-274406"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-274406",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "4ed616587ed8b412bd7f",
     "url": "https://www.youtube.com/watch?v=sTjwFuoJ570",
     "sourceTitle": "Emini End of Day Review - Monday August 15, 2022",
@@ -3060,72 +3117,6 @@
     "reviews": [],
     "courseRefs": [],
     "titleNote": "",
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "59a28c4446d23502c82d",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bears-unable-to-create-major-reversal/",
-    "sourceTitle": "E-Mini Bears Unable to Create Major Reversal",
-    "titleZh": "Brad 日內案例｜2025-08-25｜反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-248242"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-248242"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-248242",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "59f0e1f1e61b8ea0e570",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-approaching-october-10th-high/",
-    "sourceTitle": "E-mini Approaching October 10th High",
-    "titleZh": "Brad 日內案例｜2025-10-31｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-253378"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-253378"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-253378",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
     "authors": [
       "Brad Wolff"
     ]

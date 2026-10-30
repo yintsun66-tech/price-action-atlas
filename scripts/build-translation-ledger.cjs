@@ -7,7 +7,7 @@ const ctx={window:{}};vm.runInNewContext(fs.readFileSync(path.join(dist,'data/co
 const resources=[...core.resources,...core.archiveFiles.flatMap(f=>read('dist/'+f))],english=resources.filter(r=>r.lang==='英文');
 const manifest=read('dist/reading/index.json'),articles=manifest.articles.map(a=>read('dist/reading/articles/'+a.id+'.json'));
 const titles=Object.assign({},...fs.readdirSync(__dirname).filter(f=>/^zh-(core|archive)-titles.*\.json$/.test(f)).sort().map(f=>read('scripts/'+f)));
-const reviews=fs.readdirSync(__dirname).filter(f=>/^zh-core-source-reviews(?:-\d+)?\.json$/.test(f)).sort().flatMap(f=>read('scripts/'+f));
+const reviews=fs.readdirSync(__dirname).filter(f=>/^zh-core-source-reviews(?:-\d+)?\.json$/.test(f)).sort(require('./source-review-order.cjs')).flatMap(f=>read('scripts/'+f));
 const sources=new Map(),resourceMap={};
 function canonical(value){try{const u=new URL(value);if(u.protocol!=='https:'&&u.protocol!=='http:')return null;u.hash='';for(const k of [...u.searchParams.keys()])if(/^utm_|^(fbclid|gclid)$/.test(k))u.searchParams.delete(k);u.searchParams.sort();return u.href;}catch{return null;}}
 function add(url,loc,initial={}){const c=canonical(url);if(!c)return;const key=crypto.createHash('sha256').update(c).digest('hex').slice(0,20);let s=sources.get(c);if(!s){s={id:key,url:c,sourceTitle:initial.original||initial.title||'來源題名待核對',titleZh:initial.title||'來源待整理',titleCoverage:'existing-label',status:'pending',summaryZh:'',readScope:'尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。',checked:null,inventoried:date,locations:[],resourceIds:[],legacyObservations:[],reviews:[],courseRefs:[]};sources.set(c,s);}s.locations.push(loc);return s;}

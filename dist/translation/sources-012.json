@@ -1,5 +1,71 @@
 [
   {
+    "id": "79b98dac1ec5111414f8",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-disappointed-with-close-on-low/",
+    "sourceTitle": "Emini bulls disappointed with yesterday’s close on low",
+    "titleZh": "Brad 日內案例｜2022-04-01｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-147360"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-147360"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-147360",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "79c6597f51e58cd42468",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-likely-to-disappoint/",
+    "sourceTitle": "Emini Likely to Disappoint Bulls and Test 4,000 Big Round Number",
+    "titleZh": "Brad 日內案例｜2022-12-05｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-165868"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-165868"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-165868",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "79e69c33e0836bf2ec37",
     "url": "https://www.youtube.com/playlist?list=FL2-JF8X_LDFEtSa3Ohfwvpg",
     "sourceTitle": "Favorites",
@@ -3099,72 +3165,6 @@
     "courseRefs": [],
     "authors": [
       "Ali Moin-Afshari／Quant Systems"
-    ]
-  },
-  {
-    "id": "872e34d30aee109386dd",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-surprise-breakout-testing-4000/",
-    "sourceTitle": "Emini Surprise Breakout Testing 4,000 Big Round Number",
-    "titleZh": "Brad 日內案例｜2022-11-11｜突破與延續",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-164149"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-164149"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-164149",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "875eddbaba4d0333e16b",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-strong-bull-breakout-after-fomc-report/",
-    "sourceTitle": "Emini Strong Bull Breakout after FOMC Report",
-    "titleZh": "Brad 日內案例｜2023-02-02｜突破與延續",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-169503"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-169503"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-169503",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]
