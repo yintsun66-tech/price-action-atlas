@@ -10,3 +10,5 @@
 
 /* CONTENT_BATCH10_FIGURES */
 .community-study-figure{margin:1.2em 0}.community-study-figure a{display:block}.community-study-figure img{display:block;width:100%;height:auto;border-radius:12px;background:#fff}.community-study-figure figcaption{font-size:.92em;line-height:1.7;color:var(--muted,#61616b);margin-top:.55em;overflow-wrap:anywhere}
+/* Keep long source-batch labels inside their allocated flex column. */
+.community-controls label{min-width:0}.community-controls label:not(:first-child){flex:1 1 180px}.community-controls input,.community-controls select{width:100%;min-width:0;box-sizing:border-box}
