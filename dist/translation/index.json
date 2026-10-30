@@ -7,11 +7,11 @@
   "resourceRecords": 2110,
   "statusCounts": {
     "intro-only": 11,
-    "body-summary": 19,
+    "body-summary": 21,
     "unavailable": 3,
     "excerpt-summary": 20,
     "licensed-excerpt": 2,
-    "pending": 2302
+    "pending": 2300
   },
   "siteArticles": 62,
   "articleAudit": "reading/text-audit.json",
@@ -197,6 +197,21 @@
       "authors": []
     },
     {
+      "id": "46e852045623a247eeea",
+      "titleZh": "如何從零開始發掘價格行為交易型態",
+      "sourceTitle": "How To Uncover Price Action Trading Patterns From Scratch",
+      "status": "body-summary",
+      "resourceIds": [
+        "discovery-galen-woods-2"
+      ],
+      "chunk": "sources-000.json",
+      "url": "https://www.tradingsetupsreview.com/uncover-price-action-trading-patterns-scratch/",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "Galen Woods／Trading Setups Review"
+      ]
+    },
+    {
       "id": "4d3ea35c9e0bb0c9d323",
       "titleZh": "視覺化學習：把事後分析轉成事前決策",
       "sourceTitle": "Visual Learning as Tool to Structure Profitable Trading Behavior",
@@ -254,6 +269,21 @@
       "titleCoverage": "reviewed-title",
       "authors": [
         "Kuo / Lin"
+      ]
+    },
+    {
+      "id": "6ece81e3873a1d178a0a",
+      "titleZh": "什麼是價格行為交易？",
+      "sourceTitle": "What Is Price Action Trading ?",
+      "status": "body-summary",
+      "resourceIds": [
+        "discovery-nial-fuller-2"
+      ],
+      "chunk": "sources-000.json",
+      "url": "https://www.learntotradethemarket.com/price-action-trading-forex",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "Nial Fuller／Learn To Trade The Market"
       ]
     },
     {
@@ -1038,21 +1068,6 @@
       ]
     },
     {
-      "id": "46e852045623a247eeea",
-      "titleZh": "如何從零開始發掘價格行為交易型態",
-      "sourceTitle": "How To Uncover Price Action Trading Patterns From Scratch",
-      "status": "pending",
-      "resourceIds": [
-        "discovery-galen-woods-2"
-      ],
-      "chunk": "sources-000.json",
-      "url": "https://www.tradingsetupsreview.com/uncover-price-action-trading-patterns-scratch/",
-      "titleCoverage": "title-only",
-      "authors": [
-        "Galen Woods／Trading Setups Review"
-      ]
-    },
-    {
       "id": "4903f90032040fe5d580",
       "titleZh": "E-mini 盤後檢視：Brad Wolff 問答——損益兩平",
       "sourceTitle": "Emini End of Day Review - Brad Wolff - Q&A - Breaking Even",
@@ -1185,21 +1200,6 @@
       "titleCoverage": "existing-label",
       "authors": [
         "SMB Capital／SMB Training（Mike Bellafiore 等）"
-      ]
-    },
-    {
-      "id": "6ece81e3873a1d178a0a",
-      "titleZh": "什麼是價格行為交易？",
-      "sourceTitle": "What Is Price Action Trading?",
-      "status": "pending",
-      "resourceIds": [
-        "discovery-nial-fuller-2"
-      ],
-      "chunk": "sources-000.json",
-      "url": "https://www.learntotradethemarket.com/price-action-trading-forex",
-      "titleCoverage": "existing-label",
-      "authors": [
-        "Nial Fuller／Learn To Trade The Market"
       ]
     },
     {

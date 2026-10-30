@@ -1,0 +1,61 @@
+[
+  {
+    "resourceId": "discovery-galen-woods-2",
+    "url": "https://www.tradingsetupsreview.com/uncover-price-action-trading-patterns-scratch/",
+    "sourceTitle": "How To Uncover Price Action Trading Patterns From Scratch",
+    "sourceTitleZh": "如何從零開始發掘價格行為交易型態",
+    "authorConfirmed": "Galen Woods",
+    "checked": "2026-10-30",
+    "published": null,
+    "status": "body-summary",
+    "readScope": "已讀四步練習、MSFT／LL 文字案例、預期管理、後續研究與結語及頁尾限制；未讀外連全文、重製原圖或複算交易。",
+    "summaryZh": "作者先從歷史圖表尋找兩三棒的共同特徵，再把觀察轉成可以檢查的研究假說。型態仍須補上行情背景、出場與風控，才能發展為完整策略。",
+    "keyPointsZh": [
+      "先固定觀察範圍，再用開高低收描述共同特徵，避免只記型態名稱。",
+      "圈選理想轉折使用已知後續的歷史圖，屬於發想練習；還需要事前規則及未使用資料驗證。"
+    ],
+    "shortExcerpt": {
+      "en": "Develop it into a complete trading strategy",
+      "zh": "把它發展成一套完整的交易策略。",
+      "scope": "結語要求加入市場方向、出場及風控；找到型態不等於完成交易策略。"
+    },
+    "editorNotesZh": [
+      "原文以 O>C or C<O 詢問多空棒，但兩個不等式方向相同，疑有筆誤。本站不把它當成多空對稱規則；依一般開收關係，多頭為 C>O、空頭為 C<O，這是本站校註。"
+    ],
+    "limitsZh": "案例不是實際交易紀錄；作者亦銷售課程，未取得獨立教學評分或整篇翻譯授權。沒有替此練習補造勝率。",
+    "evidence": {
+      "urls": ["https://www.tradingsetupsreview.com/uncover-price-action-trading-patterns-scratch/"],
+      "accessMethod": "實際讀取英文原作者公開正文",
+      "scope": "四步練習、兩個文字案例與結語；外連教材及原圖的交易結果未核驗。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "discovery-nial-fuller-2",
+    "url": "https://www.learntotradethemarket.com/price-action-trading-forex",
+    "sourceTitle": "What Is Price Action Trading ?",
+    "sourceTitleZh": "什麼是價格行為交易？",
+    "authorConfirmed": "Nial Fuller",
+    "checked": "2026-10-30",
+    "published": null,
+    "status": "body-summary",
+    "readScope": "已讀定義、簡潔圖表、趨勢／整理、型態與匯合位置、結語及作者介紹；未觀看付費課、讀取外連全文或驗證圖例成交。",
+    "summaryZh": "Fuller 主張先從價格結構區分趨勢與整理，再把型態放回關鍵位置觀察；不能只憑一根訊號棒決定交易。",
+    "keyPointsZh": [
+      "以高低點推進或橫向往返描述行情狀態，再檢查型態所在位置。",
+      "把型態與支撐、阻力一起觀察；原文也包含失敗例子，並未宣稱每筆都獲利。"
+    ],
+    "shortExcerpt": {
+      "en": "not every trade will be a winner",
+      "zh": "並非每筆交易都會獲利。",
+      "scope": "作者展示失敗設定，提醒讀者保留虧損可能；不是對成功率的數值估計。"
+    },
+    "limitsZh": "高機率、不必看新聞與指標浪費時間是作者主張，文中未提供可獨立核驗的勝率、成本或樣本外結果。作者銷售課程；學員與追蹤數為自述，不是獨立評價。未取得整篇翻譯授權。",
+    "evidence": {
+      "urls": ["https://www.learntotradethemarket.com/price-action-trading-forex"],
+      "accessMethod": "實際讀取英文原作者公開正文",
+      "scope": "定義、結構、型態、匯合位置與作者介紹；留言及外連教材另計。"
+    },
+    "courseRefs": []
+  }
+]

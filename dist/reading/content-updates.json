@@ -2,6 +2,39 @@
   "version": 1,
   "batches": [
     {
+      "id": "reading-batch11-20261030",
+      "collected": "2026-10-30",
+      "updated": "2026-10-30",
+      "timezone": "Asia/Taipei",
+      "description": "兩筆既有待讀英文來源補上實讀正文摘要；文章改採專注單欄與可展開目錄，保留筆記與原文。",
+      "sources": [
+        "discovery-galen-woods-2",
+        "discovery-nial-fuller-2"
+      ],
+      "articles": [],
+      "decisions": [
+        {
+          "source": "How To Uncover Price Action Trading Patterns From Scratch",
+          "url": "https://www.tradingsetupsreview.com/uncover-price-action-trading-patterns-scratch/",
+          "status": "既有待讀來源轉為正文摘要",
+          "reason": "已讀四步練習、MSFT／LL 文字案例、預期管理、後續研究與結語及頁尾限制；未讀外連全文、重製原圖或複算交易。"
+        },
+        {
+          "source": "What Is Price Action Trading ?",
+          "url": "https://www.learntotradethemarket.com/price-action-trading-forex",
+          "status": "既有待讀來源轉為正文摘要",
+          "reason": "已讀定義、簡潔圖表、趨勢／整理、型態與匯合位置、結語及作者介紹；未觀看付費課、讀取外連全文或驗證圖例成交。"
+        }
+      ],
+      "notes": [
+        "只作繁中精簡摘要與必要短句，不重製完整文章、原作者圖或未核對的付費內容。",
+        "Woods 原文開收不等式疑誤以本站校註分列；Fuller 的高機率及學員數保留為作者主張。",
+        "Medium 僅作留白、文章寬度與字級層次參考；本站自行設計，不使用其商標、版型程式或文章。",
+        "62 個原閱讀單元、19 筆來源卡資料、筆記鍵與進度資料保留；目錄改為預設收合。",
+        "Brooks、Ali、SMB 等重複主題本批未另行讀取；不把未讀材料標示完成，沒有取用失敗冒記成沒有新文。"
+      ]
+    },
+    {
       "id": "content-batch10-20261030",
       "collected": "2026-10-30",
       "updated": "2026-10-30",

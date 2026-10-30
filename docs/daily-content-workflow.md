@@ -49,3 +49,5 @@
 第九批為既有來源翻譯續讀，不新增社群卡。最新重建順序：`build-content-batch9.cjs` → `build-translation-ledger.cjs` → `enable-chinese-first.cjs`。實讀作者檔為 `zh-core-source-reviews-5.json`，可選 `shortExcerpt`、`termNotes`、`editorNotesZh` 分開短句、詞條與本站校註，不能以編輯判讀冒充原文。最新驗證入口為 workspace `tools/check_translation_batch9.cjs`、`tools/check_translation_batch9_reader.cjs`、`tools/check_translation_batch9_http.cjs`；保留前批全部斷言並新增本批範圍檢查。
 
 第十批（2026-10-30）重建順序為 `build-content-batch10.cjs` → `build-translation-ledger.cjs` → `enable-chinese-first.cjs`。新來源作者檔 `batch10-sources.json`，指定續譯檔 `zh-core-source-reviews-6.json`。來源卡可選 `figure`，只允許 `images/study/*.svg` 既有原創示意，圖說必須區分與原文圖例、真實行情及績效的關係。沿用圖片不增加圖數。最新驗證為 workspace `tools/check_content_batch10.cjs`、`tools/check_content_batch10_reader.cjs`、`tools/check_content_batch10_http.cjs`，保留完整閱讀回歸與舊來源物件比對。
+
+第十一批（2026-10-30）改進文章閱讀版面並續譯兩筆既有英文來源，未新增來源卡。最新重建順序為 `build-reading-batch11.cjs` → 翻譯清單 → 中文呈現；實讀檔 `zh-core-source-reviews-7.json`，樣式及相容性見 `docs/reading-layout.md`。不要只重建第十批而漏掉新閱讀樣式；目錄包裝與資產連結須保留。最新驗證改用 workspace `tools/check_reading_batch11*.cjs`。

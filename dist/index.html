@@ -11,7 +11,8 @@
 <link rel="stylesheet" href="media.css?v=20261027media"><link rel="stylesheet" href="probabilities.css?v=20261028prob3">
 <link rel="stylesheet" href="schools.css?v=20261029b7">
 <link rel="stylesheet" href="community.css?v=20261029b7">
-<link rel="stylesheet" href="chinese.css?v=20261030zh6">
+<link rel="stylesheet" href="chinese.css?v=20261030read1">
+<link rel="stylesheet" href="reading-layout.css?v=20261030read1">
 </head>
 <body>
 <a class="skip" href="#map">跳到學習地圖</a>
@@ -35,6 +36,7 @@
 <a class="discovery-update" href="#schools"><span>10.28 圖解與流派比較</span><strong>62 篇都有圖 · 威科夫、ICT、訂單流新教材</strong><span>開始比較 →</span></a>
 <!-- TRANSLATION_BATCH5 --><a class="discovery-update" href="#read/licensed-trends"><span>10.28 英文精讀</span><strong>三篇新增繁中節譯 · 原文、語氣與校對註一起讀</strong><span>開啟對照 →</span></a>
 <!-- COMMUNITY_BATCH6_UPDATE --><a class="discovery-update" href="#community"><span>10.28 文章與社群選讀</span><strong>8 篇新來源 · 英文短句附繁中 · 評價與限制可核對</strong><span>開始選讀 →</span></a>
+<!-- READING_BATCH11_UPDATE --><a class="discovery-update" href="#translation-resource-discovery-galen-woods-2"><span>10.30 續譯與閱讀更新</span><strong>從型態發想到行情背景，兩篇英文原作者摘要</strong><span>單欄大字，繼續閱讀 →</span></a>
 <!-- CONTENT_BATCH10_UPDATE --><a class="discovery-update" href="#community"><span>10.30 新教材與續譯</span><strong>內包縮幅 · 被套與踏空 · 假突破，附繁中與原創搭配圖</strong><span>開始本批選讀 →</span></a>
 <!-- TRANSLATION_BATCH9_UPDATE --><a class="discovery-update" href="#translation"><span>10.30 核心翻譯續讀</span><strong>帶狀交易四篇 · 視覺化學習 · Brooks 六個術語</strong><span>閱讀繁中摘要 →</span></a>
 <!-- CONTENT_BATCH8_UPDATE --><a class="discovery-update" href="#community"><span>10.30 翻譯與新讀</span><strong>3 筆新來源 · 品質評分、深度回放與測試例外</strong><span>開始閱讀 →</span></a>
@@ -57,7 +59,7 @@
 <div id="reader-document" hidden>
 <header class="reader-header"><div id="reader-badges" class="reader-badges"></div><h2 id="reader-title" tabindex="-1"></h2><p id="reader-subtitle"></p><div class="reader-meta" id="reader-meta"></div><div class="reader-actions"><button class="btn secondary small" id="reader-bookmark" aria-pressed="false">收藏這篇</button><button class="btn secondary small" id="reader-read" aria-pressed="false">標記已讀</button><button class="text-btn" id="reader-license-download" hidden>下載授權節譯與署名 ↗</button></div></header>
 <div class="reader-tabs" role="tablist" aria-label="閱讀內容"><button role="tab" data-reader-tab="guide" aria-selected="true">導讀</button><button role="tab" data-reader-tab="figures" aria-selected="false">整理圖</button><button role="tab" data-reader-tab="probabilities" aria-selected="false">機率註記</button><button role="tab" data-reader-tab="exercise" aria-selected="false">練習</button><button role="tab" data-reader-tab="cases" aria-selected="false" hidden>圖例與測驗</button><button role="tab" data-reader-tab="glossary" aria-selected="false">中英術語</button><button role="tab" data-reader-tab="sources" aria-selected="false">來源與授權</button><button role="tab" data-reader-tab="translation" aria-selected="false" hidden>授權節譯對照</button></div>
-<div class="reader-layout"><aside class="reader-toc" aria-label="本篇目錄" id="reader-toc"></aside><article id="reader-body" class="reader-body" role="tabpanel" aria-label="閱讀內容"></article></div>
+<div class="reader-layout"><details class="reader-contents"><summary>展開本篇章節</summary><aside class="reader-toc" aria-label="本篇目錄" id="reader-toc"></aside></details><article id="reader-body" class="reader-body" role="tabpanel" aria-label="閱讀內容"></article></div>
 <section class="reader-notes"><label for="reader-note">自己的觀察與下一次練習</label><p>把你的判斷寫在這裡；它與原作者內容及本網站導讀分開保存。</p><textarea id="reader-note" rows="5" maxlength="20000" placeholder="這次學到的條件、反例，以及下一張圖要檢查的問題…"></textarea><div><span id="reader-note-status" role="status"></span><button id="reader-export-one" class="text-btn">備份這篇筆記 ↗</button></div></section>
 <div class="reader-neighbors"><button id="reader-previous" class="text-btn">← 上一篇</button><button id="reader-next" class="text-btn">下一篇 →</button></div>
 </div></dialog>
@@ -66,6 +68,8 @@
 <section id="translation" aria-labelledby="translation-title">
  <div class="section-head"><div><div class="eyebrow">繁中優先・逐筆追溯</div><h2 id="translation-title">讀得懂，也查得到原文。</h2></div><p>持續盤點文章、影音與評價入口。正文、介紹、部分內容及待處理分開；標題翻譯不代替內容摘要。</p></div>
  <div class="translation-metrics" id="translation-metrics"><div><strong>—</strong><span>去重後的英文來源</span></div><div><strong>—</strong><span>已讀正文摘要</span></div><div><strong>—</strong><span>僅介紹／選段</span></div><div><strong>—</strong><span>待讀取／未取得</span></div></div>
+<!-- TRANSLATION_BATCH11_NOTE -->
+ <div class="card translation-coverage-note"><strong>續譯兩篇原作者文章，讓型態回到背景。</strong><p><a href="#translation-resource-discovery-galen-woods-2">Woods：從零發掘交易型態</a> · <a href="#translation-resource-discovery-nial-fuller-2">Fuller：什麼是價格行為交易</a>。兩篇均實讀公開正文，補上繁中摘要、必要短句及限制；原文可展開對照。</p><p>閱讀頁改為<strong>單欄大字、清楚留白與可展開目錄</strong>，保留圖解、原文與個人筆記。這兩筆從待讀轉為正文摘要；全站其餘來源仍依實際範圍逐批處理。</p></div>
 <!-- TRANSLATION_BATCH10_NOTE -->
  <div class="card translation-coverage-note"><strong>本批新教材：背景、型態與失敗，連著讀。</strong><p><a href="#community-woods-idnr4-context">內包縮幅與取消條件</a> · <a href="#community-woods-trapped-context">被套、踏空與背景</a> · <a href="#community-rich-fakeout-checks">繁中假突破檢查</a>。三篇均讀取公開正文；兩篇英文提供繁中摘要及必要短句，一篇原文已為繁中。</p><p><strong>續譯：</strong><a href="#translation-resource-b-glossary">Brooks 新增六項詞條</a> · <a href="#translation-resource-r-traders">臺灣研究的樣本門檻與結語</a>。兩筆仍列部分摘要；保留前批詞條，未把全詞表或論文標成完成。</p></div>
  <details class="card translation-coverage-note"><summary>前批：帶狀交易與核心翻譯</summary><p><strong>五篇正文摘要：</strong><a href="#translation-resource-ali-post-29229">視覺化學習</a>；帶狀交易 <a href="#translation-resource-ali-post-32566">① 趨勢</a> → <a href="#translation-resource-ali-post-32827">② 波動帶</a> → <a href="#translation-resource-ali-post-33160">③ 回歸誤差帶</a> → <a href="#translation-resource-ali-post-33533">④ 執行與績效</a>。這些是 Ali 客座文章，不是 Brooks 原課。</p><p><strong>指定範圍續讀：</strong><a href="#translation-resource-b-glossary">Brooks 六個核心術語</a> · <a href="#translation-resource-r-traders">臺灣當沖研究的樣本與口數</a>。術語與必要短句附原文展開；原作者主張與本站校註分列。這兩筆仍維持部分摘要。</p></details>
@@ -321,10 +325,10 @@
 <noscript><div class="wrap" style="padding:30px">請啟用 JavaScript 以顯示完整學習單元與資源。上方原始教材連結仍可使用。</div></noscript>
 
 
-<script defer src="chinese-data.js?v=20261030zh6"></script><script defer src="chinese.js?v=20261030zh6"></script>
-<script defer src="data/core.js?v=20261027b2"></script><script defer src="atlas.js?v=20261030zh6"></script><script defer src="reader-state.js?v=20261027b2"></script><script defer src="reader-practice.js?v=20261027b2"></script><script defer src="reading/probabilities.js?v=20261028prob3"></script><script defer src="reader-probabilities.js?v=20261030zh6"></script><script defer src="reading/figures.js?v=20261029b7"></script><script defer src="reader-figures.js?v=20261029b7"></script><script defer src="school-titles.js?v=20261029b7"></script><script defer src="schools.js?v=20261029b7"></script><script defer src="reader-glossary.js?v=20261030zh6"></script><script defer src="reader.js?v=20261030zh6"></script>
-<script defer src="media.js?v=20261030zh6"></script>
-<script defer src="community.js?v=20261030zh6"></script>
-<script defer src="translation.js?v=20261030zh6"></script>
+<script defer src="chinese-data.js?v=20261030read1"></script><script defer src="chinese.js?v=20261030read1"></script>
+<script defer src="data/core.js?v=20261027b2"></script><script defer src="atlas.js?v=20261030read1"></script><script defer src="reader-state.js?v=20261027b2"></script><script defer src="reader-practice.js?v=20261027b2"></script><script defer src="reading/probabilities.js?v=20261028prob3"></script><script defer src="reader-probabilities.js?v=20261030read1"></script><script defer src="reading/figures.js?v=20261029b7"></script><script defer src="reader-figures.js?v=20261029b7"></script><script defer src="school-titles.js?v=20261029b7"></script><script defer src="schools.js?v=20261029b7"></script><script defer src="reader-glossary.js?v=20261030read1"></script><script defer src="reader.js?v=20261030read1"></script>
+<script defer src="media.js?v=20261030read1"></script>
+<script defer src="community.js?v=20261030read1"></script>
+<script defer src="translation.js?v=20261030read1"></script>
 </body>
 </html>
