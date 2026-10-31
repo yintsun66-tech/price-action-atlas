@@ -1,5 +1,224 @@
 [
   {
+    "id": "6620185b3fe657c2a0ce",
+    "url": "https://www.youtube.com/watch?v=9L_7ipYvq_o",
+    "sourceTitle": "Emini End of Day Review - Brad Wolff - Q&A - Who trapped who?",
+    "titleZh": "E-mini 盤後檢視：Brad Wolff 問答——誰套住了誰？",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-9L_7ipYvq_o"
+      }
+    ],
+    "resourceIds": [
+      "yt-9L_7ipYvq_o"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-9L_7ipYvq_o",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "6b9c99dbc6a101290d72",
+    "url": "https://www.youtube.com/watch?v=n3eYTnlPBRA",
+    "sourceTitle": "Signal Bars and Entry Sequence",
+    "titleZh": "訊號棒與進場順序",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-n3eYTnlPBRA"
+      }
+    ],
+    "resourceIds": [
+      "yt-n3eYTnlPBRA"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-n3eYTnlPBRA",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Ali／Quant Systems 頻道"
+    ]
+  },
+  {
+    "id": "6c6190f9befc27aa8040",
+    "url": "https://support.smbtraining.com/support/solutions/articles/44002792399-does-smb-training-offer-any-free-content-",
+    "sourceTitle": "SMB 官方免費資源說明",
+    "titleZh": "SMB 官方免費資源說明",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "discovery-smb-capital-1"
+      },
+      {
+        "kind": "discovery-material",
+        "id": "smb-capital",
+        "index": 0
+      }
+    ],
+    "resourceIds": [
+      "discovery-smb-capital-1"
+    ],
+    "legacyObservations": [
+      {
+        "id": "discovery-smb-capital-1",
+        "scope": "免費 YouTube、每日短片與文章；部分電子郵件內容需註冊。 預錄策略／市場分析、real trade reviews 與每週交易計畫；未承諾免費完整交易日直播。 官方直接指向 youtube.com/smbcapital；不能把每一部公開影片都稱完整回放。 本輪未逐部完整觀看或核實真實成交。",
+        "checked": "2026-10-24"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "SMB Capital／SMB Training（Mike Bellafiore 等）"
+    ]
+  },
+  {
+    "id": "6fd5a89c4e5f2bdf7123",
+    "url": "https://priceactiontradingsystem.com/",
+    "sourceTitle": "Mack 官方教材入口",
+    "titleZh": "Mack 官方教材入口",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "discovery-mack-pats-1"
+      },
+      {
+        "kind": "discovery-material",
+        "id": "mack-pats",
+        "index": 0
+      }
+    ],
+    "resourceIds": [
+      "discovery-mack-pats-1"
+    ],
+    "legacyObservations": [
+      {
+        "id": "discovery-mack-pats-1",
+        "scope": "公開教材概覽；manual、premium membership、部分工具付費。 教材銷售與概念介紹；首頁單筆 Live ES Trade 不能代表完整交易日。 官方明列 second entries 與 two-legged pullbacks；首頁的通用性或獲利行銷措辭不作實證背書。 本輪未逐部完整觀看或核實真實成交。",
+        "checked": "2026-10-24"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Mack／PATs（Price Action Trading System）"
+    ]
+  },
+  {
+    "id": "6fe3c1658fed4fc5c730",
+    "url": "https://www.tradingwithrayner.com/upat-home/",
+    "sourceTitle": "The Ultimate Price Action Trader",
+    "titleZh": "終極價格行為交易者",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "discovery-rayner-teo-3"
+      },
+      {
+        "kind": "discovery-material",
+        "id": "rayner-teo",
+        "index": 2
+      }
+    ],
+    "resourceIds": [
+      "discovery-rayner-teo-3"
+    ],
+    "legacyObservations": [
+      {
+        "id": "discovery-rayner-teo-3",
+        "scope": "付費課程銷售頁；方案／開課檔期可能變動。 自學課搭配 coaching、支援等方案；live coaching 是教學互動，不能逕稱盤中實盤直播。 與免費 academy 為不同產品，不應混用評價或存取標示。 本輪未逐部完整觀看或核實真實成交。",
+        "checked": "2026-10-24"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Rayner Teo／TradingwithRayner"
+    ]
+  },
+  {
+    "id": "72d0d3148c87167a090f",
+    "url": "https://www.youtube.com/watch?v=0cWzlanuaYc",
+    "sourceTitle": "Coding for Price Action",
+    "titleZh": "價格行為的程式設計",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-0cWzlanuaYc"
+      }
+    ],
+    "resourceIds": [
+      "yt-0cWzlanuaYc"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-0cWzlanuaYc",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Ali／Quant Systems 頻道"
+    ]
+  },
+  {
     "id": "75704a7e6357da984b9c",
     "url": "https://www.youtube.com/watch?v=n9psGn-iWtQ",
     "sourceTitle": "Inside Bars in Trading Ranges",
@@ -3054,204 +3273,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-184544",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "0739b192c2f45543fbb4",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-stalled-at-4000/",
-    "sourceTitle": "Emini Stalled at 4,000 Big Round Number",
-    "titleZh": "Brad 日內案例｜2022-11-17｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-164675"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-164675"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-164675",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "075fc5bb8c88bab2f769",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-profit-taking-on-daily-chart/",
-    "sourceTitle": "Emini Profit Taking on Daily Chart",
-    "titleZh": "Brad 日內案例｜2024-03-05｜風險與退出",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-201859"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-201859"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-201859",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "077928a8e148d601b61a",
-    "url": "https://www.youtube.com/watch?v=hR-y3jrqxK8",
-    "sourceTitle": "Recap for 2010-02-12 and Outlook for 2010-02-16",
-    "titleZh": "Brooks 共享影片｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-hR-y3jrqxK8"
-      }
-    ],
-    "resourceIds": [
-      "yt-hR-y3jrqxK8"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-hR-y3jrqxK8",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "078f323437bc57bb14c6",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-test-of-july-high/",
-    "sourceTitle": "Emini Bulls Want Test of July High",
-    "titleZh": "Brad 日內案例｜2023-12-13｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-195777"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-195777"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-195777",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "079ea392c7d42759f257",
-    "url": "https://www.youtube.com/watch?v=us1DWo_Y7EM",
-    "sourceTitle": "Emini End of Day Review - Monday, June 2, 2025 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-us1DWo_Y7EM"
-      }
-    ],
-    "resourceIds": [
-      "yt-us1DWo_Y7EM"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-us1DWo_Y7EM",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "07bee94b9f0940c7f67f",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-breakout-mode-going-into-fomc/",
-    "sourceTitle": "E-mini Breakout Mode Going into FOMC",
-    "titleZh": "Brad 日內案例｜2025-12-10｜突破與延續",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-256937"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-256937"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-256937",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

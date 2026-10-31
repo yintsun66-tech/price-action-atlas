@@ -1,0 +1,32 @@
+[
+  {
+    "id":"grimes-pattern-families","platform":"Adam H. Grimes 原作者部落格","kind":"author","language":"en","author":"Adam H. Grimes",
+    "title":"五類型態，先看結構：回檔、失敗測試與突破","originalTitle":"Fundamental Trading Patterns","url":"https://www.adamhgrimes.com/fundamental-trading-patterns/","published":null,"dateNote":"本次公開正文未列可核對確日；不以搜尋年齡或改版時間補填，屬新收錄的既有教材。",
+    "summary":"Grimes 區分簡單與複雜回檔、越過舊轉折後快速返回的失敗測試、趨勢改變後的第一次回檔，以及突破。分類以結構為主；複雜回檔可能先使順勢交易停損，突破則要求迅速且有紀律的決策。",
+    "quote":{"en":"first pullback following a trend change","zh":"趨勢改變後的第一次回檔。","context":"原文對 Anti 的結構描述；作者說可能是新趨勢的首次回檔，沒有保證新趨勢已成立。"},
+    "access":"已讀五個型態分類的完整公開文字正文；未核驗五張來源圖或讀取付費教材。","translation":"繁中短摘要與必要短句，非全文翻譯。",
+    "review":{"basis":"原作者文字可核對其分類與術語；本輪未取得這一篇的獨立教學評分。","learning":"先把型態拆成事前可見的結構，再保存未成功及未決例子。","limits":"作者網站連向其教育產品；本篇沒有微台／BTC 的樣本外績效或可直接照用的量化參數。並列 spring 等名稱不代表各流派定義完全相同。","engagement":"未取得可比較互動數或獨立評分，不自造熱門順位。"},
+    "figure":{"src":"images/study/bp2-failed-breakout-replay-overview.svg","alt":"本站原創合成假突破路徑，用於比較越界、返回與後續","caption":"沿用本站原創合成圖，不是 Grimes 原圖、真實行情或分類績效。"},
+    "related":["brooks-pullback-language","bp2-failed-breakout","bp2-breakout-followthrough"],"tags":["價格行為","回檔","失敗測試","型態分類"],"batch":21,"collected":"2026-11-01","checked":"2026-11-01"
+  },
+  {
+    "id":"lyop48-execution-reconciliation","platform":"Line Your Own Pockets 官方逐字稿","kind":"author","language":"en","author":"Dave Mabe、Michael Nauss",
+    "title":"回測很好，執行卻不同：逐筆核對漏單與成交落差","originalTitle":"Your Backtest Looks Great - What Could Possibly Go Wrong?","url":"https://lineyourownpockets.com/episodes/your-backtest-looks-great-what-could-possibly-go-wrong/transcript","published":"2025-07-07","dateNote":"E48，官方標示 52:52；新收錄歷史單集，非今日市場分析。",
+    "summary":"兩位主持人建議持續核對回測預期與實際紀錄，查出漏掉的大獲利交易、滑價、延遲及輸入錯誤。也可提高成本或隨機略過交易，檢查結果對理想執行的依賴。這些是實務建議，未提供獨立績效驗證。",
+    "quote":{"en":"always be reconciling to the backtest","zh":"持續與回測逐筆核對。","context":"09:21 為官方逐字稿的段落標記，未核對音軌時間；主持人建議核對個別進出場。"},
+    "access":"研究協作實讀完整官方文字逐字稿，00:00 開場至 52:46 最後發言；主編再次核對節目資料與 09:21 前後文字。未播放或收聽音訊。","translation":"繁中短摘要與必要短句對照，不重刊整集逐字稿。",
+    "review":{"basis":"官方逐字稿可追溯內容；Apple US 的可取得頁面與搜尋索引評分快照不一致，未填統一數值。","learning":"本站練習：建立預期交易、觀察到的成交、漏單與成本差異對照表；先診斷，再決定是否改規則。","limits":"以股票執行案例為主，不能直接套用微台／BTC；節目推廣回測郵件課與主持人的軟體／教育產品，逐字稿有辨識錯字。","engagement":"未取得 E48 的獨立成效評分；節目層級聽眾好評不等於單集品質或獲利證明。"},
+    "figure":{"src":"images/study/pa3-stop-execution-replay-overview.svg","alt":"本站原創合成停損成交圖例，提示觸發與成交結果分開核對","caption":"沿用本站原創合成行情圖，非節目原圖或真實成交紀錄。"},
+    "related":["pa3-podcast-to-hypothesis","pa3-stop-execution","pa3-research-register"],"tags":["Podcast","逐字稿","滑價","漏單","回測核對"],"batch":21,"collected":"2026-11-01","checked":"2026-11-01"
+  },
+  {
+    "id":"brooks-training-call-2022","platform":"Brooks 官方交叉連結的 YouTube 訪談","kind":"author","language":"en","author":"Al Brooks；Mark Holstead 主持；官網介紹署名 BTC Admin",
+    "title":"Brooks 訓練訪談：設定、交易歷程與風險管理","originalTitle":"UKSpreadBetting webinar: Price action trading with Al Brooks","url":"https://www.brookstradingcourse.com/price-action/ukspreadbetting-webinar-al-brooks/","published":"2022-06-06","dateNote":"此為官網介紹發布日；介紹指訪談於 2022 年 5 月舉行，未核對 YouTube 上架確日。",
+    "summary":"Brooks 官網連到與 Mark Holstead 的訓練訪談，標示約一小時二分鐘，主題為偏好設定、交易歷程與風險管理。本次只完成介紹與留言選讀，影片內容尚未取得。",
+    "quote":null,"access":"已讀官網介紹、原始播放連結與公開讀者留言；YouTube 直接頁面本次取得失敗，未取得字幕或觀看影片。","translation":"繁中介紹摘要；不列影片正文或完整字幕翻譯。",
+    "review":{"basis":"官網有 2022 年讀者正面短評，可核對留言日期；屬自選讀者意見，非獨立成效評鑑。","learning":"可作後續觀看入口；本站建議觀看時先記錄講者條件，再與自己的事前筆記比較。","limits":"官方頁連到公開講座，不是 Main／Forex 付費單元的逐字稿。未取得影片內容，不推定其細節、勝率或交易績效。","engagement":"未取得可核對的當前 YouTube 觀看數與按讚數，不以第三方影片摘要代替原片。"},
+    "courseRefs":[{"version":"Main（共用基礎）","unit":"15A","topic":"突破","relation":"相關主題補讀；不是本訪談的原始課程出處，未觀看付費影片。","url":"https://www.brookstradingcourse.com/price-action-fundamentals/video-15a-breakouts/"},{"version":"Main（共用基礎）","unit":"33A","topic":"保護停損","relation":"相關主題補讀；依公開課綱核對主題，不表示已讀本訪談細節。","url":"https://www.brookstradingcourse.com/price-action-fundamentals/video-33a-protective-stops/"}],
+    "figure":{"src":"images/study/louie-replay-audit-map.svg","alt":"本站原創回放與事前事後筆記流程，搭配講座觀看練習","caption":"本站既有原創練習圖，不是訪談截圖或 Brooks 原圖。"},
+    "related":["practice-replay-evidence","brooks-order-intent","practice-risk-in-r"],"tags":["Brooks","YouTube","訪談","介紹範圍","風險"],"batch":21,"collected":"2026-11-01","checked":"2026-11-01"
+  }
+]

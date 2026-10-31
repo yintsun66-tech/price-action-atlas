@@ -1,5 +1,192 @@
 [
   {
+    "id": "5851fe147b75b4e173b3",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-daily-chart-forming-a-triangle/",
+    "sourceTitle": "Emini Daily Chart Forming a Triangle",
+    "titleZh": "Brad 日內案例｜2025-01-08｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-226977"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-226977"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-226977",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "58b307e6c7e35bee48e7",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-second-leg-up-test/",
+    "sourceTitle": "Emini bulls want second leg up test of 4,000",
+    "titleZh": "Brad 日內案例｜2022-06-29｜回檔與第二段",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-155060"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-155060"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-155060",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "58c7baf9bc1e5e6a1887",
+    "url": "https://www.brookstradingcourse.com/trade-price-action/video-41a-trading-breakouts/",
+    "sourceTitle": "交易突破",
+    "titleZh": "交易突破",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "交易突破"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "58d1f2854cc717412276",
+    "url": "https://www.quantsystems.ca/course/ptm-202507",
+    "sourceTitle": "QuantSystem's Pro Trader Mentoring",
+    "titleZh": "PTM 月課綱｜2025/07",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "qs-ptm-202507"
+      }
+    ],
+    "resourceIds": [
+      "qs-ptm-202507"
+    ],
+    "legacyObservations": [
+      {
+        "id": "qs-ptm-202507",
+        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Ali Moin-Afshari／Quant Systems"
+    ]
+  },
+  {
+    "id": "58e09c1bfae1f8c76188",
+    "url": "https://www.youtube.com/watch?v=WSjKTVT1id4",
+    "sourceTitle": "Bitcoin Trading Range on Daily Chart",
+    "titleZh": "Brooks 共享影片｜區間與通道",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-WSjKTVT1id4"
+      }
+    ],
+    "resourceIds": [
+      "yt-WSjKTVT1id4"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-WSjKTVT1id4",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
+    "id": "5916b9e645833d46552e",
+    "url": "https://www.youtube.com/watch?v=z5jpGvbAPko",
+    "sourceTitle": "Emini End of Day Review - Wednesday July 26, 2023 - Brad Wolff",
+    "titleZh": "Brad 公開影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-z5jpGvbAPko"
+      }
+    ],
+    "resourceIds": [
+      "yt-z5jpGvbAPko"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-z5jpGvbAPko",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "5926b7fac00877e5861b",
     "url": "https://bettersystemtrader.com/055-adam-grimes-market-behavior/",
     "sourceTitle": "Quant vs Discretionary Trading: What Actually Works",
@@ -3021,182 +3208,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "635fefb80f6149167df8",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-closed-the-october-17th-breakout-point/",
-    "sourceTitle": "Emini Closed Under the October 17th Breakout Point",
-    "titleZh": "Brad 日內案例｜2024-11-18｜突破與延續",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-223313"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-223313"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-223313",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "63675d55a0119cbf995e",
-    "url": "https://www.youtube.com/watch?v=6ms4Rz7XPGs",
-    "sourceTitle": "Outlook for 2010-02-04",
-    "titleZh": "Brooks 共享影片｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-6ms4Rz7XPGs"
-      }
-    ],
-    "resourceIds": [
-      "yt-6ms4Rz7XPGs"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-6ms4Rz7XPGs",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "636b6c7279ea1786054e",
-    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-32b-orders/",
-    "sourceTitle": "訂單",
-    "titleZh": "訂單",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "訂單"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
-  },
-  {
-    "id": "63762e1f8a4ec6ffdbb6",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-double-bottom-reversal-up-from-march-low/",
-    "sourceTitle": "Emini double bottom reversal up from March low",
-    "titleZh": "Brad 日內案例｜2022-03-15｜反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-146127"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-146127"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-146127",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "63905537db0344a14f62",
-    "url": "https://www.brookstradingcourse.com/trade-price-action/video-41b-trading-breakouts/",
-    "sourceTitle": "交易突破",
-    "titleZh": "交易突破",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "交易突破"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
-  },
-  {
-    "id": "63d2d34933b07ba7b4ff",
-    "url": "https://www.youtube.com/watch?v=Ok3YspPgZlU",
-    "sourceTitle": "Why You Should Build Your Own Trading System",
-    "titleZh": "為什麼建立自己的交易系統",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-Ok3YspPgZlU"
-      }
-    ],
-    "resourceIds": [
-      "yt-Ok3YspPgZlU"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-Ok3YspPgZlU",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Ali／Quant Systems 頻道"
     ]
   }
 ]

@@ -1,0 +1,25 @@
+{
+  "articleId":"licensed-continuation-reversal",
+  "checked":"2026-11-01",
+  "sourceRevision":"https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&oldid=4351762",
+  "license":"CC BY-SA 4.0",
+  "blocks":[
+    {"kind":"heading","en":"Technical Analysis/Patterns","zh":"技術分析／型態：章首導言與原表"},
+    {"kind":"paragraph","en":"Technical analysis employs three approaches for identifying changes in market moods over time: trend, signal and resistance analysis. Trend analysis assumes that past market behavior can be extrapolated into the future and that the trends of the past will repeat or persist in the future. Signal analysis may supplement trend analysis by assisting analysts to identify when the market will break out of a trend that it has followed in the recent past by identifying price-movement patterns.","zh":"技術分析採用三種方法，辨識市場情緒隨時間發生的變化：趨勢分析、訊號分析與壓力分析。趨勢分析假設，過去的市場行為可以外推至未來，而且過去的趨勢會在未來重複或持續。訊號分析可能透過辨識價格移動型態，協助分析者辨認市場何時會突破近期一直遵循的趨勢，從而補充趨勢分析。"},
+    {"kind":"paragraph","en":"Resistance analysis is similar to signal analysis, except that it views the break points in terms of price limits beyond which the market is unlikely to move.","zh":"壓力分析與訊號分析類似，不同之處在於，它從價格界限的角度來看待突破點，認為市場不太可能越過這些界限。"},
+    {"kind":"paragraph","en":"Here are some of the downtrend and uptrend patterns that are popular in technical analysis of chart patterns","zh":"以下是圖表型態的技術分析中，一些常見的下降趨勢與上升趨勢型態："},
+    {"kind":"table","headers":{"en":["Uptrends","Downtrends"],"zh":["上升趨勢","下降趨勢"]},"rows":[
+      {"en":["Symmetrical Triangle","Symmetrical Triangle"],"zh":["對稱三角形","對稱三角形"]},
+      {"en":["Rectangle","Rectangle"],"zh":["矩形","矩形"]},
+      {"en":["Ascending Triangle","Minor Top"],"zh":["上升三角形","小型頂部"]},
+      {"en":["Falling Wedge","Double Top"],"zh":["下降楔形","雙重頂"]},
+      {"en":["Rising Wedge","Descending Triangle"],"zh":["上升楔形","下降三角形"]},
+      {"en":["Bullish Flag","Bearish Flag"],"zh":["多頭旗形","空頭旗形"]},
+      {"en":["Bullish Pennant","Bearish Pennant"],"zh":["多頭三角旗形","空頭三角旗形"]},
+      {"en":["Ascending Triangle","Descending Triangle"],"zh":["上升三角形","下降三角形"]},
+      {"en":["Ascending Scallop","Descending Scallop"],"zh":["上升扇貝形","下降扇貝形"]},
+      {"en":["3 Raising Valleys","3 Descending peaks"],"zh":["三個逐步抬高的谷底","三個逐步降低的峰頂"]},
+      {"en":["Cup With Handle","Inverted Cup With Handle"],"zh":["帶柄杯形","倒置帶柄杯形"]}
+    ]}
+  ]
+}

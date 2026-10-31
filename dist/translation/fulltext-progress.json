@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-31",
-  "totalSources": 2361,
+  "updated": "2026-11-01",
+  "totalSources": 2367,
   "summary": {
     "completeSources": 0,
     "excerptSources": 2,
-    "notAssessedSources": 2359,
+    "notAssessedSources": 2365,
     "bilingualUnits": 6
   },
   "policy": [
@@ -37,10 +37,10 @@
     },
     {
       "articleId": "licensed-continuation-reversal",
-      "scope": "Patterns 父節七段正文與一行製圖占位文字，以及 Continuation pattern.、Reversal patterns、Candlestick Pattern 三個完整子小節（含原清單與分組標籤）。不含章首導言、章首型態對照表、其他主節、導覽或來源圖片；不是整章。",
+      "scope": "章首三段導言（第三段為原表引介）及含十一列的上／下趨勢型態原表，加上 Patterns 父節七段正文、一行占位文字與延續、反轉、K 線三個完整子小節。依各部分原順序對照；不含其餘主節、導覽或來源圖片，不宣稱整章全文核對完成。",
       "license": "CC BY-SA 4.0",
       "sourceRevision": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&oldid=4351762",
-      "revision": "2026-10-31"
+      "revision": "2026-11-01"
     },
     {
       "articleId": "licensed-support-resistance",
@@ -203,6 +203,12 @@
       "unitIds": []
     },
     {
+      "sourceId": "6577dcee167868bb196b",
+      "translationStatus": "not-assessed",
+      "rightsStatus": "not-assessed",
+      "unitIds": []
+    },
+    {
       "sourceId": "69c23b9b5e0ff90fe537",
       "translationStatus": "not-assessed",
       "rightsStatus": "not-assessed",
@@ -287,6 +293,18 @@
       "unitIds": []
     },
     {
+      "sourceId": "9baa86d20c1181ae37aa",
+      "translationStatus": "not-assessed",
+      "rightsStatus": "not-assessed",
+      "unitIds": []
+    },
+    {
+      "sourceId": "9c890b3f583ee631a5f5",
+      "translationStatus": "not-assessed",
+      "rightsStatus": "not-assessed",
+      "unitIds": []
+    },
+    {
       "sourceId": "9dca89fa57b796c5de55",
       "translationStatus": "not-assessed",
       "rightsStatus": "not-assessed",
@@ -342,6 +360,12 @@
     },
     {
       "sourceId": "c2be8b74a2def9feae0f",
+      "translationStatus": "not-assessed",
+      "rightsStatus": "not-assessed",
+      "unitIds": []
+    },
+    {
+      "sourceId": "c360d34b51be49ffcd67",
       "translationStatus": "not-assessed",
       "rightsStatus": "not-assessed",
       "unitIds": []
@@ -407,7 +431,19 @@
       "unitIds": []
     },
     {
+      "sourceId": "e4efa020bcd54ddc697e",
+      "translationStatus": "not-assessed",
+      "rightsStatus": "not-assessed",
+      "unitIds": []
+    },
+    {
       "sourceId": "ea097b1f9392051cff5f",
+      "translationStatus": "not-assessed",
+      "rightsStatus": "not-assessed",
+      "unitIds": []
+    },
+    {
+      "sourceId": "febf783068f48566709c",
       "translationStatus": "not-assessed",
       "rightsStatus": "not-assessed",
       "unitIds": []

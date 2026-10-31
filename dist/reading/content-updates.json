@@ -2,6 +2,70 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch21-20261101",
+      "collected": "2026-11-01",
+      "updated": "2026-11-01",
+      "timezone": "Asia/Taipei",
+      "description": "新增 Grimes 文章、Podcast 官方逐字稿及 Brooks 影片介紹；續譯章首與十一列型態原表，保留雙地圖。",
+      "articles": [
+        "licensed-continuation-reversal"
+      ],
+      "sources": [
+        "grimes-pattern-families",
+        "lyop48-execution-reconciliation",
+        "brooks-training-call-2022"
+      ],
+      "decisions": [
+        {
+          "source": "Fundamental Trading Patterns",
+          "url": "https://www.adamhgrimes.com/fundamental-trading-patterns/",
+          "status": "正文／逐字稿選讀",
+          "reason": "已讀五個型態分類的完整公開文字正文；未核驗五張來源圖或讀取付費教材。"
+        },
+        {
+          "source": "Your Backtest Looks Great - What Could Possibly Go Wrong?",
+          "url": "https://lineyourownpockets.com/episodes/your-backtest-looks-great-what-could-possibly-go-wrong/transcript",
+          "status": "正文／逐字稿選讀",
+          "reason": "研究協作實讀完整官方文字逐字稿，00:00 開場至 52:46 最後發言；主編再次核對節目資料與 09:21 前後文字。未播放或收聽音訊。"
+        },
+        {
+          "source": "UKSpreadBetting webinar: Price action trading with Al Brooks",
+          "url": "https://www.brookstradingcourse.com/price-action/ukspreadbetting-webinar-al-brooks/",
+          "status": "介紹選讀",
+          "reason": "已讀官網介紹、原始播放連結與公開讀者留言；YouTube 直接頁面本次取得失敗，未取得字幕或觀看影片。"
+        },
+        {
+          "source": "YouTube 91h0Dw9jwQ0",
+          "url": "https://www.youtube.com/watch?v=91h0Dw9jwQ0",
+          "status": "直接頁面取得失敗",
+          "reason": "原片及 embed 入口本次工具取得失敗；只保留 Brooks 官網交叉連結的介紹，不寫成沒有新片或已讀字幕。"
+        },
+        {
+          "source": "Woods 完整策略文章",
+          "url": "https://www.tradingsetupsreview.com/price-action-trading-strategies/",
+          "status": "去重略過",
+          "reason": "既有正文摘要已於第十六批收錄，不重複新增。"
+        },
+        {
+          "source": "NY Fed／Macro Musings 國債市場訪談",
+          "url": "https://www.newyorkfed.org/newsevents/speeches/2026/gol260921",
+          "status": "本批略過",
+          "reason": "研究協作已讀市場結構相關段落，偏國債制度與清算，與本批價格行為實作較遠，不為湊數收錄。"
+        },
+        {
+          "source": "搜尋出現的第三方書籍 PDF 與影音摘要鏡像",
+          "status": "未採用",
+          "reason": "未核驗重刊授權或原作者關係，不把鏡像摘要當作原片字幕。"
+        }
+      ],
+      "notes": [
+        "Podcasts 已讀完整公開文字逐字稿，未收聽音訊；影片只取得官網介紹與留言。",
+        "Apple US 評分頁與搜尋索引不同，不填統一數值，也不以節目總評當成 E48 成效。",
+        "原有文章、舊譯、雙地圖、筆記及私人權限保留；沒有新增排程或執行交易。",
+        "來源整頁全文尚未完成獨立覆蓋稽核，不因加入章首原表就提升為全文完成。"
+      ]
+    },
+    {
       "id": "site-maps-20261031",
       "collected": "2026-10-31",
       "updated": "2026-10-31",

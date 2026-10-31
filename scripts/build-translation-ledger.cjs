@@ -1,6 +1,6 @@
 /* Inventory every referenced English source; only reviewed content earns a summary status. */
 const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm'),crypto=require('node:crypto');
-const root=path.resolve(__dirname,'..'),dist=path.join(root,'dist'),date='2026-10-31';
+const root=path.resolve(__dirname,'..'),dist=path.join(root,'dist'),date='2026-11-01';
 const read=f=>JSON.parse(fs.readFileSync(path.join(root,f),'utf8'));
 const write=(f,v)=>{fs.mkdirSync(path.dirname(path.join(dist,f)),{recursive:true});fs.writeFileSync(path.join(dist,f),typeof v==='string'?v:JSON.stringify(v,null,2)+'\n');};
 const ctx={window:{}};vm.runInNewContext(fs.readFileSync(path.join(dist,'data/core.js'),'utf8'),ctx);const core=ctx.window.ATLAS_CORE_DATA;
@@ -22,6 +22,7 @@ for(const r of read('dist/media/catalog.json').resources.filter(r=>/英文/.test
  add(r.url,{kind:'media',id:r.id},{title:r.title_zh,original:r.title});
  for(const [i,e] of (r.episodes||[]).entries())add(e.url,{kind:'media-episode',id:r.id,index:i},{title:e.title_zh,original:e.title});
  if(r.rating?.url)add(r.rating.url,{kind:'media-review',id:r.id},{title:(r.title_zh||r.title)+'・平台評分頁'});
+ for(const e of r.review_sources||[])add(e.url,{kind:'media-review-source',id:r.id},{title:e.title});
  if(r.access_source)add(r.access_source,{kind:'media-access',id:r.id},{title:(r.title_zh||r.title)+'・官方入口'});
  for(const e of r.course_refs||[])add(e.url,{kind:'media-course-reference',id:r.id,unit:e.unit},{title:e.topic_zh});
 }

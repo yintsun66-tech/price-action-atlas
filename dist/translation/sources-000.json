@@ -2249,6 +2249,74 @@
     "editorNotesZh": []
   },
   {
+    "id": "6577dcee167868bb196b",
+    "url": "https://podcasts.apple.com/us/podcast/line-your-own-pockets/id1762640188",
+    "sourceTitle": "Line Your Own Pockets - Apple Podcasts",
+    "titleZh": "播客評價：Apple US 擷取版本差異",
+    "titleCoverage": "reviewed-title",
+    "status": "intro-only",
+    "summaryZh": "本次可取得頁面顯示 5.0／14 則，搜尋索引另顯示 4.9／15 則；版本不一致，不列統一評分。可見評論是節目層級個人意見，並非 E48 的獨立成效評鑑。",
+    "readScope": "已讀本次可取得 Apple 美國商店的節目、評分與可見評論文字；搜尋索引與實開頁面評分快照不一致。",
+    "checked": "2026-11-01",
+    "inventoried": "2026-11-01",
+    "locations": [
+      {
+        "kind": "media-review-source",
+        "id": "p07"
+      },
+      {
+        "kind": "review",
+        "id": "source-b21-lyop-apple"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b21-lyop-apple",
+        "url": "https://podcasts.apple.com/us/podcast/line-your-own-pockets/id1762640188",
+        "sourceTitle": "Line Your Own Pockets - Apple Podcasts",
+        "sourceTitleZh": "播客評價：Apple US 擷取版本差異",
+        "authorConfirmed": "Apple Podcasts US（節目資料：Dave Mabe、Michael Nauss）",
+        "published": null,
+        "checked": "2026-11-01",
+        "status": "intro-only",
+        "readScope": "已讀本次可取得 Apple 美國商店的節目、評分與可見評論文字；搜尋索引與實開頁面評分快照不一致。",
+        "summaryZh": "本次可取得頁面顯示 5.0／14 則，搜尋索引另顯示 4.9／15 則；版本不一致，不列統一評分。可見評論是節目層級個人意見，並非 E48 的獨立成效評鑑。",
+        "keyPointsZh": [
+          "商店、取得版本與快照日要一起讀；不以節目總評推論單集成效。"
+        ],
+        "limitsZh": "頁面可能為快取版本，數字不代表此刻即時值；未取得可比的 E48 獨立評分。",
+        "evidence": {
+          "urls": [
+            "https://podcasts.apple.com/us/podcast/line-your-own-pockets/id1762640188"
+          ],
+          "accessMethod": "實讀 Apple Podcasts US 節目評價頁，對照研究協作的搜尋索引差異",
+          "scope": "節目資料與可見評論；未收聽節目。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "published": null,
+    "dateNoteZh": "",
+    "keyPointsZh": [
+      "商店、取得版本與快照日要一起讀；不以節目總評推論單集成效。"
+    ],
+    "limitsZh": "頁面可能為快取版本，數字不代表此刻即時值；未取得可比的 E48 獨立評分。",
+    "evidence": {
+      "urls": [
+        "https://podcasts.apple.com/us/podcast/line-your-own-pockets/id1762640188"
+      ],
+      "accessMethod": "實讀 Apple Podcasts US 節目評價頁，對照研究協作的搜尋索引差異",
+      "scope": "節目資料與可見評論；未收聽節目。"
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Apple Podcasts US（節目資料：Dave Mabe、Michael Nauss）"
+  },
+  {
     "id": "69c23b9b5e0ff90fe537",
     "url": "https://www.quantsystems.ca/course/bo-research",
     "sourceTitle": "Breakouts Research",
@@ -4035,6 +4103,211 @@
     "editorNotesZh": []
   },
   {
+    "id": "9baa86d20c1181ae37aa",
+    "url": "https://lineyourownpockets.com/episodes/your-backtest-looks-great-what-could-possibly-go-wrong/transcript",
+    "sourceTitle": "Your Backtest Looks Great - What Could Possibly Go Wrong?",
+    "titleZh": "回測很好，執行卻不同：逐筆核對漏單與成交落差",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "兩位主持人建議持續核對回測預期與實際紀錄，查出漏掉的大獲利交易、滑價、延遲及輸入錯誤。也可提高成本或隨機略過交易，檢查結果對理想執行的依賴。這些是實務建議，未提供獨立績效驗證。",
+    "readScope": "研究協作實讀完整官方文字逐字稿，00:00 開場至 52:46 最後發言；主編再次核對節目資料與 09:21 前後文字。未播放或收聽音訊。",
+    "checked": "2026-11-01",
+    "inventoried": "2026-11-01",
+    "locations": [
+      {
+        "kind": "media-access",
+        "id": "p07"
+      },
+      {
+        "kind": "community",
+        "id": "lyop48-execution-reconciliation"
+      },
+      {
+        "kind": "review",
+        "id": "source-b21-lyop48-execution-reconciliation"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b21-lyop48-execution-reconciliation",
+        "url": "https://lineyourownpockets.com/episodes/your-backtest-looks-great-what-could-possibly-go-wrong/transcript",
+        "sourceTitle": "Your Backtest Looks Great - What Could Possibly Go Wrong?",
+        "sourceTitleZh": "回測很好，執行卻不同：逐筆核對漏單與成交落差",
+        "authorConfirmed": "Dave Mabe、Michael Nauss",
+        "published": "2025-07-07",
+        "dateNoteZh": "E48，官方標示 52:52；新收錄歷史單集，非今日市場分析。",
+        "checked": "2026-11-01",
+        "status": "body-summary",
+        "readScope": "研究協作實讀完整官方文字逐字稿，00:00 開場至 52:46 最後發言；主編再次核對節目資料與 09:21 前後文字。未播放或收聽音訊。",
+        "summaryZh": "兩位主持人建議持續核對回測預期與實際紀錄，查出漏掉的大獲利交易、滑價、延遲及輸入錯誤。也可提高成本或隨機略過交易，檢查結果對理想執行的依賴。這些是實務建議，未提供獨立績效驗證。",
+        "keyPointsZh": [
+          "本站練習：建立預期交易、觀察到的成交、漏單與成本差異對照表；先診斷，再決定是否改規則。"
+        ],
+        "shortExcerpt": {
+          "en": "always be reconciling to the backtest",
+          "zh": "持續與回測逐筆核對。",
+          "scope": "09:21 為官方逐字稿的段落標記，未核對音軌時間；主持人建議核對個別進出場。"
+        },
+        "limitsZh": "以股票執行案例為主，不能直接套用微台／BTC；節目推廣回測郵件課與主持人的軟體／教育產品，逐字稿有辨識錯字。 未取得 E48 的獨立成效評分；節目層級聽眾好評不等於單集品質或獲利證明。",
+        "evidence": {
+          "urls": [
+            "https://lineyourownpockets.com/episodes/your-backtest-looks-great-what-could-possibly-go-wrong/transcript"
+          ],
+          "accessMethod": "實際讀取原作者／官方公開文字，依各筆範圍標示",
+          "scope": "研究協作實讀完整官方文字逐字稿，00:00 開場至 52:46 最後發言；主編再次核對節目資料與 09:21 前後文字。未播放或收聽音訊。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "Dave Mabe、Michael Nauss"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "兩位主持人建議持續核對回測預期與實際紀錄，查出漏掉的大獲利交易、滑價、延遲及輸入錯誤。也可提高成本或隨機略過交易，檢查結果對理想執行的依賴。這些是實務建議，未提供獨立績效驗證。",
+      "readScope": "研究協作實讀完整官方文字逐字稿，00:00 開場至 52:46 最後發言；主編再次核對節目資料與 09:21 前後文字。未播放或收聽音訊。",
+      "checked": "2026-11-01",
+      "translationScope": "繁中短摘要與必要短句對照，不重刊整集逐字稿。",
+      "cardId": "lyop48-execution-reconciliation"
+    },
+    "published": "2025-07-07",
+    "dateNoteZh": "E48，官方標示 52:52；新收錄歷史單集，非今日市場分析。",
+    "keyPointsZh": [
+      "本站練習：建立預期交易、觀察到的成交、漏單與成本差異對照表；先診斷，再決定是否改規則。"
+    ],
+    "limitsZh": "以股票執行案例為主，不能直接套用微台／BTC；節目推廣回測郵件課與主持人的軟體／教育產品，逐字稿有辨識錯字。 未取得 E48 的獨立成效評分；節目層級聽眾好評不等於單集品質或獲利證明。",
+    "evidence": {
+      "urls": [
+        "https://lineyourownpockets.com/episodes/your-backtest-looks-great-what-could-possibly-go-wrong/transcript"
+      ],
+      "accessMethod": "實際讀取原作者／官方公開文字，依各筆範圍標示",
+      "scope": "研究協作實讀完整官方文字逐字稿，00:00 開場至 52:46 最後發言；主編再次核對節目資料與 09:21 前後文字。未播放或收聽音訊。"
+    },
+    "shortExcerpt": {
+      "en": "always be reconciling to the backtest",
+      "zh": "持續與回測逐筆核對。",
+      "scope": "09:21 為官方逐字稿的段落標記，未核對音軌時間；主持人建議核對個別進出場。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Dave Mabe、Michael Nauss"
+  },
+  {
+    "id": "9c890b3f583ee631a5f5",
+    "url": "https://www.brookstradingcourse.com/price-action/ukspreadbetting-webinar-al-brooks/",
+    "sourceTitle": "UKSpreadBetting webinar: Price action trading with Al Brooks",
+    "titleZh": "Brooks 訓練訪談：設定、交易歷程與風險管理",
+    "titleCoverage": "reviewed-title",
+    "status": "intro-only",
+    "summaryZh": "Brooks 官網連到與 Mark Holstead 的訓練訪談，標示約一小時二分鐘，主題為偏好設定、交易歷程與風險管理。本次只完成介紹與留言選讀，影片內容尚未取得。",
+    "readScope": "已讀官網介紹、原始播放連結與公開讀者留言；YouTube 直接頁面本次取得失敗，未取得字幕或觀看影片。",
+    "checked": "2026-11-01",
+    "inventoried": "2026-11-01",
+    "locations": [
+      {
+        "kind": "media-access",
+        "id": "v07"
+      },
+      {
+        "kind": "community",
+        "id": "brooks-training-call-2022"
+      },
+      {
+        "kind": "review",
+        "id": "source-b21-brooks-training-call-2022"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b21-brooks-training-call-2022",
+        "url": "https://www.brookstradingcourse.com/price-action/ukspreadbetting-webinar-al-brooks/",
+        "sourceTitle": "UKSpreadBetting webinar: Price action trading with Al Brooks",
+        "sourceTitleZh": "Brooks 訓練訪談：設定、交易歷程與風險管理",
+        "authorConfirmed": "Al Brooks；Mark Holstead 主持；官網介紹署名 BTC Admin",
+        "published": "2022-06-06",
+        "dateNoteZh": "此為官網介紹發布日；介紹指訪談於 2022 年 5 月舉行，未核對 YouTube 上架確日。",
+        "checked": "2026-11-01",
+        "status": "intro-only",
+        "readScope": "已讀官網介紹、原始播放連結與公開讀者留言；YouTube 直接頁面本次取得失敗，未取得字幕或觀看影片。",
+        "summaryZh": "Brooks 官網連到與 Mark Holstead 的訓練訪談，標示約一小時二分鐘，主題為偏好設定、交易歷程與風險管理。本次只完成介紹與留言選讀，影片內容尚未取得。",
+        "keyPointsZh": [
+          "可作後續觀看入口；本站建議觀看時先記錄講者條件，再與自己的事前筆記比較。"
+        ],
+        "limitsZh": "官方頁連到公開講座，不是 Main／Forex 付費單元的逐字稿。未取得影片內容，不推定其細節、勝率或交易績效。 未取得可核對的當前 YouTube 觀看數與按讚數，不以第三方影片摘要代替原片。",
+        "evidence": {
+          "urls": [
+            "https://www.brookstradingcourse.com/price-action/ukspreadbetting-webinar-al-brooks/"
+          ],
+          "accessMethod": "實際讀取原作者／官方公開文字，依各筆範圍標示",
+          "scope": "已讀官網介紹、原始播放連結與公開讀者留言；YouTube 直接頁面本次取得失敗，未取得字幕或觀看影片。"
+        },
+        "courseRefs": [
+          {
+            "version": "Main（共用基礎）",
+            "unit": "15A",
+            "topic": "突破",
+            "relation": "相關主題補讀；不是本訪談的原始課程出處，未觀看付費影片。",
+            "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-15a-breakouts/"
+          },
+          {
+            "version": "Main（共用基礎）",
+            "unit": "33A",
+            "topic": "保護停損",
+            "relation": "相關主題補讀；依公開課綱核對主題，不表示已讀本訪談細節。",
+            "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-33a-protective-stops/"
+          }
+        ]
+      }
+    ],
+    "courseRefs": [
+      {
+        "version": "Main（共用基礎）",
+        "unit": "15A",
+        "topic": "突破",
+        "relation": "相關主題補讀；不是本訪談的原始課程出處，未觀看付費影片。",
+        "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-15a-breakouts/"
+      },
+      {
+        "version": "Main（共用基礎）",
+        "unit": "33A",
+        "topic": "保護停損",
+        "relation": "相關主題補讀；依公開課綱核對主題，不表示已讀本訪談細節。",
+        "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-33a-protective-stops/"
+      }
+    ],
+    "authors": [
+      "Al Brooks；Mark Holstead 主持；官網介紹署名 BTC Admin"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "Brooks 官網連到與 Mark Holstead 的訓練訪談，標示約一小時二分鐘，主題為偏好設定、交易歷程與風險管理。本次只完成介紹與留言選讀，影片內容尚未取得。",
+      "readScope": "已讀官網介紹、原始播放連結與公開讀者留言；YouTube 直接頁面本次取得失敗，未取得字幕或觀看影片。",
+      "checked": "2026-11-01",
+      "translationScope": "繁中介紹摘要；不列影片正文或完整字幕翻譯。",
+      "cardId": "brooks-training-call-2022"
+    },
+    "published": "2022-06-06",
+    "dateNoteZh": "此為官網介紹發布日；介紹指訪談於 2022 年 5 月舉行，未核對 YouTube 上架確日。",
+    "keyPointsZh": [
+      "可作後續觀看入口；本站建議觀看時先記錄講者條件，再與自己的事前筆記比較。"
+    ],
+    "limitsZh": "官方頁連到公開講座，不是 Main／Forex 付費單元的逐字稿。未取得影片內容，不推定其細節、勝率或交易績效。 未取得可核對的當前 YouTube 觀看數與按讚數，不以第三方影片摘要代替原片。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/price-action/ukspreadbetting-webinar-al-brooks/"
+      ],
+      "accessMethod": "實際讀取原作者／官方公開文字，依各筆範圍標示",
+      "scope": "已讀官網介紹、原始播放連結與公開讀者留言；YouTube 直接頁面本次取得失敗，未取得字幕或觀看影片。"
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Al Brooks；Mark Holstead 主持；官網介紹署名 BTC Admin"
+  },
+  {
     "id": "9dca89fa57b796c5de55",
     "url": "https://www.brookstradingcourse.com/guest-traders/band-based-trading-systems/",
     "sourceTitle": "Why Band Trading Works: Part 4 — Band Based Trading Systems",
@@ -4928,6 +5201,74 @@
     "editorNotesZh": []
   },
   {
+    "id": "c360d34b51be49ffcd67",
+    "url": "https://lineyourownpockets.com/episodes/your-backtest-looks-great-what-could-possibly-go-wrong",
+    "sourceTitle": "Your Backtest Looks Great - What Could Possibly Go Wrong?",
+    "titleZh": "Podcast E48：官方單集資料與逐字稿入口",
+    "titleCoverage": "reviewed-title",
+    "status": "intro-only",
+    "summaryZh": "官方單集頁列 E48、發布日與主持資料，並提供公開逐字稿及播放入口；節目介紹談回測與實際執行的差距。正文摘要請看本站逐字稿選讀卡。",
+    "readScope": "已讀官方單集介紹、日期、E48 編號、52:52 片長與主持名單；逐字稿另列獨立實讀紀錄，未收聽音訊。",
+    "checked": "2026-11-01",
+    "inventoried": "2026-11-01",
+    "locations": [
+      {
+        "kind": "media",
+        "id": "p07"
+      },
+      {
+        "kind": "review",
+        "id": "source-b21-lyop48-episode"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b21-lyop48-episode",
+        "url": "https://lineyourownpockets.com/episodes/your-backtest-looks-great-what-could-possibly-go-wrong",
+        "sourceTitle": "Your Backtest Looks Great - What Could Possibly Go Wrong?",
+        "sourceTitleZh": "Podcast E48：官方單集資料與逐字稿入口",
+        "authorConfirmed": "Dave Mabe、Michael Nauss",
+        "published": "2025-07-07",
+        "checked": "2026-11-01",
+        "status": "intro-only",
+        "readScope": "已讀官方單集介紹、日期、E48 編號、52:52 片長與主持名單；逐字稿另列獨立實讀紀錄，未收聽音訊。",
+        "summaryZh": "官方單集頁列 E48、發布日與主持資料，並提供公開逐字稿及播放入口；節目介紹談回測與實際執行的差距。正文摘要請看本站逐字稿選讀卡。",
+        "keyPointsZh": [
+          "節目入口與逐字稿實讀分開，不把點開節目當成已收聽。"
+        ],
+        "limitsZh": "原作者節目入口，另推廣回測郵件課；未取得完整翻譯授權或獨立成效評分。",
+        "evidence": {
+          "urls": [
+            "https://lineyourownpockets.com/episodes/your-backtest-looks-great-what-could-possibly-go-wrong"
+          ],
+          "accessMethod": "實讀官方單集頁",
+          "scope": "公開介紹及單集資料；沒有收聽。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "published": "2025-07-07",
+    "dateNoteZh": "",
+    "keyPointsZh": [
+      "節目入口與逐字稿實讀分開，不把點開節目當成已收聽。"
+    ],
+    "limitsZh": "原作者節目入口，另推廣回測郵件課；未取得完整翻譯授權或獨立成效評分。",
+    "evidence": {
+      "urls": [
+        "https://lineyourownpockets.com/episodes/your-backtest-looks-great-what-could-possibly-go-wrong"
+      ],
+      "accessMethod": "實讀官方單集頁",
+      "scope": "公開介紹及單集資料；沒有收聽。"
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Dave Mabe、Michael Nauss"
+  },
+  {
     "id": "c3708000578f39a35fe0",
     "url": "https://www.sciencedirect.com/science/article/abs/pii/S105905601200072X",
     "sourceTitle": "The predictability of opening returns for the returns of the trading day: Evidence from Taiwan futures market",
@@ -5758,6 +6099,94 @@
     "authorConfirmed": "TradingView（官方支援文件；正文未列個人署名）"
   },
   {
+    "id": "e4efa020bcd54ddc697e",
+    "url": "https://www.adamhgrimes.com/fundamental-trading-patterns/",
+    "sourceTitle": "Fundamental Trading Patterns",
+    "titleZh": "五類型態，先看結構：回檔、失敗測試與突破",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "Grimes 區分簡單與複雜回檔、越過舊轉折後快速返回的失敗測試、趨勢改變後的第一次回檔，以及突破。分類以結構為主；複雜回檔可能先使順勢交易停損，突破則要求迅速且有紀律的決策。",
+    "readScope": "已讀五個型態分類的完整公開文字正文；未核驗五張來源圖或讀取付費教材。",
+    "checked": "2026-11-01",
+    "inventoried": "2026-11-01",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "grimes-pattern-families"
+      },
+      {
+        "kind": "review",
+        "id": "source-b21-grimes-pattern-families"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b21-grimes-pattern-families",
+        "url": "https://www.adamhgrimes.com/fundamental-trading-patterns/",
+        "sourceTitle": "Fundamental Trading Patterns",
+        "sourceTitleZh": "五類型態，先看結構：回檔、失敗測試與突破",
+        "authorConfirmed": "Adam H. Grimes",
+        "published": null,
+        "dateNoteZh": "本次公開正文未列可核對確日；不以搜尋年齡或改版時間補填，屬新收錄的既有教材。",
+        "checked": "2026-11-01",
+        "status": "body-summary",
+        "readScope": "已讀五個型態分類的完整公開文字正文；未核驗五張來源圖或讀取付費教材。",
+        "summaryZh": "Grimes 區分簡單與複雜回檔、越過舊轉折後快速返回的失敗測試、趨勢改變後的第一次回檔，以及突破。分類以結構為主；複雜回檔可能先使順勢交易停損，突破則要求迅速且有紀律的決策。",
+        "keyPointsZh": [
+          "先把型態拆成事前可見的結構，再保存未成功及未決例子。"
+        ],
+        "shortExcerpt": {
+          "en": "first pullback following a trend change",
+          "zh": "趨勢改變後的第一次回檔。",
+          "scope": "原文對 Anti 的結構描述；作者說可能是新趨勢的首次回檔，沒有保證新趨勢已成立。"
+        },
+        "limitsZh": "作者網站連向其教育產品；本篇沒有微台／BTC 的樣本外績效或可直接照用的量化參數。並列 spring 等名稱不代表各流派定義完全相同。 未取得可比較互動數或獨立評分，不自造熱門順位。",
+        "evidence": {
+          "urls": [
+            "https://www.adamhgrimes.com/fundamental-trading-patterns/"
+          ],
+          "accessMethod": "實際讀取原作者／官方公開文字，依各筆範圍標示",
+          "scope": "已讀五個型態分類的完整公開文字正文；未核驗五張來源圖或讀取付費教材。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "Adam H. Grimes"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "Grimes 區分簡單與複雜回檔、越過舊轉折後快速返回的失敗測試、趨勢改變後的第一次回檔，以及突破。分類以結構為主；複雜回檔可能先使順勢交易停損，突破則要求迅速且有紀律的決策。",
+      "readScope": "已讀五個型態分類的完整公開文字正文；未核驗五張來源圖或讀取付費教材。",
+      "checked": "2026-11-01",
+      "translationScope": "繁中短摘要與必要短句，非全文翻譯。",
+      "cardId": "grimes-pattern-families"
+    },
+    "published": null,
+    "dateNoteZh": "本次公開正文未列可核對確日；不以搜尋年齡或改版時間補填，屬新收錄的既有教材。",
+    "keyPointsZh": [
+      "先把型態拆成事前可見的結構，再保存未成功及未決例子。"
+    ],
+    "limitsZh": "作者網站連向其教育產品；本篇沒有微台／BTC 的樣本外績效或可直接照用的量化參數。並列 spring 等名稱不代表各流派定義完全相同。 未取得可比較互動數或獨立評分，不自造熱門順位。",
+    "evidence": {
+      "urls": [
+        "https://www.adamhgrimes.com/fundamental-trading-patterns/"
+      ],
+      "accessMethod": "實際讀取原作者／官方公開文字，依各筆範圍標示",
+      "scope": "已讀五個型態分類的完整公開文字正文；未核驗五張來源圖或讀取付費教材。"
+    },
+    "shortExcerpt": {
+      "en": "first pullback following a trend change",
+      "zh": "趨勢改變後的第一次回檔。",
+      "scope": "原文對 Anti 的結構描述；作者說可能是新趨勢的首次回檔，沒有保證新趨勢已成立。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Adam H. Grimes"
+  },
+  {
     "id": "ea097b1f9392051cff5f",
     "url": "https://www.wyckoffanalytics.com/wyckoff-reaccumulation-vs-distribution-how-to-tell-which-one-youre-in/",
     "sourceTitle": "Wyckoff Reaccumulation vs Distribution: How to Tell Which One You’re In",
@@ -5823,6 +6252,106 @@
     "shortExcerpt": null,
     "termNotes": [],
     "editorNotesZh": []
+  },
+  {
+    "id": "febf783068f48566709c",
+    "url": "https://www.youtube.com/watch?v=91h0Dw9jwQ0",
+    "sourceTitle": "Trader Training Call With Price Action Trader Al Brooks",
+    "titleZh": "Brooks 訓練訪談：原始播放頁本次未取得",
+    "titleCoverage": "reviewed-title",
+    "status": "unavailable",
+    "summaryZh": "本次未取得原始播放頁與字幕；官方文章仍可核對播放入口。本站另提供該官網介紹摘要，沒有將影片正文列為完成。",
+    "readScope": "YouTube watch 與 embed 直接頁面取得失敗，未取得字幕或觀看影片；入口與介紹僅由 Brooks 官方文章核對。",
+    "checked": "2026-11-01",
+    "inventoried": "2026-11-01",
+    "locations": [
+      {
+        "kind": "media",
+        "id": "v07"
+      },
+      {
+        "kind": "review",
+        "id": "source-b21-brooks-youtube"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b21-brooks-youtube",
+        "url": "https://www.youtube.com/watch?v=91h0Dw9jwQ0",
+        "sourceTitle": "Trader Training Call With Price Action Trader Al Brooks",
+        "sourceTitleZh": "Brooks 訓練訪談：原始播放頁本次未取得",
+        "authorConfirmed": "Al Brooks（依 Brooks 官網交叉連結）",
+        "published": null,
+        "checked": "2026-11-01",
+        "status": "unavailable",
+        "readScope": "YouTube watch 與 embed 直接頁面取得失敗，未取得字幕或觀看影片；入口與介紹僅由 Brooks 官方文章核對。",
+        "summaryZh": "本次未取得原始播放頁與字幕；官方文章仍可核對播放入口。本站另提供該官網介紹摘要，沒有將影片正文列為完成。",
+        "keyPointsZh": [
+          "播放入口可辨識，不等於字幕或影片內容已讀。"
+        ],
+        "limitsZh": "YouTube 上架日期、目前片長、觀看數及內容細節未核對，不能由第三方摘要補成已完成。",
+        "evidence": {
+          "urls": [
+            "https://www.youtube.com/watch?v=91h0Dw9jwQ0",
+            "https://www.brookstradingcourse.com/price-action/ukspreadbetting-webinar-al-brooks/"
+          ],
+          "accessMethod": "直接讀取失敗，改核對官方交叉連結作入口證據",
+          "scope": "失敗來源保留；官網介紹另列實讀紀錄。"
+        },
+        "courseRefs": [
+          {
+            "version": "Main（共用基礎）",
+            "unit": "15A",
+            "topic": "突破",
+            "relation": "相關主題補讀；不是本訪談的原始課程出處，未觀看付費影片。",
+            "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-15a-breakouts/"
+          },
+          {
+            "version": "Main（共用基礎）",
+            "unit": "33A",
+            "topic": "保護停損",
+            "relation": "相關主題補讀；依公開課綱核對主題，不表示已讀本訪談細節。",
+            "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-33a-protective-stops/"
+          }
+        ]
+      }
+    ],
+    "courseRefs": [
+      {
+        "version": "Main（共用基礎）",
+        "unit": "15A",
+        "topic": "突破",
+        "relation": "相關主題補讀；不是本訪談的原始課程出處，未觀看付費影片。",
+        "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-15a-breakouts/"
+      },
+      {
+        "version": "Main（共用基礎）",
+        "unit": "33A",
+        "topic": "保護停損",
+        "relation": "相關主題補讀；依公開課綱核對主題，不表示已讀本訪談細節。",
+        "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-33a-protective-stops/"
+      }
+    ],
+    "published": null,
+    "dateNoteZh": "",
+    "keyPointsZh": [
+      "播放入口可辨識，不等於字幕或影片內容已讀。"
+    ],
+    "limitsZh": "YouTube 上架日期、目前片長、觀看數及內容細節未核對，不能由第三方摘要補成已完成。",
+    "evidence": {
+      "urls": [
+        "https://www.youtube.com/watch?v=91h0Dw9jwQ0",
+        "https://www.brookstradingcourse.com/price-action/ukspreadbetting-webinar-al-brooks/"
+      ],
+      "accessMethod": "直接讀取失敗，改核對官方交叉連結作入口證據",
+      "scope": "失敗來源保留；官網介紹另列實讀紀錄。"
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Al Brooks（依 Brooks 官網交叉連結）"
   },
   {
     "id": "1d596485e1eff3e7a57f",
@@ -6443,9 +6972,9 @@
       },
       {
         "articleId": "licensed-continuation-reversal",
-        "scope": "Patterns 父節七段正文與一行製圖占位文字，以及 Continuation pattern.、Reversal patterns、Candlestick Pattern 三個完整子小節（含原清單與分組標籤）。不含章首導言、章首型態對照表、其他主節、導覽或來源圖片；不是整章。",
+        "scope": "章首三段導言（第三段為原表引介）及含十一列的上／下趨勢型態原表，加上 Patterns 父節七段正文、一行占位文字與延續、反轉、K 線三個完整子小節。依各部分原順序對照；不含其餘主節、導覽或來源圖片，不宣稱整章全文核對完成。",
         "license": "CC BY-SA 4.0",
-        "revision": "2026-10-31"
+        "revision": "2026-11-01"
       },
       {
         "articleId": "licensed-support-resistance",
@@ -7115,225 +7644,6 @@
     "legacyObservations": [
       {
         "id": "yt-OPa0X-dRhjk",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "6620185b3fe657c2a0ce",
-    "url": "https://www.youtube.com/watch?v=9L_7ipYvq_o",
-    "sourceTitle": "Emini End of Day Review - Brad Wolff - Q&A - Who trapped who?",
-    "titleZh": "E-mini 盤後檢視：Brad Wolff 問答——誰套住了誰？",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-9L_7ipYvq_o"
-      }
-    ],
-    "resourceIds": [
-      "yt-9L_7ipYvq_o"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-9L_7ipYvq_o",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "6b9c99dbc6a101290d72",
-    "url": "https://www.youtube.com/watch?v=n3eYTnlPBRA",
-    "sourceTitle": "Signal Bars and Entry Sequence",
-    "titleZh": "訊號棒與進場順序",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-n3eYTnlPBRA"
-      }
-    ],
-    "resourceIds": [
-      "yt-n3eYTnlPBRA"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-n3eYTnlPBRA",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "6c6190f9befc27aa8040",
-    "url": "https://support.smbtraining.com/support/solutions/articles/44002792399-does-smb-training-offer-any-free-content-",
-    "sourceTitle": "SMB 官方免費資源說明",
-    "titleZh": "SMB 官方免費資源說明",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "discovery-smb-capital-1"
-      },
-      {
-        "kind": "discovery-material",
-        "id": "smb-capital",
-        "index": 0
-      }
-    ],
-    "resourceIds": [
-      "discovery-smb-capital-1"
-    ],
-    "legacyObservations": [
-      {
-        "id": "discovery-smb-capital-1",
-        "scope": "免費 YouTube、每日短片與文章；部分電子郵件內容需註冊。 預錄策略／市場分析、real trade reviews 與每週交易計畫；未承諾免費完整交易日直播。 官方直接指向 youtube.com/smbcapital；不能把每一部公開影片都稱完整回放。 本輪未逐部完整觀看或核實真實成交。",
-        "checked": "2026-10-24"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "SMB Capital／SMB Training（Mike Bellafiore 等）"
-    ]
-  },
-  {
-    "id": "6fd5a89c4e5f2bdf7123",
-    "url": "https://priceactiontradingsystem.com/",
-    "sourceTitle": "Mack 官方教材入口",
-    "titleZh": "Mack 官方教材入口",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "discovery-mack-pats-1"
-      },
-      {
-        "kind": "discovery-material",
-        "id": "mack-pats",
-        "index": 0
-      }
-    ],
-    "resourceIds": [
-      "discovery-mack-pats-1"
-    ],
-    "legacyObservations": [
-      {
-        "id": "discovery-mack-pats-1",
-        "scope": "公開教材概覽；manual、premium membership、部分工具付費。 教材銷售與概念介紹；首頁單筆 Live ES Trade 不能代表完整交易日。 官方明列 second entries 與 two-legged pullbacks；首頁的通用性或獲利行銷措辭不作實證背書。 本輪未逐部完整觀看或核實真實成交。",
-        "checked": "2026-10-24"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Mack／PATs（Price Action Trading System）"
-    ]
-  },
-  {
-    "id": "6fe3c1658fed4fc5c730",
-    "url": "https://www.tradingwithrayner.com/upat-home/",
-    "sourceTitle": "The Ultimate Price Action Trader",
-    "titleZh": "終極價格行為交易者",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "discovery-rayner-teo-3"
-      },
-      {
-        "kind": "discovery-material",
-        "id": "rayner-teo",
-        "index": 2
-      }
-    ],
-    "resourceIds": [
-      "discovery-rayner-teo-3"
-    ],
-    "legacyObservations": [
-      {
-        "id": "discovery-rayner-teo-3",
-        "scope": "付費課程銷售頁；方案／開課檔期可能變動。 自學課搭配 coaching、支援等方案；live coaching 是教學互動，不能逕稱盤中實盤直播。 與免費 academy 為不同產品，不應混用評價或存取標示。 本輪未逐部完整觀看或核實真實成交。",
-        "checked": "2026-10-24"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Rayner Teo／TradingwithRayner"
-    ]
-  },
-  {
-    "id": "72d0d3148c87167a090f",
-    "url": "https://www.youtube.com/watch?v=0cWzlanuaYc",
-    "sourceTitle": "Coding for Price Action",
-    "titleZh": "價格行為的程式設計",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-0cWzlanuaYc"
-      }
-    ],
-    "resourceIds": [
-      "yt-0cWzlanuaYc"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-0cWzlanuaYc",
         "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
         "checked": "2026-10-22"
       }

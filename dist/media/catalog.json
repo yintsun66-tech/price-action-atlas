@@ -12,6 +12,95 @@
   ],
   "resources": [
     {
+      "id": "p07",
+      "category": "Podcast",
+      "rank": 7,
+      "creator": "Dave Mabe、Michael Nauss",
+      "language": "英文",
+      "title": "Line Your Own Pockets E48 — Your Backtest Looks Great - What Could Possibly Go Wrong?",
+      "title_zh": "回測看起來很好，實際執行可能出了什麼問題？",
+      "url": "https://lineyourownpockets.com/episodes/your-backtest-looks-great-what-could-possibly-go-wrong",
+      "format": "Podcast 單集；官方標示 52:52",
+      "access": "免費公開節目與文字逐字稿",
+      "start": "先讀本站逐字稿選讀，再到原始單集收聽。",
+      "summary_zh": "官方 E48 逐字稿選讀：把執行結果與回測預期逐筆核對。漏單、成本與成交差異的繁中摘要集中在下方選讀入口。",
+      "fit": "補充停損成交、棒內路徑及模擬紀錄的研究問題。",
+      "limits": "未收聽音訊；以股票案例為主。主持人另有軟體及教育產品，建議不等於獨立績效證據。",
+      "evidence": "已讀官方單集資料、完整公開文字逐字稿及 Apple US 節目評價頁；沒有搬運音訊或整份逐字稿。",
+      "published": "2025-07-07",
+      "checked_on": "2026-11-01",
+      "coverage_label": "逐字稿實讀摘要，未收聽音訊",
+      "read_scope": "完整文字逐字稿 00:00 至 52:46；時間是稿中標記，未核對音軌。",
+      "translation_scope": "繁中摘要及必要短句，非整集翻譯。",
+      "source_card": "lyop48-execution-reconciliation",
+      "related_ids": [
+        "pa3-podcast-to-hypothesis",
+        "pa3-stop-execution",
+        "pa3-research-register"
+      ],
+      "rating": null,
+      "review_summary_zh": "Apple US 本次可取得頁面為 5.0／14 則，搜尋索引另顯 4.9／15 則，版本不一致，未填統一評分。屬節目層級評價，非 E48 獨立成效證據。",
+      "review_sources": [
+        {
+          "url": "https://podcasts.apple.com/us/podcast/line-your-own-pockets/id1762640188",
+          "title": "Apple Podcasts US：查核版本差異"
+        }
+      ],
+      "access_source": "https://lineyourownpockets.com/episodes/your-backtest-looks-great-what-could-possibly-go-wrong/transcript",
+      "course_refs": [],
+      "access_source_label": "閱讀官方逐字稿"
+    },
+    {
+      "id": "v07",
+      "category": "影片",
+      "rank": 7,
+      "creator": "Al Brooks；Mark Holstead 主持",
+      "language": "英文",
+      "title": "Trader Training Call With Price Action Trader Al Brooks",
+      "title_zh": "Brooks 訓練訪談：設定、交易歷程與風險管理",
+      "url": "https://www.youtube.com/watch?v=91h0Dw9jwQ0",
+      "format": "YouTube 訪談；官網標示約 1 小時 2 分鐘",
+      "access": "官方連出的公開播放入口",
+      "start": "先核對官網介紹，再由原始 YouTube 入口觀看。",
+      "summary_zh": "Brooks 官網交叉連結的公開訪談入口。這次只整理介紹與留言範圍，沒有把未取得的影片內容寫成教學摘要。",
+      "fit": "適合搭配事前／事後筆記練習；觀看後自行記錄講者條件與例外。",
+      "limits": "YouTube 直接頁面本次取得失敗，未取得字幕或觀看影片。官網正面短評不是獨立教學成效或獲利驗證。",
+      "evidence": "Brooks 官網介紹列出播放連結、講者、主題與片長，另有 2022 年公開讀者留言。",
+      "published": null,
+      "date_note": "官網介紹發布 2022-06-06，指訪談於 2022 年 5 月舉行；YouTube 上架確日未核對。",
+      "checked_on": "2026-11-01",
+      "coverage_label": "僅公開介紹，字幕與影片內容未取得",
+      "read_scope": "只讀官網介紹、原始播放入口與留言；未觀看或取得字幕。",
+      "translation_scope": "繁中介紹摘要，非影片逐字稿。",
+      "source_card": "brooks-training-call-2022",
+      "related_ids": [
+        "practice-replay-evidence",
+        "brooks-order-intent",
+        "practice-risk-in-r"
+      ],
+      "rating": null,
+      "review_summary_zh": "官網可核對數則讀者正面短評；留言者自述與選擇偏誤保留，未取得可比的獨立評分或目前觀看數。",
+      "access_source": "https://www.brookstradingcourse.com/price-action/ukspreadbetting-webinar-al-brooks/",
+      "course_refs": [
+        {
+          "version": "Main（共用基礎）",
+          "unit": "15A",
+          "topic": "突破",
+          "relation": "相關主題補讀；不是本訪談的原始課程出處，未觀看付費影片。",
+          "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-15a-breakouts/"
+        },
+        {
+          "version": "Main（共用基礎）",
+          "unit": "33A",
+          "topic": "保護停損",
+          "relation": "相關主題補讀；依公開課綱核對主題，不表示已讀本訪談細節。",
+          "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-33a-protective-stops/"
+        }
+      ],
+      "access_source_label": "核對 Brooks 官網介紹",
+      "course_access_note": "相關單元頁需會員登入；上方單元連結只作主題補讀，公開訪談使用下方 YouTube 入口。"
+    },
+    {
       "id": "v01",
       "category": "影片",
       "rank": 1,
@@ -360,5 +449,6 @@
       "limits": "非完整價格行為課程；本次未逐集收聽或驗證主持交易紀錄。",
       "course_refs": []
     }
-  ]
+  ],
+  "updated_on": "2026-11-01"
 }

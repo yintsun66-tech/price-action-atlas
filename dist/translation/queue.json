@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "items": [
     {
       "id": "014e9d23788221e0da5b",
@@ -63,6 +63,13 @@
       ],
       "status": "unavailable",
       "nextAction": "日後重試合法公開入口，保留本次失敗"
+    },
+    {
+      "id": "6577dcee167868bb196b",
+      "url": "https://podcasts.apple.com/us/podcast/line-your-own-pockets/id1762640188",
+      "resourceIds": [],
+      "status": "intro-only",
+      "nextAction": "取得實際教材或字幕後才能補內容摘要"
     },
     {
       "id": "69c23b9b5e0ff90fe537",
@@ -160,6 +167,13 @@
       "nextAction": "日後重試合法公開入口，保留本次失敗"
     },
     {
+      "id": "9c890b3f583ee631a5f5",
+      "url": "https://www.brookstradingcourse.com/price-action/ukspreadbetting-webinar-al-brooks/",
+      "resourceIds": [],
+      "status": "intro-only",
+      "nextAction": "取得實際教材或字幕後才能補內容摘要"
+    },
+    {
       "id": "ab0f0d3ebcea2a71dde9",
       "url": "https://www.quantsystems.ca/sa-overview",
       "resourceIds": [
@@ -205,6 +219,13 @@
       "nextAction": "取得實際教材或字幕後才能補內容摘要"
     },
     {
+      "id": "c360d34b51be49ffcd67",
+      "url": "https://lineyourownpockets.com/episodes/your-backtest-looks-great-what-could-possibly-go-wrong",
+      "resourceIds": [],
+      "status": "intro-only",
+      "nextAction": "取得實際教材或字幕後才能補內容摘要"
+    },
+    {
       "id": "c3708000578f39a35fe0",
       "url": "https://www.sciencedirect.com/science/article/abs/pii/S105905601200072X",
       "resourceIds": [
@@ -233,6 +254,13 @@
       "resourceIds": [
         "yt-guYhIhMkTv8"
       ],
+      "status": "unavailable",
+      "nextAction": "日後重試合法公開入口，保留本次失敗"
+    },
+    {
+      "id": "febf783068f48566709c",
+      "url": "https://www.youtube.com/watch?v=91h0Dw9jwQ0",
+      "resourceIds": [],
       "status": "unavailable",
       "nextAction": "日後重試合法公開入口，保留本次失敗"
     },

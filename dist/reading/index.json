@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-10-31",
+  "revision": "2026-11-01",
   "articles": [
     {
       "id": "licensed-measured-move",
@@ -212,10 +212,10 @@
       "id": "licensed-continuation-reversal",
       "category": "授權節譯",
       "title": "延續與反轉型態：逐句翻譯 suggest 的原意",
-      "subtitle": "保留舊譯，補上型態總論、成交量確認說法與 K 線型態小節。",
-      "summary": "完整對照 Patterns 父節文字及其延續、反轉、K 線三個子小節。從連線、通道與三角形，讀到突破與成交量的作者說法；保留 suggest、can 等語氣，不把清單或「確認」當成已驗證交易策略。",
+      "subtitle": "新增章首三段與十一列型態原表；原型態總論、延續、反轉及 K 線子節保留。",
+      "summary": "本篇補上章首分析方法導言與上／下趨勢型態原表，保留英文、重複列及未定義名稱。既有型態總論與三個子節照讀；作者的分類與假設不等於已驗證的進出場條件。",
       "level": "基礎",
-      "minutes": 17,
+      "minutes": 21,
       "mode": "licensed-section",
       "batch": 5,
       "topic": "基礎",
@@ -228,7 +228,7 @@
         "反轉型態",
         "Pennant",
         "三角旗形",
-        "Patterns 父節與延續、反轉、K 線三個子小節已完整對照；不是整章。",
+        "新增章首三段與十一列型態表，舊譯保留；不宣稱整章全文核對完成。",
         "suggest 譯為暗示，不強化成保證或已證實。",
         "原文 Trenline 疑為 Trendline，英文照錄、中文校對註說明。",
         "雙頂、頭肩等名稱不是當下即可知道的完整交易規則。",

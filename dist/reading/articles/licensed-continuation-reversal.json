@@ -1,17 +1,162 @@
 {
   "id": "licensed-continuation-reversal",
   "title": "延續與反轉型態：逐句翻譯 suggest 的原意",
-  "subtitle": "保留舊譯，補上型態總論、成交量確認說法與 K 線型態小節。",
+  "subtitle": "新增章首三段與十一列型態原表；原型態總論、延續、反轉及 K 線子節保留。",
   "topic": "基礎",
-  "minutes": 17,
-  "summary": "完整對照 Patterns 父節文字及其延續、反轉、K 線三個子小節。從連線、通道與三角形，讀到突破與成交量的作者說法；保留 suggest、can 等語氣，不把清單或「確認」當成已驗證交易策略。",
+  "minutes": 21,
+  "summary": "本篇補上章首分析方法導言與上／下趨勢型態原表，保留英文、重複列及未定義名稱。既有型態總論與三個子節照讀；作者的分類與假設不等於已驗證的進出場條件。",
   "keyPoints": [
-    "Patterns 父節與延續、反轉、K 線三個子小節已完整對照；不是整章。",
+    "新增章首三段與十一列型態表，舊譯保留；不宣稱整章全文核對完成。",
     "suggest 譯為暗示，不強化成保證或已證實。",
     "原文 Trenline 疑為 Trendline，英文照錄、中文校對註說明。",
     "雙頂、頭肩等名稱不是當下即可知道的完整交易規則。"
   ],
   "translation": [
+    {
+      "kind": "heading",
+      "en": "Technical Analysis/Patterns",
+      "zh": "技術分析／型態：章首導言與原表"
+    },
+    {
+      "kind": "paragraph",
+      "en": "Technical analysis employs three approaches for identifying changes in market moods over time: trend, signal and resistance analysis. Trend analysis assumes that past market behavior can be extrapolated into the future and that the trends of the past will repeat or persist in the future. Signal analysis may supplement trend analysis by assisting analysts to identify when the market will break out of a trend that it has followed in the recent past by identifying price-movement patterns.",
+      "zh": "技術分析採用三種方法，辨識市場情緒隨時間發生的變化：趨勢分析、訊號分析與壓力分析。趨勢分析假設，過去的市場行為可以外推至未來，而且過去的趨勢會在未來重複或持續。訊號分析可能透過辨識價格移動型態，協助分析者辨認市場何時會突破近期一直遵循的趨勢，從而補充趨勢分析。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "Resistance analysis is similar to signal analysis, except that it views the break points in terms of price limits beyond which the market is unlikely to move.",
+      "zh": "壓力分析與訊號分析類似，不同之處在於，它從價格界限的角度來看待突破點，認為市場不太可能越過這些界限。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "Here are some of the downtrend and uptrend patterns that are popular in technical analysis of chart patterns",
+      "zh": "以下是圖表型態的技術分析中，一些常見的下降趨勢與上升趨勢型態："
+    },
+    {
+      "kind": "table",
+      "headers": {
+        "en": [
+          "Uptrends",
+          "Downtrends"
+        ],
+        "zh": [
+          "上升趨勢",
+          "下降趨勢"
+        ]
+      },
+      "rows": [
+        {
+          "en": [
+            "Symmetrical Triangle",
+            "Symmetrical Triangle"
+          ],
+          "zh": [
+            "對稱三角形",
+            "對稱三角形"
+          ]
+        },
+        {
+          "en": [
+            "Rectangle",
+            "Rectangle"
+          ],
+          "zh": [
+            "矩形",
+            "矩形"
+          ]
+        },
+        {
+          "en": [
+            "Ascending Triangle",
+            "Minor Top"
+          ],
+          "zh": [
+            "上升三角形",
+            "小型頂部"
+          ]
+        },
+        {
+          "en": [
+            "Falling Wedge",
+            "Double Top"
+          ],
+          "zh": [
+            "下降楔形",
+            "雙重頂"
+          ]
+        },
+        {
+          "en": [
+            "Rising Wedge",
+            "Descending Triangle"
+          ],
+          "zh": [
+            "上升楔形",
+            "下降三角形"
+          ]
+        },
+        {
+          "en": [
+            "Bullish Flag",
+            "Bearish Flag"
+          ],
+          "zh": [
+            "多頭旗形",
+            "空頭旗形"
+          ]
+        },
+        {
+          "en": [
+            "Bullish Pennant",
+            "Bearish Pennant"
+          ],
+          "zh": [
+            "多頭三角旗形",
+            "空頭三角旗形"
+          ]
+        },
+        {
+          "en": [
+            "Ascending Triangle",
+            "Descending Triangle"
+          ],
+          "zh": [
+            "上升三角形",
+            "下降三角形"
+          ]
+        },
+        {
+          "en": [
+            "Ascending Scallop",
+            "Descending Scallop"
+          ],
+          "zh": [
+            "上升扇貝形",
+            "下降扇貝形"
+          ]
+        },
+        {
+          "en": [
+            "3 Raising Valleys",
+            "3 Descending peaks"
+          ],
+          "zh": [
+            "三個逐步抬高的谷底",
+            "三個逐步降低的峰頂"
+          ]
+        },
+        {
+          "en": [
+            "Cup With Handle",
+            "Inverted Cup With Handle"
+          ],
+          "zh": [
+            "帶柄杯形",
+            "倒置帶柄杯形"
+          ]
+        }
+      ]
+    },
     {
       "kind": "heading",
       "en": "Patterns",
@@ -161,6 +306,13 @@
         "父節說通道與三角形至少需要兩個尖峰高點、兩個尖峰低點；沒有定義轉折確認或何時畫線，向右延伸不代表右側結果已知。原文另把當天高於平常的成交量稱為突破確認，卻未定義「平常」的期間或數值門檻。這些說法須與可重現規則、成本及樣本驗證分開。",
         "K 線子節只說可能指出反轉開始，並連向維基百科。這次只翻譯本節文字，沒有接續翻譯或驗證該外鏈，也沒有把股票的日成交量說法直接套到微台或 BTC。既有合成圖展示相同起點的不同後續，不能替原作者提供勝率。"
       ]
+    },
+    {
+      "heading": "五、型態原表照譯，不把分類當成保證",
+      "paragraphs": [
+        "章首把趨勢分析建立在過去可外推的假設上；中文保留「假設」「可能」與「不太可能」，沒有把這套說法升級成所有市場都成立的定律。resistance 在這段按原詞譯壓力分析，不自行補成另一套完整指標系統。",
+        "原表保留 Ascending Triangle 的重複列及 Raising 的原拼字。Minor Top 與 Scallop 在此未定義，只提供字面譯名，不暗加辨識條件或機率；左右欄是作者分類，不代表列出的形態一定導致該方向。"
+      ]
     }
   ],
   "glossary": [
@@ -190,7 +342,7 @@
   "level": "基礎",
   "batch": 5,
   "mode": "licensed-section",
-  "revision": "2026-10-31",
+  "revision": "2026-11-01",
   "sourceSummary": "已讀 Wikibooks Technical Analysis／Patterns 的公開文字，頁尾固定版本 4351762。原文屬社群教材概念敘述，未提供微台／BTC 回測。",
   "exercise": {
     "title": "先對照原文，再記錄自己的解讀",
@@ -211,9 +363,9 @@
       "url": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&oldid=4351762",
       "author": "Wikibooks contributors",
       "language": "英文",
-      "checked": "2026-10-31",
-      "access": "實讀公開原頁正文及頁尾，固定版本標記為 4351762；核對 Wikibooks 文字署名、改作及相同授權政策。未重用來源圖片。",
-      "scope": "Patterns 父節七段正文與一行製圖占位文字，以及 Continuation pattern.、Reversal patterns、Candlestick Pattern 三個完整子小節（含原清單與分組標籤）。不含章首導言、章首型態對照表、其他主節、導覽或來源圖片；不是整章。",
+      "checked": "2026-11-01",
+      "access": "實讀公開原頁正文及頁尾固定版本 4351762；本批逐段核對章首與原表，沒有重用來源圖片。",
+      "scope": "章首三段導言（第三段為原表引介）及含十一列的上／下趨勢型態原表，加上 Patterns 父節七段正文、一行占位文字與延續、反轉、K 線三個完整子小節。依各部分原順序對照；不含其餘主節、導覽或來源圖片，不宣稱整章全文核對完成。",
       "license": "CC BY-SA 4.0；本批僅使用文字，未重用來源媒體。"
     },
     {
@@ -221,7 +373,7 @@
       "url": "https://en.wikibooks.org/w/index.php?title=Wikibooks:Copyrights&oldid=4622060",
       "author": "Wikibooks contributors",
       "language": "英文",
-      "checked": "2026-10-31",
+      "checked": "2026-11-01",
       "access": "實讀公開文字重用政策，核對署名、改作、相同授權及媒體另查條件。",
       "scope": "僅用於核對文字授權，不視為所有圖片的授權。",
       "license": "政策說明；相關教材文字採 CC BY-SA 4.0。"
@@ -230,8 +382,8 @@
   "courseRefs": [],
   "translationStatus": "已授權指定範圍完整翻譯並保留英文；範圍依本頁明列，非整章或經驗證交易系統。",
   "provenance": "依原頁公開文字逐段翻譯，保留段落及清單順序。原文拼字、語氣及資料限制另列校對註；導讀、合成圖、練習與測驗為本站新增。這是 Wikibooks 社群教材，不是 Brooks 官方課程或已驗證交易系統。",
-  "translationTitle": "型態總論、延續、反轉與 K 線：指定範圍完整對照",
-  "translationScope": "Patterns 父節七段正文與一行製圖占位文字，以及 Continuation pattern.、Reversal patterns、Candlestick Pattern 三個完整子小節（含原清單與分組標籤）。不含章首導言、章首型態對照表、其他主節、導覽或來源圖片；不是整章。",
+  "translationTitle": "分析方法導言、型態原表與三個子節：明列範圍對照",
+  "translationScope": "章首三段導言（第三段為原表引介）及含十一列的上／下趨勢型態原表，加上 Patterns 父節七段正文、一行占位文字與延續、反轉、K 線三個完整子小節。依各部分原順序對照；不含其餘主節、導覽或來源圖片，不宣稱整章全文核對完成。",
   "translationNotes": [
     "原文 suggest 控制後面的 would／will 敘述，整段屬型態所暗示的方向，並非作者提供的必然價格預測。",
     "原文 Trenline 疑為 Trendline 的拼字錯誤。英文保留 Trenline，中文按可能原意譯「趨勢線」，此為編輯判讀。",
@@ -240,14 +392,17 @@
     "新補 Patterns 父節中的 can be said、implies 與 K 線子節中的 can indicate，分別保留「可以說」「暗示」「可能指出」；沒有增補成功率。",
     "成交量「確認」為原文主張；原文未附比較基期、統計或跨市場檢驗，本站不將它改為實證結論。",
     "kiwi 只出現在製圖占位文字，原文沒有說明含義；照錄 kiwi，不擅自譯成紐西蘭市場或鳥類。",
-    "K 線小節末句的 wikipedia:candlestick pattern 是來源外鏈標籤；中文按其意譯，英文標籤照錄。該外鏈內容未在本批閱讀或翻譯。"
+    "K 線小節末句的 wikipedia:candlestick pattern 是來源外鏈標籤；中文按其意譯，英文標籤照錄。該外鏈內容未在本批閱讀或翻譯。",
+    "章首 assumes 譯「假設」、may 譯「可能」、unlikely 譯「不太可能」；此社群教材沒有 Brooks 詞表的數值約定，不移植成固定百分比。",
+    "原表 Ascending Triangle 出現兩次，兩列照錄；3 Raising Valleys 的 Raising 原樣保留，中文按上下文譯三個逐步抬高的谷底。",
+    "Minor Top 暫譯小型頂部、Scallop 暫譯扇貝形；原表未給定義與圖，不能把字面名稱當作可重現規則。"
   ],
   "license": {
     "id": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "原文：Wikibooks contributors，Technical Analysis／Patterns，固定版本 4351762。繁體中文翻譯、導讀、合成圖與練習：Price Action Atlas，AI 協助，2026-10-28。本篇譯文及新增內容依 CC BY-SA 4.0 提供。 2026-10-31 第二十批續譯與校對：Price Action Atlas，AI 協助。",
-    "scope": "Patterns 父節七段正文與一行製圖占位文字，以及 Continuation pattern.、Reversal patterns、Candlestick Pattern 三個完整子小節（含原清單與分組標籤）。不含章首導言、章首型態對照表、其他主節、導覽或來源圖片；不是整章。 本篇新增導讀、校註、合成圖與練習亦依相同授權。",
-    "changes": "保留所有舊中英對照區塊，新增明列範圍之完整段落及占位文字，補上摘要、來源與語氣校註；未重用來源圖片。",
+    "attribution": "原文：Wikibooks contributors，Technical Analysis／Patterns，固定版本 4351762。繁體中文翻譯、導讀、合成圖與練習：Price Action Atlas，AI 協助，2026-10-28。本篇譯文及新增內容依 CC BY-SA 4.0 提供。 2026-10-31 第二十批續譯與校對：Price Action Atlas，AI 協助。 2026-11-01 第二十一批續譯及原表校對：Price Action Atlas，AI 協助。",
+    "scope": "章首三段導言（第三段為原表引介）及含十一列的上／下趨勢型態原表，加上 Patterns 父節七段正文、一行占位文字與延續、反轉、K 線三個完整子小節。依各部分原順序對照；不含其餘主節、導覽或來源圖片，不宣稱整章全文核對完成。 本篇新增導讀、校註、合成圖與練習亦依相同授權。",
+    "changes": "原有全部中英對照保留，補上章首三段與十一列原表，註明語氣、重複列與未定義名稱；未重用來源媒體。",
     "sourceRevision": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&oldid=4351762",
     "history": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&action=history"
   },
@@ -289,6 +444,12 @@
       "date": "2026-10-31",
       "addedParagraphs": 8,
       "addedPlaceholders": 1
+    },
+    {
+      "id": "licensed-batch21",
+      "date": "2026-11-01",
+      "addedProseParagraphs": 3,
+      "addedTableRows": 11
     }
   ]
 }
