@@ -2,6 +2,54 @@
   "version": 1,
   "batches": [
     {
+      "id": "translation-batch16-20261031",
+      "collected": "2026-10-31",
+      "updated": "2026-10-31",
+      "timezone": "Asia/Taipei",
+      "description": "續譯三筆既有英文正文，另核對一筆只有入口說明的歷史頁；保留主觀機率與盤中時點。",
+      "sources": [
+        "source-woods-context-setup-exit",
+        "brad-post-221578",
+        "brad-post-250893",
+        "brad-post-234277"
+      ],
+      "articles": [],
+      "decisions": [
+        {
+          "source": "Price Action Trading Strategies Beyond Price Patterns",
+          "url": "https://www.tradingsetupsreview.com/price-action-trading-strategies/",
+          "status": "既有來源正文摘要",
+          "reason": "已讀原作者公開文字正文至結語及日期：行情背景、進場條件、退出計畫三部分。未核驗圖像、外連教材或付費課程。"
+        },
+        {
+          "source": "Emini Continued Tight Trading Range Behavior",
+          "url": "https://www.brookstradingcourse.com/analysis/emini-continued-tight-trading-range-behavior/",
+          "status": "既有來源正文摘要",
+          "reason": "已讀日線、截至第十一棒的五分鐘盤中評論、EURUSD 文字及共用圖表說明；未核驗原圖、觀看盤後影片或付費課程。"
+        },
+        {
+          "source": "E-mini Weak High 1 Buy Signal Bar",
+          "url": "https://www.brookstradingcourse.com/analysis/e-weak-high-1-buy-signal-bar/",
+          "status": "既有來源正文摘要",
+          "reason": "已讀日線、截至第四十二棒的五分鐘盤中評論及共用圖表說明；未觀看盤後影片、核驗原圖或將留言視為作者觀點。"
+        },
+        {
+          "source": "Emini Wedge Top Then Small Pullback Bear Trend",
+          "url": "https://www.brookstradingcourse.com/analysis/emini-wedge-top-then-small-pullback-bear-trend/",
+          "status": "只有入口說明；行情內容未完成",
+          "reason": "已讀題名、發布日期、「當日沒有文字報告」的說明及共用圖表用途文字；只有影片／圖像入口，未觀看或核驗行情教材。"
+        }
+      ],
+      "notes": [
+        "去重後總數不增加；三筆待讀轉為正文摘要，一筆轉為介紹摘要。",
+        "Brad 的方向機率附歷史日期、事件及主觀估計限制；不當作微台或 BTC 策略勝率。",
+        "Woods 日期分列首次發布與更新；事後圖例不是樣本外證據。",
+        "未觀看影片或核驗原圖，不補寫盤後結局。",
+        "原有 62 篇文章、圖像、進度、筆記鍵與讀者權限保留。",
+        "翻譯清單更新日可前進，既有來源首次盤點日期保持不變；沒有合格新網址就不湊數。"
+      ]
+    },
+    {
       "id": "reading-batch15-20261030",
       "collected": "2026-10-30",
       "updated": "2026-10-30",

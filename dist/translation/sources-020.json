@@ -1,5 +1,38 @@
 [
   {
+    "id": "d595ab2d3fae0ac1d782",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-want-to-trap-bulls/",
+    "sourceTitle": "Emini Bears Want to Trap Bulls Buying January 17 High",
+    "titleZh": "Brad 日內案例｜2023-01-24｜反轉與陷阱",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-169111"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-169111"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-169111",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "d5a3bd62e871a3f9b972",
     "url": "https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst",
     "sourceTitle": "Daylight Saving Time Rules",
@@ -2765,29 +2798,6 @@
     "authors": [
       "Brad Wolff"
     ]
-  },
-  {
-    "id": "df4df707ac450b2e8e10",
-    "url": "https://www.tradingsetupsreview.com/price-action-trading-strategies/",
-    "sourceTitle": "Price Action Trading Strategies Beyond Price Patterns｜型態、停損與出場",
-    "titleZh": "Price Action Trading Strategies Beyond Price Patterns｜型態、停損與出場",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "article-source",
-        "id": "pp2-structural-stop",
-        "index": 0
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   },
   {
     "id": "df4fc8e9fa83bc9ad92a",

@@ -1,5 +1,39 @@
 [
   {
+    "id": "20d0d6f65dd0da00922e",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bears-want-successful-breakout-below-august-24th/",
+    "sourceTitle": "E-mini Bears Want Successful Breakout Below August 24th",
+    "titleZh": "E-mini：空方希望成功向下突破 8 月 24 日價位",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-276569"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-276569"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-276569",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "原題未明指 8 月 24 日的高點或低點，不補成特定價位。",
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "20e17169cf1ec1949378",
     "url": "https://www.youtube.com/watch?v=3M37OHneEQY",
     "sourceTitle": "E-mini S&P 500 Horizontal Trading Range - September 9, 2026",
@@ -3208,39 +3242,6 @@
     "courseRefs": [],
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "2c4eecf919ba16af2771",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-profit-taking-above-december-20th-likely/",
-    "sourceTitle": "Emini Profit Taking above December 20th Likely",
-    "titleZh": "Brad 日內案例｜2023-12-28｜風險與退出",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-196636"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-196636"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-196636",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

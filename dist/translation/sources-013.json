@@ -1,5 +1,38 @@
 [
   {
+    "id": "86e974263fdb711e9725",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-failed-low-1-why-a-second-leg-up-is-likely/",
+    "sourceTitle": "Emini Failed Low 1: Why a Second Leg Up is Likely",
+    "titleZh": "Brad 日內案例｜2025-03-19｜回檔與第二段／反轉與陷阱",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-232628"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-232628"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-232628",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "87238f07b8cda4447f92",
     "url": "https://www.quantsystems.ca/course/ptm-202407",
     "sourceTitle": "QuantSystem's Pro Trader Mentoring",
@@ -3160,38 +3193,5 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": []
-  },
-  {
-    "id": "92768b400669714b4892",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-follow-through-selling/",
-    "sourceTitle": "Emini Bears Follow-through Selling Wanted Today",
-    "titleZh": "Brad 日內案例｜2023-01-31｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-169498"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-169498"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-169498",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
   }
 ]

@@ -1,5 +1,38 @@
 [
   {
+    "id": "6fac5b01c09bb4f22024",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-strong-bear-reversal-bar/",
+    "sourceTitle": "Emini Strong Bear Reversal Bar",
+    "titleZh": "Brad 日內案例｜2024-08-02｜反轉與陷阱",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-213785"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-213785"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-213785",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "6fd0b9b0482b35bda630",
     "url": "https://www.brookstradingcourse.com/analysis/emini-final-day-of-the-month/",
     "sourceTitle": "Emini final day of the month",
@@ -3043,39 +3076,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-224320",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "79747b6d32b01656ad27",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-likely-to-get-pullback-after-failed-breakout-of-6700/",
-    "sourceTitle": "E-Mini Likely to Get Pullback After Failed Breakout of 6,700",
-    "titleZh": "Brad 日內案例｜2025-09-19｜突破與延續／回檔與第二段／反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-250519"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-250519"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-250519",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

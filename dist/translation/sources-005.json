@@ -1,5 +1,38 @@
 [
   {
+    "id": "2c4eecf919ba16af2771",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-profit-taking-above-december-20th-likely/",
+    "sourceTitle": "Emini Profit Taking above December 20th Likely",
+    "titleZh": "Brad 日內案例｜2023-12-28｜風險與退出",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-196636"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-196636"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-196636",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "2c5b9a517d23c13c32b3",
     "url": "https://www.youtube.com/watch?v=OQP8oJs4cIg",
     "sourceTitle": "Brooks Trading Course free video Dec. 28, 2012. Emini channels with H4 and L4 reversals on 5 min",
@@ -3156,39 +3189,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-264303",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "37ec594ec3714540aab3",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-breakout-above-april-9th-likely/",
-    "sourceTitle": "Emini Breakout above April 9th Likely",
-    "titleZh": "Brad 日內案例｜2025-04-24｜突破與延續",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-235300"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-235300"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-235300",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

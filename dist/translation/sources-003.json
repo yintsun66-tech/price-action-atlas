@@ -1,5 +1,38 @@
 [
   {
+    "id": "14b415c0b71d07f92877",
+    "url": "https://www.youtube.com/watch?v=Mh3cA-LAj0Q",
+    "sourceTitle": "Market Recap 2010-01-26",
+    "titleZh": "Brooks 共享影片｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-Mh3cA-LAj0Q"
+      }
+    ],
+    "resourceIds": [
+      "yt-Mh3cA-LAj0Q"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-Mh3cA-LAj0Q",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "14c05b0197ca69c3fcdd",
     "url": "https://www.brookstradingcourse.com/trade-price-action/video-45c-trading-broad-bull-channels/",
     "sourceTitle": "寬多頭通道交易",
@@ -3137,39 +3170,5 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": []
-  },
-  {
-    "id": "20d0d6f65dd0da00922e",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bears-want-successful-breakout-below-august-24th/",
-    "sourceTitle": "E-mini Bears Want Successful Breakout Below August 24th",
-    "titleZh": "E-mini：空方希望成功向下突破 8 月 24 日價位",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-276569"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-276569"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-276569",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "原題未明指 8 月 24 日的高點或低點，不補成特定價位。",
-    "authors": [
-      "Brad Wolff"
-    ]
   }
 ]

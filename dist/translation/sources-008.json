@@ -1,5 +1,38 @@
 [
   {
+    "id": "4e8a196e231c31256efc",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-follow-through-today/",
+    "sourceTitle": "Emini Bulls Want Follow-Through Today",
+    "titleZh": "Brad 日內案例｜2023-12-11｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-195555"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-195555"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-195555",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "4eb0a0a0cfebf797cabd",
     "url": "https://www.brookstradingcourse.com/analysis/market-update/emini-7-month-trading-range/",
     "sourceTitle": "Emini disappointment in middle of 7-month trading range",
@@ -3085,39 +3118,6 @@
     "titleNote": "",
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "5968dc796dee408d5808",
-    "url": "https://www.quantsystems.ca/course/ptm-202503",
-    "sourceTitle": "QuantSystem's Pro Trader Mentoring",
-    "titleZh": "PTM 月課綱｜2025/03",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "qs-ptm-202503"
-      }
-    ],
-    "resourceIds": [
-      "qs-ptm-202503"
-    ],
-    "legacyObservations": [
-      {
-        "id": "qs-ptm-202503",
-        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Ali Moin-Afshari／Quant Systems"
     ]
   }
 ]

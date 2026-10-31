@@ -1,5 +1,38 @@
 [
   {
+    "id": "5968dc796dee408d5808",
+    "url": "https://www.quantsystems.ca/course/ptm-202503",
+    "sourceTitle": "QuantSystem's Pro Trader Mentoring",
+    "titleZh": "PTM 月課綱｜2025/03",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "qs-ptm-202503"
+      }
+    ],
+    "resourceIds": [
+      "qs-ptm-202503"
+    ],
+    "legacyObservations": [
+      {
+        "id": "qs-ptm-202503",
+        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Ali Moin-Afshari／Quant Systems"
+    ]
+  },
+  {
     "id": "5974855ff7e119d64949",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-trying-to-reach-june-15th-high/",
     "sourceTitle": "E-mini Bulls Trying to Reach June 15th High",
@@ -3165,39 +3198,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-147356",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "63f61589d4b5c378994f",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-profit-taking-at-6000-round-number/",
-    "sourceTitle": "Emini Profit Taking at 6,000 Round Number",
-    "titleZh": "Brad 日內案例｜2024-11-08｜風險與退出",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-222117"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-222117"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-222117",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

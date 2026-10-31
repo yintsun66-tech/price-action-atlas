@@ -1,6 +1,6 @@
 /* Inventory every referenced English source; only reviewed content earns a summary status. */
 const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm'),crypto=require('node:crypto');
-const root=path.resolve(__dirname,'..'),dist=path.join(root,'dist'),date='2026-10-30';
+const root=path.resolve(__dirname,'..'),dist=path.join(root,'dist'),date='2026-10-31';
 const read=f=>JSON.parse(fs.readFileSync(path.join(root,f),'utf8'));
 const write=(f,v)=>{fs.mkdirSync(path.dirname(path.join(dist,f)),{recursive:true});fs.writeFileSync(path.join(dist,f),typeof v==='string'?v:JSON.stringify(v,null,2)+'\n');};
 const ctx={window:{}};vm.runInNewContext(fs.readFileSync(path.join(dist,'data/core.js'),'utf8'),ctx);const core=ctx.window.ATLAS_CORE_DATA;
@@ -10,7 +10,10 @@ const titles=Object.assign({},...fs.readdirSync(__dirname).filter(f=>/^zh-(core|
 const reviews=fs.readdirSync(__dirname).filter(f=>/^zh-core-source-reviews(?:-\d+)?\.json$/.test(f)).sort(require('./source-review-order.cjs')).flatMap(f=>read('scripts/'+f));
 const sources=new Map(),resourceMap={};
 function canonical(value){try{const u=new URL(value);if(u.protocol!=='https:'&&u.protocol!=='http:')return null;u.hash='';for(const k of [...u.searchParams.keys()])if(/^utm_|^(fbclid|gclid)$/.test(k))u.searchParams.delete(k);u.searchParams.sort();return u.href;}catch{return null;}}
-function add(url,loc,initial={}){const c=canonical(url);if(!c)return;const key=crypto.createHash('sha256').update(c).digest('hex').slice(0,20);let s=sources.get(c);if(!s){s={id:key,url:c,sourceTitle:initial.original||initial.title||'來源題名待核對',titleZh:initial.title||'來源待整理',titleCoverage:'existing-label',status:'pending',summaryZh:'',readScope:'尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。',checked:null,inventoried:date,locations:[],resourceIds:[],legacyObservations:[],reviews:[],courseRefs:[]};sources.set(c,s);}s.locations.push(loc);return s;}
+// Rebuilding on a new date must not relabel older sources as newly inventoried.
+const originalInventory=new Map(),priorIndex=path.join(dist,'translation/index.json');
+if(fs.existsSync(priorIndex)){const prior=JSON.parse(fs.readFileSync(priorIndex,'utf8'));for(const chunk of new Set(prior.sources.map(s=>s.chunk)))for(const s of read('dist/translation/'+chunk))if(s.inventoried)originalInventory.set(canonical(s.url),s.inventoried);}
+function add(url,loc,initial={}){const c=canonical(url);if(!c)return;const key=crypto.createHash('sha256').update(c).digest('hex').slice(0,20);let s=sources.get(c);if(!s){s={id:key,url:c,sourceTitle:initial.original||initial.title||'來源題名待核對',titleZh:initial.title||'來源待整理',titleCoverage:'existing-label',status:'pending',summaryZh:'',readScope:'尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。',checked:null,inventoried:originalInventory.get(c)||date,locations:[],resourceIds:[],legacyObservations:[],reviews:[],courseRefs:[]};sources.set(c,s);}s.locations.push(loc);return s;}
 for(const r of english){const s=add(r.url,{kind:'resource',id:r.id},{title:r.title,original:r.original});if(!s)continue;s.resourceIds.push(r.id);resourceMap[r.id]=s.id;s.legacyObservations.push({id:r.id,scope:r.scope,checked:r.checked});if(titles[r.id]){s.titleZh=titles[r.id].titleZh;s.sourceTitle=titles[r.id].originalTitle||s.sourceTitle;s.titleCoverage=titles[r.id].basis?.includes('未推測')?'existing-label':'title-only';s.titleNote=titles[r.id].titleNote||'';}}
 for(const r of english){const s=sources.get(canonical(r.url));if(s){s.authors=s.authors||[];if(!s.authors.includes(r.author))s.authors.push(r.author);}}
 for(const a of articles){for(const [i,s] of (a.sources||[]).entries()){if(/英文/.test(s.language||''))add(s.url,{kind:'article-source',id:a.id,index:i},{title:s.title});}for(const r of a.courseRefs||[])add(r.url,{kind:'course-reference',id:a.id,unit:r.unit},{title:r.topic});}

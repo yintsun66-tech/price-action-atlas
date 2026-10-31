@@ -1,5 +1,38 @@
 [
   {
+    "id": "c8b21726a089bba95c5a",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-increasing-selling-pressure/",
+    "sourceTitle": "Emini Bears Increasing Selling Pressure",
+    "titleZh": "Brad 日內案例｜2024-09-03｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-216299"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-216299"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-216299",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "c8b3b36adf9b0490ac37",
     "url": "https://www.youtube.com/watch?v=0jJZDhvBBY8",
     "sourceTitle": "Emini End of Day Review - Wednesday June 14, 2023 - Brad Wolff",
@@ -3108,39 +3141,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-236227",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "d595ab2d3fae0ac1d782",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-want-to-trap-bulls/",
-    "sourceTitle": "Emini Bears Want to Trap Bulls Buying January 17 High",
-    "titleZh": "Brad 日內案例｜2023-01-24｜反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-169111"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-169111"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-169111",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

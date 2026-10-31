@@ -1,5 +1,38 @@
 [
   {
+    "id": "41fb0be641cea7bd36f8",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-take-partial-profits/",
+    "sourceTitle": "Emini likely bounce as bears take partial profits",
+    "titleZh": "Brad 日內案例｜2022-08-30｜風險與退出",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-159421"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-159421"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-159421",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "4276ff625ab7ccc58b02",
     "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-29e-climaxes/",
     "sourceTitle": "高潮",
@@ -3129,39 +3162,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-260486",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "4e8a196e231c31256efc",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-follow-through-today/",
-    "sourceTitle": "Emini Bulls Want Follow-Through Today",
-    "titleZh": "Brad 日內案例｜2023-12-11｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-195555"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-195555"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-195555",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

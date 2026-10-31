@@ -1,0 +1,153 @@
+[
+  {
+    "resourceId": "source-woods-context-setup-exit",
+    "url": "https://www.tradingsetupsreview.com/price-action-trading-strategies/",
+    "sourceTitle": "Price Action Trading Strategies Beyond Price Patterns",
+    "sourceTitleZh": "完整策略超越型態：行情背景、進場條件與退出計畫",
+    "authorConfirmed": "Galen Woods",
+    "published": "2014-03-27",
+    "dateNoteZh": "頁尾列首次發布 2014-03-27、更新 2022-04-26；本次收錄不表示新發表。",
+    "checked": "2026-10-31",
+    "status": "body-summary",
+    "readScope": "已讀原作者公開文字正文至結語及日期：行情背景、進場條件、退出計畫三部分。未核驗圖像、外連教材或付費課程。",
+    "summaryZh": "Woods 把策略分成方向判斷、進場條件與退出計畫，型態只是其中一部分。他以事後選例說明背景的重要，也承認盤中即時辨識才是難處。進場條件可協助界定停損；退出則同時處理判斷錯誤，以及方向有利時的目標。",
+    "keyPointsZh": [
+      "高低點、趨勢線、支撐阻力等被列為判讀背景的工具，沒有提供可直接套用的通用勝率。",
+      "作者明說範例是事後挑選；不能把圖例的成功視為前瞻或樣本外驗證。"
+    ],
+    "shortExcerpt": {
+      "en": "price patterns form only a part",
+      "zh": "價格型態只構成其中一部分。",
+      "scope": "原文談完整交易策略的組成；沒有否定型態的用途。"
+    },
+    "termNotes": [
+      {
+        "en": "market bias",
+        "zh": "行情方向判斷",
+        "note": "此處指市場偏向上行或下行的背景，不是研究統計中的偏誤。"
+      },
+      {
+        "en": "100% projection",
+        "zh": "百分之百等幅投射",
+        "note": "本文指把先前推進波幅等量延伸的目標距離；百分比不是勝率。"
+      }
+    ],
+    "editorNotesZh": [
+      "機率語氣校註：文中較近支撐阻力是較可能觸及的目標，屬作者的相對、定性判斷；沒有數值估計或實測分母，不能補成固定勝率。"
+    ],
+    "limitsZh": "原作者教學，非獨立績效驗證。站內銷售教材；頁尾將交易圖例列為教育選例，未取得全文翻譯授權。本摘要不驗證方法對微台或 BTC 的效果。",
+    "evidence": {
+      "urls": [
+        "https://www.tradingsetupsreview.com/price-action-trading-strategies/"
+      ],
+      "accessMethod": "實際讀取英文原作者公開文章正文",
+      "scope": "正文三部分、結語、首次發布與更新日期，以及教育用途聲明；未逐項讀取外連、原圖或付費教材。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "brad-post-221578",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-continued-tight-trading-range-behavior/",
+    "sourceTitle": "Emini Continued Tight Trading Range Behavior",
+    "sourceTitleZh": "緊區間裡的強弱訊號：位置與盤中時點一起讀",
+    "authorConfirmed": "Brad（官方公開頁署名）",
+    "published": "2024-10-30",
+    "dateNoteZh": "歷史報告；文中的今天指 2024-10-30，非本次查核日。",
+    "checked": "2026-10-31",
+    "status": "body-summary",
+    "readScope": "已讀日線、截至第十一棒的五分鐘盤中評論、EURUSD 文字及共用圖表說明；未核驗原圖、觀看盤後影片或付費課程。",
+    "summaryZh": "Brad 認為日線仍在緊區間，向上外包棒雖利多，卻迫使多方在區間中段買進。開盤下跌後強力反轉，增加當日呈現區間行為的可能；截至第十一棒，他另提醒多方風險上升，可能出現數段橫向至向下回檔。",
+    "keyPointsZh": [
+      "訊號方向與區間位置一起判斷；偏多結構仍可能伴隨回檔風險。",
+      "盤中評論只到第十一棒；未用影片標題或盤後圖片補寫結局。"
+    ],
+    "shortExcerpt": {
+      "en": "close to 50%",
+      "zh": "接近百分之五十。",
+      "scope": "指當時日線緊區間、突破模式中多空方向各接近 50% 的作者評估；不是進場勝率。"
+    },
+    "termNotes": [
+      {
+        "en": "bottom 1/3",
+        "zh": "區間下方三分之一",
+        "note": "原文指前一日區間內的位置，不是機率。"
+      }
+    ],
+    "editorNotesZh": [
+      "機率校註：50% 是 Brad 當時對方向的主觀近似，沒有實測分母、樣本或估計期間；不能移植成微台或 BTC 的策略勝率。"
+    ],
+    "limitsZh": "歷史評論，非今日交易訊號。未核驗圖表、成交或績效，沒有獨立成效評分；網站提供商業課程及圖庫。Brad 的公開評論不是 Brooks 付費原課逐字稿；未取得全文翻譯授權。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/analysis/emini-continued-tight-trading-range-behavior/"
+      ],
+      "accessMethod": "實際讀取英文官方公開頁正文與作者、發布日期",
+      "scope": "日線、截至第十一棒的五分鐘評論、EURUSD 與圖表用途文字；影片、圖片、付費圖庫及外連未核驗。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "brad-post-250893",
+    "url": "https://www.brookstradingcourse.com/analysis/e-weak-high-1-buy-signal-bar/",
+    "sourceTitle": "E-mini Weak High 1 Buy Signal Bar",
+    "sourceTitleZh": "弱 H1 多頭訊號：下方支撐與反轉機率的限制",
+    "authorConfirmed": "Brad（官方公開頁署名）",
+    "published": "2025-09-26",
+    "dateNoteZh": "歷史報告；時間及第幾棒依原文脈絡，不改寫為今日行情。",
+    "checked": "2026-10-31",
+    "status": "body-summary",
+    "readScope": "已讀日線、截至第四十二棒的五分鐘盤中評論及共用圖表說明；未觀看盤後影片、核驗原圖或將留言視為作者觀點。",
+    "summaryZh": "Brad 把弱 H1 十字買進訊號與均線支撐分開看：訊號上方可能遇賣壓，下方支撐卻限制空方優勢。日線上升通道仍緊，他較傾向橫盤而非立即大反轉。五分鐘圖截至第四十二棒呈現區間行為，阻力處的買進高潮仍附帶回落風險。",
+    "keyPointsZh": [
+      "弱多頭訊號不直接等於高品質空單，必須連同支撐與通道背景判斷。",
+      "盤中第三十三與第四十二棒是觀察時點，不是事後回填的進出場建議。"
+    ],
+    "shortExcerpt": {
+      "en": "a weak doji buy signal bar",
+      "zh": "一根偏弱的十字買進訊號棒。",
+      "scope": "只描述訊號棒品質；必須連同該段的均線支撐與緊密上升通道閱讀。"
+    },
+    "editorNotesZh": [
+      "機率校註：30% 指在漲至 9/22 高點的緊密多頭通道背景下，文中所稱週二走勢導致「主要反轉」的 Brad 主觀估計。原文未給實測樣本、分母或明確預測期限；不是 H1 做多勝率，也不能把其補數當成另一策略的 70% 勝率。"
+    ],
+    "limitsZh": "歷史 E-mini 評論，未回測或核對成交；盤後影片與圖像未核驗，未重建完整逐棒路徑。網站銷售課程及圖庫，沒有獨立成效評分；不是 Brooks 付費原課翻譯，未取得全文翻譯授權。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/analysis/e-weak-high-1-buy-signal-bar/"
+      ],
+      "accessMethod": "實際讀取英文官方公開頁正文與作者、發布日期",
+      "scope": "日線、五分鐘第三十三／四十二棒時點與共用說明；留言不作作者證據，盤後影片及圖像未核驗。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "brad-post-234277",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-wedge-top-then-small-pullback-bear-trend/",
+    "sourceTitle": "Emini Wedge Top Then Small Pullback Bear Trend",
+    "sourceTitleZh": "楔形頂後的小回檔空頭趨勢：僅入口說明，無當日文字報告",
+    "authorConfirmed": "Brad（頁面署名；並註明當日外出）",
+    "published": "2025-04-08",
+    "checked": "2026-10-31",
+    "status": "intro-only",
+    "readScope": "已讀題名、發布日期、「當日沒有文字報告」的說明及共用圖表用途文字；只有影片／圖像入口，未觀看或核驗行情教材。",
+    "summaryZh": "當日公開頁明說 Brad 外出，沒有文字行情報告。可讀內容主要是影片入口與共用圖表用途說明；不能只依楔形頂、小回檔空頭趨勢的題名，補寫走勢、交易機會或結局。",
+    "keyPointsZh": [
+      "僅完成入口說明摘要；影片與圖表的行情內容仍待處理。",
+      "這不是來源取得失敗，也不能記成沒有更新。"
+    ],
+    "shortExcerpt": {
+      "en": "no written report today",
+      "zh": "今天沒有文字報告。",
+      "scope": "今天指原發布日 2025-04-08；本筆不列正文摘要完成。"
+    },
+    "limitsZh": "沒有可據以整理當日走勢的文字正文。影片、圖像及付費內容未核驗；未新增交易機率或績效判斷，未取得全文翻譯授權。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/analysis/emini-wedge-top-then-small-pullback-bear-trend/"
+      ],
+      "accessMethod": "實際讀取英文官方公開入口說明及頁面署名、日期",
+      "scope": "確認無當日文字報告；圖表的共用說明不是當日行情正文，影片與原圖另待處理。"
+    },
+    "courseRefs": []
+  }
+]

@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "items": [
+    {
+      "id": "014e9d23788221e0da5b",
+      "url": "https://www.brookstradingcourse.com/analysis/emini-wedge-top-then-small-pullback-bear-trend/",
+      "resourceIds": [
+        "brad-post-234277"
+      ],
+      "status": "intro-only",
+      "nextAction": "取得實際教材或字幕後才能補內容摘要"
+    },
     {
       "id": "01b130b5c1c1dd84c0bf",
       "url": "https://learn.tradewithme.live/",
@@ -835,15 +844,6 @@
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
     {
-      "id": "009091ec68fa7d31c32e",
-      "url": "https://www.brookstradingcourse.com/analysis/emini-continued-tight-trading-range-behavior/",
-      "resourceIds": [
-        "brad-post-221578"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
       "id": "0092addc24716665cda9",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-exhausted-bulls-pullback-likely-to-7000/",
       "resourceIds": [
@@ -887,15 +887,6 @@
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
     {
-      "id": "011a599353c10464f4ea",
-      "url": "https://www.brookstradingcourse.com/analysis/e-weak-high-1-buy-signal-bar/",
-      "resourceIds": [
-        "brad-post-250893"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
       "id": "012edd7f43701888cf23",
       "url": "https://www.youtube.com/watch?v=S-8zP0KNa6A",
       "resourceIds": [
@@ -909,15 +900,6 @@
       "url": "https://www.brookstradingcourse.com/analysis/emini-likely-rally-200-points/",
       "resourceIds": [
         "brad-post-153807"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
-      "id": "014e9d23788221e0da5b",
-      "url": "https://www.brookstradingcourse.com/analysis/emini-wedge-top-then-small-pullback-bear-trend/",
-      "resourceIds": [
-        "brad-post-234277"
       ],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
@@ -18014,13 +17996,6 @@
       "resourceIds": [
         "brad-post-145684"
       ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
-      "id": "df4df707ac450b2e8e10",
-      "url": "https://www.tradingsetupsreview.com/price-action-trading-strategies/",
-      "resourceIds": [],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
