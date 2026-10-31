@@ -1,8 +1,98 @@
 {
   "version": 1,
-  "checked": "2026-10-30",
+  "checked": "2026-10-31",
   "policy": "編輯選讀順序依本專案學習用途排列，並非獲利或跨平台人氣排名。社群經驗只能作為問題來源。",
   "items": [
+    {
+      "id": "sierra-depth-data-columns",
+      "platform": "Sierra Chart 公開支援論壇",
+      "kind": "community",
+      "language": "en",
+      "author": "User610117 等提問；Sierra Chart Engineering、John - SC Support 官方回覆",
+      "title": "訂單流畫面空白：先查資料深度、欄位與合併設定",
+      "originalTitle": "showing no bid/ask data on DOM or chart",
+      "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=24857",
+      "published": "2017-01-09",
+      "dateNote": "首帖為 2017-01-09；續帖含 2022-07-11、2023-10-09，屬新收錄歷史案例。",
+      "summary": "官方支援先要求確認收到幾檔深度，再檢查顯示欄位。2022 年個案只有一檔，因此沒有掛單增減資訊，但仍應有該檔近期成交量；2023 年另提醒檢查價格檔位合併設定。相似的空白畫面，原因可能不同。",
+      "quote": {
+        "en": "only getting 1 depth level",
+        "zh": "只收到一檔市場深度。",
+        "context": "2022-07-11 官方第 11 則回覆，僅指該使用者個案，不是所有商品的通用限制。"
+      },
+      "access": "已讀單頁第 1–13 則全部公開文字；未核驗附件圖片、外連文件或重現軟體設定。",
+      "translation": "繁中短摘要與必要短句，非全文翻譯。",
+      "review": {
+        "basis": "官方支援回覆可用來辨識功能與資料問題；多個年份的個案分開讀。",
+        "learning": "本站校註：畫面空白先查資料與顯示設定，不能直接推斷沒有交易或流動性。",
+        "limits": "舊版個案，今日介面須另查，未重現結果。軟體與行情為商業服務，簽名亦推廣下單服務；非獲利證明。",
+        "engagement": "未取得獨立評分，不以瀏覽量或 Thank you 數作好評率。"
+      },
+      "figure": {
+        "src": "images/study/flow-depth-table.svg",
+        "alt": "本站原創資料層比較表：掛單深度與成交資料分開檢查",
+        "caption": "本站原創合成比較，非原帖附件、介面截圖或實際行情資料。"
+      },
+      "related": [
+        "flow-depth",
+        "flow-footprint",
+        "school-market-fit"
+      ],
+      "tags": [
+        "訂單流",
+        "資料品質",
+        "深度",
+        "顯示設定"
+      ],
+      "batch": 17,
+      "collected": "2026-10-31",
+      "checked": "2026-10-31"
+    },
+    {
+      "id": "ruben-test-location",
+      "platform": "Trading Wyckoff 原作者公開文章",
+      "kind": "author",
+      "language": "en",
+      "author": "Ruben Villahermosa",
+      "title": "威科夫的測試：先定位，遇到用語差異保留疑問",
+      "originalTitle": "Secondary Test",
+      "url": "https://tradingwyckoff.com/en/secondary-test/",
+      "published": null,
+      "dateNote": "公開正文未列可核對發布日，不以搜尋抓取日或版權年份補填。",
+      "summary": "Villahermosa 區分 A 階段的次級測試與可出現在不同位置的一般測試，重視相對量能與棒幅，也承認區間結局未確認時，標記帶有判斷。正文與問答對位置強弱有用語差異，不能直接合併成固定進場規則。",
+      "quote": {
+        "en": "as an event (depending on location)",
+        "zh": "作為事件，取決於它所在的位置。",
+        "context": "原文區分一般行為與依結構位置辨識的事件；不是只看一根窄棒就認定累積成功。"
+      },
+      "access": "已讀英文公開正文、問答與書籍推廣說明；未核驗原圖、播放西語影片或閱讀完整商業書籍。",
+      "translation": "繁中短摘要與必要短句，非書籍或全文翻譯。",
+      "review": {
+        "basis": "原作者說明可辨識其用語，適合比較結構事件與一般測試；不視為所有威科夫作者的共同規範。",
+        "learning": "先記錄位置、相對量能與後續，再標記事件；遇到來源內部差異要註記。",
+        "limits": "正文將略低於賣出高潮低點的測試偏向賣方，問答另稱極低量情況可顯強；條件與用語尚未調和。網站推廣書籍課程，未提供本摘要可核驗的樣本外績效。",
+        "engagement": "未取得獨立評分；頁面暢銷標籤不是可比人氣或策略成效證據。"
+      },
+      "figure": {
+        "src": "images/study/wyckoff-template-uncertainty-two-paths.svg",
+        "alt": "本站原創合成區間的兩種後續路徑，提醒標記仍待後續確認",
+        "caption": "本站原創合成兩路徑示意，非作者原圖、個股歷史行情或機率統計。"
+      },
+      "related": [
+        "wyckoff-template-uncertainty",
+        "wyckoff-spring",
+        "wyckoff-effort"
+      ],
+      "tags": [
+        "威科夫",
+        "次級測試",
+        "一般測試",
+        "來源校讀"
+      ],
+      "batch": 17,
+      "collected": "2026-10-31",
+      "checked": "2026-10-31"
+    },
     {
       "id": "grimes-trigger-before-opinion",
       "platform": "Adam H. Grimes 原作者部落格",
@@ -819,6 +909,10 @@
   "legacyChecked": "2026-10-28",
   "batches": [
     {
+      "batch": 17,
+      "title": "第十七批｜10.31 資料層與測試用語"
+    },
+    {
       "batch": 14,
       "title": "第十四批｜觸發、反例與方法版本"
     },
@@ -840,20 +934,20 @@
     }
   ],
   "intro": {
-    "heading": "先寫觸發，再檢查它是否成立。",
-    "text": "新收錄兩篇英文舊文：Grimes 的未觸發案例、Woods 對順勢方法的成功與失敗整理。另續讀 PATs 指定問答；方法評級、圖表參數與成效證據分開。",
+    "heading": "先查資料，再解讀畫面；先記位置，再替行情命名。",
+    "text": "新增 Sierra 公開支援串與威科夫測試文章。空白欄位不能直接推論市場行為；來源正文與問答的用語差異，也須保留而非自行調和。兩篇均實讀公開文字，原圖及影片另計。",
     "links": [
       {
-        "id": "louie-wait-cancel",
-        "label": "先寫等待與取消"
+        "id": "flow-depth",
+        "label": "檢查掛單與成交的資料層"
       },
       {
-        "id": "bp2-breakout-followthrough",
-        "label": "再看後續延續"
+        "id": "wyckoff-template-uncertainty",
+        "label": "保留區間的未決路徑"
       },
       {
-        "id": "practice-tick-time-transfer",
-        "label": "檢查市場與圖表差異"
+        "id": "school-market-fit",
+        "label": "回到市場與資料需求"
       }
     ]
   }

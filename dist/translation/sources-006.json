@@ -1,5 +1,61 @@
 [
   {
+    "id": "37bc2406580f30bfbb88",
+    "url": "https://en.wikibooks.org/wiki/Wikibooks:Copyrights",
+    "sourceTitle": "Wikibooks:Copyrights — 文字重用政策",
+    "titleZh": "Wikibooks:Copyrights — 文字重用政策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "licensed-support-resistance",
+        "index": 1
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "37c1f10b8f06c138acc1",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-want-upside-breakout/",
+    "sourceTitle": "E-mini Bulls Want Upside Breakout",
+    "titleZh": "Brad 日內案例｜2026-03-02｜突破與延續",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-264303"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-264303"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-264303",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "37ec594ec3714540aab3",
     "url": "https://www.brookstradingcourse.com/analysis/emini-breakout-above-april-9th-likely/",
     "sourceTitle": "Emini Breakout above April 9th Likely",
@@ -3173,72 +3229,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "41bccfd9178c3d3b7dbc",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-likely-to-oscillate-around-4000/",
-    "sourceTitle": "Emini Likely To Oscillate Around 4,000 For Some Time",
-    "titleZh": "Brad 日內案例｜2022-11-30｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-165589"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-165589"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-165589",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "41eed914892b11e38497",
-    "url": "https://www.youtube.com/watch?v=z5erPaHFufM",
-    "sourceTitle": "Recap for 2010-10-26 part 2 and Outlook for 2010-10-27",
-    "titleZh": "Brooks 共享影片｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-z5erPaHFufM"
-      }
-    ],
-    "resourceIds": [
-      "yt-z5erPaHFufM"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-z5erPaHFufM",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
     ]
   }
 ]

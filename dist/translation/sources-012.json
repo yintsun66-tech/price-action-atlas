@@ -1,5 +1,71 @@
 [
   {
+    "id": "793a71611c2f69ebc69e",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-possible-reversal-down-after-fomc-announcement/",
+    "sourceTitle": "E-mini Possible Reversal Down after FOMC Announcement",
+    "titleZh": "Brad 日內案例｜2025-10-29｜反轉與陷阱",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-253374"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-253374"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-253374",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "796b4af8a05f4503aea8",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-tight-bull-channel-3/",
+    "sourceTitle": "Emini Tight Bull Channel",
+    "titleZh": "Brad 日內案例｜2024-12-06｜區間與通道",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-224320"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-224320"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-224320",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "79747b6d32b01656ad27",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-likely-to-get-pullback-after-failed-breakout-of-6700/",
     "sourceTitle": "E-Mini Likely to Get Pullback After Failed Breakout of 6,700",
@@ -3111,61 +3177,6 @@
     "courseRefs": [],
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "86a404d41e115330f7e7",
-    "url": "https://www.brookstradingcourse.com/trade-price-action/video-38b-trading-mtr-tops/",
-    "sourceTitle": "交易頂部反轉",
-    "titleZh": "交易頂部反轉",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "交易頂部反轉"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
-  },
-  {
-    "id": "86aa03ae694788a64273",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-possible-measured-move-up/",
-    "sourceTitle": "Emini possible measured move up and test of April 18 low",
-    "titleZh": "Brad 日內案例｜2022-06-01｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-152753"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-152753"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-152753",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

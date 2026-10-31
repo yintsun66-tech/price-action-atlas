@@ -1,5 +1,71 @@
 [
   {
+    "id": "149f7df851c6e49ffcb5",
+    "url": "https://www.quantsystems.ca/course/ptm-202311",
+    "sourceTitle": "QuantSystem's Pro Trader Mentoring",
+    "titleZh": "PTM 月課綱｜2023/11",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "qs-ptm-202311"
+      }
+    ],
+    "resourceIds": [
+      "qs-ptm-202311"
+    ],
+    "legacyObservations": [
+      {
+        "id": "qs-ptm-202311",
+        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Ali Moin-Afshari／Quant Systems"
+    ]
+  },
+  {
+    "id": "14a6eccb35b2bcc4ed7e",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-first-reversal-down-probably-minor/",
+    "sourceTitle": "Emini First Reversal Down Probably Minor",
+    "titleZh": "Brad 日內案例｜2023-03-07｜反轉與陷阱",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-173108"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-173108"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-173108",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "14b415c0b71d07f92877",
     "url": "https://www.youtube.com/watch?v=Mh3cA-LAj0Q",
     "sourceTitle": "Market Recap 2010-01-26",
@@ -3111,64 +3177,5 @@
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
     ]
-  },
-  {
-    "id": "20bd8b4727dfd412d1fd",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-strong-reversal-up-on-daily/",
-    "sourceTitle": "Emini Strong Reversal up on Daily",
-    "titleZh": "Brad 日內案例｜2025-01-17｜反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-227761"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-227761"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-227761",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "20c7ca51da0aa8bdbae6",
-    "url": "https://www.goodreads.com/shelf/show/technical-analysis",
-    "sourceTitle": "Technical Analysis of the Financial Markets",
-    "titleZh": "金融市場技術分析（上、下）",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "book-review",
-        "id": "murphy"
-      },
-      {
-        "kind": "book-review",
-        "id": "nison"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   }
 ]

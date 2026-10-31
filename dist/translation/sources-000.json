@@ -3443,6 +3443,81 @@
     "editorNotesZh": []
   },
   {
+    "id": "8e9c0e792e0eb7573cd6",
+    "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=24857",
+    "sourceTitle": "showing no bid/ask data on DOM or chart",
+    "titleZh": "訂單流畫面空白：資料與顯示設定分開查",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "繁中摘要、英文短句、原創搭配圖與評價界線集中於新文選讀卡。官方功能說明與交易成效分開。",
+    "readScope": "已讀單頁第 1–13 則全部公開文字，未核驗附件、外連文件或重現軟體設定。",
+    "checked": "2026-10-31",
+    "inventoried": "2026-10-31",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "sierra-depth-data-columns"
+      },
+      {
+        "kind": "review",
+        "id": "source-sierra-depth-data-columns"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-sierra-depth-data-columns",
+        "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=24857",
+        "sourceTitle": "showing no bid/ask data on DOM or chart",
+        "sourceTitleZh": "訂單流畫面空白：資料與顯示設定分開查",
+        "authorConfirmed": "Sierra Chart Engineering、John - SC Support（官方回覆）；User610117 等（提問）",
+        "published": "2017-01-09",
+        "dateNoteZh": "另有 2022-07-11、2023-10-09 續帖，非本日新發表。",
+        "checked": "2026-10-31",
+        "status": "body-summary",
+        "readScope": "已讀單頁第 1–13 則全部公開文字，未核驗附件、外連文件或重現軟體設定。",
+        "summaryZh": "繁中摘要、英文短句、原創搭配圖與評價界線集中於新文選讀卡。官方功能說明與交易成效分開。",
+        "keyPointsZh": [],
+        "limitsZh": "舊版支援個案，今日介面須另查；未取得全文翻譯授權，沒有獨立績效評分。",
+        "evidence": {
+          "urls": [
+            "https://www.sierrachart.com/SupportBoard.php?ThreadID=24857"
+          ],
+          "accessMethod": "實際讀取英文公開社群串及官方支援回覆",
+          "scope": "第 1–13 則全部公開文字、作者角色與帖文日期；附件、外連及今日設定未核驗。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "User610117 等提問；Sierra Chart Engineering、John - SC Support 官方回覆"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "官方支援先要求確認收到幾檔深度，再檢查顯示欄位。2022 年個案只有一檔，因此沒有掛單增減資訊，但仍應有該檔近期成交量；2023 年另提醒檢查價格檔位合併設定。相似的空白畫面，原因可能不同。",
+      "readScope": "已讀單頁第 1–13 則全部公開文字；未核驗附件圖片、外連文件或重現軟體設定。",
+      "checked": "2026-10-31",
+      "translationScope": "繁中短摘要與必要短句，非全文翻譯。",
+      "cardId": "sierra-depth-data-columns"
+    },
+    "published": "2017-01-09",
+    "dateNoteZh": "另有 2022-07-11、2023-10-09 續帖，非本日新發表。",
+    "keyPointsZh": [],
+    "limitsZh": "舊版支援個案，今日介面須另查；未取得全文翻譯授權，沒有獨立績效評分。",
+    "evidence": {
+      "urls": [
+        "https://www.sierrachart.com/SupportBoard.php?ThreadID=24857"
+      ],
+      "accessMethod": "實際讀取英文公開社群串及官方支援回覆",
+      "scope": "第 1–13 則全部公開文字、作者角色與帖文日期；附件、外連及今日設定未核驗。"
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Sierra Chart Engineering、John - SC Support（官方回覆）；User610117 等（提問）"
+  },
+  {
     "id": "92ad506a14adec2eb335",
     "url": "https://www.brookstradingcourse.com/blog/ask-al/",
     "sourceTitle": "Ask Al Q&A Transcripts Archives",
@@ -4122,6 +4197,80 @@
     "shortExcerpt": null,
     "termNotes": [],
     "editorNotesZh": []
+  },
+  {
+    "id": "b03916999b1ca2ea4a2b",
+    "url": "https://tradingwyckoff.com/en/secondary-test/",
+    "sourceTitle": "Secondary Test",
+    "titleZh": "威科夫測試的結構位置與來源差異",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "繁中摘要、必要短句與原創搭配圖集中於新文選讀；正文摘要完成不代表方法已驗證或內部用語差異已解決。",
+    "readScope": "已讀英文公開正文、問答及書籍推廣說明；未核驗圖像、影片或商業書籍，正文與問答用語差異另註。",
+    "checked": "2026-10-31",
+    "inventoried": "2026-10-31",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "ruben-test-location"
+      },
+      {
+        "kind": "review",
+        "id": "source-ruben-test-location"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-ruben-test-location",
+        "url": "https://tradingwyckoff.com/en/secondary-test/",
+        "sourceTitle": "Secondary Test",
+        "sourceTitleZh": "威科夫測試的結構位置與來源差異",
+        "authorConfirmed": "Ruben Villahermosa",
+        "published": null,
+        "checked": "2026-10-31",
+        "status": "body-summary",
+        "readScope": "已讀英文公開正文、問答及書籍推廣說明；未核驗圖像、影片或商業書籍，正文與問答用語差異另註。",
+        "summaryZh": "繁中摘要、必要短句與原創搭配圖集中於新文選讀；正文摘要完成不代表方法已驗證或內部用語差異已解決。",
+        "keyPointsZh": [],
+        "limitsZh": "來源自身用語與商業推廣分列；未取得全文翻譯授權，不把書籍宣傳當策略績效。",
+        "evidence": {
+          "urls": [
+            "https://tradingwyckoff.com/en/secondary-test/"
+          ],
+          "accessMethod": "實際讀取英文原作者公開文章與問答",
+          "scope": "次級測試、B 階段、一般測試、位置與問答；未重製原圖、觀看影片或閱讀完整書籍。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "Ruben Villahermosa"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "Villahermosa 區分 A 階段的次級測試與可出現在不同位置的一般測試，重視相對量能與棒幅，也承認區間結局未確認時，標記帶有判斷。正文與問答對位置強弱有用語差異，不能直接合併成固定進場規則。",
+      "readScope": "已讀英文公開正文、問答與書籍推廣說明；未核驗原圖、播放西語影片或閱讀完整商業書籍。",
+      "checked": "2026-10-31",
+      "translationScope": "繁中短摘要與必要短句，非書籍或全文翻譯。",
+      "cardId": "ruben-test-location"
+    },
+    "published": null,
+    "dateNoteZh": "",
+    "keyPointsZh": [],
+    "limitsZh": "來源自身用語與商業推廣分列；未取得全文翻譯授權，不把書籍宣傳當策略績效。",
+    "evidence": {
+      "urls": [
+        "https://tradingwyckoff.com/en/secondary-test/"
+      ],
+      "accessMethod": "實際讀取英文原作者公開文章與問答",
+      "scope": "次級測試、B 階段、一般測試、位置與問答；未重製原圖、觀看影片或閱讀完整書籍。"
+    },
+    "shortExcerpt": null,
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Ruben Villahermosa"
   },
   {
     "id": "ba75a0a9c3bb01bd0e3b",
@@ -7071,74 +7220,6 @@
     "legacyObservations": [
       {
         "id": "yt-0cWzlanuaYc",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "75704a7e6357da984b9c",
-    "url": "https://www.youtube.com/watch?v=n9psGn-iWtQ",
-    "sourceTitle": "Inside Bars in Trading Ranges",
-    "titleZh": "交易區間中的內包棒",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-n9psGn-iWtQ"
-      }
-    ],
-    "resourceIds": [
-      "yt-n9psGn-iWtQ"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-n9psGn-iWtQ",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "80a92c8e4e23e9adc99c",
-    "url": "https://www.youtube.com/watch?v=WaJ1OHhgfyI",
-    "sourceTitle": "The Three Possible Outcomes",
-    "titleZh": "三種可能的結果",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-WaJ1OHhgfyI"
-      }
-    ],
-    "resourceIds": [
-      "yt-WaJ1OHhgfyI"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-WaJ1OHhgfyI",
         "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
         "checked": "2026-10-22"
       }

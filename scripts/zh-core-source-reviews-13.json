@@ -1,0 +1,35 @@
+[
+  {
+    "resourceId": "source-sierra-depth-data-columns",
+    "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=24857",
+    "sourceTitle": "showing no bid/ask data on DOM or chart",
+    "sourceTitleZh": "訂單流畫面空白：資料與顯示設定分開查",
+    "authorConfirmed": "Sierra Chart Engineering、John - SC Support（官方回覆）；User610117 等（提問）",
+    "published": "2017-01-09",
+    "dateNoteZh": "另有 2022-07-11、2023-10-09 續帖，非本日新發表。",
+    "checked": "2026-10-31",
+    "status": "body-summary",
+    "readScope": "已讀單頁第 1–13 則全部公開文字，未核驗附件、外連文件或重現軟體設定。",
+    "summaryZh": "繁中摘要、英文短句、原創搭配圖與評價界線集中於新文選讀卡。官方功能說明與交易成效分開。",
+    "keyPointsZh": [],
+    "limitsZh": "舊版支援個案，今日介面須另查；未取得全文翻譯授權，沒有獨立績效評分。",
+    "evidence": {"urls":["https://www.sierrachart.com/SupportBoard.php?ThreadID=24857"],"accessMethod":"實際讀取英文公開社群串及官方支援回覆","scope":"第 1–13 則全部公開文字、作者角色與帖文日期；附件、外連及今日設定未核驗。"},
+    "courseRefs": []
+  },
+  {
+    "resourceId": "source-ruben-test-location",
+    "url": "https://tradingwyckoff.com/en/secondary-test/",
+    "sourceTitle": "Secondary Test",
+    "sourceTitleZh": "威科夫測試的結構位置與來源差異",
+    "authorConfirmed": "Ruben Villahermosa",
+    "published": null,
+    "checked": "2026-10-31",
+    "status": "body-summary",
+    "readScope": "已讀英文公開正文、問答及書籍推廣說明；未核驗圖像、影片或商業書籍，正文與問答用語差異另註。",
+    "summaryZh": "繁中摘要、必要短句與原創搭配圖集中於新文選讀；正文摘要完成不代表方法已驗證或內部用語差異已解決。",
+    "keyPointsZh": [],
+    "limitsZh": "來源自身用語與商業推廣分列；未取得全文翻譯授權，不把書籍宣傳當策略績效。",
+    "evidence": {"urls":["https://tradingwyckoff.com/en/secondary-test/"],"accessMethod":"實際讀取英文原作者公開文章與問答","scope":"次級測試、B 階段、一般測試、位置與問答；未重製原圖、觀看影片或閱讀完整書籍。"},
+    "courseRefs": []
+  }
+]

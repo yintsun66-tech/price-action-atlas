@@ -70,3 +70,6 @@
 
 
 第十六批（2026-10-31）續譯三篇既有英文正文，另確認一篇只有入口說明而無當日文字報告。作者檔 `zh-core-source-reviews-12.json`，範圍與限制見 `docs/translation-batch16.md`。重建 `build-translation-batch16.cjs` → 翻譯清單 → 中文呈現；驗證為 workspace `tools/check_translation_batch16*.cjs`。翻譯清單更新日可前進，舊來源首次盤點日與原查核紀錄不變。正文摘要累計 31，介紹 14，待讀 2288；其餘狀態與 2359 個網址總數不變。
+
+
+第十七批（2026-10-31）每日精選新增 Sierra 公開支援串與威科夫測試文章，社群卡共 23，英文來源 2361，正文摘要 33。來源用語差異、未採候選與未核驗範圍詳見 `docs/content-batch17.md`。重建 `build-content-batch17.cjs` → 翻譯清單 → 中文呈現；驗證使用 workspace `tools/check_content_batch17*.cjs`。維持大字、既有原創圖、文章及筆記相容，不另建排程。

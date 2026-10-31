@@ -1,5 +1,60 @@
 [
   {
+    "id": "c8526d433d5be37f8a1f",
+    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-21b-reversals/",
+    "sourceTitle": "反轉",
+    "titleZh": "反轉",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "反轉"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "c8724feee25e6e7eacb3",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-strong-reversal-up-after-test-of-6400/",
+    "sourceTitle": "E-mini Strong Reversal Up After Test of 6,400",
+    "titleZh": "Brad 日內案例｜2026-04-01｜反轉與陷阱",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-266396"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-266396"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-266396",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "c8b21726a089bba95c5a",
     "url": "https://www.brookstradingcourse.com/analysis/emini-bears-increasing-selling-pressure/",
     "sourceTitle": "Emini Bears Increasing Selling Pressure",
@@ -3075,72 +3130,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-259031",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "d4e9d77a01c7082e614b",
-    "url": "https://www.quantsystems.ca/course/ptm-202310",
-    "sourceTitle": "QuantSystem's Pro Trader Mentoring",
-    "titleZh": "PTM 月課綱｜2023/10",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "qs-ptm-202310"
-      }
-    ],
-    "resourceIds": [
-      "qs-ptm-202310"
-    ],
-    "legacyObservations": [
-      {
-        "id": "qs-ptm-202310",
-        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Ali Moin-Afshari／Quant Systems"
-    ]
-  },
-  {
-    "id": "d4fa995358e4252a45cf",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-weak-high-1-sellers-above/",
-    "sourceTitle": "Emini Weak High 1 Sellers Above",
-    "titleZh": "Brad 日內案例｜2025-05-08｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-236227"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-236227"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-236227",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

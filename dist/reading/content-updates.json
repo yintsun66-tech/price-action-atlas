@@ -2,6 +2,50 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch17-20261031",
+      "collected": "2026-10-31",
+      "updated": "2026-10-31",
+      "timezone": "Asia/Taipei",
+      "description": "每日精選兩篇去重後的新來源，附繁中短摘要、必要短句與既有原創圖；記錄來源自身用語差異。",
+      "sources": [
+        "sierra-depth-data-columns",
+        "ruben-test-location"
+      ],
+      "articles": [],
+      "decisions": [
+        {
+          "source": "showing no bid/ask data on DOM or chart",
+          "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=24857",
+          "status": "新收錄正文選讀",
+          "reason": "已讀單頁第 1–13 則全部公開文字；未核驗附件圖片、外連文件或重現軟體設定。"
+        },
+        {
+          "source": "Secondary Test",
+          "url": "https://tradingwyckoff.com/en/secondary-test/",
+          "status": "新收錄正文選讀",
+          "reason": "已讀英文公開正文、問答與書籍推廣說明；未核驗原圖、播放西語影片或閱讀完整商業書籍。"
+        },
+        {
+          "source": "繁中 ICT 腳本、PTT 訂單流與 SMC 候選",
+          "status": "候選待讀，未列本批完成",
+          "reason": "搜尋取得繁中原帖及腳本說明入口，尚未實讀與核驗程式或授權，保留為後續研究，不以搜尋片段加入教材。"
+        },
+        {
+          "source": "相近名稱的第三方 Sierra 指標販售頁、書籍 PDF 與 Reddit 摘要",
+          "status": "本批未採",
+          "reason": "第三方商業頁不視為官方支援；未下載授權不明書籍，未將搜尋片段或自報指標成效列為正文證據。"
+        }
+      ],
+      "notes": [
+        "新來源 canonical URL 與既有清單去重，舊卡日期與物件保留。",
+        "Sierra 第 1–13 則為完整公開文字範圍，附件及外連未核驗。",
+        "威科夫原文正文與 FAQ 對位置強弱的用語差異保留；沒有替來源調和或填入勝率。",
+        "兩張圖均沿用本站原創合成示意，不增加圖數，不冒稱原作者圖例。",
+        "無新增 Brooks 課程歸屬；不加入社群、不發帖、不交易、不另建排程。",
+        "正文摘要新增兩筆，不等於全站翻譯完成。"
+      ]
+    },
+    {
       "id": "translation-batch16-20261031",
       "collected": "2026-10-31",
       "updated": "2026-10-31",

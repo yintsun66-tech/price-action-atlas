@@ -1,5 +1,60 @@
 [
   {
+    "id": "9253225b52813b499b2c",
+    "url": "https://www.youtube.com/watch?v=ArzcxF88L2g",
+    "sourceTitle": "Emini End of Day Review - Thursday June 20, 2024 - Brad Wolff",
+    "titleZh": "Brad 公開影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-ArzcxF88L2g"
+      }
+    ],
+    "resourceIds": [
+      "yt-ArzcxF88L2g"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-ArzcxF88L2g",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "92593d7c123abe08b70e",
+    "url": "https://www.wiley.com/en-ie/the-art-and-science-of-technical-analysis-market-structure-price-action-and-trading-strategies-p-9781118115121",
+    "sourceTitle": "The Art and Science of Technical Analysis",
+    "titleZh": "關鍵買賣點：突破實戰交易的科學與藝術",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "book",
+        "id": "grimes"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "92768b400669714b4892",
     "url": "https://www.brookstradingcourse.com/analysis/emini-bears-follow-through-selling/",
     "sourceTitle": "Emini Bears Follow-through Selling Wanted Today",
@@ -3103,73 +3158,6 @@
     "courseRefs": [],
     "authors": [
       "Ali Moin-Afshari／Quant Systems"
-    ]
-  },
-  {
-    "id": "9e0625784501f8936ef9",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-disappointment-soon/",
-    "sourceTitle": "Emini Bulls Disappointment Likely Soon",
-    "titleZh": "Brad 日內案例｜2022-11-08｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-164143"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-164143"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-164143",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "9e2513ff1b5a34dd6ab5",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-want-test-of-all-time-high-2/",
-    "sourceTitle": "E-mini Bulls Want Test of All-Time High",
-    "titleZh": "E-mini：多方希望測試歷史高點",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-272100"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-272100"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-272100",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]
