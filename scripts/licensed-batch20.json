@@ -1,0 +1,33 @@
+{
+  "checked": "2026-10-31",
+  "source": "https://en.wikibooks.org/wiki/Technical_Analysis/Patterns",
+  "sourceRevision": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&oldid=4351762",
+  "author": "Wikibooks contributors",
+  "license": "CC BY-SA 4.0",
+  "licensePolicy": "https://en.wikibooks.org/w/index.php?title=Wikibooks:Copyrights&oldid=4622060",
+  "access": "實讀公開原頁正文及頁尾，固定版本標記為 4351762；核對 Wikibooks 文字署名、改作及相同授權政策。未重用來源圖片。",
+  "support": [
+    {"kind":"heading","en":"Support and Resistance","zh":"支撐與壓力：原章第二個同名小節"},
+    {"kind":"paragraph","en":"What most often stands out are price extremes, both high and low. At those junctures, one set of market participants will succeed in driving the prices in the other direction. It is often the inflection point at which expectations change on the underlying asset. These levels present the technicians with the first level of information - support and resistance.","zh":"最常引人注意的是價格極值，包括高點與低點。在那些時刻，其中一方市場參與者會成功地把價格推往另一個方向。這往往是人們對標的資產的預期發生改變的轉折點。這些價位為技術分析者提供第一層資訊——支撐與壓力。"},
+    {"kind":"paragraph","en":"In the simplest terms, support is a price level at which a asset experiences buying and downward motion is halted, whereas resistance is a level at which one would expect profit taking and selling pressure, halting upward momentum. These prices can be determined by a number of factors, but most often produce a price extreme visible on the chart.","zh":"用最簡單的說法，支撐是資產出現買盤、下行走勢停下來的價位；壓力則是人們預期會出現獲利了結與賣壓、使上行動能停下來的價位。這些價位可能由多種因素決定，但最常形成圖表上可見的價格極值。"},
+    {"kind":"paragraph","en":"- insert charts with ring high / low here -","zh":"— 在此插入圈出高點／低點的圖表 —"},
+    {"kind":"paragraph","en":"Some of the most powerful pieces of trading information are revealed when a price spike is retested. This is a bold statement, since it implies that tops and bottoms aren't ever really formed in isolation, but instead an attempt is made to revisit a previous price level. Market technicians make careful observations of how traders behave around previous support and/or resistance levels. If the price fails to break below a previous spike low, we can say that the support level has been confirmed.","zh":"當價格尖峰受到重新測試時，會顯露出一些最有力的交易資訊。這是一項大膽的說法，因為它意味著頂與底其實從來不是孤立形成的，而是會出現重訪先前價位的嘗試。技術分析者會仔細觀察交易者在先前支撐及／或壓力價位附近的行為。如果價格未能跌破先前的尖峰低點，我們可以說，該支撐價位已獲確認。"},
+    {"kind":"paragraph","en":"The same principal applies to resistance if rising prices fail to penetrate above a previous spike high.","zh":"如果上漲中的價格未能穿越先前的尖峰高點，同樣的原理也適用於壓力。"},
+    {"kind":"paragraph","en":"- charts with retest / support / resistance here -","zh":"— 在此放置重測／支撐／壓力的圖表 —"}
+  ],
+  "patterns": [
+    {"kind":"heading","en":"Patterns","zh":"型態：原章父節總論"},
+    {"kind":"paragraph","en":"Much in the way that stars are strung together in different ways across the sky to create constellations, price spikes are examined to 'paint a picture' of a known configuration. Some of the most common patterns are channels and triangles. In both of these cases, a minimum of four points are required - two spike highs and two spike lows.","zh":"如同天空中的星星以不同方式連起來形成星座，人們會檢視價格尖峰，為已知的結構「勾勒圖像」。一些最常見的型態是通道與三角形。在這兩種情況中，都至少需要四個點——兩個尖峰高點與兩個尖峰低點。"},
+    {"kind":"paragraph","en":"The lines which connect the extremes are extended to the right (where no price history exists), so we have some notion of where prices should be at some time in the future. In some cases, the lines are almost horizontal, which implies a trading range. Parallel lines which slant up or down indicate a trend direction within a channel.","zh":"連接極值的線會向右延伸（延伸到尚無歷史價格的地方），讓我們對未來某個時點價格應該位於何處有個概念。在某些情況下，這些線幾乎是水平的，暗示一個交易區間。向上或向下傾斜的平行線，則指出通道內的趨勢方向。"},
+    {"kind":"paragraph","en":"If lines converge, it is considered a triangle, and there are special cases for each of the various slant directions - symmetrical, flat-topped or flat-bottomed, ascending or descending triangles, and rising or falling wedges.","zh":"如果線條收斂，就被視為三角形；各種傾斜方向又有特殊情形——對稱、平頂或平底、上升或下降三角形，以及上升或下降楔形。"},
+    {"kind":"paragraph","en":"- kiwi examples of theoretical stock movements -","zh":"— 理論股票走勢的 kiwi 範例 —"},
+    {"kind":"paragraph","en":"If prices break above or below the bounds of either channels or triangles, then it can be said that one set of market participants have overwhelmed the other side. Traders call these breakouts and breakdowns. These breakouts or breakdowns are confirmed if there is more than usual volumes on that day. (Since at times due to some sporadic trades also give out small spikes on the charts.) These are particularly relevant if accompanied by an increase in volume.","zh":"如果價格突破通道或三角形的上方或下方邊界，那麼可以說，其中一方市場參與者已壓倒另一方。交易者把這些稱為向上突破與向下突破。如果當天的成交量高於平常，這些向上突破或向下突破就獲得確認。（因為有時零星成交也會在圖上造成小尖峰。）若伴隨成交量增加，這些突破尤其值得注意。"},
+    {"kind":"paragraph","en":"In essence, it gives credibility to the market direction and signifies that prices are ready to change their behavior. If prices are heading up, we say the price action is bullish. Tumbling lower is classified as bearish. In either case, the market is tipping its hat in a particular direction as investors, traders, and financial institutions pile onto the winning side.","zh":"本質上，這使市場方向更具可信度，並表示價格準備改變其行為。如果價格正在上行，我們就說價格行為偏多。大幅走低則被歸為偏空。無論哪種情況，隨著投資者、交易者與金融機構湧向佔優勢的一方，市場正向某個特定方向示意。"},
+    {"kind":"paragraph","en":"This behavior is the reason that trading desks chant 'the trend is your friend', in other words, don't get in the way of a mob rushing in either direction - join the winning side and trade in the direction of the trend.","zh":"這種行為正是交易部門高喊「趨勢是你的朋友」的原因。換句話說，不要擋在朝任何一個方向蜂擁而去的人群面前——加入佔優勢的一方，順著趨勢方向交易。"},
+    {"kind":"paragraph","en":"These patterns can be classified in two types.","zh":"這些型態可以分為兩種類型。"}
+  ],
+  "candlestick": [
+    {"kind":"heading","en":"Candlestick Pattern","zh":"K 線型態"},
+    {"kind":"paragraph","en":"There are patterns identified on candlestick charts which analyze the market forces getting balanced and can indicate start of reversal. There is good amount of information on wikipedia:candlestick pattern.","zh":"K 線圖上可以辨識出一些型態，用來分析市場力量逐漸取得平衡的情況，並且可能指出反轉的開始。維基百科的 K 線型態頁面有相當多的相關資訊。"}
+  ]
+}

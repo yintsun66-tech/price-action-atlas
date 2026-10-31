@@ -1,17 +1,62 @@
 {
   "id": "licensed-continuation-reversal",
   "title": "延續與反轉型態：逐句翻譯 suggest 的原意",
-  "subtitle": "兩個完整短小節與原有清單；名稱不是已確認的方向。",
+  "subtitle": "保留舊譯，補上型態總論、成交量確認說法與 K 線型態小節。",
   "topic": "基礎",
-  "minutes": 10,
-  "summary": "完整翻譯開放教材列出的延續及反轉型態，保留兩份清單與原文拼字。最關鍵的字是 suggest：圖形提示某種可能，不能改成確認一定發生。新增導讀與圖解以相同已知起點、不同後續路徑示範這個差別，不替任何名稱指定勝率。",
+  "minutes": 17,
+  "summary": "完整對照 Patterns 父節文字及其延續、反轉、K 線三個子小節。從連線、通道與三角形，讀到突破與成交量的作者說法；保留 suggest、can 等語氣，不把清單或「確認」當成已驗證交易策略。",
   "keyPoints": [
-    "兩個短小節都完整翻入，並保留清單順序。",
+    "Patterns 父節與延續、反轉、K 線三個子小節已完整對照；不是整章。",
     "suggest 譯為暗示，不強化成保證或已證實。",
     "原文 Trenline 疑為 Trendline，英文照錄、中文校對註說明。",
     "雙頂、頭肩等名稱不是當下即可知道的完整交易規則。"
   ],
   "translation": [
+    {
+      "kind": "heading",
+      "en": "Patterns",
+      "zh": "型態：原章父節總論"
+    },
+    {
+      "kind": "paragraph",
+      "en": "Much in the way that stars are strung together in different ways across the sky to create constellations, price spikes are examined to 'paint a picture' of a known configuration. Some of the most common patterns are channels and triangles. In both of these cases, a minimum of four points are required - two spike highs and two spike lows.",
+      "zh": "如同天空中的星星以不同方式連起來形成星座，人們會檢視價格尖峰，為已知的結構「勾勒圖像」。一些最常見的型態是通道與三角形。在這兩種情況中，都至少需要四個點——兩個尖峰高點與兩個尖峰低點。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "The lines which connect the extremes are extended to the right (where no price history exists), so we have some notion of where prices should be at some time in the future. In some cases, the lines are almost horizontal, which implies a trading range. Parallel lines which slant up or down indicate a trend direction within a channel.",
+      "zh": "連接極值的線會向右延伸（延伸到尚無歷史價格的地方），讓我們對未來某個時點價格應該位於何處有個概念。在某些情況下，這些線幾乎是水平的，暗示一個交易區間。向上或向下傾斜的平行線，則指出通道內的趨勢方向。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "If lines converge, it is considered a triangle, and there are special cases for each of the various slant directions - symmetrical, flat-topped or flat-bottomed, ascending or descending triangles, and rising or falling wedges.",
+      "zh": "如果線條收斂，就被視為三角形；各種傾斜方向又有特殊情形——對稱、平頂或平底、上升或下降三角形，以及上升或下降楔形。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "- kiwi examples of theoretical stock movements -",
+      "zh": "— 理論股票走勢的 kiwi 範例 —"
+    },
+    {
+      "kind": "paragraph",
+      "en": "If prices break above or below the bounds of either channels or triangles, then it can be said that one set of market participants have overwhelmed the other side. Traders call these breakouts and breakdowns. These breakouts or breakdowns are confirmed if there is more than usual volumes on that day. (Since at times due to some sporadic trades also give out small spikes on the charts.) These are particularly relevant if accompanied by an increase in volume.",
+      "zh": "如果價格突破通道或三角形的上方或下方邊界，那麼可以說，其中一方市場參與者已壓倒另一方。交易者把這些稱為向上突破與向下突破。如果當天的成交量高於平常，這些向上突破或向下突破就獲得確認。（因為有時零星成交也會在圖上造成小尖峰。）若伴隨成交量增加，這些突破尤其值得注意。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "In essence, it gives credibility to the market direction and signifies that prices are ready to change their behavior. If prices are heading up, we say the price action is bullish. Tumbling lower is classified as bearish. In either case, the market is tipping its hat in a particular direction as investors, traders, and financial institutions pile onto the winning side.",
+      "zh": "本質上，這使市場方向更具可信度，並表示價格準備改變其行為。如果價格正在上行，我們就說價格行為偏多。大幅走低則被歸為偏空。無論哪種情況，隨著投資者、交易者與金融機構湧向佔優勢的一方，市場正向某個特定方向示意。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "This behavior is the reason that trading desks chant 'the trend is your friend', in other words, don't get in the way of a mob rushing in either direction - join the winning side and trade in the direction of the trend.",
+      "zh": "這種行為正是交易部門高喊「趨勢是你的朋友」的原因。換句話說，不要擋在朝任何一個方向蜂擁而去的人群面前——加入佔優勢的一方，順著趨勢方向交易。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "These patterns can be classified in two types.",
+      "zh": "這些型態可以分為兩種類型。"
+    },
     {
       "kind": "heading",
       "en": "Continuation pattern.",
@@ -79,6 +124,16 @@
         "雙重底／多重底",
         "倒頭肩形態"
       ]
+    },
+    {
+      "kind": "heading",
+      "en": "Candlestick Pattern",
+      "zh": "K 線型態"
+    },
+    {
+      "kind": "paragraph",
+      "en": "There are patterns identified on candlestick charts which analyze the market forces getting balanced and can indicate start of reversal. There is good amount of information on wikipedia:candlestick pattern.",
+      "zh": "K 線圖上可以辨識出一些型態，用來分析市場力量逐漸取得平衡的情況，並且可能指出反轉的開始。維基百科的 K 線型態頁面有相當多的相關資訊。"
     }
   ],
   "sections": [
@@ -98,6 +153,13 @@
       "heading": "三、中文翻譯不要偷偷加上確認",
       "paragraphs": [
         "「暗示會延續」與「確認一定延續」的意思不同。先保留原文 suggest 的限制，再另寫自己的觀察、觸發與失效條件。若建立形態研究，還需保存失敗與未決案例，才能回答新資料中條件是否有用；這部分是本站建議，不屬於原文清單。"
+      ]
+    },
+    {
+      "heading": "四、四個點、成交量與反轉：仍缺研究定義",
+      "paragraphs": [
+        "父節說通道與三角形至少需要兩個尖峰高點、兩個尖峰低點；沒有定義轉折確認或何時畫線，向右延伸不代表右側結果已知。原文另把當天高於平常的成交量稱為突破確認，卻未定義「平常」的期間或數值門檻。這些說法須與可重現規則、成本及樣本驗證分開。",
+        "K 線子節只說可能指出反轉開始，並連向維基百科。這次只翻譯本節文字，沒有接續翻譯或驗證該外鏈，也沒有把股票的日成交量說法直接套到微台或 BTC。既有合成圖展示相同起點的不同後續，不能替原作者提供勝率。"
       ]
     }
   ],
@@ -128,7 +190,7 @@
   "level": "基礎",
   "batch": 5,
   "mode": "licensed-section",
-  "revision": "2026-10-28",
+  "revision": "2026-10-31",
   "sourceSummary": "已讀 Wikibooks Technical Analysis／Patterns 的公開文字，頁尾固定版本 4351762。原文屬社群教材概念敘述，未提供微台／BTC 回測。",
   "exercise": {
     "title": "先對照原文，再記錄自己的解讀",
@@ -149,9 +211,9 @@
       "url": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&oldid=4351762",
       "author": "Wikibooks contributors",
       "language": "英文",
-      "checked": "2026-10-28",
-      "access": "已讀公開正文，頁尾固定版本為 4351762；固定版本入口保留供核對。",
-      "scope": "Continuation pattern. 與 Reversal patterns 兩個完整子小節，包括正文、清單與兩個上／下趨勢分組標籤；不含 Patterns 父節正文或 Candlestick Pattern。",
+      "checked": "2026-10-31",
+      "access": "實讀公開原頁正文及頁尾，固定版本標記為 4351762；核對 Wikibooks 文字署名、改作及相同授權政策。未重用來源圖片。",
+      "scope": "Patterns 父節七段正文與一行製圖占位文字，以及 Continuation pattern.、Reversal patterns、Candlestick Pattern 三個完整子小節（含原清單與分組標籤）。不含章首導言、章首型態對照表、其他主節、導覽或來源圖片；不是整章。",
       "license": "CC BY-SA 4.0；本批僅使用文字，未重用來源媒體。"
     },
     {
@@ -159,29 +221,33 @@
       "url": "https://en.wikibooks.org/w/index.php?title=Wikibooks:Copyrights&oldid=4622060",
       "author": "Wikibooks contributors",
       "language": "英文",
-      "checked": "2026-10-28",
-      "access": "已核對公開政策的署名、改作及相同授權條件。",
+      "checked": "2026-10-31",
+      "access": "實讀公開文字重用政策，核對署名、改作、相同授權及媒體另查條件。",
       "scope": "僅用於核對文字授權，不視為所有圖片的授權。",
       "license": "政策說明；相關教材文字採 CC BY-SA 4.0。"
     }
   ],
   "courseRefs": [],
-  "translationStatus": "已授權完整節譯；僅限本頁明列範圍。",
+  "translationStatus": "已授權指定範圍完整翻譯並保留英文；範圍依本頁明列，非整章或經驗證交易系統。",
   "provenance": "依原頁公開文字逐段翻譯，保留段落及清單順序。原文拼字、語氣及資料限制另列校對註；導讀、合成圖、練習與測驗為本站新增。這是 Wikibooks 社群教材，不是 Brooks 官方課程或已驗證交易系統。",
-  "translationTitle": "延續與反轉型態：逐句翻譯 suggest 的原意",
-  "translationScope": "Continuation pattern. 與 Reversal patterns 兩個完整子小節，包括正文、清單與兩個上／下趨勢分組標籤；不含 Patterns 父節正文或 Candlestick Pattern。",
+  "translationTitle": "型態總論、延續、反轉與 K 線：指定範圍完整對照",
+  "translationScope": "Patterns 父節七段正文與一行製圖占位文字，以及 Continuation pattern.、Reversal patterns、Candlestick Pattern 三個完整子小節（含原清單與分組標籤）。不含章首導言、章首型態對照表、其他主節、導覽或來源圖片；不是整章。",
   "translationNotes": [
     "原文 suggest 控制後面的 would／will 敘述，整段屬型態所暗示的方向，並非作者提供的必然價格預測。",
     "原文 Trenline 疑為 Trendline 的拼字錯誤。英文保留 Trenline，中文按可能原意譯「趨勢線」，此為編輯判讀。",
     "原文 moving moving 重複，中文合併為「正在」。Head and shoulder 依原文字面譯「頭肩形態」；上升趨勢分組暗示常見頭肩頂用法，但不額外假稱原文明寫 top。",
-    "原文沒有指定如何確認峰谷、何時成立、進出場或成本，也沒有本專案可使用的量化績效。"
+    "原文沒有指定如何確認峰谷、何時成立、進出場或成本，也沒有本專案可使用的量化績效。",
+    "新補 Patterns 父節中的 can be said、implies 與 K 線子節中的 can indicate，分別保留「可以說」「暗示」「可能指出」；沒有增補成功率。",
+    "成交量「確認」為原文主張；原文未附比較基期、統計或跨市場檢驗，本站不將它改為實證結論。",
+    "kiwi 只出現在製圖占位文字，原文沒有說明含義；照錄 kiwi，不擅自譯成紐西蘭市場或鳥類。",
+    "K 線小節末句的 wikipedia:candlestick pattern 是來源外鏈標籤；中文按其意譯，英文標籤照錄。該外鏈內容未在本批閱讀或翻譯。"
   ],
   "license": {
     "id": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "原文：Wikibooks contributors，Technical Analysis／Patterns，固定版本 4351762。繁體中文翻譯、導讀、合成圖與練習：Price Action Atlas，AI 協助，2026-10-28。本篇譯文及新增內容依 CC BY-SA 4.0 提供。",
-    "scope": "Continuation pattern. 與 Reversal patterns 兩個完整子小節，包括正文、清單與兩個上／下趨勢分組標籤；不含 Patterns 父節正文或 Candlestick Pattern。 本篇新增說明、練習與圖解亦依相同授權。",
-    "changes": "新增繁體中文翻譯、校對說明、合成圖與練習；保留英文對照，未使用來源圖片。",
+    "attribution": "原文：Wikibooks contributors，Technical Analysis／Patterns，固定版本 4351762。繁體中文翻譯、導讀、合成圖與練習：Price Action Atlas，AI 協助，2026-10-28。本篇譯文及新增內容依 CC BY-SA 4.0 提供。 2026-10-31 第二十批續譯與校對：Price Action Atlas，AI 協助。",
+    "scope": "Patterns 父節七段正文與一行製圖占位文字，以及 Continuation pattern.、Reversal patterns、Candlestick Pattern 三個完整子小節（含原清單與分組標籤）。不含章首導言、章首型態對照表、其他主節、導覽或來源圖片；不是整章。 本篇新增導讀、校註、合成圖與練習亦依相同授權。",
+    "changes": "保留所有舊中英對照區塊，新增明列範圍之完整段落及占位文字，補上摘要、來源與語氣校註；未重用來源圖片。",
     "sourceRevision": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&oldid=4351762",
     "history": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&action=history"
   },
@@ -215,6 +281,14 @@
       ],
       "answerIndex": 2,
       "explanation": "保留可核對原貌，並把編輯判斷明確標出。"
+    }
+  ],
+  "translationRevisions": [
+    {
+      "id": "licensed-batch20",
+      "date": "2026-10-31",
+      "addedParagraphs": 8,
+      "addedPlaceholders": 1
     }
   ]
 }

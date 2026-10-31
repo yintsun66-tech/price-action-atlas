@@ -2,6 +2,42 @@
   "version": 1,
   "batches": [
     {
+      "id": "translation-batch20-20261031",
+      "collected": "2026-10-31",
+      "updated": "2026-10-31",
+      "timezone": "Asia/Taipei",
+      "description": "續譯兩個既有授權單元：第二個支撐壓力小節、Patterns 父節與 K 線小節；併入前批尚未發布內容。",
+      "articles": [
+        "licensed-support-resistance",
+        "licensed-continuation-reversal"
+      ],
+      "sources": [
+        "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&oldid=4351762",
+        "https://en.wikibooks.org/w/index.php?title=Wikibooks:Copyrights&oldid=4622060"
+      ],
+      "decisions": [
+        {
+          "source": "Wikibooks Patterns 4351762",
+          "url": "https://en.wikibooks.org/wiki/Technical_Analysis/Patterns",
+          "status": "指定範圍完整翻譯",
+          "reason": "實讀正文及版本頁尾；CC BY-SA 4.0，保留英文、舊譯與署名。新增十二段正文及三行占位文字，沒有重用來源圖。"
+        },
+        {
+          "source": "wikipedia:candlestick pattern",
+          "url": "https://en.wikipedia.org/wiki/Candlestick_pattern",
+          "status": "未接續處理",
+          "reason": "僅是原小節外鏈標籤，本批未讀其內容，不列摘要完成。"
+        }
+      ],
+      "notes": [
+        "原文往往、暗示、可以說及可能等語氣保留；確認不是量化勝率。",
+        "兩個同名支撐小節不相鄰，明列各自順序，不偽裝為連續原文。",
+        "所有舊譯區塊與 62 個閱讀 ID 保留，其他 60 篇文章、圖像、筆記及權限不變。",
+        "來源整頁全文仍未完成；沒有因多譯小節而升級全文完成狀態。",
+        "目標已由使用者清除，本批依新的繼續翻譯請求執行，未另建目標或排程。"
+      ]
+    },
+    {
       "id": "translation-batch19-20261031",
       "collected": "2026-10-31",
       "updated": "2026-10-31",

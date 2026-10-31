@@ -6443,15 +6443,15 @@
       },
       {
         "articleId": "licensed-continuation-reversal",
-        "scope": "Continuation pattern. 與 Reversal patterns 兩個完整子小節，包括正文、清單與兩個上／下趨勢分組標籤；不含 Patterns 父節正文或 Candlestick Pattern。",
+        "scope": "Patterns 父節七段正文與一行製圖占位文字，以及 Continuation pattern.、Reversal patterns、Candlestick Pattern 三個完整子小節（含原清單與分組標籤）。不含章首導言、章首型態對照表、其他主節、導覽或來源圖片；不是整章。",
         "license": "CC BY-SA 4.0",
-        "revision": "2026-10-28"
+        "revision": "2026-10-31"
       },
       {
         "articleId": "licensed-support-resistance",
-        "scope": "明確範圍：Trends 標題前，第一個 Support and Resistance 小節的三段完整節譯。不含後面同名小節、圖片或全章。",
+        "scope": "原章兩個 Support and Resistance 同名小節：第一節三段正文，第二節四段正文與兩行製圖占位文字，依各節原順序完整對照。不含其餘小節、導覽或來源圖片；不是整章。",
         "license": "CC BY-SA 4.0",
-        "revision": "2026-10-27"
+        "revision": "2026-10-31"
       }
     ]
   },

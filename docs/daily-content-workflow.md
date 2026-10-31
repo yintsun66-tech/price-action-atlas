@@ -78,4 +78,6 @@
 第十八批（2026-10-31）擴充兩個既有授權單元，新增 Up-Trend 全小節與 Targets 第三段，共七句逐句中英對照；保持原有譯文區塊與筆記 ID。作者檔 `licensed-batch18.json`，重建 `build-translation-batch18.cjs` → 翻譯清單 → 中文呈現。驗證使用 workspace `tools/check_translation_batch18*.cjs`，必須明列兩個預期文章變更例外，檢查其餘 60 篇及舊中英區塊不變；不得移除原有回歸斷言。固定入口失敗與原頁版本核對、授權範圍詳見 `docs/translation-batch18.md`。
 
 
-第十九批（2026-10-31）目標 active 後恢復實質翻譯。Targets 小節四段正文與兩行占位文字已完整對照；兩筆核心入口只列介紹，正文摘要仍 33，介紹 16，待讀 2286。新增獨立全文進度 `translation/fulltext-progress.json` 與明確來源完成稽核，完整範圍見 `docs/goal-translation-contract.md`，批次見 `docs/translation-batch19.md`。重建 `build-translation-batch19.cjs` → 翻譯清單（含全文進度）→ 中文呈現；驗證 workspace `tools/check_translation_batch19*.cjs`。不要將恢復狀態或完整小節當成全站達成，目標仍進行中。
+第十九批（2026-10-31）目標 active 後恢復實質翻譯。Targets 小節四段正文與兩行占位文字已完整對照；兩筆核心入口只列介紹，正文摘要仍 33，介紹 16，待讀 2286。新增獨立全文進度 `translation/fulltext-progress.json` 與明確來源完成稽核，完整範圍見 `docs/goal-translation-contract.md`，批次見 `docs/translation-batch19.md`。重建 `build-translation-batch19.cjs` → 翻譯清單（含全文進度）→ 中文呈現；驗證 workspace `tools/check_translation_batch19*.cjs`。不要將恢復狀態或完整小節當成全站達成。其後使用者已清除該目標，不能自行重建。
+
+第二十批（2026-10-31）依新的繼續翻譯要求，擴充支撐壓力與延續反轉兩個既有授權單元，新增十二段正文及三行占位文字。未改其餘 60 篇、所有舊對照區塊、筆記及圖。重建 `build-translation-batch20.cjs` → 翻譯清單 → 中文呈現；驗證 workspace `tools/check_translation_batch20*.cjs`。完整範圍及手機截圖驗證限制見 `docs/translation-batch20.md`；發布一併包含此前尚未上線的第十九批，維持私人權限。
