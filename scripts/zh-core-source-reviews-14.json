@@ -1,0 +1,36 @@
+[
+  {
+    "resourceId": "discovery-rayner-teo-1",
+    "url": "https://www.tradingwithrayner.com/academy/price-action/",
+    "sourceTitle": "Price Action (Free)",
+    "sourceTitleZh": "Rayner 價格行為：十八課公開課綱",
+    "authorConfirmed": "TradingwithRayner（官方課程頁；所讀頁面未列個人署名）",
+    "published": null,
+    "checked": "2026-10-31",
+    "status": "intro-only",
+    "readScope": "已讀公開介紹、十八個課名與程度標記；未讀個別課程、取得字幕或觀看嵌入影片。",
+    "summaryZh": "公開課綱列十八課、程度中階，涵蓋突破、回檔、支撐壓力、趨勢、反轉及 K 線型態。這個入口可協助安排主題，尚不能視為十八課教材內容摘要或已觀看影片。",
+    "keyPointsZh": ["十八課是課綱數量，不是本站已完成觀看或驗證的數量。","第五課題名的三種反轉策略是內容數量，不是已核驗的規則或成效。"],
+    "shortExcerpt": {"en":"18 Lessons Intermediate","zh":"十八課，程度為中階。","scope":"官方數量與程度標記，不是學習成效評分。"},
+    "limitsZh": "免費標示不構成全文翻譯或重刊授權；課名的專業、祕訣為提供者用語，未取得獨立成效評分。頁尾登入提示未阻止本次讀取上述文字，未將它列取得失敗。",
+    "evidence": {"urls":["https://www.tradingwithrayner.com/academy/price-action/"],"accessMethod":"實際讀取英文官方課綱公開文字","scope":"介紹、十八個課名與中階標記；課程、影片及字幕尚未取得。"},
+    "courseRefs": []
+  },
+  {
+    "resourceId": "discovery-tradertom-1",
+    "url": "https://tradertom.com/live-trading/",
+    "sourceTitle": "Live Trading",
+    "sourceTitleZh": "TraderTom 直播入口：頻道用途與帳戶條件",
+    "authorConfirmed": "TraderTom（官方第一人稱介紹，所讀頁面未列完整姓名）",
+    "published": null,
+    "checked": "2026-10-31",
+    "status": "intro-only",
+    "readScope": "已讀四個頻道的用途、免費說明、第四頻道帳戶條件及 YouTube 入口；未加入 Telegram、觀看直播、核驗成交或送出聯絡表單。",
+    "summaryZh": "官方頁列四個免費頻道，分別為日內、較不活躍的波段、研究與交易設定，以及圖表交易軟體群。第四個另要求 TD365.com 的 Cloud Trader 帳戶。這是入口與條件介紹，未觀看直播或驗證交易紀錄。",
+    "keyPointsZh": ["免費說明須連同第四頻道的帳戶條件閱讀。","入口清單與交易成效證據分開，未取得完整成交及成本紀錄。"],
+    "shortExcerpt": {"en":"you need a “Cloud Trader” account","zh":"你需要一個「Cloud Trader」帳戶。","scope":"只指第四個圖表交易頻道，不能套到全部頻道。"},
+    "limitsZh": "未核驗外部帳戶資格、券商或商業關係；未取得獨立成效評分或全文翻譯授權。免費入口不代表可複製的交易優勢，也不構成加入頻道的授權。",
+    "evidence": {"urls":["https://tradertom.com/live-trading/"],"accessMethod":"實際讀取英文官方直播入口文字","scope":"四頻道用途、條件與入口；未進入或加入頻道、觀看影音或聯絡作者。"},
+    "courseRefs": []
+  }
+]

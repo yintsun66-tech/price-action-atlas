@@ -38,6 +38,24 @@
       "nextAction": "取得實際教材或字幕後才能補內容摘要"
     },
     {
+      "id": "1e8139377f4da17b8960",
+      "url": "https://tradertom.com/live-trading/",
+      "resourceIds": [
+        "discovery-tradertom-1"
+      ],
+      "status": "intro-only",
+      "nextAction": "取得實際教材或字幕後才能補內容摘要"
+    },
+    {
+      "id": "25c39b123b2e9a03543f",
+      "url": "https://www.tradingwithrayner.com/academy/price-action/",
+      "resourceIds": [
+        "discovery-rayner-teo-1"
+      ],
+      "status": "intro-only",
+      "nextAction": "取得實際教材或字幕後才能補內容摘要"
+    },
+    {
       "id": "30afa9388c801eb3c98e",
       "url": "https://www.youtube.com/watch?v=qEM1w6UqVDo",
       "resourceIds": [
@@ -380,24 +398,6 @@
       "url": "https://www.youtube.com/watch?v=R4fRHOEbgUg",
       "resourceIds": [
         "yt-R4fRHOEbgUg"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
-      "id": "1e8139377f4da17b8960",
-      "url": "https://tradertom.com/live-trading/",
-      "resourceIds": [
-        "discovery-tradertom-1"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
-      "id": "25c39b123b2e9a03543f",
-      "url": "https://www.tradingwithrayner.com/academy/price-action/",
-      "resourceIds": [
-        "discovery-rayner-teo-1"
       ],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"

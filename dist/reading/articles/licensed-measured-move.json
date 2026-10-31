@@ -2,21 +2,21 @@
   "batch": 7,
   "language": "英文",
   "level": "基礎",
-  "minutes": 12,
+  "minutes": 14,
   "mode": "licensed-section",
   "revision": "2026-10-31",
   "courseRefs": [],
-  "translationStatus": "已授權選段完整逐句翻譯，保留英文原文；範圍以本頁說明為準，非整章翻譯。",
+  "translationStatus": "Targets 小節文字已完整翻譯並保留英文；圖片未重用，其他小節依各自範圍另列。",
   "provenance": "所選原段完整保留，繁中譯文逐段對照。導讀、合成圖、算例及練習為本站新增；原文與新增內容依所列授權提供，沒有使用來源圖片。",
   "id": "licensed-measured-move",
   "category": "授權節譯",
   "topic": "進出場",
   "title": "量度漲跌幅目標：英文選段與繁中逐段對照",
-  "subtitle": "量度目標與新增泡沫討論第一段；原文逐句保留，校註另列。",
-  "summary": "本篇保留量度目標的原有節譯，新增泡沫討論的第一段四句對照。作者的結構判斷與心理描述照譯，沒有把它們改成已驗證的泡沫門檻或交易規則。",
+  "subtitle": "Targets 完整小節文字：量度目標、泡沫與較低高點，原文逐句對照。",
+  "summary": "本篇完成 Targets 小節四段正文與兩行占位文字的中英對照。量度目標、泡沫與退出敘述依原文保留，另列未經驗證的判斷與用語限制。",
   "sourceSummary": "原文以整理前的價格移動幅度作為突破後目標的參考，並以股票先漲5的例子說明；沒有給出回補或目標達成率。",
   "keyPoints": [
-    "完整翻譯指定前三段正文與中間一行占位文字，不是整個 Targets 小節。",
+    "Targets 四段正文與兩行占位文字已完整對照；不代表整個來源章節完成。",
     "can be considered 保留為「可以視為」，不改為必然。",
     "probably 未在這份教材指定數值，不套入 Brooks 的詞彙約定。",
     "原文、譯文及本篇新增內容均保留 CC BY-SA 4.0。"
@@ -25,7 +25,7 @@
     {
       "heading": "一、範圍先寫清楚",
       "paragraphs": [
-        "對照頁保留 Targets 前兩段及後面一行占位文字，再續譯泡沫討論的第一段；最後一段邊際買方討論尚未翻入。這是 Wikibooks 社群教材，不是 Brooks 官方教材；一般英文語氣不直接承接 Brooks 的機率詞彙定義。"
+        "本頁依原順序保留 Targets 的四段正文與兩行製圖占位文字，第三、第四段拆成逐句中英對照。這是 Wikibooks 社群教材，不是 Brooks 官方課程；原文語氣沒有自動對應的數值機率。"
       ]
     },
     {
@@ -44,6 +44,12 @@
       "heading": "四、比喻照譯，判斷依據另外查核",
       "paragraphs": [
         "泡沫段落是原作者的觀點。對數刻度與重力的用語並未在此轉成可運算判準；恐懼、貪婪等描述，也沒有附行為資料或數值機率。譯文保留原意，不能據此替今日行情下診斷。"
+      ]
+    },
+    {
+      "heading": "五、邊際買方是作者敘述，並非可直接交易的門檻",
+      "paragraphs": [
+        "新增末段依原文描述邊際買方、首次修正與較低高點。原文沒有逐筆委託、明確確認方法或交易成本；不能僅由成交有對手方，就推斷價格何時必然崩跌。"
       ]
     }
   ],
@@ -86,7 +92,7 @@
       "language": "英文",
       "checked": "2026-10-31",
       "access": "已讀公開原頁對應文字，頁尾固定版本仍為 4351762；固定版本入口本次工具取得失敗，改由原頁版本標記核對。",
-      "scope": "Targets 前三段正文，以及第二段後的一行製圖占位文字；第三段拆為四句對照。不含最後一段邊際買方討論及末尾占位文字，非全小節或全章。",
+      "scope": "Targets 完整小節的四段正文與兩行製圖占位文字；第三、第四段採逐句對照。不含其他小節、導覽或來源圖片，也不是整章翻譯。",
       "license": "CC BY-SA 4.0；依 Wikibooks 文字重用政策。"
     },
     {
@@ -100,14 +106,16 @@
       "license": "政策說明。"
     }
   ],
-  "translationTitle": "Targets 選段／目標",
-  "translationScope": "Targets 前三段正文，以及第二段後的一行製圖占位文字；第三段拆為四句對照。不含最後一段邊際買方討論及末尾占位文字，非全小節或全章。",
+  "translationTitle": "Targets／目標：完整小節文字對照",
+  "translationScope": "Targets 完整小節的四段正文與兩行製圖占位文字；第三、第四段採逐句對照。不含其他小節、導覽或來源圖片，也不是整章翻譯。",
   "translationNotes": [
     "good market structure 譯為「良好的市場結構」，保留原作者的評價，不當作已經驗證的判定。",
     "can be considered 與 probably 分別保留為「可以視為」及「很可能」；這份來源沒有數值機率。",
     "原文 +5 是價格幅度例，不是5%、5R或建議停損。",
     "原前兩段後的一行是製圖占位文字；本站另繪合成圖，沒有冒充原圖。",
-    "新增第三段逐句保留作者評價；「不受重力與對數刻度約束」是原文欠精確的比喻，非本頁採用的數學門檻。末句指缺乏恐懼且貪婪到極致，並非同時缺乏兩者。"
+    "新增第三段逐句保留作者評價；「不受重力與對數刻度約束」是原文欠精確的比喻，非本頁採用的數學門檻。末句指缺乏恐懼且貪婪到極致，並非同時缺乏兩者。",
+    "末段的會退出、無法回到高點與價格崩跌，均為原作者的敘事判斷；照譯不代表本站已驗證或提供今日交易建議。",
+    "air lifts 為原頁占位文字，未附明確定義；暫譯「凌空拉升」，英文保留供核對，不另造型態條件。"
   ],
   "translation": [
     {
@@ -144,14 +152,34 @@
       "kind": "paragraph",
       "en": "Psychologically, this is complete lack of fear and greed at its best without any consideration of reasonable expectations.",
       "zh": "從心理層面看，這是完全缺乏恐懼、貪婪發揮到極致，卻絲毫不考慮合理預期的狀態。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "In the end, for each seller there must be a buyer, and once the final marginal buyer is in, there is nothing left to buoy prices.",
+      "zh": "歸根究柢，每一位賣方都必須有一位買方相對應；一旦最後一位邊際買方進場，就再無力量支撐價格。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "A technical trader will look for the first correction after the meteoric rise to get out; after a pullback the rebound cannot reach the lofty price experienced at the peak, the first lower-high.",
+      "zh": "技術交易者會尋找暴漲後的第一次修正來退出；回檔後的反彈無法到達高峰時的高價，這便是第一個較低高點。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "Prices collapse in the sheer panic that ensues as behavior shifts to fear of losing.",
+      "zh": "當行為轉向害怕損失時，價格在隨之而來的強烈恐慌之下崩跌。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "- examples of poor market structure / air lifts -",
+      "zh": "— 不良市場結構／凌空拉升的範例 —"
     }
   ],
   "license": {
     "id": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "原文：Wikibooks contributors，Technical Analysis／Patterns，版本4351762。繁體中文翻譯、導讀、合成圖與練習：Price Action Atlas，AI協助，2026-10-29；本篇譯文及新增內容以CC BY-SA 4.0提供。 原版節譯保留；2026-10-31 續譯與分句校對：Price Action Atlas，AI 協助。",
-    "scope": "Targets 前三段正文，以及第二段後的一行製圖占位文字；第三段拆為四句對照。不含最後一段邊際買方討論及末尾占位文字，非全小節或全章。 本篇新增導讀、校註、合成圖與練習亦依相同授權。",
-    "changes": "原有節譯保留，新增明列選段的繁中逐句對照與校註；英文原句照錄並分句排版，未重用來源圖片。",
+    "attribution": "原文：Wikibooks contributors，Technical Analysis／Patterns，版本4351762。繁體中文翻譯、導讀、合成圖與練習：Price Action Atlas，AI協助，2026-10-29；本篇譯文及新增內容以CC BY-SA 4.0提供。 原版節譯保留；2026-10-31 續譯與分句校對：Price Action Atlas，AI 協助。 2026-10-31 Targets 文字補完及校對：Price Action Atlas，AI 協助。",
+    "scope": "Targets 完整小節的四段正文與兩行製圖占位文字；第三、第四段採逐句對照。不含其他小節、導覽或來源圖片，也不是整章翻譯。 本篇新增導讀、校註、合成圖與練習依相同授權。",
+    "changes": "原有中英對照保留，補完末段三句及末尾占位文字；新增範圍與用語校註，未重用來源圖片。",
     "sourceRevision": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&oldid=4351762",
     "history": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&action=history"
   },
@@ -181,10 +209,10 @@
       "choices": [
         "全部Targets",
         "整本Technical Analysis",
-        "Targets 前三段正文與中間一行占位文字"
+        "Targets 小節四段正文與兩行占位文字"
       ],
       "answerIndex": 2,
-      "explanation": "新增泡沫討論第一段，仍未翻入最後一段邊際買方討論或整章。"
+      "explanation": "本頁已補完 Targets 小節文字，其他小節與來源圖片仍按各自範圍另列。"
     }
   ],
   "translationRevisions": [
@@ -194,6 +222,13 @@
       "note": "2026-10-31 授權選段續譯",
       "addedSection": "Targets — third prose paragraph",
       "addedSentences": 4
+    },
+    {
+      "id": "licensed-batch19",
+      "date": "2026-10-31",
+      "addedSection": "Targets — final prose paragraph and final placeholder",
+      "addedSentences": 3,
+      "addedPlaceholders": 1
     }
   ]
 }

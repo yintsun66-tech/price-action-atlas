@@ -2,6 +2,47 @@
   "version": 1,
   "batches": [
     {
+      "id": "translation-batch19-20261031",
+      "collected": "2026-10-31",
+      "updated": "2026-10-31",
+      "timezone": "Asia/Taipei",
+      "description": "恢復持續目標，完成 Targets 小節文字，續讀兩筆核心介紹，另建立全文與摘要獨立進度。",
+      "articles": [
+        "licensed-measured-move"
+      ],
+      "sources": [
+        "Wikibooks Patterns 4351762",
+        "discovery-rayner-teo-1",
+        "discovery-tradertom-1"
+      ],
+      "decisions": [
+        {
+          "source": "Targets 最後一段與末尾占位文字",
+          "url": "https://en.wikibooks.org/wiki/Technical_Analysis/Patterns",
+          "status": "授權範圍補完",
+          "reason": "實讀原頁末段，固定版本仍 4351762，保留英文及作者判斷。"
+        },
+        {
+          "source": "Rayner Price Action (Free)",
+          "url": "https://www.tradingwithrayner.com/academy/price-action/",
+          "status": "核心介紹摘要",
+          "reason": "只取得課綱及介紹，未讀十八課內容或觀看影片。"
+        },
+        {
+          "source": "TraderTom Live Trading",
+          "url": "https://tradertom.com/live-trading/",
+          "status": "核心介紹摘要",
+          "reason": "只讀頻道用途與條件；未加入頻道、觀看直播或核驗成交。"
+        }
+      ],
+      "notes": [
+        "原 62 閱讀 ID、筆記鍵與其餘 61 篇文章保留；末段補完不重寫舊譯文。",
+        "新增全文進度清單：完整小節與來源整頁全文分開，正文摘要不得自動轉全文完成。",
+        "恢復指令不是目標完成條件；保留全站原文繁中化的原始範圍與未完成工作。",
+        "免費入口不代表全文重刊授權；權利尚未核對者保持未核對，不自行推定已獲授權。"
+      ]
+    },
+    {
       "id": "translation-batch18-20261031",
       "collected": "2026-10-31",
       "updated": "2026-10-31",

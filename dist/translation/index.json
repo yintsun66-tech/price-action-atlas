@@ -7,11 +7,11 @@
   "resourceRecords": 2110,
   "statusCounts": {
     "body-summary": 33,
-    "intro-only": 14,
+    "intro-only": 16,
     "unavailable": 3,
     "excerpt-summary": 21,
     "licensed-excerpt": 2,
-    "pending": 2288
+    "pending": 2286
   },
   "siteArticles": 62,
   "articleAudit": "reading/text-audit.json",
@@ -201,6 +201,21 @@
       ]
     },
     {
+      "id": "1e8139377f4da17b8960",
+      "titleZh": "TraderTom 直播入口：頻道用途與帳戶條件",
+      "sourceTitle": "Live Trading",
+      "status": "intro-only",
+      "resourceIds": [
+        "discovery-tradertom-1"
+      ],
+      "chunk": "sources-000.json",
+      "url": "https://tradertom.com/live-trading/",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "Tom Hougaard／TraderTom"
+      ]
+    },
+    {
       "id": "2336d48eb1d5ca4e3c46",
       "titleZh": "初學者應使用觸發式委託進場（作者建議）",
       "sourceTitle": "Beginners should enter with stop orders",
@@ -213,6 +228,21 @@
       "titleCoverage": "reviewed-title",
       "authors": [
         "Al Brooks"
+      ]
+    },
+    {
+      "id": "25c39b123b2e9a03543f",
+      "titleZh": "Rayner 價格行為：十八課公開課綱",
+      "sourceTitle": "Price Action (Free)",
+      "status": "intro-only",
+      "resourceIds": [
+        "discovery-rayner-teo-1"
+      ],
+      "chunk": "sources-000.json",
+      "url": "https://www.tradingwithrayner.com/academy/price-action/",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "Rayner Teo／TradingwithRayner"
       ]
     },
     {
@@ -1135,36 +1165,6 @@
       "titleCoverage": "title-only",
       "authors": [
         "Brad Wolff"
-      ]
-    },
-    {
-      "id": "1e8139377f4da17b8960",
-      "titleZh": "TraderTom 即時交易：官方免費頻道連結",
-      "sourceTitle": "TraderTom Live Trading：官方免費頻道連結",
-      "status": "pending",
-      "resourceIds": [
-        "discovery-tradertom-1"
-      ],
-      "chunk": "sources-000.json",
-      "url": "https://tradertom.com/live-trading/",
-      "titleCoverage": "existing-label",
-      "authors": [
-        "Tom Hougaard／TraderTom"
-      ]
-    },
-    {
-      "id": "25c39b123b2e9a03543f",
-      "titleZh": "價格行為（免費）：十八課免費課綱",
-      "sourceTitle": "Price Action (Free)：18 課免費課綱",
-      "status": "pending",
-      "resourceIds": [
-        "discovery-rayner-teo-1"
-      ],
-      "chunk": "sources-000.json",
-      "url": "https://www.tradingwithrayner.com/academy/price-action/",
-      "titleCoverage": "existing-label",
-      "authors": [
-        "Rayner Teo／TradingwithRayner"
       ]
     },
     {
@@ -34247,5 +34247,11 @@
       "titleCoverage": "existing-label",
       "authors": []
     }
-  ]
+  ],
+  "fullTextProgress": {
+    "completeSources": 0,
+    "excerptSources": 2,
+    "notAssessedSources": 2359,
+    "bilingualUnits": 6
+  }
 }
