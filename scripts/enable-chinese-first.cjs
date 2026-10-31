@@ -47,3 +47,5 @@ if(!html.includes('reader-glossary.js'))html=html.replace('<script defer src="re
 write('index.html',html);
 for(const f of fs.readdirSync(path.join(dist,'images/study')).filter(f=>f.endsWith('.svg'))){let s=read('images/study/'+f);s=s.replace('>Delta<','>成交量差<').replace('>95% Wilson <','>95% 威爾遜區間 <').replace('>01  Brooks PA<','>01 Brooks 價格行為<').replace('>03  ICT<','>03 ICT 方法<');write('images/study/'+f,s);}
 console.log('Chinese-first presentation enabled');
+// Keep the installed navigation maps and their reader asset version after later translation builds.
+if(fs.existsSync(path.join(dist,'site-maps.js')))require('./build-site-maps.cjs');

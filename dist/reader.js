@@ -54,6 +54,7 @@
   }
   let learningPaths=[], activeLearningPath="start";
   function renderLearningRoutes() {
+    globalThis.AtlasSiteMaps?.update(manifest,state.records);
     const P=globalThis.AtlasLearningPaths;
     if(!P||!learningPaths.length)return;
     const picker=q("#reading-path-select");
@@ -230,8 +231,9 @@
       else q("#reading-route-grid").innerHTML=(data.paths||[]).map(p=>'<div><strong>'+esc(p.title)+'</strong><p>'+esc(p.description)+'</p>'+p.ids.filter(id=>ids.includes(id)).map((id,i)=>'<a href="#read/'+id+'">'+(i+1)+'．'+esc(manifest.find(a=>a.id===id).title)+' →</a>').join('<br>')+'</div>').join("");
       manifestReady=true;q("#reader-start").href="#read/"+(learningPaths[0]?.steps[0]?.id||ids[0]);renderCatalog();route();
       // Catalog routes add height above this section. Resolve its initial deep link afterwards.
-      if(["#probabilities","#schools","#community"].includes(location.hash)||location.hash.startsWith("#community-"))q(location.hash)?.scrollIntoView({block:"start"});
+      if(["#probabilities","#schools","#community","#site-map","#learning-map","#map","#plan","#journal"].includes(location.hash)||location.hash.startsWith("#community-"))q(location.hash)?.scrollIntoView({block:"start"});
     }catch(e){
+      globalThis.AtlasSiteMaps?.unavailable();
       notice("閱讀目錄暫時無法載入："+e.message);
       q("#reading-grid").innerHTML='<div class="empty-state">請重新整理後再試。你仍可使用原有學習計畫與教材連結。</div>';
     }

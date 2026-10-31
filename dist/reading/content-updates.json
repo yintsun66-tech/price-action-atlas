@@ -2,6 +2,41 @@
   "version": 1,
   "batches": [
     {
+      "id": "site-maps-20261031",
+      "collected": "2026-10-31",
+      "updated": "2026-10-31",
+      "timezone": "Asia/Taipei",
+      "description": "新增網站導覽地圖與六階段精讀學習地圖，沿用原有已讀紀錄及四十八項練習。",
+      "articles": [],
+      "referencedArticles": [
+        "brooks-context-first",
+        "brooks-candle-evidence",
+        "louie-chart-notes",
+        "bp2-trend-channel",
+        "bp2-range-location",
+        "pp2-closed-higher-frame",
+        "bp2-breakout-followthrough",
+        "bp2-second-entry",
+        "louie-wait-cancel",
+        "practice-risk-in-r",
+        "pp2-structural-stop",
+        "pa3-stop-execution",
+        "pa3-session-contract",
+        "practice-tick-time-transfer",
+        "school-market-fit",
+        "practice-journal-before-after",
+        "pa3-winrate-uncertainty",
+        "pa3-research-register"
+      ],
+      "sources": [],
+      "notes": [
+        "本站導覽與學習順序編排；未引用新外部教材，不增加翻譯或來源完成數。",
+        "16 個專區入口、18 篇精讀、4 個流派延伸入口；原 62 篇文章、十三條閱讀路線與筆記鍵保持。",
+        "精讀已讀進度與原 48 項任務分開，已讀不等於理解或驗證通過。",
+        "歷史更新入口收合保留，閱讀頁加回兩張地圖的連結。"
+      ]
+    },
+    {
       "id": "translation-batch20-20261031",
       "collected": "2026-10-31",
       "updated": "2026-10-31",

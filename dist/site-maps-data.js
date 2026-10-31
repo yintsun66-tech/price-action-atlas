@@ -1,0 +1,227 @@
+/* Original editorial navigation; not an official course syllabus. */
+globalThis.AtlasMapData = {
+  "groups": [
+    {
+      "title": "從這裡開始",
+      "note": "選順序，安排自己的節奏。",
+      "items": [
+        {
+          "title": "學習地圖",
+          "href": "#learning-map",
+          "description": "六階段精讀、練習成果與下一篇未讀。",
+          "tags": "新手 入門 順序 進度"
+        },
+        {
+          "title": "六階段練習",
+          "href": "#map",
+          "description": "原有十二單元與四十八項任務總覽。",
+          "tags": "課表 檢核"
+        },
+        {
+          "title": "我的學習計畫",
+          "href": "#plan",
+          "description": "調整開始日期、每週時間，查官方課程補讀。",
+          "tags": "時程 Brooks 課程"
+        }
+      ]
+    },
+    {
+      "title": "文章與原文對照",
+      "note": "先讀懂，再回查來源。",
+      "items": [
+        {
+          "title": "閱讀教材",
+          "href": "#reading",
+          "description": "依主題、來源或閱讀進度選文章。",
+          "tags": "文章 搜尋 繁中 文字 停損 突破"
+        },
+        {
+          "title": "翻譯進度",
+          "href": "#translation",
+          "description": "查看中英對照、摘要範圍與尚待處理的來源。",
+          "tags": "英文 原文 授權 翻譯 摘要"
+        },
+        {
+          "title": "社群與新文",
+          "href": "#community",
+          "description": "原作者與公開社群選讀，附評價與限制。",
+          "tags": "Reddit TradingView Sierra 新文章"
+        }
+      ]
+    },
+    {
+      "title": "圖解與判讀",
+      "note": "讓不同觀點回到相同證據。",
+      "items": [
+        {
+          "title": "流派比較與圖解",
+          "href": "#schools",
+          "description": "價格行為、威科夫、ICT 與訂單流橫向比較。",
+          "tags": "圖片 威科夫 訂單流 ICT Brooks"
+        },
+        {
+          "title": "機率註記",
+          "href": "#probabilities",
+          "description": "核對機率談的是哪個事件、背景與分母。",
+          "tags": "勝率 機率 條件 百分比"
+        },
+        {
+          "title": "觀念實驗室",
+          "href": "#lab",
+          "description": "切換概念行情，試算風險、成本與期望值。",
+          "tags": "圖表 工具 算式 成本"
+        }
+      ]
+    },
+    {
+      "title": "影音與參考書",
+      "note": "按問題選教材，保留查核範圍。",
+      "items": [
+        {
+          "title": "影音與播客",
+          "href": "#media",
+          "description": "影片、教學動畫、訪談與音訊節目入口。",
+          "tags": "影片 動畫 Podcast 播客 直播"
+        },
+        {
+          "title": "參考書籍",
+          "href": "#books",
+          "description": "按文章適配度或已核對的人氣資料找書。",
+          "tags": "書籍 書單 中文 英文"
+        },
+        {
+          "title": "教材評選",
+          "href": "#discovery",
+          "description": "比較講者、教學形式、第三方評價與限制。",
+          "tags": "評價 老師 推薦 直播"
+        }
+      ]
+    },
+    {
+      "title": "研究與自己的紀錄",
+      "note": "把理解變成能重播的練習。",
+      "items": [
+        {
+          "title": "微台驗證",
+          "href": "#taiwan",
+          "description": "檢查市場、契約、風險與研究資料需求。",
+          "tags": "微台 TMF BTC 量化 回測"
+        },
+        {
+          "title": "我的學習筆記",
+          "href": "#journal",
+          "description": "保留事前看法與練習結果，也可備份進度。",
+          "tags": "筆記 日誌 備份 匯出"
+        }
+      ]
+    },
+    {
+      "title": "更多來源與導師",
+      "note": "有明確問題時，再往下探索。",
+      "items": [
+        {
+          "title": "資源圖書館",
+          "href": "#library",
+          "description": "搜尋既有完整索引，按作者、主題與形式篩選。",
+          "tags": "資料庫 全部 索引 搜尋"
+        },
+        {
+          "title": "進階導師",
+          "href": "#mentors",
+          "description": "Ali 的研究流程與 Brad 的決策回放練習。",
+          "tags": "Ali Brad 系統 回放"
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "id": "language",
+      "title": "建立交易語言",
+      "question": "我看見的是事實，還是推論？",
+      "output": "遮住右側，為一張圖寫三項已知事實與一個反例。",
+      "ids": [
+        "brooks-context-first",
+        "brooks-candle-evidence",
+        "louie-chart-notes"
+      ]
+    },
+    {
+      "id": "context",
+      "title": "辨識行情背景",
+      "question": "趨勢、通道與區間，如何改變解讀？",
+      "output": "用同一套條件比較趨勢圖與區間圖，留下不確定之處。",
+      "ids": [
+        "bp2-trend-channel",
+        "bp2-range-location",
+        "pp2-closed-higher-frame"
+      ]
+    },
+    {
+      "id": "setup",
+      "title": "只練兩個設定",
+      "question": "什麼時候等待、觸發或取消？",
+      "output": "各寫一張突破與回檔計畫，列出失效與不進場條件。",
+      "ids": [
+        "bp2-breakout-followthrough",
+        "bp2-second-entry",
+        "louie-wait-cancel"
+      ]
+    },
+    {
+      "id": "risk",
+      "title": "讓風險先說話",
+      "question": "價格不利時，我的損失如何形成？",
+      "output": "先算初始 R、數量與成本，再寫停損觸發後的成交限制。",
+      "ids": [
+        "practice-risk-in-r",
+        "pp2-structural-stop",
+        "pa3-stop-execution"
+      ]
+    },
+    {
+      "id": "market",
+      "title": "移植到微台",
+      "question": "資料、時鐘與商品，真的相同嗎？",
+      "output": "記錄實際契約、切棒起點、資料缺項，以及不能直接移植的條件。",
+      "ids": [
+        "pa3-session-contract",
+        "practice-tick-time-transfer",
+        "school-market-fit"
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "用紀錄做決定",
+      "question": "如何分開技能、調參與運氣？",
+      "output": "保留事前／事後紀錄與失敗版本，另留未參與調整的新資料。",
+      "ids": [
+        "practice-journal-before-after",
+        "pa3-winrate-uncertainty",
+        "pa3-research-register"
+      ]
+    }
+  ],
+  "branches": [
+    {
+      "title": "Brooks 價格行為",
+      "description": "背景、突破與後續反應。",
+      "id": "brooks-breakout-test"
+    },
+    {
+      "title": "威科夫",
+      "description": "區間、價量與測試。",
+      "id": "wyckoff-cycle"
+    },
+    {
+      "title": "ICT",
+      "description": "三棒、結構與時段定義。",
+      "id": "ict-fvg"
+    },
+    {
+      "title": "訂單流",
+      "description": "主動成交與可見掛單。",
+      "id": "flow-footprint"
+    }
+  ]
+};

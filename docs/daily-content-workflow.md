@@ -81,3 +81,6 @@
 第十九批（2026-10-31）目標 active 後恢復實質翻譯。Targets 小節四段正文與兩行占位文字已完整對照；兩筆核心入口只列介紹，正文摘要仍 33，介紹 16，待讀 2286。新增獨立全文進度 `translation/fulltext-progress.json` 與明確來源完成稽核，完整範圍見 `docs/goal-translation-contract.md`，批次見 `docs/translation-batch19.md`。重建 `build-translation-batch19.cjs` → 翻譯清單（含全文進度）→ 中文呈現；驗證 workspace `tools/check_translation_batch19*.cjs`。不要將恢復狀態或完整小節當成全站達成。其後使用者已清除該目標，不能自行重建。
 
 第二十批（2026-10-31）依新的繼續翻譯要求，擴充支撐壓力與延續反轉兩個既有授權單元，新增十二段正文及三行占位文字。未改其餘 60 篇、所有舊對照區塊、筆記及圖。重建 `build-translation-batch20.cjs` → 翻譯清單 → 中文呈現；驗證 workspace `tools/check_translation_batch20*.cjs`。完整範圍及手機截圖驗證限制見 `docs/translation-batch20.md`；發布一併包含此前尚未上線的第十九批，維持私人權限。
+
+
+2026-10-31 網站雙地圖：#site-map 為十六個專區入口，#learning-map 為六階段十八篇精讀。原 #map、#plan、十三條閱讀路線與筆記格式保留。enable-chinese-first.cjs 在地圖已安裝時最後自動執行 build-site-maps.cjs，避免後續翻譯回退導覽與閱讀器資產版本。若單獨改地圖，可直接重建；驗證使用 workspace tools/check_site_maps.cjs、check_site_maps_reader.cjs，另保留閱讀回歸。詳見 docs/site-maps.md。
