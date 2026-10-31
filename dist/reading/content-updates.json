@@ -2,6 +2,47 @@
   "version": 1,
   "batches": [
     {
+      "id": "translation-batch18-20261031",
+      "collected": "2026-10-31",
+      "updated": "2026-10-31",
+      "timezone": "Asia/Taipei",
+      "description": "擴充兩個既有授權閱讀單元，新增七句完整中英對照；原文、摘要與校註分列。",
+      "articles": [
+        "licensed-trends",
+        "licensed-measured-move"
+      ],
+      "sources": [
+        "Wikibooks Patterns 4351762",
+        "Wikibooks Copyrights 4622060"
+      ],
+      "decisions": [
+        {
+          "source": "Up-Trend 子小節與 Targets 第三段",
+          "url": "https://en.wikibooks.org/wiki/Technical_Analysis/Patterns",
+          "status": "授權指定選段續譯",
+          "reason": "實讀原頁，頁尾版本 4351762；核對 CC BY-SA 4.0。原文逐句照錄，不重刊來源圖。"
+        },
+        {
+          "source": "固定版本與永久入口",
+          "url": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&oldid=4351762",
+          "status": "工具取得失敗，已用版本相同原頁核對",
+          "reason": "固定網址與 Special:PermanentLink 入口由研究工具回傳不可取得；原頁成功讀取且頁尾版本一致，不把失敗記成沒有教材。"
+        },
+        {
+          "source": "Targets 最後一段與未授權商業教材",
+          "status": "本批尚未處理",
+          "reason": "明列新增範圍；不以摘要冒充逐字翻譯，也不宣稱全章完成。"
+        }
+      ],
+      "notes": [
+        "兩個閱讀 ID、筆記鍵、原有英文及譯文區塊保留；只更新選段範圍及相應測驗說明。",
+        "新增兩段原文拆為七句逐句對照，原句文字與順序可還原。",
+        "原文比喻與作者評價照譯，無新增機率、幣別、價格還原或 Brooks 課程歸屬。",
+        "保留 CC BY-SA 4.0、固定版本、修訂歷史及帶原文的下載檔。",
+        "正文摘要總數不增加；只是既有授權選段擴充，不代表整章或全站完成。"
+      ]
+    },
+    {
       "id": "content-batch17-20261031",
       "collected": "2026-10-31",
       "updated": "2026-10-31",

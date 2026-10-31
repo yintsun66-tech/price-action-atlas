@@ -1,12 +1,12 @@
 {
   "id": "licensed-trends",
   "title": "趨勢的三種方向：英文原文與繁中逐段對照",
-  "subtitle": "完整翻譯 Trends 的直接正文，保留股票背景及原文假設。",
+  "subtitle": "趨勢概念與「上升趨勢」完整子小節；保留歷史案例、英文與語氣。",
   "topic": "趨勢",
   "minutes": 12,
-  "summary": "本篇逐段翻譯開放教材如何描述上升、下降與區間趨勢。英文先談股票長期走勢的企業背景，再談較短期的預期變化，最後描述高低點；這三個層次不能直接混成微台或 BTC 十分鐘的進場規則。原文及繁中對照可直接閱讀，中文導讀與新增合成圖另行標示。",
+  "summary": "本篇保留三種趨勢的原有節譯，新增上升趨勢歷史案例的三句完整對照。股票案例的日期、價位及來源範圍分列；導讀、合成圖與校註另標。",
   "keyPoints": [
-    "本次完整範圍是 Trends 的直接正文，不是整個 Trends 章節。",
+    "完整翻譯指定 Trends 概念選段與 Up-Trend 子小節；不是整章。",
     "原文的 tend、may 與 assumes 類語氣保留，不改成必然。",
     "equity instruments 在此指股票類工具，不能直接替期貨或永續合約背書。",
     "新高、新低及回檔仍須事前定義，原文沒有給固定勝率。"
@@ -31,6 +31,26 @@
       "kind": "paragraph",
       "en": "- uptrend / downtrend / oscillating / triangle examples -",
       "zh": "— 上升趨勢／下降趨勢／震盪／三角形的範例 —"
+    },
+    {
+      "kind": "heading",
+      "en": "Up-Trend",
+      "zh": "上升趨勢：原文歷史案例"
+    },
+    {
+      "kind": "paragraph",
+      "en": "The chart below is a plot of the price movement of the Apple Inc which made very good stride during March 2009 to May 2011.",
+      "zh": "下圖繪出蘋果公司在 2009 年 3 月至 2011 年 5 月的股價走勢，這段期間股價有顯著上漲。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "Strong uptrend can be seen from the movement.",
+      "zh": "從走勢中可以看出強勁的上升趨勢。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "The stock price moved from 100 to 350 in about 2 years period.",
+      "zh": "股價在大約兩年的期間，從 100 上升至 350。"
     }
   ],
   "sections": [
@@ -50,6 +70,12 @@
       "heading": "三、逐句保留不確定性",
       "paragraphs": [
         "tend 譯為「傾向」，may 譯為「可能」，不是補上固定百分比。原文沒有提供樣本數、成功事件或觀察期限；沒有這些條件，就無法由幾個英文用語推算微台或 BTC 的交易勝率。"
+      ]
+    },
+    {
+      "heading": "四、歷史案例與合成圖分開",
+      "paragraphs": [
+        "新增 Up-Trend 是原作者的歷史描述，英文依原句照錄。來源提到的圖像未重製、歷史行情未重建；本站現有整理圖使用合成資料，並非該股票案例。"
       ]
     }
   ],
@@ -75,7 +101,7 @@
   "level": "基礎",
   "batch": 5,
   "mode": "licensed-section",
-  "revision": "2026-10-28",
+  "revision": "2026-10-31",
   "sourceSummary": "已讀 Wikibooks Technical Analysis／Patterns 的公開文字，頁尾固定版本 4351762。原文屬社群教材概念敘述，未提供微台／BTC 回測。",
   "exercise": {
     "title": "先對照原文，再記錄自己的解讀",
@@ -96,9 +122,9 @@
       "url": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&oldid=4351762",
       "author": "Wikibooks contributors",
       "language": "英文",
-      "checked": "2026-10-28",
-      "access": "已讀公開正文，頁尾固定版本為 4351762；固定版本入口保留供核對。",
-      "scope": "Trends 標題下、Up-Trend 子標題之前的三段正文與一行製圖占位文字；不含 Up-Trend、Range-bound / Oscillating 等子小節。",
+      "checked": "2026-10-31",
+      "access": "已讀公開原頁對應文字，頁尾固定版本仍為 4351762；固定版本入口本次工具取得失敗，改由原頁版本標記核對。",
+      "scope": "Trends 主標題下的三段正文與一行製圖占位文字，加上完整 Up-Trend 子小節的一段正文（拆為三句對照）；不含 Range-bound / Oscillating 或其他小節。",
       "license": "CC BY-SA 4.0；本批僅使用文字，未重用來源媒體。"
     },
     {
@@ -106,29 +132,30 @@
       "url": "https://en.wikibooks.org/w/index.php?title=Wikibooks:Copyrights&oldid=4622060",
       "author": "Wikibooks contributors",
       "language": "英文",
-      "checked": "2026-10-28",
+      "checked": "2026-10-31",
       "access": "已核對公開政策的署名、改作及相同授權條件。",
       "scope": "僅用於核對文字授權，不視為所有圖片的授權。",
       "license": "政策說明；相關教材文字採 CC BY-SA 4.0。"
     }
   ],
   "courseRefs": [],
-  "translationStatus": "已授權完整節譯；僅限本頁明列範圍。",
+  "translationStatus": "已授權選段完整逐句翻譯，保留英文原文；範圍以本頁說明為準，非整章翻譯。",
   "provenance": "依原頁公開文字逐段翻譯，保留段落及清單順序。原文拼字、語氣及資料限制另列校對註；導讀、合成圖、練習與測驗為本站新增。這是 Wikibooks 社群教材，不是 Brooks 官方課程或已驗證交易系統。",
   "translationTitle": "趨勢的三種方向：英文原文與繁中逐段對照",
-  "translationScope": "Trends 標題下、Up-Trend 子標題之前的三段正文與一行製圖占位文字；不含 Up-Trend、Range-bound / Oscillating 等子小節。",
+  "translationScope": "Trends 主標題下的三段正文與一行製圖占位文字，加上完整 Up-Trend 子小節的一段正文（拆為三句對照）；不含 Range-bound / Oscillating 或其他小節。",
   "translationNotes": [
     "原文重複 including trends including，中文依語意順譯，未刪除分類資訊。",
     "原文 another of from 及 highs are lows 語法有誤；中文依上下文分別譯為「或反映」及「高點與低點」，英文保留原貌。",
-    "最後一行是原頁製圖占位文字，不是已提供的歷史圖表。本頁另繪的折線為本站合成資料。",
-    "股票長期方向的解釋是原文敘述，沒有附本篇可驗證的實證；譯文不代表編輯已認可其普遍成立。"
+    "三種趨勢範例行是原頁製圖占位文字；本站另繪折線為合成資料。新增 Up-Trend 中的「下圖」亦照譯，但本頁沒有重製來源圖。",
+    "股票長期方向的解釋是原文敘述，沒有附本篇可驗證的實證；譯文不代表編輯已認可其普遍成立。",
+    "本批逐句保留 2009 年 3 月至 2011 年 5 月、100 至 350 與「大約兩年」；原文未明列幣別或價格還原方式，不自行補填，也不當作今日價格。"
   ],
   "license": {
     "id": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "原文：Wikibooks contributors，Technical Analysis／Patterns，固定版本 4351762。繁體中文翻譯、導讀、合成圖與練習：Price Action Atlas，AI 協助，2026-10-28。本篇譯文及新增內容依 CC BY-SA 4.0 提供。",
-    "scope": "Trends 標題下、Up-Trend 子標題之前的三段正文與一行製圖占位文字；不含 Up-Trend、Range-bound / Oscillating 等子小節。 本篇新增說明、練習與圖解亦依相同授權。",
-    "changes": "新增繁體中文翻譯、校對說明、合成圖與練習；保留英文對照，未使用來源圖片。",
+    "attribution": "原文：Wikibooks contributors，Technical Analysis／Patterns，固定版本 4351762。繁體中文翻譯、導讀、合成圖與練習：Price Action Atlas，AI 協助，2026-10-28。本篇譯文及新增內容依 CC BY-SA 4.0 提供。 原版節譯保留；2026-10-31 續譯與分句校對：Price Action Atlas，AI 協助。",
+    "scope": "Trends 主標題下的三段正文與一行製圖占位文字，加上完整 Up-Trend 子小節的一段正文（拆為三句對照）；不含 Range-bound / Oscillating 或其他小節。 本篇新增導讀、校註、合成圖與練習亦依相同授權。",
+    "changes": "原有節譯保留，新增明列選段的繁中逐句對照與校註；英文原句照錄並分句排版，未重用來源圖片。",
     "sourceRevision": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&oldid=4351762",
     "history": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Patterns&action=history"
   },
@@ -154,7 +181,7 @@
       "explanation": "此處 may 沒有指定數值，應保留可能的語氣。"
     },
     {
-      "question": "最後一行範例文字的性質是？",
+      "question": "原文的四種趨勢範例行是什麼性質？",
       "choices": [
         "已核對的微台歷史圖",
         "原頁製圖占位文字",
@@ -162,6 +189,15 @@
       ],
       "answerIndex": 1,
       "explanation": "原文只有占位文字；本站新增圖以合成資料另繪。"
+    }
+  ],
+  "translationRevisions": [
+    {
+      "id": "licensed-batch18",
+      "date": "2026-10-31",
+      "note": "2026-10-31 授權選段續譯",
+      "addedSection": "Up-Trend",
+      "addedSentences": 3
     }
   ]
 }

@@ -73,3 +73,6 @@
 
 
 第十七批（2026-10-31）每日精選新增 Sierra 公開支援串與威科夫測試文章，社群卡共 23，英文來源 2361，正文摘要 33。來源用語差異、未採候選與未核驗範圍詳見 `docs/content-batch17.md`。重建 `build-content-batch17.cjs` → 翻譯清單 → 中文呈現；驗證使用 workspace `tools/check_content_batch17*.cjs`。維持大字、既有原創圖、文章及筆記相容，不另建排程。
+
+
+第十八批（2026-10-31）擴充兩個既有授權單元，新增 Up-Trend 全小節與 Targets 第三段，共七句逐句中英對照；保持原有譯文區塊與筆記 ID。作者檔 `licensed-batch18.json`，重建 `build-translation-batch18.cjs` → 翻譯清單 → 中文呈現。驗證使用 workspace `tools/check_translation_batch18*.cjs`，必須明列兩個預期文章變更例外，檢查其餘 60 篇及舊中英區塊不變；不得移除原有回歸斷言。固定入口失敗與原頁版本核對、授權範圍詳見 `docs/translation-batch18.md`。

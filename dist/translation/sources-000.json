@@ -6176,8 +6176,8 @@
     "titleCoverage": "existing-label",
     "status": "licensed-excerpt",
     "summaryZh": "原文以整理前的價格移動幅度作為突破後目標的參考，並以股票先漲5的例子說明；沒有給出回補或目標達成率。",
-    "readScope": "Targets小節的前兩段及緊接一行圖例占位文字。其後泡沫討論與另一行占位文字未翻入；非全小節或全章。",
-    "checked": "2026-10-29",
+    "readScope": "Targets 前三段正文，以及第二段後的一行製圖占位文字；第三段拆為四句對照。不含最後一段邊際買方討論及末尾占位文字，非全小節或全章。",
+    "checked": "2026-10-31",
     "inventoried": "2026-10-30",
     "locations": [
       {
@@ -6233,15 +6233,15 @@
     "existingLicensed": [
       {
         "articleId": "licensed-measured-move",
-        "scope": "Targets小節的前兩段及緊接一行圖例占位文字。其後泡沫討論與另一行占位文字未翻入；非全小節或全章。",
+        "scope": "Targets 前三段正文，以及第二段後的一行製圖占位文字；第三段拆為四句對照。不含最後一段邊際買方討論及末尾占位文字，非全小節或全章。",
         "license": "CC BY-SA 4.0",
-        "revision": "2026-10-29"
+        "revision": "2026-10-31"
       },
       {
         "articleId": "licensed-trends",
-        "scope": "Trends 標題下、Up-Trend 子標題之前的三段正文與一行製圖占位文字；不含 Up-Trend、Range-bound / Oscillating 等子小節。",
+        "scope": "Trends 主標題下的三段正文與一行製圖占位文字，加上完整 Up-Trend 子小節的一段正文（拆為三句對照）；不含 Range-bound / Oscillating 或其他小節。",
         "license": "CC BY-SA 4.0",
-        "revision": "2026-10-28"
+        "revision": "2026-10-31"
       },
       {
         "articleId": "licensed-range-consolidation",
