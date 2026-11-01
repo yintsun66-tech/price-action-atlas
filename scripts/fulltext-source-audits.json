@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "sourceId": "556ebe1e576b291ac491",
+    "sourceVersion": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Basis_of_Technical_Analysis&oldid=3562704",
+    "checked": "2026-11-01",
+    "complete": true,
+    "unitIds": [
+      "licensed-price-forecasting"
+    ],
+    "scope": "Technical Analysis／Basis of Technical Analysis 固定版本 3562704 的全部教學正文：Price Forecasting 三句正文與五列表格，以及 Basis of Technical Analysis、Price Movement、Case Study、Satyam Computer Scandal 的八段正文與一行圖說；五個小節標題依原順序保留。不含網站導覽、頁尾制式文字、來源圖片或外鏈內容。",
+    "excluded": [
+      "網站導覽與頁尾制式文字",
+      "來源圖片",
+      "外鏈內容"
+    ],
+    "evidence": {
+      "method": "實讀公開原頁全部教學正文，頁尾 oldid 3562704 與固定版本一致；固定入口取得失敗另行紀錄。依原順序逐段、表格逐格與圖說核對。",
+      "publicSource": "https://en.wikibooks.org/wiki/Technical_Analysis/Basis_of_Technical_Analysis",
+      "sourceEdited": "2019-08-12",
+      "licensePolicy": "https://en.wikibooks.org/wiki/Wikibooks:Copyrights",
+      "licensePolicyRevision": "4622060",
+      "coverage": {
+        "proseBlocks": 11,
+        "tableCount": 1,
+        "tableRows": 5,
+        "sectionHeadings": 5,
+        "captions": 1
+      },
+      "englishAndChineseBlocksSha256": "bf9b5dcc69967bd6f8616670b3e82140bad677eebaa2b30e5ba6d597ae600505",
+      "authorFile": "scripts/licensed-batch22.json",
+      "verification": "scripts/verify-batch22-coverage.cjs"
+    }
+  }
+]

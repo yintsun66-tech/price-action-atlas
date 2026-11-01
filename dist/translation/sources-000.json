@@ -6546,13 +6546,13 @@
   {
     "id": "556ebe1e576b291ac491",
     "url": "https://en.wikibooks.org/w/index.php?oldid=3562704&title=Technical_Analysis%2FBasis_of_Technical_Analysis",
-    "sourceTitle": "Technical Analysis／Basis of Technical Analysis — Price Forecasting",
-    "titleZh": "Technical Analysis／Basis of Technical Analysis — Price Forecasting",
+    "sourceTitle": "技術分析的基礎：價格預測、價格移動與歷史案例",
+    "titleZh": "技術分析的基礎：價格預測、價格移動與歷史案例",
     "titleCoverage": "existing-label",
     "status": "licensed-excerpt",
-    "summaryZh": "本小節把價格預測區分為基本面與技術分析，並以表格列出趨勢追蹤及趨勢預測的例子。原文沒有提供回測或績效證據。",
-    "readScope": "Price Forecasting 小節的三句正文與五列表格；本篇新增導覽、練習及校對註亦依相同授權。",
-    "checked": "2026-10-26",
+    "summaryZh": "原章先列基本面與技術分析，以及趨勢追蹤／預測的分類表；再以股票供需與「價格說明一切」的信念解釋價格和成交量，最後用 Satyam 醜聞作歷史例子。這是教材作者的解釋，未提供回測、因果識別或微台／BTC 的績效證據。",
+    "readScope": "Technical Analysis／Basis of Technical Analysis 固定版本 3562704 的全部教學正文：Price Forecasting 三句正文與五列表格，以及 Basis of Technical Analysis、Price Movement、Case Study、Satyam Computer Scandal 的八段正文與一行圖說；五個小節標題依原順序保留。不含網站導覽、頁尾制式文字、來源圖片或外鏈內容。",
+    "checked": "2026-11-01",
     "inventoried": "2026-10-30",
     "locations": [
       {
@@ -6572,9 +6572,9 @@
     "existingLicensed": [
       {
         "articleId": "licensed-price-forecasting",
-        "scope": "Price Forecasting 小節的三句正文與五列表格；本篇新增導覽、練習及校對註亦依相同授權。",
+        "scope": "Technical Analysis／Basis of Technical Analysis 固定版本 3562704 的全部教學正文：Price Forecasting 三句正文與五列表格，以及 Basis of Technical Analysis、Price Movement、Case Study、Satyam Computer Scandal 的八段正文與一行圖說；五個小節標題依原順序保留。不含網站導覽、頁尾制式文字、來源圖片或外鏈內容。",
         "license": "CC BY-SA 4.0",
-        "revision": "2026-10-26"
+        "revision": "2026-11-01"
       }
     ]
   },

@@ -1,0 +1,35 @@
+{
+  "articleId": "licensed-price-forecasting",
+  "date": "2026-11-01",
+  "source": "https://en.wikibooks.org/wiki/Technical_Analysis/Basis_of_Technical_Analysis",
+  "sourceRevision": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Basis_of_Technical_Analysis&oldid=3562704",
+  "sourceEdited": "2019-08-12",
+  "license": "CC BY-SA 4.0",
+  "licensePolicy": "https://en.wikibooks.org/wiki/Wikibooks:Copyrights",
+  "access": "實讀公開原頁全部章節文字、五列表格、圖說及頁尾固定版本 3562704。固定版本入口工具取得失敗，改以公開原頁頁尾版本核對；未使用或核驗來源圖片，不追讀 Satyam 維基百科外鏈。",
+  "scope": "Technical Analysis／Basis of Technical Analysis 固定版本 3562704 的全部教學正文：Price Forecasting 三句正文與五列表格，以及 Basis of Technical Analysis、Price Movement、Case Study、Satyam Computer Scandal 的八段正文與一行圖說；五個小節標題依原順序保留。不含網站導覽、頁尾制式文字、來源圖片或外鏈內容。",
+  "prepend": {"kind":"heading","en":"Price Forecasting","zh":"價格預測"},
+  "blocks": [
+    {"kind":"heading","en":"Basis of Technical Analysis","zh":"技術分析的基礎"},
+    {"kind":"paragraph","en":"The study is based on the interaction of the forces of demand and supply of stock. It mainly considers that the market is free and market forces will prevail to bring equilibrium.","zh":"這項研究以股票需求與供給兩種力量的互動為基礎。它主要認為市場是自由的，而且市場力量會發揮作用，使市場達到均衡。"},
+    {"kind":"paragraph","en":"The fundamental belief behind the technical analysis is that \"The Price says it all\". This means if a stock is available at $125 then this includes all the information as of today about the stock. Most of the technical analyst believe that the news which are important for the stock reflects on the chart by its movement.","zh":"技術分析背後的基本信念是「價格說明了一切」。這表示，如果一檔股票可以用 $125 買到，那麼這個價格就包含了截至當時關於該股票的所有資訊。大多數技術分析者相信，對該股票重要的消息，會透過價格移動反映在圖表上。"},
+    {"kind":"paragraph","en":"If there were any fundamental change in the financial health the imbalance is created by those who are aware of this change (also called operators) and the price will start movement to the new equilibrium point.","zh":"如果財務健全程度發生任何根本變化，知悉這項變化的人（原文亦稱 operators，即操作人）就會造成失衡，而價格會開始朝新的均衡點移動。"},
+    {"kind":"heading","en":"Price Movement","zh":"價格移動"},
+    {"kind":"paragraph","en":"Basic principle of price movement is Price of stock will move up only if there is demand for the stock. The price will move down if there is supply of the stock.","zh":"價格移動的基本原則是：只有存在對該股票的需求時，股價才會上漲。如果存在該股票的供給，價格就會下跌。"},
+    {"kind":"paragraph","en":"If on a particular day the price have moved up and closed it is concluded that the demand for the stock was more than the supply. The volume (ie number of stocks traded) indicates the strength in the movement. More the volume more is the strength (ie if the volume is more than average the strength is more).","zh":"如果在某一天，價格上漲並收盤，就會得出該股票需求大於供給的結論。成交量（也就是成交的股票數量）表示這次移動的強度。成交量越多，強度就越大（也就是說，如果成交量高於平均，強度就更大）。"},
+    {"kind":"heading","en":"Case Study","zh":"案例研究"},
+    {"kind":"paragraph","en":"There are movements in the stock and they are based on various buying and selling in high quantities. Now we as a small investor might not be aware about such news. But the big news which we are aware about can be easily traced on the chart. Few of them are elaborated below.","zh":"股票會出現價格移動，這些移動以各種大額買進與賣出為基礎。我們身為小額投資者，可能不知道這類消息。不過，對於我們已知的重大消息，可以很容易在圖表上追溯其痕跡。以下說明其中幾個例子。"},
+    {"kind":"heading","en":"Satyam Computer Scandal","zh":"Satyam Computer 醜聞"},
+    {"kind":"paragraph","en":"Satyam Computer Scandal is one of the big scandal which rocked Indian stock market. If we have a look at the chart of Satyam computer today we can clearly see the history recorded on this chart for ever.","zh":"Satyam Computer 醜聞是震撼印度股市的重大醜聞之一。如果在原作者敘述的當時查看 Satyam Computer 的圖表，就能清楚看見這段歷史永久記錄在圖表上。"},
+    {"kind":"paragraph","en":"Satyam stock crack due to surface of scandal","zh":"醜聞浮上檯面導致 Satyam 股價崩跌。","sourceRole":"caption"},
+    {"kind":"paragraph","en":"As can be seen from the chart the stock of Satyam Computers fell from Rs.180 to Rs.5 in 2 trading sessions. Big events have big marks on the chart and small events have small marks on the chart. So even if the news are not known to the one looking at the chart he/she must be able to say the there was something wrong or something right with this company which made this stock stock move in such a direction on a particular day.","zh":"如圖所示，Satyam Computers 的股價在兩個交易時段內，從 Rs.180 跌至 Rs.5。重大事件會在圖表上留下較大的痕跡，小事件則留下較小的痕跡。因此，即使看圖的人不知道這些消息，也必須能夠說出，這家公司出了某些不對勁或正面的事情，使股價在某一天朝那個方向移動。"}
+  ],
+  "translationNotes": [
+    "believe 與 fundamental belief 依原意保留為「相信」「基本信念」，不把「價格說明一切」提升成本站驗證的定律；today 指原作者敘述當時，不是查核日或今日行情。",
+    "$125 保留原符號，原段沒有明確指定幣別；operators 暫譯操作人，不自行推定為造市商、操縱者或可以從 K 線識別的主力。",
+    "供需與成交量強度均為原作者的簡化解釋。每筆已成交交易同時存在買賣雙方；僅憑收盤上漲或總成交量，不能辨識完整委託簿、交易者身分或因果，也不是微台／BTC 的統計勝率。",
+    "原文收漲句沒有明定與開盤或前收比較，「高於平均」也沒有指定平均期間；翻譯不擅加基準、量化門檻或交易觸發。",
+    "Satyam 的 Rs.180、Rs.5 與兩個交易時段是原文歷史說法，本批未另行核驗行情、交易所或公司行動調整；保留英文拼字重複 stock stock，不將原圖重建或現有合成圖當作證據。",
+    "本批一行圖說按原文位置保留，來源圖片本身未重用；Satyam Computer Scandal 外鏈只保留名稱，沒有將維基百科外鏈列為已讀或已翻譯。"
+  ]
+}

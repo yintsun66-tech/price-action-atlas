@@ -1,1 +1,297 @@
-{"id":"licensed-price-forecasting","category":"授權節譯","title":"價格預測的分類：一個開放教材小節的完整對照","subtitle":"把英文原文、繁中譯文與編輯校對分開閱讀；完整範圍僅限 Price Forecasting 小節。","language":"英文","level":"基礎","minutes":8,"summary":"本單元示範一份有明確重用授權的英文教材如何逐段翻成繁體中文。選取 Wikibooks 的 Price Forecasting 小節，保留全部段落與表格，另把原文縮寫、分類限制及網站新增註解分開。閱讀目標是認識技術分析的幾個名詞，並練習核對翻譯的完整範圍。表格是社群教材的分類例子，不代表其中方法已有可交易的優勢，也不是台指期或比特幣的策略推薦。點選「授權節譯對照」即可並排閱讀。","sourceSummary":"本小節把價格預測區分為基本面與技術分析，並以表格列出趨勢追蹤及趨勢預測的例子。原文沒有提供回測或績效證據。","keyPoints":["本頁完整翻譯的是一個小節，範圍含三句正文與五列表格。","中文譯文與新增校對註分開，不擅自修正原文縮寫。","分類不等於交易規則，名稱也不能證明能獲利。","原文與本篇改作以 CC BY-SA 4.0 署名並保留相同授權。"],"sections":[{"heading":"一、先確定「完整」指哪一個範圍","paragraphs":["本頁選取 Technical Analysis／Basis of Technical Analysis 章節中，標題為 Price Forecasting 的完整小節，包含正文與一張表格。其餘小節、網站導覽、圖片與整本教材沒有一併翻入。英文旁列出固定版本連結，方便日後核對原文更新前後的差異。","「全文」若沒有範圍很容易造成誤會。因此這裡明確稱為完整節譯，並在對照頁保留段落順序。譯文由本網站以 AI 協助編輯，新增說明和原作者文字分開。"]},{"heading":"二、怎麼讀原文表格","paragraphs":["兩欄是教材作者採用的分類方式。它把一些方法放在趨勢追蹤，另一些放在趨勢預測。這不是全領域唯一認可的分類，同一方法也可能因使用方式不同而被放進其他類別。看到名稱時，可以先記下要查核的問題，無須急著挑一種當作交易系統。","原文在振盪指標中使用 RSI、MAC、Stoc 這些縮寫。此處照錄 MAC 與 Stoc，不自行把缺少的字母補成另一個指標。英文 Elliot Wave 的拼法亦照錄；中文採通用的艾略特波浪。"]},{"heading":"三、把教材名詞接回你的研究","paragraphs":["如果想研究其中一種方法，下一步是另行定義可以由當時資料計算的條件、進出場、成本與風險。這些新增規則不屬於本小節原文，必須標成自己的假說。將名詞、規則及證據分三欄，可以避免因為教材提到某方法就視為有效。","本篇授權允許翻譯與改作，但授權不是投資績效認證。原文、譯文與編輯說明都可以依所列授權重用；若想轉用其他圖片或別章節，仍須核對該項目自己的來源與授權。"]}],"glossary":[{"en":"Fundamental Analysis","zh":"基本面分析","note":"本小節列出的價格分析類別之一，原文未在此詳細定義。"},{"en":"Technical Analysis","zh":"技術分析","note":"本小節進一步用兩欄列舉相關方法。"},{"en":"Trend Following","zh":"趨勢追蹤","note":"忠實翻譯表格欄名；分類本身不是可執行規則。"},{"en":"Trend Predicting","zh":"趨勢預測","note":"忠實翻譯表格欄名，不表示能準確預測未來。"}],"exercise":{"title":"對照範圍與名詞核對","steps":["開啟固定原文版本，找到 Price Forecasting 標題。","對照三句正文與五列表格，確認英文與繁中順序一致。","挑一個方法，分別寫下原文提供了什麼、尚未提供什麼，以及研究前需要補上的規則。"],"review":["是否誤把本小節稱為全章翻譯？","是否自行補寫原文沒有的縮寫或績效結論？","若重用本篇，是否保留作者、原文、修改與相同授權？"]},"sources":[{"title":"Technical Analysis／Basis of Technical Analysis — Price Forecasting","url":"https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Basis_of_Technical_Analysis&oldid=3562704","author":"Wikibooks contributors","language":"英文","checked":"2026-10-26","access":"公開文字；固定版本 3562704","scope":"只重用 Price Forecasting 小節的正文及表格，未使用圖片或其他章節。","license":"CC BY-SA 4.0；依 Wikibooks 文字授權政策"},{"title":"Wikibooks:Copyrights — 文字重用政策","url":"https://en.wikibooks.org/w/index.php?title=Wikibooks:Copyrights&oldid=4622060","author":"Wikibooks contributors","language":"英文","checked":"2026-10-26","access":"公開授權政策","scope":"核對文字改作、署名及相同授權要求；不將政策誤當作所有圖片的授權。","license":"政策說明；相關本文採 CC BY-SA 4.0"}],"courseRefs":[],"mode":"licensed-section","translationStatus":"已授權的完整小節節譯（Price Forecasting；非全章）","provenance":"原文依固定版本逐句與表格核對。Wikibooks 文字政策允許按 CC BY-SA 4.0 重用及改作；本篇署名原貢獻者並標示繁中翻譯與新增註解。沒有使用原章圖片。","revision":"2026-10-26","license":{"id":"CC BY-SA 4.0","url":"https://creativecommons.org/licenses/by-sa/4.0/","attribution":"原文：Wikibooks contributors，Technical Analysis／Basis of Technical Analysis，版本 3562704。繁體中文翻譯與編輯說明：Price Action Atlas，AI 協助，2026-10-26；本篇譯文及新增內容以 CC BY-SA 4.0 提供。","scope":"Price Forecasting 小節的三句正文與五列表格；本篇新增導覽、練習及校對註亦依相同授權。","changes":"翻譯為繁體中文，保留英文對照；新增範圍、縮寫與分類限制說明；未使用圖片。","sourceRevision":"https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Basis_of_Technical_Analysis&oldid=3562704","history":"https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Basis_of_Technical_Analysis&action=history"},"translation":[{"kind":"paragraph","en":"Price forecasting in general are grouped into Fundamental Analysis and Technical Analysis.","zh":"價格預測一般分為基本面分析和技術分析。"},{"kind":"paragraph","en":"However, with the Technical Analysis , we will get two types of main trend analysis that are : Trend Following and Trend Predicting.","zh":"不過，在技術分析中，我們會遇到兩種主要的趨勢分析：趨勢追蹤和趨勢預測。"},{"kind":"paragraph","en":"Of the listed, which we will get in touch some of them with later chapters.","zh":"下列項目中，有些會在後續章節介紹。"},{"kind":"table","headers":{"en":["Trend Following","Trend Predicting"],"zh":["趨勢追蹤","趨勢預測"]},"rows":[{"en":["Moving Averages","Elliot Wave"],"zh":["移動平均線","艾略特波浪"]},{"en":["N-Rule/Channel Breakout","Fibonacci"],"zh":["N 規則／通道突破","費波那契"]},{"en":["Oscillators (RSI,MAC,Stoc)","Gann Theory"],"zh":["振盪指標（RSI、MAC、Stoc）","江恩理論"]},{"en":["Bollinger Bands","Chart Patterns"],"zh":["布林通道","圖表型態"]},{"en":["Candlestick Patterns","-"],"zh":["K 線型態","—"]}]}]}
+{
+  "id": "licensed-price-forecasting",
+  "category": "授權節譯",
+  "title": "價格預測與技術分析基礎：本章正文中英對照",
+  "subtitle": "補齊本章教學正文、五列表格與圖說；英文逐段可展開，歷史說法另列校註。",
+  "language": "英文",
+  "level": "基礎",
+  "minutes": 16,
+  "summary": "本章從價格預測的分類，走到供需、價格資訊、成交量及 Satyam 歷史案例。保留全部教學文字的中英對照，並將作者信念、未定義條件及未獨立核驗的歷史數字分開說明；不含來源圖片、網站導覽或外鏈內容。",
+  "sourceSummary": "原章先列基本面與技術分析，以及趨勢追蹤／預測的分類表；再以股票供需與「價格說明一切」的信念解釋價格和成交量，最後用 Satyam 醜聞作歷史例子。這是教材作者的解釋，未提供回測、因果識別或微台／BTC 的績效證據。",
+  "keyPoints": [
+    "本章教學正文已補齊：十一段／句正文、五列表格、五個小節標題與一行圖說；圖片及外鏈除外。",
+    "中文譯文與新增校對註分開，不擅自修正原文縮寫。",
+    "分類不等於交易規則，名稱也不能證明能獲利。",
+    "原文與本篇改作以 CC BY-SA 4.0 署名並保留相同授權。"
+  ],
+  "sections": [
+    {
+      "heading": "一、先確定「完整」指哪一個範圍",
+      "paragraphs": [
+        "本批補齊 Technical Analysis／Basis of Technical Analysis 固定版本 3562704 的全部教學文字：Price Forecasting、技術分析基礎、價格移動、案例研究與 Satyam 案例。原有三句及五列表格保留，新增八段正文、一行圖說與標題。來源圖片、網站導覽、頁尾制式文字及外鏈內容不在翻譯範圍內。",
+        "正文全文完成僅指這一章的文字，不是整本書或全站完成。對照頁依來源次序保留英文，中文優先；原作者主張、本站校註與合成整理圖分開，避免把完成翻譯誤認為觀點已獲實證。"
+      ]
+    },
+    {
+      "heading": "二、怎麼讀原文表格",
+      "paragraphs": [
+        "兩欄是教材作者採用的分類方式。它把一些方法放在趨勢追蹤，另一些放在趨勢預測。這不是全領域唯一認可的分類，同一方法也可能因使用方式不同而被放進其他類別。看到名稱時，可以先記下要查核的問題，無須急著挑一種當作交易系統。",
+        "原文在振盪指標中使用 RSI、MAC、Stoc 這些縮寫。此處照錄 MAC 與 Stoc，不自行把缺少的字母補成另一個指標。英文 Elliot Wave 的拼法亦照錄；中文採通用的艾略特波浪。"
+      ]
+    },
+    {
+      "heading": "三、把教材名詞接回你的研究",
+      "paragraphs": [
+        "如果想研究其中一種方法，下一步是另行定義可以由當時資料計算的條件、進出場、成本與風險。這些新增規則不屬於本小節原文，必須標成自己的假說。將名詞、規則及證據分三欄，可以避免因為教材提到某方法就視為有效。",
+        "本篇授權允許翻譯與改作，但授權不是投資績效認證。原文、譯文與編輯說明都可以依所列授權重用；若想轉用其他圖片或別章節，仍須核對該項目自己的來源與授權。"
+      ]
+    },
+    {
+      "heading": "四、價格反映資訊：先分清信念與可見資料",
+      "paragraphs": [
+        "原作者以「價格說明一切」作為技術分析的基本信念，並稱知悉變化者會推動價格至新均衡。這裡忠實翻譯其說法；一根 K 線或一個收盤價，無法直接顯示每個參與者掌握的資訊、身分或所有委託。",
+        "供需和成交量段落也沒有定義比較基準或平均期間。若要研究，先另設可計算條件與反例；不能由「量越大越強」直接推出下一棒方向或套入微台、BTC。"
+      ]
+    },
+    {
+      "heading": "五、歷史案例保留原數字，不補造歷史行情",
+      "paragraphs": [
+        "Satyam 的價格、兩個交易時段及醜聞關聯是原文敘述；本批沒有獨立重建該股票行情或驗證調整方式。原文 today 在翻譯中指敘述當時，不是今天市場。",
+        "圖說與來源圖分開：只翻譯一行圖說，不重用來源圖片；本站原有合成圖用於分類與研究流程，不是 Satyam 走勢或事件證據。對外鏈只保留原名稱，未將未讀的百科內容算成翻譯完成。"
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "en": "Fundamental Analysis",
+      "zh": "基本面分析",
+      "note": "本小節列出的價格分析類別之一，原文未在此詳細定義。"
+    },
+    {
+      "en": "Technical Analysis",
+      "zh": "技術分析",
+      "note": "本小節進一步用兩欄列舉相關方法。"
+    },
+    {
+      "en": "Trend Following",
+      "zh": "趨勢追蹤",
+      "note": "忠實翻譯表格欄名；分類本身不是可執行規則。"
+    },
+    {
+      "en": "Trend Predicting",
+      "zh": "趨勢預測",
+      "note": "忠實翻譯表格欄名，不表示能準確預測未來。"
+    }
+  ],
+  "exercise": {
+    "title": "對照範圍與名詞核對",
+    "steps": [
+      "開啟固定原文版本，找到 Price Forecasting 標題。",
+      "先核對原三句與五列表格，再核對新增四節的八段正文與一行圖說，分清翻譯、原作者主張和本站校註。",
+      "挑一個方法，分別寫下原文提供了什麼、尚未提供什麼，以及研究前需要補上的規則。"
+    ],
+    "review": [
+      "是否把本章正文全文誤稱為整本書、來源圖片或全站完成？",
+      "是否自行補寫原文沒有的縮寫或績效結論？",
+      "若重用本篇，是否保留作者、原文、修改與相同授權？"
+    ]
+  },
+  "sources": [
+    {
+      "title": "技術分析的基礎：價格預測、價格移動與歷史案例",
+      "url": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Basis_of_Technical_Analysis&oldid=3562704",
+      "author": "Wikibooks contributors",
+      "language": "英文",
+      "checked": "2026-11-01",
+      "access": "實讀公開原頁全部章節文字、五列表格、圖說及頁尾固定版本 3562704。固定版本入口工具取得失敗，改以公開原頁頁尾版本核對；未使用或核驗來源圖片，不追讀 Satyam 維基百科外鏈。",
+      "scope": "Technical Analysis／Basis of Technical Analysis 固定版本 3562704 的全部教學正文：Price Forecasting 三句正文與五列表格，以及 Basis of Technical Analysis、Price Movement、Case Study、Satyam Computer Scandal 的八段正文與一行圖說；五個小節標題依原順序保留。不含網站導覽、頁尾制式文字、來源圖片或外鏈內容。",
+      "license": "CC BY-SA 4.0；依 Wikibooks 文字授權政策"
+    },
+    {
+      "title": "Wikibooks:Copyrights — 文字重用政策",
+      "url": "https://en.wikibooks.org/w/index.php?title=Wikibooks:Copyrights&oldid=4622060",
+      "author": "Wikibooks contributors",
+      "language": "英文",
+      "checked": "2026-11-01",
+      "access": "實讀公開文字重用政策及頁尾版本 4622060，核對署名、改作、相同授權與非文字媒體另查。",
+      "scope": "核對文字改作、署名及相同授權要求；不將政策誤當作所有圖片的授權。",
+      "license": "政策說明；相關本文採 CC BY-SA 4.0"
+    }
+  ],
+  "courseRefs": [],
+  "mode": "licensed-section",
+  "translationStatus": "本章教學正文、表格、標題與圖說已逐項核對並完整中英對照；不含導覽、來源圖片及外鏈內容，不代表全站翻譯完成。",
+  "provenance": "實讀原章公開正文與頁尾版本 3562704，核對全部十一段／句正文、五列表格、五個小節標題及一行圖說。固定版本網址本次取得失敗，以公開原頁頁尾版本核對；保留固定版本與修訂歷史。文字按 CC BY-SA 4.0 署名及相同授權改作；圖片與 Satyam 外鏈未使用。",
+  "revision": "2026-11-01",
+  "license": {
+    "id": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "原文：Wikibooks contributors，Technical Analysis／Basis of Technical Analysis，版本 3562704。繁體中文翻譯與編輯說明：Price Action Atlas，AI 協助，2026-10-26；本篇譯文及新增內容以 CC BY-SA 4.0 提供。 2026-11-01 第二十二批正文補譯與範圍核對：Price Action Atlas，AI 協助。",
+    "scope": "Technical Analysis／Basis of Technical Analysis 固定版本 3562704 的全部教學正文：Price Forecasting 三句正文與五列表格，以及 Basis of Technical Analysis、Price Movement、Case Study、Satyam Computer Scandal 的八段正文與一行圖說；五個小節標題依原順序保留。不含網站導覽、頁尾制式文字、來源圖片或外鏈內容。 本篇新增導讀、校註、合成圖與練習亦依相同授權。",
+    "changes": "保留原有三句與五列表格，按原順序補譯其餘八段正文、一行圖說及小節標題，新增語氣、供需與歷史數字校註；未重用來源圖片。",
+    "sourceRevision": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Basis_of_Technical_Analysis&oldid=3562704",
+    "history": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Basis_of_Technical_Analysis&action=history"
+  },
+  "translation": [
+    {
+      "kind": "heading",
+      "en": "Price Forecasting",
+      "zh": "價格預測"
+    },
+    {
+      "kind": "paragraph",
+      "en": "Price forecasting in general are grouped into Fundamental Analysis and Technical Analysis.",
+      "zh": "價格預測一般分為基本面分析和技術分析。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "However, with the Technical Analysis , we will get two types of main trend analysis that are : Trend Following and Trend Predicting.",
+      "zh": "不過，在技術分析中，我們會遇到兩種主要的趨勢分析：趨勢追蹤和趨勢預測。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "Of the listed, which we will get in touch some of them with later chapters.",
+      "zh": "下列項目中，有些會在後續章節介紹。"
+    },
+    {
+      "kind": "table",
+      "headers": {
+        "en": [
+          "Trend Following",
+          "Trend Predicting"
+        ],
+        "zh": [
+          "趨勢追蹤",
+          "趨勢預測"
+        ]
+      },
+      "rows": [
+        {
+          "en": [
+            "Moving Averages",
+            "Elliot Wave"
+          ],
+          "zh": [
+            "移動平均線",
+            "艾略特波浪"
+          ]
+        },
+        {
+          "en": [
+            "N-Rule/Channel Breakout",
+            "Fibonacci"
+          ],
+          "zh": [
+            "N 規則／通道突破",
+            "費波那契"
+          ]
+        },
+        {
+          "en": [
+            "Oscillators (RSI,MAC,Stoc)",
+            "Gann Theory"
+          ],
+          "zh": [
+            "振盪指標（RSI、MAC、Stoc）",
+            "江恩理論"
+          ]
+        },
+        {
+          "en": [
+            "Bollinger Bands",
+            "Chart Patterns"
+          ],
+          "zh": [
+            "布林通道",
+            "圖表型態"
+          ]
+        },
+        {
+          "en": [
+            "Candlestick Patterns",
+            "-"
+          ],
+          "zh": [
+            "K 線型態",
+            "—"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "en": "Basis of Technical Analysis",
+      "zh": "技術分析的基礎"
+    },
+    {
+      "kind": "paragraph",
+      "en": "The study is based on the interaction of the forces of demand and supply of stock. It mainly considers that the market is free and market forces will prevail to bring equilibrium.",
+      "zh": "這項研究以股票需求與供給兩種力量的互動為基礎。它主要認為市場是自由的，而且市場力量會發揮作用，使市場達到均衡。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "The fundamental belief behind the technical analysis is that \"The Price says it all\". This means if a stock is available at $125 then this includes all the information as of today about the stock. Most of the technical analyst believe that the news which are important for the stock reflects on the chart by its movement.",
+      "zh": "技術分析背後的基本信念是「價格說明了一切」。這表示，如果一檔股票可以用 $125 買到，那麼這個價格就包含了截至當時關於該股票的所有資訊。大多數技術分析者相信，對該股票重要的消息，會透過價格移動反映在圖表上。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "If there were any fundamental change in the financial health the imbalance is created by those who are aware of this change (also called operators) and the price will start movement to the new equilibrium point.",
+      "zh": "如果財務健全程度發生任何根本變化，知悉這項變化的人（原文亦稱 operators，即操作人）就會造成失衡，而價格會開始朝新的均衡點移動。"
+    },
+    {
+      "kind": "heading",
+      "en": "Price Movement",
+      "zh": "價格移動"
+    },
+    {
+      "kind": "paragraph",
+      "en": "Basic principle of price movement is Price of stock will move up only if there is demand for the stock. The price will move down if there is supply of the stock.",
+      "zh": "價格移動的基本原則是：只有存在對該股票的需求時，股價才會上漲。如果存在該股票的供給，價格就會下跌。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "If on a particular day the price have moved up and closed it is concluded that the demand for the stock was more than the supply. The volume (ie number of stocks traded) indicates the strength in the movement. More the volume more is the strength (ie if the volume is more than average the strength is more).",
+      "zh": "如果在某一天，價格上漲並收盤，就會得出該股票需求大於供給的結論。成交量（也就是成交的股票數量）表示這次移動的強度。成交量越多，強度就越大（也就是說，如果成交量高於平均，強度就更大）。"
+    },
+    {
+      "kind": "heading",
+      "en": "Case Study",
+      "zh": "案例研究"
+    },
+    {
+      "kind": "paragraph",
+      "en": "There are movements in the stock and they are based on various buying and selling in high quantities. Now we as a small investor might not be aware about such news. But the big news which we are aware about can be easily traced on the chart. Few of them are elaborated below.",
+      "zh": "股票會出現價格移動，這些移動以各種大額買進與賣出為基礎。我們身為小額投資者，可能不知道這類消息。不過，對於我們已知的重大消息，可以很容易在圖表上追溯其痕跡。以下說明其中幾個例子。"
+    },
+    {
+      "kind": "heading",
+      "en": "Satyam Computer Scandal",
+      "zh": "Satyam Computer 醜聞"
+    },
+    {
+      "kind": "paragraph",
+      "en": "Satyam Computer Scandal is one of the big scandal which rocked Indian stock market. If we have a look at the chart of Satyam computer today we can clearly see the history recorded on this chart for ever.",
+      "zh": "Satyam Computer 醜聞是震撼印度股市的重大醜聞之一。如果在原作者敘述的當時查看 Satyam Computer 的圖表，就能清楚看見這段歷史永久記錄在圖表上。"
+    },
+    {
+      "kind": "paragraph",
+      "en": "Satyam stock crack due to surface of scandal",
+      "zh": "醜聞浮上檯面導致 Satyam 股價崩跌。",
+      "sourceRole": "caption"
+    },
+    {
+      "kind": "paragraph",
+      "en": "As can be seen from the chart the stock of Satyam Computers fell from Rs.180 to Rs.5 in 2 trading sessions. Big events have big marks on the chart and small events have small marks on the chart. So even if the news are not known to the one looking at the chart he/she must be able to say the there was something wrong or something right with this company which made this stock stock move in such a direction on a particular day.",
+      "zh": "如圖所示，Satyam Computers 的股價在兩個交易時段內，從 Rs.180 跌至 Rs.5。重大事件會在圖表上留下較大的痕跡，小事件則留下較小的痕跡。因此，即使看圖的人不知道這些消息，也必須能夠說出，這家公司出了某些不對勁或正面的事情，使股價在某一天朝那個方向移動。"
+    }
+  ],
+  "translationTitle": "價格預測、技術分析基礎與歷史案例：本章正文中英對照",
+  "translationScope": "Technical Analysis／Basis of Technical Analysis 固定版本 3562704 的全部教學正文：Price Forecasting 三句正文與五列表格，以及 Basis of Technical Analysis、Price Movement、Case Study、Satyam Computer Scandal 的八段正文與一行圖說；五個小節標題依原順序保留。不含網站導覽、頁尾制式文字、來源圖片或外鏈內容。",
+  "translationNotes": [
+    "believe 與 fundamental belief 依原意保留為「相信」「基本信念」，不把「價格說明一切」提升成本站驗證的定律；today 指原作者敘述當時，不是查核日或今日行情。",
+    "$125 保留原符號，原段沒有明確指定幣別；operators 暫譯操作人，不自行推定為造市商、操縱者或可以從 K 線識別的主力。",
+    "供需與成交量強度均為原作者的簡化解釋。每筆已成交交易同時存在買賣雙方；僅憑收盤上漲或總成交量，不能辨識完整委託簿、交易者身分或因果，也不是微台／BTC 的統計勝率。",
+    "原文收漲句沒有明定與開盤或前收比較，「高於平均」也沒有指定平均期間；翻譯不擅加基準、量化門檻或交易觸發。",
+    "Satyam 的 Rs.180、Rs.5 與兩個交易時段是原文歷史說法，本批未另行核驗行情、交易所或公司行動調整；保留英文拼字重複 stock stock，不將原圖重建或現有合成圖當作證據。",
+    "本批一行圖說按原文位置保留，來源圖片本身未重用；Satyam Computer Scandal 外鏈只保留名稱，沒有將維基百科外鏈列為已讀或已翻譯。"
+  ],
+  "translationRevisions": [
+    {
+      "id": "licensed-batch22",
+      "date": "2026-11-01",
+      "addedProseParagraphs": 8,
+      "addedCaptions": 1,
+      "addedHeadings": 5
+    }
+  ]
+}

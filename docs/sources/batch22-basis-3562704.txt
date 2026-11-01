@@ -1,0 +1,37 @@
+原文：Wikibooks contributors，Technical Analysis/Basis of Technical Analysis，固定版本 3562704。
+來源：https://en.wikibooks.org/wiki/Technical_Analysis/Basis_of_Technical_Analysis
+固定版本：https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Basis_of_Technical_Analysis&oldid=3562704
+修訂歷史：https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Basis_of_Technical_Analysis&action=history
+授權：CC BY-SA 4.0，https://creativecommons.org/licenses/by-sa/4.0/
+2026-11-01 實讀原頁正文與頁尾，oldid 3562704；固定入口工具取得失敗。以下僅轉錄教學正文、表格文字及圖說，保留原字詞，空白與表格分隔改為純文字；不含圖片、導覽、頁尾或外鏈。
+--- BEGIN SOURCE TEXT ---
+Price Forecasting
+Price forecasting in general are grouped into Fundamental Analysis and Technical Analysis.
+However, with the Technical Analysis , we will get two types of main trend analysis that are : Trend Following and Trend Predicting.
+Of the listed, which we will get in touch some of them with later chapters.
+Trend Following
+Trend Predicting
+Moving Averages
+Elliot Wave
+N-Rule/Channel Breakout
+Fibonacci
+Oscillators (RSI,MAC,Stoc)
+Gann Theory
+Bollinger Bands
+Chart Patterns
+Candlestick Patterns
+-
+Basis of Technical Analysis
+The study is based on the interaction of the forces of demand and supply of stock. It mainly considers that the market is free and market forces will prevail to bring equilibrium.
+The fundamental belief behind the technical analysis is that "The Price says it all". This means if a stock is available at $125 then this includes all the information as of today about the stock. Most of the technical analyst believe that the news which are important for the stock reflects on the chart by its movement.
+If there were any fundamental change in the financial health the imbalance is created by those who are aware of this change (also called operators) and the price will start movement to the new equilibrium point.
+Price Movement
+Basic principle of price movement is Price of stock will move up only if there is demand for the stock. The price will move down if there is supply of the stock.
+If on a particular day the price have moved up and closed it is concluded that the demand for the stock was more than the supply. The volume (ie number of stocks traded) indicates the strength in the movement. More the volume more is the strength (ie if the volume is more than average the strength is more).
+Case Study
+There are movements in the stock and they are based on various buying and selling in high quantities. Now we as a small investor might not be aware about such news. But the big news which we are aware about can be easily traced on the chart. Few of them are elaborated below.
+Satyam Computer Scandal
+Satyam Computer Scandal is one of the big scandal which rocked Indian stock market. If we have a look at the chart of Satyam computer today we can clearly see the history recorded on this chart for ever.
+Satyam stock crack due to surface of scandal
+As can be seen from the chart the stock of Satyam Computers fell from Rs.180 to Rs.5 in 2 trading sessions. Big events have big marks on the chart and small events have small marks on the chart. So even if the news are not known to the one looking at the chart he/she must be able to say the there was something wrong or something right with this company which made this stock stock move in such a direction on a particular day.
+--- END SOURCE TEXT ---

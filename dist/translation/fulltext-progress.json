@@ -2,8 +2,8 @@
   "updated": "2026-11-01",
   "totalSources": 2367,
   "summary": {
-    "completeSources": 0,
-    "excerptSources": 2,
+    "completeSources": 1,
+    "excerptSources": 1,
     "notAssessedSources": 2365,
     "bilingualUnits": 6
   },
@@ -11,7 +11,7 @@
     "正文摘要不等於全文翻譯。",
     "指定範圍完整不等於來源整頁完成。",
     "尚未核對授權不能標成已獲授權或明確禁止。",
-    "只有具固定版本、逐段覆蓋與完整核對證據的來源才可列來源全文完成。"
+    "只有具固定版本、逐段覆蓋與完整核對證據的來源才可列正文全文完成；圖片、導覽與外鏈須另列範圍。"
   ],
   "units": [
     {
@@ -51,10 +51,10 @@
     },
     {
       "articleId": "licensed-price-forecasting",
-      "scope": "Price Forecasting 小節的三句正文與五列表格；本篇新增導覽、練習及校對註亦依相同授權。",
+      "scope": "Technical Analysis／Basis of Technical Analysis 固定版本 3562704 的全部教學正文：Price Forecasting 三句正文與五列表格，以及 Basis of Technical Analysis、Price Movement、Case Study、Satyam Computer Scandal 的八段正文與一行圖說；五個小節標題依原順序保留。不含網站導覽、頁尾制式文字、來源圖片或外鏈內容。",
       "license": "CC BY-SA 4.0",
       "sourceRevision": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Basis_of_Technical_Analysis&oldid=3562704",
-      "revision": "2026-10-26"
+      "revision": "2026-11-01"
     }
   ],
   "items": [
@@ -480,11 +480,43 @@
     },
     {
       "sourceId": "556ebe1e576b291ac491",
-      "translationStatus": "defined-excerpts-only",
-      "rightsStatus": "licensed-for-defined-excerpts",
+      "translationStatus": "complete-source",
+      "rightsStatus": "licensed-for-complete-text",
       "unitIds": [
         "licensed-price-forecasting"
-      ]
+      ],
+      "audit": {
+        "sourceId": "556ebe1e576b291ac491",
+        "sourceVersion": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Basis_of_Technical_Analysis&oldid=3562704",
+        "checked": "2026-11-01",
+        "complete": true,
+        "unitIds": [
+          "licensed-price-forecasting"
+        ],
+        "scope": "Technical Analysis／Basis of Technical Analysis 固定版本 3562704 的全部教學正文：Price Forecasting 三句正文與五列表格，以及 Basis of Technical Analysis、Price Movement、Case Study、Satyam Computer Scandal 的八段正文與一行圖說；五個小節標題依原順序保留。不含網站導覽、頁尾制式文字、來源圖片或外鏈內容。",
+        "excluded": [
+          "網站導覽與頁尾制式文字",
+          "來源圖片",
+          "外鏈內容"
+        ],
+        "evidence": {
+          "method": "實讀公開原頁全部教學正文，頁尾 oldid 3562704 與固定版本一致；固定入口取得失敗另行紀錄。依原順序逐段、表格逐格與圖說核對。",
+          "publicSource": "https://en.wikibooks.org/wiki/Technical_Analysis/Basis_of_Technical_Analysis",
+          "sourceEdited": "2019-08-12",
+          "licensePolicy": "https://en.wikibooks.org/wiki/Wikibooks:Copyrights",
+          "licensePolicyRevision": "4622060",
+          "coverage": {
+            "proseBlocks": 11,
+            "tableCount": 1,
+            "tableRows": 5,
+            "sectionHeadings": 5,
+            "captions": 1
+          },
+          "englishAndChineseBlocksSha256": "bf9b5dcc69967bd6f8616670b3e82140bad677eebaa2b30e5ba6d597ae600505",
+          "authorFile": "scripts/licensed-batch22.json",
+          "verification": "scripts/verify-batch22-coverage.cjs"
+        }
+      }
     },
     {
       "sourceId": "610f078cfecc628a0208",

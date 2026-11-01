@@ -86,3 +86,5 @@
 2026-10-31 網站雙地圖：#site-map 為十六個專區入口，#learning-map 為六階段十八篇精讀。原 #map、#plan、十三條閱讀路線與筆記格式保留。enable-chinese-first.cjs 在地圖已安裝時最後自動執行 build-site-maps.cjs，避免後續翻譯回退導覽與閱讀器資產版本。若單獨改地圖，可直接重建；驗證使用 workspace tools/check_site_maps.cjs、check_site_maps_reader.cjs，另保留閱讀回歸。詳見 docs/site-maps.md。
 
 第二十一批（2026-11-01）：`prepare-batch21-reviews.cjs` → `build-content-batch21.cjs` → `build-media-library.cjs --media-only` → 翻譯清單 → 中文呈現。作者檔為 batch21-sources.json、batch21-media.json、licensed-batch21.json、zh-core-source-reviews-15.json。只重建影音以保留書籍區；地圖紀錄原位置更新，避免置頂舊批次。Podcast 實讀逐字稿不等於已聽音訊，YouTube 介紹與直接取得失敗分別登錄；平台評價版本不一致就保留差異、不填統一星等。現有 26 張來源卡、16 影音、2367 英文網址，全文完成仍 0。驗證使用 workspace tools/check_content_batch21*.cjs，範圍與略過見 docs/content-batch21.md；筆記測試只在隔離記憶體進行，不寫入實際使用者狀態。
+
+第二十二批（2026-11-01）：`build-translation-batch22.cjs` → `verify-batch22-coverage.cjs` → 翻譯清單 → 中文呈現；作者檔 licensed-batch22.json，來源快照 docs/sources/batch22-basis-3562704.txt。首筆來源章節教學正文覆蓋稽核綁定固定版本、實讀範圍、排除項、中英區塊雜湊及逐項檢查，只有該章的文字升為 complete-source；圖片、導覽與外鏈另列。全文生成器會拒絕與稽核雜湊不符的內容。保留所有其他來源與 62 個閱讀 ID，驗證用 workspace tools/check_translation_batch22*.cjs。瀏覽器預覽連線異常，本批實際畫面驗證未完成；不以舊截圖作本批證據。範圍與限制見 docs/translation-batch22.md。

@@ -1012,8 +1012,8 @@
     },
     {
       "id": "556ebe1e576b291ac491",
-      "titleZh": "Technical Analysis／Basis of Technical Analysis — Price Forecasting",
-      "sourceTitle": "Technical Analysis／Basis of Technical Analysis — Price Forecasting",
+      "titleZh": "技術分析的基礎：價格預測、價格移動與歷史案例",
+      "sourceTitle": "技術分析的基礎：價格預測、價格移動與歷史案例",
       "status": "licensed-excerpt",
       "resourceIds": [],
       "chunk": "sources-000.json",
@@ -34321,8 +34321,8 @@
     }
   ],
   "fullTextProgress": {
-    "completeSources": 0,
-    "excerptSources": 2,
+    "completeSources": 1,
+    "excerptSources": 1,
     "notAssessedSources": 2365,
     "bilingualUnits": 6
   }

@@ -1,0 +1,36 @@
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict'),crypto=require('node:crypto');
+const dist=path.resolve(__dirname,'../dist'),read=f=>JSON.parse(fs.readFileSync(path.join(dist,f),'utf8')),write=(f,v)=>fs.writeFileSync(path.join(dist,f),typeof v==='string'?v:JSON.stringify(v,null,2)+'\n'),add=require('./licensed-batch22.json'),date=add.date;
+const a=read('reading/articles/'+add.articleId+'.json');assert.equal(a.license.id,add.license);
+if(!a.translationRevisions?.some(r=>r.id==='licensed-batch22'))a.translation=[add.prepend,...a.translation,...add.blocks];
+a.revision=date;a.minutes=16;a.title='價格預測與技術分析基礎：本章正文中英對照';
+a.subtitle='補齊本章教學正文、五列表格與圖說；英文逐段可展開，歷史說法另列校註。';
+a.summary='本章從價格預測的分類，走到供需、價格資訊、成交量及 Satyam 歷史案例。保留全部教學文字的中英對照，並將作者信念、未定義條件及未獨立核驗的歷史數字分開說明；不含來源圖片、網站導覽或外鏈內容。';
+a.sourceSummary='原章先列基本面與技術分析，以及趨勢追蹤／預測的分類表；再以股票供需與「價格說明一切」的信念解釋價格和成交量，最後用 Satyam 醜聞作歷史例子。這是教材作者的解釋，未提供回測、因果識別或微台／BTC 的績效證據。';
+a.translationTitle='價格預測、技術分析基礎與歷史案例：本章正文中英對照';a.translationScope=add.scope;
+a.translationStatus='本章教學正文、表格、標題與圖說已逐項核對並完整中英對照；不含導覽、來源圖片及外鏈內容，不代表全站翻譯完成。';
+a.provenance='實讀原章公開正文與頁尾版本 3562704，核對全部十一段／句正文、五列表格、五個小節標題及一行圖說。固定版本網址本次取得失敗，以公開原頁頁尾版本核對；保留固定版本與修訂歷史。文字按 CC BY-SA 4.0 署名及相同授權改作；圖片與 Satyam 外鏈未使用。';
+a.keyPoints[0]='本章教學正文已補齊：十一段／句正文、五列表格、五個小節標題與一行圖說；圖片及外鏈除外。';
+a.sections[0]={heading:'一、先確定「完整」指哪一個範圍',paragraphs:['本批補齊 Technical Analysis／Basis of Technical Analysis 固定版本 3562704 的全部教學文字：Price Forecasting、技術分析基礎、價格移動、案例研究與 Satyam 案例。原有三句及五列表格保留，新增八段正文、一行圖說與標題。來源圖片、網站導覽、頁尾制式文字及外鏈內容不在翻譯範圍內。','正文全文完成僅指這一章的文字，不是整本書或全站完成。對照頁依來源次序保留英文，中文優先；原作者主張、本站校註與合成整理圖分開，避免把完成翻譯誤認為觀點已獲實證。']};
+const extra=[{heading:'四、價格反映資訊：先分清信念與可見資料',paragraphs:['原作者以「價格說明一切」作為技術分析的基本信念，並稱知悉變化者會推動價格至新均衡。這裡忠實翻譯其說法；一根 K 線或一個收盤價，無法直接顯示每個參與者掌握的資訊、身分或所有委託。','供需和成交量段落也沒有定義比較基準或平均期間。若要研究，先另設可計算條件與反例；不能由「量越大越強」直接推出下一棒方向或套入微台、BTC。']},{heading:'五、歷史案例保留原數字，不補造歷史行情',paragraphs:['Satyam 的價格、兩個交易時段及醜聞關聯是原文敘述；本批沒有獨立重建該股票行情或驗證調整方式。原文 today 在翻譯中指敘述當時，不是今天市場。','圖說與來源圖分開：只翻譯一行圖說，不重用來源圖片；本站原有合成圖用於分類與研究流程，不是 Satyam 走勢或事件證據。對外鏈只保留原名稱，未將未讀的百科內容算成翻譯完成。']}];
+for(const s of extra){const i=a.sections.findIndex(x=>x.heading===s.heading);if(i<0)a.sections.push(s);else a.sections[i]=s;}
+a.translationNotes=[...new Set([...(a.translationNotes||[]),...add.translationNotes])];
+a.exercise.steps[1]='先核對原三句與五列表格，再核對新增四節的八段正文與一行圖說，分清翻譯、原作者主張和本站校註。';
+a.exercise.review[0]='是否把本章正文全文誤稱為整本書、來源圖片或全站完成？';
+a.license.scope=add.scope+' 本篇新增導讀、校註、合成圖與練習亦依相同授權。';
+if(!a.license.attribution.includes('第二十二批'))a.license.attribution+=' 2026-11-01 第二十二批正文補譯與範圍核對：Price Action Atlas，AI 協助。';
+a.license.changes='保留原有三句與五列表格，按原順序補譯其餘八段正文、一行圖說及小節標題，新增語氣、供需與歷史數字校註；未重用來源圖片。';
+a.sources[0]={...a.sources[0],title:'技術分析的基礎：價格預測、價格移動與歷史案例',checked:date,scope:add.scope,access:add.access};
+a.sources[1]={...a.sources[1],checked:date,access:'實讀公開文字重用政策及頁尾版本 4622060，核對署名、改作、相同授權與非文字媒體另查。'};
+a.translationRevisions=[...(a.translationRevisions||[]).filter(r=>r.id!=='licensed-batch22'),{id:'licensed-batch22',date,addedProseParagraphs:8,addedCaptions:1,addedHeadings:5}];write('reading/articles/'+a.id+'.json',a);
+const manifest=read('reading/index.json'),row=manifest.articles.find(r=>r.id===a.id);for(const key of ['title','subtitle','summary','minutes'])row[key]=a[key];row.tags=[...new Set([...a.glossary.flatMap(t=>[t.en,t.zh]),...a.keyPoints,'英文對照','正文全文','整理圖'])];manifest.revision=date;write('reading/index.json',manifest);
+// A full-text flag requires a version-bound, block-by-block audit; never infer it from a title.
+const digest=crypto.createHash('sha256').update(JSON.stringify(a.translation)).digest('hex'),auditFile=path.join(__dirname,'fulltext-source-audits.json'),audits=JSON.parse(fs.readFileSync(auditFile,'utf8'));
+const audit={sourceId:'556ebe1e576b291ac491',sourceVersion:add.sourceRevision,checked:date,complete:true,unitIds:[a.id],scope:add.scope,excluded:['網站導覽與頁尾制式文字','來源圖片','外鏈內容'],evidence:{method:'實讀公開原頁全部教學正文，頁尾 oldid 3562704 與固定版本一致；固定入口取得失敗另行紀錄。依原順序逐段、表格逐格與圖說核對。',publicSource:add.source,sourceEdited:add.sourceEdited,licensePolicy:add.licensePolicy,licensePolicyRevision:'4622060',coverage:{proseBlocks:11,tableCount:1,tableRows:5,sectionHeadings:5,captions:1},englishAndChineseBlocksSha256:digest,authorFile:'scripts/licensed-batch22.json',verification:'scripts/verify-batch22-coverage.cjs'}};
+const ai=audits.findIndex(r=>r.sourceId===audit.sourceId);if(ai<0)audits.push(audit);else audits[ai]=audit;fs.writeFileSync(auditFile,JSON.stringify(audits,null,2)+'\n');
+const file=path.join(__dirname,'translation-section.html');let template=fs.readFileSync(file,'utf8');
+const note='<!-- TRANSLATION_BATCH22_NOTE -->\n <div class="card translation-coverage-note"><strong>11.01 續譯：價格如何反映資訊？</strong><p><a href="#read/licensed-price-forecasting">價格預測單元補齊本章教學正文中英對照</a>：新增八段、五個小節標題及一行圖說，保留舊表格。<strong>作者信念、成交量說法與歷史數字另列校註</strong>；中文先讀，英文逐段展開。</p><p>完成範圍限這一章的文字，不含來源圖片或外鏈，並非全站翻譯完成。</p></div>\n';
+if(template.includes('<!-- TRANSLATION_BATCH22_NOTE -->'))template=template.replace(/<!-- TRANSLATION_BATCH22_NOTE -->[\s\S]*?(?=<!-- CONTENT_BATCH21_NOTE -->)/,note);else template=template.replace('<!-- CONTENT_BATCH21_NOTE -->',note+'<!-- CONTENT_BATCH21_NOTE -->');
+template=template.replace(/(<!-- CONTENT_BATCH21_NOTE -->\s*)<div class="card translation-coverage-note">([\s\S]*?)<\/div>/,'$1<details class="card translation-coverage-note"><summary>前批：型態原表與影音選讀</summary>$2</details>');fs.writeFileSync(file,template);
+let html=fs.readFileSync(path.join(dist,'index.html'),'utf8');const marker='<!-- TRANSLATION_BATCH22_UPDATE -->';if(!html.includes(marker))html=html.replace('<!-- CONTENT_BATCH21_UPDATE -->',marker+'<a class="discovery-update" href="#read/licensed-price-forecasting"><span>11.01 正文補譯</span><strong>價格預測、技術分析基礎與歷史案例 · 保留英文及校註</strong><span>閱讀本章對照 →</span></a>\n<!-- CONTENT_BATCH21_UPDATE -->');write('index.html',html);
+const log=read('reading/content-updates.json'),entry={id:'translation-batch22-20261101',collected:date,updated:date,timezone:'Asia/Taipei',description:'補齊一章既有授權來源的教學正文，保留三句、五列表格與原文；新增八段、五標題及一圖說。',articles:[a.id],sources:[add.sourceRevision,add.licensePolicy],decisions:[{source:'Wikibooks Basis of Technical Analysis 3562704',url:add.source,status:'本章教學正文完整對照',reason:add.access},{source:'固定版本入口',url:add.sourceRevision,status:'取得失敗後核對原頁版本',reason:'固定版本頁工具未取得，公開原頁可讀且頁尾 oldid 仍為 3562704；保留失敗，不寫成來源不存在。'},{source:'原章兩張來源圖片與 Satyam 外鏈',status:'未採用／未接續處理',reason:'只使用依 CC BY-SA 4.0 的文字與圖說；圖片未核驗，外鏈未實讀，不列完成。'}],notes:['首筆正文全文稽核僅核發本章文字，不代表全站達成。','英文保留、繁中優先；原文信念與歷史數字不轉成當前行情或實證勝率。','原有 62 個閱讀 ID、其餘 61 篇、68 張圖、26 張卡、16 影音、雙地圖與筆記格式保留。','沒有建立新目標、排程或執行交易。']};log.batches=[entry,...log.batches.filter(r=>r.id!==entry.id)];write('reading/content-updates.json',log);
+console.log(JSON.stringify({article:a.id,newProseParagraphs:8,newCaptions:1,headings:5,auditedTextSources:audits.length}));

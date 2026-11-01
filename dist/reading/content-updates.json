@@ -2,6 +2,45 @@
   "version": 1,
   "batches": [
     {
+      "id": "translation-batch22-20261101",
+      "collected": "2026-11-01",
+      "updated": "2026-11-01",
+      "timezone": "Asia/Taipei",
+      "description": "補齊一章既有授權來源的教學正文，保留三句、五列表格與原文；新增八段、五標題及一圖說。",
+      "articles": [
+        "licensed-price-forecasting"
+      ],
+      "sources": [
+        "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Basis_of_Technical_Analysis&oldid=3562704",
+        "https://en.wikibooks.org/wiki/Wikibooks:Copyrights"
+      ],
+      "decisions": [
+        {
+          "source": "Wikibooks Basis of Technical Analysis 3562704",
+          "url": "https://en.wikibooks.org/wiki/Technical_Analysis/Basis_of_Technical_Analysis",
+          "status": "本章教學正文完整對照",
+          "reason": "實讀公開原頁全部章節文字、五列表格、圖說及頁尾固定版本 3562704。固定版本入口工具取得失敗，改以公開原頁頁尾版本核對；未使用或核驗來源圖片，不追讀 Satyam 維基百科外鏈。"
+        },
+        {
+          "source": "固定版本入口",
+          "url": "https://en.wikibooks.org/w/index.php?title=Technical_Analysis/Basis_of_Technical_Analysis&oldid=3562704",
+          "status": "取得失敗後核對原頁版本",
+          "reason": "固定版本頁工具未取得，公開原頁可讀且頁尾 oldid 仍為 3562704；保留失敗，不寫成來源不存在。"
+        },
+        {
+          "source": "原章兩張來源圖片與 Satyam 外鏈",
+          "status": "未採用／未接續處理",
+          "reason": "只使用依 CC BY-SA 4.0 的文字與圖說；圖片未核驗，外鏈未實讀，不列完成。"
+        }
+      ],
+      "notes": [
+        "首筆正文全文稽核僅核發本章文字，不代表全站達成。",
+        "英文保留、繁中優先；原文信念與歷史數字不轉成當前行情或實證勝率。",
+        "原有 62 個閱讀 ID、其餘 61 篇、68 張圖、26 張卡、16 影音、雙地圖與筆記格式保留。",
+        "沒有建立新目標、排程或執行交易。"
+      ]
+    },
+    {
       "id": "content-batch21-20261101",
       "collected": "2026-11-01",
       "updated": "2026-11-01",
