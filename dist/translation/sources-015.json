@@ -1,5 +1,38 @@
 [
   {
+    "id": "9cec4ea2fec0b453aac1",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-tight-bull-channel-likely-to-test-moving-average/",
+    "sourceTitle": "E-mini Tight Bull Channel Likely to Test Moving Average",
+    "titleZh": "Brad 日內案例｜2026-05-18｜區間與通道",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-269823"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-269823"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-269823",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "9d2c7c47cca2a44abfe8",
     "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-35c-scaling-in/",
     "sourceTitle": "加碼",
@@ -3180,39 +3213,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-175139",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "a952c1d5fb0977509c1b",
-    "url": "https://www.brookstradingcourse.com/analysis/bears-want-a-wedge-top-above-yesterdays-high/",
-    "sourceTitle": "Bears Want a Wedge Top Above Yesterday’s High",
-    "titleZh": "Brad 日內案例｜2025-06-06｜反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-239825"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-239825"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-239825",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

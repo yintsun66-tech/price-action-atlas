@@ -1,5 +1,38 @@
 [
   {
+    "id": "85de60fd1b6bce081231",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-taking-profits-betting-on-pullback/",
+    "sourceTitle": "E-mini Bulls Taking Profits Betting on Pullback",
+    "titleZh": "Brad 日內案例｜2026-06-03｜回檔與第二段／風險與退出",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-270997"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-270997"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-270997",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "85ec3574ba10f01cc112",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-buyers-below-after-pullback/",
     "sourceTitle": "E-mini Buyers below After Pullback",
@@ -3142,39 +3175,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-166667",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "91ba305be94980044579",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-test-of-august-high/",
-    "sourceTitle": "Emini Bulls Want Test of August High and Strong Entry Bar",
-    "titleZh": "Brad 日內案例｜2023-06-07｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-180183"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-180183"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-180183",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

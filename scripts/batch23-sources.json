@@ -1,0 +1,32 @@
+[
+  {
+    "id":"grimes-time-stop-rules","platform":"Adam H. Grimes 原作者部落格","kind":"author","language":"en","author":"Adam H. Grimes",
+    "title":"預期行情沒有發展：時間退出與風險責任","originalTitle":"A Few Trading Rules","url":"https://www.adamhgrimes.com/a-few-trading-rules/","published":"2011-10-25","dateNote":"原頁列 25 Oct 2011；本批續讀既有歷史來源，不當作今日行情。",
+    "summary":"Grimes 談預期情境未發展時的時間退出，也提醒相關部位可能集中風險。這是管理原則，未指定等待棒數。",
+    "quote":{"en":"the anticipated scenario does not develop","zh":"預期的情境沒有發展。","context":"時間退出那一條的條件短句；作者未在此定義幾根棒或幾分鐘。"},
+    "access":"實讀完整公開正文的交易管理與其他想法兩組規則；未讀付費教材，正文已刪去原系統的特定參數。","translation":"繁中精簡摘要及必要短句；非逐條全文翻譯。",
+    "review":{"basis":"可核對原作者正文、署名與發布日期；未取得本篇獨立教學評分。","learning":"將等待條件、失效事件與成交時點事前分欄。","limits":"作者分享個人管理原則，不是微台／BTC 的績效證據；網站連向其商業教育服務。","engagement":"未取得可比較互動數，不補造熱門排行。"},
+    "figure":{"src":"images/study/pp2-time-exit-map.svg","alt":"本站原創六棒時間退出流程，用來分開到期、觸發與成交","caption":"既有原創合成流程，六棒與三棒是本站練習參數，不是 Grimes 原規則。"},
+    "related":["pp2-time-exit","practice-risk-in-r","pa3-research-register"],"tags":["時間退出","風險管理","情境失效"],"batch":23,"collected":"2026-11-01","checked":"2026-11-01","courseRefs":[]
+  },
+  {
+    "id":"woods-gap-risk-review","platform":"Trading Setups Review 原作者文章","kind":"author","language":"en","author":"Galen Woods",
+    "title":"跳過停損或進場價：先重算風險，再決定是否交易","originalTitle":"How to Manage Gap Risk in Swing Trading","url":"https://www.tradingsetupsreview.com/manage-gap-risk-swing-trading/","published":null,"dateNote":"公開正文未列可確認發布日，不以頁尾版權年份或搜尋日期補填。",
+    "summary":"Woods 分開討論跳過停損與進場價。尚未進場時，若設定或風險條件不成立，應略過；縮小部位也須先確認假說有效。",
+    "quote":{"en":"Just skip it and wait for another setup.","zh":"略過它，等待另一個交易設定。","context":"進場跳空後，設定仍有效且風險可接受這兩項條件未滿足時的處理。"},
+    "access":"實讀完整公開正文，含停損跳空的六種處理方向、進場跳空的三種選擇及結語；未核驗圖像或外鏈書籍。","translation":"繁中精簡摘要及必要短句；不重刊全文或來源圖。",
+    "review":{"basis":"原作者文章可核對分類與限制，未取得獨立教學評分。","learning":"分開記錄已有持倉的退出風險，以及尚未進場的取消條件。","limits":"股票隔夜情境為主，另有聯盟行銷揭露；選擇權與近乎全天市場說法未直接移植為本站建議。","engagement":"沒有可核對的當前評分或可比票數，不作人氣或獲利排名。"},
+    "figure":{"src":"images/study/pp2-signal-gap-candle.svg","alt":"本站原創強棒與下一可用成交價示意，用於重新檢查風險","caption":"既有原創合成圖，不是 Woods 原圖、真實成交或跳空績效。"},
+    "related":["pp2-signal-gap","pa3-stop-execution","practice-risk-in-r"],"tags":["跳空","停損","部位大小","取消交易"],"batch":23,"collected":"2026-11-01","checked":"2026-11-01","courseRefs":[]
+  },
+  {
+    "id":"sierra-cvd-reset-review","platform":"Sierra Chart 官方技術文件","kind":"author","language":"en","author":"Sierra Chart",
+    "title":"累積成交量差為什麼重載後不同：先核對來源與重置","originalTitle":"Cumulative Delta Bars - Volume","url":"https://www.sierrachart.com/index.php?ID=292&page=doc/StudiesReference.php","published":null,"dateNote":"原頁列最後修改 2025-01-24；這不是首次發布日，查核日另列。",
+    "summary":"官方文件說明「賣價成交量減買價成交量」的累積、棒內高低與重置。起點、時段或資料不同，重載後可能改值；圖中開收不是價格。",
+    "quote":{"en":"The study only works on Intraday charts.","zh":"這個指標只適用於日內圖表。","context":"指 Sierra Chart 本項指標，不是說所有 CVD 定義都只有同一限制。"},
+    "access":"實讀完整公開正文：定義、八步計算、繪圖工具、差異排除、兩節量篩選與兩項輸入；沒有執行平台或連接行情。","translation":"繁中精簡摘要與必要短句，不翻譯或重刊整份文件。",
+    "review":{"basis":"廠商規格可核對其計算方法與資料需求，不是策略獨立成效評分。","learning":"先記錄資料、時鐘及重置方式，再比較 CVD。","limits":"平台正確性與其他平台比較屬廠商主張，未獨立核驗；數值差異不自動等於交易訊號。","engagement":"官方文件沒有可比較的學習評分，不造星等。"},
+    "figure":{"src":"images/study/flow-footprint-table-2.svg","alt":"本站原創累積差示意，呈現改變重置點會改變數值","caption":"既有原創合成算例，非 Sierra 介面、實際逐筆行情或績效。"},
+    "related":["flow-footprint","flow-depth","school-market-fit"],"tags":["訂單流","CVD","資料品質","重置"],"batch":23,"collected":"2026-11-01","checked":"2026-11-01","courseRefs":[]
+  }
+]

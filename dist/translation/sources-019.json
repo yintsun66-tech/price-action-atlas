@@ -1,5 +1,27 @@
 [
   {
+    "id": "c7a54e6541a587429ec9",
+    "url": "https://www.brookstradingcourse.com/trade-price-action/video-48k-trading-the-end-of-the-day/",
+    "sourceTitle": "尾盤交易",
+    "titleZh": "尾盤交易",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "尾盤交易"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "c7a56f7b0384a48f0784",
     "url": "https://www.youtube.com/watch?v=Y5KC3wjS2ZI",
     "sourceTitle": "Emini End of Day Review - Thursday June 15, 2023 - Brad Wolff",
@@ -1925,29 +1947,6 @@
     "authors": [
       "Brad Wolff"
     ]
-  },
-  {
-    "id": "cfc82eb2428dac533b12",
-    "url": "https://www.sierrachart.com/index.php?ID=292&page=doc%2FStudiesReference.php",
-    "sourceTitle": "Cumulative Delta Bars - Volume",
-    "titleZh": "Cumulative Delta Bars - Volume",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "article-source",
-        "id": "flow-footprint",
-        "index": 1
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   },
   {
     "id": "cfd145fd550ae6aacc0b",

@@ -1,5 +1,105 @@
 [
   {
+    "id": "0696d928c76e892ad2f0",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-likely-scaling-in-lower/",
+    "sourceTitle": "E-mini Bulls Likely Scaling In Lower",
+    "titleZh": "E-mini：多方很可能在更低價位分批進場",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-278304"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-278304"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-278304",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "06dd3db4cd67d7e21645",
+    "url": "https://www.youtube.com/watch?v=8quV5ldJBOQ",
+    "sourceTitle": "SP500 E mini 5 Min  Trading Range Bull Flag then Bull Breakout",
+    "titleZh": "Brooks 共享影片｜突破與延續／區間與通道",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-8quV5ldJBOQ"
+      }
+    ],
+    "resourceIds": [
+      "yt-8quV5ldJBOQ"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-8quV5ldJBOQ",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
+    "id": "070d1ae418dfcd2a1b5f",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-outside-bar-sellers-likely-above/",
+    "sourceTitle": "Emini Outside Bar Sellers Likely Above",
+    "titleZh": "Brad 日內案例｜2023-07-27｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-184544"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-184544"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-184544",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "0739b192c2f45543fbb4",
     "url": "https://www.brookstradingcourse.com/analysis/emini-stalled-at-4000/",
     "sourceTitle": "Emini Stalled at 4,000 Big Round Number",
@@ -3055,105 +3155,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-194709",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "131075bccdf3a7035fd0",
-    "url": "https://www.youtube.com/watch?v=FJYvr5C0UQs",
-    "sourceTitle": "Emini End of Day Review - Monday, November 11, 2024 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-FJYvr5C0UQs"
-      }
-    ],
-    "resourceIds": [
-      "yt-FJYvr5C0UQs"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-FJYvr5C0UQs",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "137b9f6e72d63560dc1b",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-buyers-below-any-pullback/",
-    "sourceTitle": "Emini Buyers below Any Pullback",
-    "titleZh": "Brad 日內案例｜2025-05-05｜回檔與第二段",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-236052"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-236052"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-236052",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "13942347133b78109158",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-limited-downside-likely/",
-    "sourceTitle": "E-mini Limited Downside Likely",
-    "titleZh": "Brad 日內案例｜2026-03-12｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-265011"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-265011"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-265011",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

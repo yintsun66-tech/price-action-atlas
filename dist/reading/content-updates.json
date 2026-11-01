@@ -2,6 +2,51 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch23-20261101",
+      "collected": "2026-11-01",
+      "updated": "2026-11-01",
+      "timezone": "Asia/Taipei",
+      "description": "續讀三個既有英文來源，新增三張繁中選讀卡與三組原創練習，原文短句可展開。",
+      "articles": [
+        "pp2-time-exit",
+        "pp2-signal-gap",
+        "flow-footprint"
+      ],
+      "sources": [
+        "grimes-time-stop-rules",
+        "woods-gap-risk-review",
+        "sierra-cvd-reset-review"
+      ],
+      "decisions": [
+        {
+          "source": "A Few Trading Rules",
+          "url": "https://www.adamhgrimes.com/a-few-trading-rules/",
+          "status": "既有來源正文續讀",
+          "reason": "實讀完整公開正文的交易管理與其他想法兩組規則；未讀付費教材，正文已刪去原系統的特定參數。"
+        },
+        {
+          "source": "How to Manage Gap Risk in Swing Trading",
+          "url": "https://www.tradingsetupsreview.com/manage-gap-risk-swing-trading/",
+          "status": "既有來源正文續讀",
+          "reason": "實讀完整公開正文，含停損跳空的六種處理方向、進場跳空的三種選擇及結語；未核驗圖像或外鏈書籍。"
+        },
+        {
+          "source": "Cumulative Delta Bars - Volume",
+          "url": "https://www.sierrachart.com/index.php?ID=292&page=doc/StudiesReference.php",
+          "status": "既有來源正文續讀",
+          "reason": "實讀完整公開正文：定義、八步計算、繪圖工具、差異排除、兩節量篩選與兩項輸入；沒有執行平台或連接行情。"
+        }
+      ],
+      "notes": [
+        "三個網址原已收錄，去重來源總數不增加；待讀轉正文摘要，不把新卡當成新網址。",
+        "英文全文與完整重刊授權未核對，僅提供精簡繁中摘要與必要短句；新算例及練習另列本站原創。",
+        "Woods 未確認發布日，Sierra 的 2025-01-24 為最後修改日，Grimes 發布 2011-10-25；不把歷史文章當成今日新文。",
+        "獨立評分及可比互動數未取得，不造熱門或獲利排名；廠商平台比較主張未獨立核驗。",
+        "兩個已授權來源的全文進度不變；既有筆記、私人權限、原文、圖與導航保留。",
+        "未另建目標或排程，未執行交易。"
+      ]
+    },
+    {
       "id": "translation-batch22-20261101",
       "collected": "2026-11-01",
       "updated": "2026-11-01",

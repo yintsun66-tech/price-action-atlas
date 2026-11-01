@@ -1,5 +1,38 @@
 [
   {
+    "id": "6eebf15dba45ff16861b",
+    "url": "https://www.brookstradingcourse.com/analysis/market-update/emini-strong-reversal-up-from-selloff/",
+    "sourceTitle": "Emini strong reversal up from January selloff",
+    "titleZh": "Brad 日內案例｜2022-02-01｜反轉與陷阱",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-143120"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-143120"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-143120",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "6f0a8bdd61ab371ae5d1",
     "url": "https://www.youtube.com/watch?v=IURRrb3yn78",
     "sourceTitle": "Recap for 2010-03-18 and Outlook for 2010-03-19",
@@ -3051,39 +3084,6 @@
     "courseRefs": [],
     "authors": [
       "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "78ef7673b87fcb34a042",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-disappointment-likely-for-bulls/",
-    "sourceTitle": "Emini Profit Taking Likely",
-    "titleZh": "Brad 日內案例｜2024-02-23｜風險與退出",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-200946"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-200946"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-200946",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

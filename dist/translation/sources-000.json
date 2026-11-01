@@ -1741,6 +1741,99 @@
     "editorNotesZh": []
   },
   {
+    "id": "43228229d352c1f51b1e",
+    "url": "https://www.tradingsetupsreview.com/manage-gap-risk-swing-trading/",
+    "sourceTitle": "How to Manage Gap Risk in Swing Trading",
+    "titleZh": "跳過停損或進場價：先重算風險，再決定是否交易",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "Woods 分開討論跳過停損與進場價。尚未進場時，若設定或風險條件不成立，應略過；縮小部位也須先確認假說有效。",
+    "readScope": "實讀完整公開正文，含停損跳空的六種處理方向、進場跳空的三種選擇及結語；未核驗圖像或外鏈書籍。",
+    "checked": "2026-11-01",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "pp2-signal-gap",
+        "index": 0
+      },
+      {
+        "kind": "community",
+        "id": "woods-gap-risk-review"
+      },
+      {
+        "kind": "review",
+        "id": "source-b23-woods-gap-risk-review"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b23-woods-gap-risk-review",
+        "url": "https://www.tradingsetupsreview.com/manage-gap-risk-swing-trading/",
+        "sourceTitle": "How to Manage Gap Risk in Swing Trading",
+        "sourceTitleZh": "跳過停損或進場價：先重算風險，再決定是否交易",
+        "authorConfirmed": "Galen Woods",
+        "published": null,
+        "dateNoteZh": "公開正文未列可確認發布日，不以頁尾版權年份或搜尋日期補填。",
+        "checked": "2026-11-01",
+        "status": "body-summary",
+        "readScope": "實讀完整公開正文，含停損跳空的六種處理方向、進場跳空的三種選擇及結語；未核驗圖像或外鏈書籍。",
+        "summaryZh": "Woods 分開討論跳過停損與進場價。尚未進場時，若設定或風險條件不成立，應略過；縮小部位也須先確認假說有效。",
+        "keyPointsZh": [
+          "分開記錄已有持倉的退出風險，以及尚未進場的取消條件。"
+        ],
+        "shortExcerpt": {
+          "en": "Just skip it and wait for another setup.",
+          "zh": "略過它，等待另一個交易設定。",
+          "scope": "進場跳空後，設定仍有效且風險可接受這兩項條件未滿足時的處理。"
+        },
+        "limitsZh": "股票隔夜情境為主，另有聯盟行銷揭露；選擇權與近乎全天市場說法未直接移植為本站建議。 沒有可核對的當前評分或可比票數，不作人氣或獲利排名。",
+        "evidence": {
+          "urls": [
+            "https://www.tradingsetupsreview.com/manage-gap-risk-swing-trading/"
+          ],
+          "accessMethod": "實際讀取原作者或官方公開文字",
+          "scope": "實讀完整公開正文，含停損跳空的六種處理方向、進場跳空的三種選擇及結語；未核驗圖像或外鏈書籍。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "Galen Woods"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "Woods 分開討論跳過停損與進場價。尚未進場時，若設定或風險條件不成立，應略過；縮小部位也須先確認假說有效。",
+      "readScope": "實讀完整公開正文，含停損跳空的六種處理方向、進場跳空的三種選擇及結語；未核驗圖像或外鏈書籍。",
+      "checked": "2026-11-01",
+      "translationScope": "繁中精簡摘要及必要短句；不重刊全文或來源圖。",
+      "cardId": "woods-gap-risk-review"
+    },
+    "published": null,
+    "dateNoteZh": "公開正文未列可確認發布日，不以頁尾版權年份或搜尋日期補填。",
+    "keyPointsZh": [
+      "分開記錄已有持倉的退出風險，以及尚未進場的取消條件。"
+    ],
+    "limitsZh": "股票隔夜情境為主，另有聯盟行銷揭露；選擇權與近乎全天市場說法未直接移植為本站建議。 沒有可核對的當前評分或可比票數，不作人氣或獲利排名。",
+    "evidence": {
+      "urls": [
+        "https://www.tradingsetupsreview.com/manage-gap-risk-swing-trading/"
+      ],
+      "accessMethod": "實際讀取原作者或官方公開文字",
+      "scope": "實讀完整公開正文，含停損跳空的六種處理方向、進場跳空的三種選擇及結語；未核驗圖像或外鏈書籍。"
+    },
+    "shortExcerpt": {
+      "en": "Just skip it and wait for another setup.",
+      "zh": "略過它，等待另一個交易設定。",
+      "scope": "進場跳空後，設定仍有效且風險可接受這兩項條件未滿足時的處理。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Galen Woods"
+  },
+  {
     "id": "436e9d771928f3a02941",
     "url": "https://www.tradingsetupsreview.com/trading-records-discretionary-price-action-trader/",
     "sourceTitle": "How to Keep Trading Records as a Discretionary Price Action Trader",
@@ -1913,6 +2006,99 @@
       "原文以 O>C or C<O 詢問多空棒，但兩個不等式方向相同，疑有筆誤。本站不把它當成多空對稱規則；依一般開收關係，多頭為 C>O、空頭為 C<O，這是本站校註。"
     ],
     "authorConfirmed": "Galen Woods"
+  },
+  {
+    "id": "4cf5819717e6fbeab173",
+    "url": "https://www.adamhgrimes.com/a-few-trading-rules/",
+    "sourceTitle": "A Few Trading Rules",
+    "titleZh": "預期行情沒有發展：時間退出與風險責任",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "Grimes 談預期情境未發展時的時間退出，也提醒相關部位可能集中風險。這是管理原則，未指定等待棒數。",
+    "readScope": "實讀完整公開正文的交易管理與其他想法兩組規則；未讀付費教材，正文已刪去原系統的特定參數。",
+    "checked": "2026-11-01",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "pp2-time-exit",
+        "index": 0
+      },
+      {
+        "kind": "community",
+        "id": "grimes-time-stop-rules"
+      },
+      {
+        "kind": "review",
+        "id": "source-b23-grimes-time-stop-rules"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b23-grimes-time-stop-rules",
+        "url": "https://www.adamhgrimes.com/a-few-trading-rules/",
+        "sourceTitle": "A Few Trading Rules",
+        "sourceTitleZh": "預期行情沒有發展：時間退出與風險責任",
+        "authorConfirmed": "Adam H. Grimes",
+        "published": "2011-10-25",
+        "dateNoteZh": "原頁列 25 Oct 2011；本批續讀既有歷史來源，不當作今日行情。",
+        "checked": "2026-11-01",
+        "status": "body-summary",
+        "readScope": "實讀完整公開正文的交易管理與其他想法兩組規則；未讀付費教材，正文已刪去原系統的特定參數。",
+        "summaryZh": "Grimes 談預期情境未發展時的時間退出，也提醒相關部位可能集中風險。這是管理原則，未指定等待棒數。",
+        "keyPointsZh": [
+          "將等待條件、失效事件與成交時點事前分欄。"
+        ],
+        "shortExcerpt": {
+          "en": "the anticipated scenario does not develop",
+          "zh": "預期的情境沒有發展。",
+          "scope": "時間退出那一條的條件短句；作者未在此定義幾根棒或幾分鐘。"
+        },
+        "limitsZh": "作者分享個人管理原則，不是微台／BTC 的績效證據；網站連向其商業教育服務。 未取得可比較互動數，不補造熱門排行。",
+        "evidence": {
+          "urls": [
+            "https://www.adamhgrimes.com/a-few-trading-rules/"
+          ],
+          "accessMethod": "實際讀取原作者或官方公開文字",
+          "scope": "實讀完整公開正文的交易管理與其他想法兩組規則；未讀付費教材，正文已刪去原系統的特定參數。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "Adam H. Grimes"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "Grimes 談預期情境未發展時的時間退出，也提醒相關部位可能集中風險。這是管理原則，未指定等待棒數。",
+      "readScope": "實讀完整公開正文的交易管理與其他想法兩組規則；未讀付費教材，正文已刪去原系統的特定參數。",
+      "checked": "2026-11-01",
+      "translationScope": "繁中精簡摘要及必要短句；非逐條全文翻譯。",
+      "cardId": "grimes-time-stop-rules"
+    },
+    "published": "2011-10-25",
+    "dateNoteZh": "原頁列 25 Oct 2011；本批續讀既有歷史來源，不當作今日行情。",
+    "keyPointsZh": [
+      "將等待條件、失效事件與成交時點事前分欄。"
+    ],
+    "limitsZh": "作者分享個人管理原則，不是微台／BTC 的績效證據；網站連向其商業教育服務。 未取得可比較互動數，不補造熱門排行。",
+    "evidence": {
+      "urls": [
+        "https://www.adamhgrimes.com/a-few-trading-rules/"
+      ],
+      "accessMethod": "實際讀取原作者或官方公開文字",
+      "scope": "實讀完整公開正文的交易管理與其他想法兩組規則；未讀付費教材，正文已刪去原系統的特定參數。"
+    },
+    "shortExcerpt": {
+      "en": "the anticipated scenario does not develop",
+      "zh": "預期的情境沒有發展。",
+      "scope": "時間退出那一條的條件短句；作者未在此定義幾根棒或幾分鐘。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Adam H. Grimes"
   },
   {
     "id": "4d3ea35c9e0bb0c9d323",
@@ -5412,6 +5598,99 @@
     "editorNotesZh": []
   },
   {
+    "id": "cfc82eb2428dac533b12",
+    "url": "https://www.sierrachart.com/index.php?ID=292&page=doc%2FStudiesReference.php",
+    "sourceTitle": "Cumulative Delta Bars - Volume",
+    "titleZh": "累積成交量差為什麼重載後不同：先核對來源與重置",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "官方文件說明「賣價成交量減買價成交量」的累積、棒內高低與重置。起點、時段或資料不同，重載後可能改值；圖中開收不是價格。",
+    "readScope": "實讀完整公開正文：定義、八步計算、繪圖工具、差異排除、兩節量篩選與兩項輸入；沒有執行平台或連接行情。",
+    "checked": "2026-11-01",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "flow-footprint",
+        "index": 1
+      },
+      {
+        "kind": "community",
+        "id": "sierra-cvd-reset-review"
+      },
+      {
+        "kind": "review",
+        "id": "source-b23-sierra-cvd-reset-review"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b23-sierra-cvd-reset-review",
+        "url": "https://www.sierrachart.com/index.php?ID=292&page=doc/StudiesReference.php",
+        "sourceTitle": "Cumulative Delta Bars - Volume",
+        "sourceTitleZh": "累積成交量差為什麼重載後不同：先核對來源與重置",
+        "authorConfirmed": "Sierra Chart",
+        "published": null,
+        "dateNoteZh": "原頁列最後修改 2025-01-24；這不是首次發布日，查核日另列。",
+        "checked": "2026-11-01",
+        "status": "body-summary",
+        "readScope": "實讀完整公開正文：定義、八步計算、繪圖工具、差異排除、兩節量篩選與兩項輸入；沒有執行平台或連接行情。",
+        "summaryZh": "官方文件說明「賣價成交量減買價成交量」的累積、棒內高低與重置。起點、時段或資料不同，重載後可能改值；圖中開收不是價格。",
+        "keyPointsZh": [
+          "先記錄資料、時鐘及重置方式，再比較 CVD。"
+        ],
+        "shortExcerpt": {
+          "en": "The study only works on Intraday charts.",
+          "zh": "這個指標只適用於日內圖表。",
+          "scope": "指 Sierra Chart 本項指標，不是說所有 CVD 定義都只有同一限制。"
+        },
+        "limitsZh": "平台正確性與其他平台比較屬廠商主張，未獨立核驗；數值差異不自動等於交易訊號。 官方文件沒有可比較的學習評分，不造星等。",
+        "evidence": {
+          "urls": [
+            "https://www.sierrachart.com/index.php?ID=292&page=doc/StudiesReference.php"
+          ],
+          "accessMethod": "實際讀取原作者或官方公開文字",
+          "scope": "實讀完整公開正文：定義、八步計算、繪圖工具、差異排除、兩節量篩選與兩項輸入；沒有執行平台或連接行情。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "Sierra Chart"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "官方文件說明「賣價成交量減買價成交量」的累積、棒內高低與重置。起點、時段或資料不同，重載後可能改值；圖中開收不是價格。",
+      "readScope": "實讀完整公開正文：定義、八步計算、繪圖工具、差異排除、兩節量篩選與兩項輸入；沒有執行平台或連接行情。",
+      "checked": "2026-11-01",
+      "translationScope": "繁中精簡摘要與必要短句，不翻譯或重刊整份文件。",
+      "cardId": "sierra-cvd-reset-review"
+    },
+    "published": null,
+    "dateNoteZh": "原頁列最後修改 2025-01-24；這不是首次發布日，查核日另列。",
+    "keyPointsZh": [
+      "先記錄資料、時鐘及重置方式，再比較 CVD。"
+    ],
+    "limitsZh": "平台正確性與其他平台比較屬廠商主張，未獨立核驗；數值差異不自動等於交易訊號。 官方文件沒有可比較的學習評分，不造星等。",
+    "evidence": {
+      "urls": [
+        "https://www.sierrachart.com/index.php?ID=292&page=doc/StudiesReference.php"
+      ],
+      "accessMethod": "實際讀取原作者或官方公開文字",
+      "scope": "實讀完整公開正文：定義、八步計算、繪圖工具、差異排除、兩節量篩選與兩項輸入；沒有執行平台或連接行情。"
+    },
+    "shortExcerpt": {
+      "en": "The study only works on Intraday charts.",
+      "zh": "這個指標只適用於日內圖表。",
+      "scope": "指 Sierra Chart 本項指標，不是說所有 CVD 定義都只有同一限制。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Sierra Chart"
+  },
+  {
     "id": "cfcac12d4a966a28c584",
     "url": "https://www.brookstradingcourse.com/guest-traders/band-trading-works-part-1-trends/",
     "sourceTitle": "Why Band Trading Works: Part 1 — Trends",
@@ -7542,108 +7821,6 @@
     "legacyObservations": [
       {
         "id": "yt-rZ3XiGtv4Ks",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "4d309c9a998460153513",
-    "url": "https://www.youtube.com/watch?v=audn3JFDTI0",
-    "sourceTitle": "Conducting Research for System Development",
-    "titleZh": "為系統開發進行研究",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-audn3JFDTI0"
-      }
-    ],
-    "resourceIds": [
-      "yt-audn3JFDTI0"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-audn3JFDTI0",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "4ec2a48726c2cff4734e",
-    "url": "https://www.youtube.com/watch?v=tgMX02x0Aoo",
-    "sourceTitle": "The Event - Response Market Principle",
-    "titleZh": "事件—回應的市場原則",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-tgMX02x0Aoo"
-      }
-    ],
-    "resourceIds": [
-      "yt-tgMX02x0Aoo"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-tgMX02x0Aoo",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "601d861be0981d398a04",
-    "url": "https://www.youtube.com/watch?v=OPa0X-dRhjk",
-    "sourceTitle": "Why Doubt Destroys Even Great Trading Systems",
-    "titleZh": "為何即使優秀的交易系統也會被懷疑摧毀",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-OPa0X-dRhjk"
-      }
-    ],
-    "resourceIds": [
-      "yt-OPa0X-dRhjk"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-OPa0X-dRhjk",
         "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
         "checked": "2026-10-22"
       }

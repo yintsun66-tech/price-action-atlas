@@ -1,5 +1,38 @@
 [
   {
+    "id": "6348df108a43fa84fff9",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-wedge-top-at-resistance/",
+    "sourceTitle": "Emini Wedge Top at Resistance",
+    "titleZh": "Brad 日內案例｜2023-11-30｜反轉與陷阱",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-194977"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-194977"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-194977",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "635fefb80f6149167df8",
     "url": "https://www.brookstradingcourse.com/analysis/emini-closed-the-october-17th-breakout-point/",
     "sourceTitle": "Emini Closed Under the October 17th Breakout Point",
@@ -3179,39 +3212,6 @@
     "reviews": [],
     "courseRefs": [],
     "titleNote": "",
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "6eebf15dba45ff16861b",
-    "url": "https://www.brookstradingcourse.com/analysis/market-update/emini-strong-reversal-up-from-selloff/",
-    "sourceTitle": "Emini strong reversal up from January selloff",
-    "titleZh": "Brad 日內案例｜2022-02-01｜反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-143120"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-143120"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-143120",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
     "authors": [
       "Brad Wolff"
     ]
