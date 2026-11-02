@@ -2397,6 +2397,99 @@
     "authorConfirmed": "SMB Capital（發布）；Mike Bellafiore 與初階交易員（字幕作 Garrett）對談"
   },
   {
+    "id": "4f951f9d5f1be0680f80",
+    "url": "https://www.tradingsetupsreview.com/swing-trading-multiple-time-frames/",
+    "sourceTitle": "Swing Trading Strategy with Multiple Time-Frames",
+    "titleZh": "雙週期不只找進場：也保留取消與不交易的紀錄",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "Woods 用週線與日線的二十期簡單均線斜率組合背景及回檔，條件失效時取消委託。四個文字案例含虧損與未進場；他也承認多週期可能延遲進場或錯過獲利。",
+    "readScope": "實讀完整公開文字：雙週期說明、多空規則、四個案例敘述及策略檢討；未核驗圖像、歷史行情或外鏈書籍。",
+    "checked": "2026-11-02",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "pp2-closed-higher-frame",
+        "index": 0
+      },
+      {
+        "kind": "community",
+        "id": "woods-multiple-frame-ledger"
+      },
+      {
+        "kind": "review",
+        "id": "source-b25-woods-multiple-frame-ledger"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b25-woods-multiple-frame-ledger",
+        "url": "https://www.tradingsetupsreview.com/swing-trading-multiple-time-frames/",
+        "sourceTitle": "Swing Trading Strategy with Multiple Time-Frames",
+        "sourceTitleZh": "雙週期不只找進場：也保留取消與不交易的紀錄",
+        "authorConfirmed": "Galen Woods",
+        "published": "2015-01-06",
+        "dateNoteZh": "原文頁尾明列首次發布 2015-01-06、更新 2020-07-16；查核日另列。",
+        "checked": "2026-11-02",
+        "status": "body-summary",
+        "readScope": "實讀完整公開文字：雙週期說明、多空規則、四個案例敘述及策略檢討；未核驗圖像、歷史行情或外鏈書籍。",
+        "summaryZh": "Woods 用週線與日線的二十期簡單均線斜率組合背景及回檔，條件失效時取消委託。四個文字案例含虧損與未進場；他也承認多週期可能延遲進場或錯過獲利。",
+        "keyPointsZh": [
+          "分開記候選、取消、到期、成交及已平倉結果。"
+        ],
+        "shortExcerpt": {
+          "en": "there are no trades in this example.",
+          "zh": "這個例子沒有任何交易。",
+          "scope": "第 4 個例子是沒有進場的案例；它不是已實證的避損比例，取消案件也不能直接算成獲利。"
+        },
+        "limitsZh": "股票週線／日線案例，另有聯盟行銷揭露；原文未完整規定週棒即時取樣與轉折確認時點，不能直接當成十分鐘策略。 未取得可比獨立評分，不補造熱門程度或勝率。",
+        "evidence": {
+          "urls": [
+            "https://www.tradingsetupsreview.com/swing-trading-multiple-time-frames/"
+          ],
+          "accessMethod": "實際讀取原作者或官方公開文字",
+          "scope": "實讀完整公開文字：雙週期說明、多空規則、四個案例敘述及策略檢討；未核驗圖像、歷史行情或外鏈書籍。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "Galen Woods"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "Woods 用週線與日線的二十期簡單均線斜率組合背景及回檔，條件失效時取消委託。四個文字案例含虧損與未進場；他也承認多週期可能延遲進場或錯過獲利。",
+      "readScope": "實讀完整公開文字：雙週期說明、多空規則、四個案例敘述及策略檢討；未核驗圖像、歷史行情或外鏈書籍。",
+      "checked": "2026-11-02",
+      "translationScope": "繁中精簡摘要與必要短句；未重刊全文、完整規則清單或來源圖。",
+      "cardId": "woods-multiple-frame-ledger"
+    },
+    "published": "2015-01-06",
+    "dateNoteZh": "原文頁尾明列首次發布 2015-01-06、更新 2020-07-16；查核日另列。",
+    "keyPointsZh": [
+      "分開記候選、取消、到期、成交及已平倉結果。"
+    ],
+    "limitsZh": "股票週線／日線案例，另有聯盟行銷揭露；原文未完整規定週棒即時取樣與轉折確認時點，不能直接當成十分鐘策略。 未取得可比獨立評分，不補造熱門程度或勝率。",
+    "evidence": {
+      "urls": [
+        "https://www.tradingsetupsreview.com/swing-trading-multiple-time-frames/"
+      ],
+      "accessMethod": "實際讀取原作者或官方公開文字",
+      "scope": "實讀完整公開文字：雙週期說明、多空規則、四個案例敘述及策略檢討；未核驗圖像、歷史行情或外鏈書籍。"
+    },
+    "shortExcerpt": {
+      "en": "there are no trades in this example.",
+      "zh": "這個例子沒有任何交易。",
+      "scope": "第 4 個例子是沒有進場的案例；它不是已實證的避損比例，取消案件也不能直接算成獲利。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Galen Woods"
+  },
+  {
     "id": "5c3eb7f0b391b748e060",
     "url": "https://www.brookstradingcourse.com/price-action/what-is-price-action-6-aspects/",
     "sourceTitle": "What is price action? 6 aspects to consider",
@@ -4133,6 +4226,115 @@
     "shortExcerpt": null,
     "termNotes": [],
     "editorNotesZh": []
+  },
+  {
+    "id": "94c05e994c2a489ce5ce",
+    "url": "https://www.brookstradingcourse.com/ask-al/trading-range-breakout-failures/",
+    "sourceTitle": "Ask Al: Trading range breakout failures",
+    "titleZh": "區間裡的強突破：看後續延續，也看自己的部位限制",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "Brooks 在區間背景下留意強突破能否續行；沒有立即延續時，他會快速退出。他也談部分部位短打，但這段問答沒有數字勝率或可直接照用的等待棒數。",
+    "readScope": "實讀完整公開問答文字及一則可見讀者留言。頁面列音訊長 3 分 54 秒，但未收聽音訊、重建原圖或觀看付費課。",
+    "checked": "2026-11-02",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "bp2-failed-breakout",
+        "index": 0
+      },
+      {
+        "kind": "community",
+        "id": "brooks-range-followthrough"
+      },
+      {
+        "kind": "review",
+        "id": "source-b25-brooks-range-followthrough"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b25-brooks-range-followthrough",
+        "url": "https://www.brookstradingcourse.com/ask-al/trading-range-breakout-failures/",
+        "sourceTitle": "Ask Al: Trading range breakout failures",
+        "sourceTitleZh": "區間裡的強突破：看後續延續，也看自己的部位限制",
+        "authorConfirmed": "Al Brooks；BTC Admin 整理發布",
+        "published": "2015-12-27",
+        "dateNoteZh": "官網文章發布 2015-12-27；問答事件為 2015-09-22 交易室，不是今日行情。",
+        "checked": "2026-11-02",
+        "status": "body-summary",
+        "readScope": "實讀完整公開問答文字及一則可見讀者留言。頁面列音訊長 3 分 54 秒，但未收聽音訊、重建原圖或觀看付費課。",
+        "summaryZh": "Brooks 在區間背景下留意強突破能否續行；沒有立即延續時，他會快速退出。他也談部分部位短打，但這段問答沒有數字勝率或可直接照用的等待棒數。",
+        "keyPointsZh": [
+          "將區間背景、後續延續和自己的部位限制分開記錄。"
+        ],
+        "shortExcerpt": {
+          "en": "if the breakout bar does not give me immediate follow through",
+          "zh": "如果突破棒沒有立即的後續延續。",
+          "scope": "原文是 Brooks 描述自己在區間日如何管理交易的條件句，後文接快速退出；不是任何突破一律下一棒離場的量化規則。"
+        },
+        "limitsZh": "沒有數字機率、樣本數或微台／BTC 績效；部分出場的個人管理方式不能直接套到單口持倉。 沒有可比評分或當前收聽數，不將留言當作獲利證明。",
+        "evidence": {
+          "urls": [
+            "https://www.brookstradingcourse.com/ask-al/trading-range-breakout-failures/"
+          ],
+          "accessMethod": "實際讀取原作者或官方公開文字",
+          "scope": "實讀完整公開問答文字及一則可見讀者留言。頁面列音訊長 3 分 54 秒，但未收聽音訊、重建原圖或觀看付費課。"
+        },
+        "courseRefs": [
+          {
+            "version": "Main（共用基礎；Forex 亦可觀看）",
+            "unit": "15F",
+            "topic": "突破：突破失敗、趨勢恢復或反轉",
+            "relation": "相關主題補讀；原問答出自 2015-09-22 交易室，不是本單元逐字稿。已核對公開課綱與會員頁標題，未觀看付費影片。",
+            "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-15f-breakouts/"
+          }
+        ]
+      }
+    ],
+    "courseRefs": [
+      {
+        "version": "Main（共用基礎；Forex 亦可觀看）",
+        "unit": "15F",
+        "topic": "突破：突破失敗、趨勢恢復或反轉",
+        "relation": "相關主題補讀；原問答出自 2015-09-22 交易室，不是本單元逐字稿。已核對公開課綱與會員頁標題，未觀看付費影片。",
+        "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-15f-breakouts/"
+      }
+    ],
+    "authors": [
+      "Al Brooks；BTC Admin 整理發布"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "Brooks 在區間背景下留意強突破能否續行；沒有立即延續時，他會快速退出。他也談部分部位短打，但這段問答沒有數字勝率或可直接照用的等待棒數。",
+      "readScope": "實讀完整公開問答文字及一則可見讀者留言。頁面列音訊長 3 分 54 秒，但未收聽音訊、重建原圖或觀看付費課。",
+      "checked": "2026-11-02",
+      "translationScope": "繁中精簡摘要與必要短句；非完整問答或音訊翻譯。",
+      "cardId": "brooks-range-followthrough"
+    },
+    "published": "2015-12-27",
+    "dateNoteZh": "官網文章發布 2015-12-27；問答事件為 2015-09-22 交易室，不是今日行情。",
+    "keyPointsZh": [
+      "將區間背景、後續延續和自己的部位限制分開記錄。"
+    ],
+    "limitsZh": "沒有數字機率、樣本數或微台／BTC 績效；部分出場的個人管理方式不能直接套到單口持倉。 沒有可比評分或當前收聽數，不將留言當作獲利證明。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/ask-al/trading-range-breakout-failures/"
+      ],
+      "accessMethod": "實際讀取原作者或官方公開文字",
+      "scope": "實讀完整公開問答文字及一則可見讀者留言。頁面列音訊長 3 分 54 秒，但未收聽音訊、重建原圖或觀看付費課。"
+    },
+    "shortExcerpt": {
+      "en": "if the breakout bar does not give me immediate follow through",
+      "zh": "如果突破棒沒有立即的後續延續。",
+      "scope": "原文是 Brooks 描述自己在區間日如何管理交易的條件句，後文接快速退出；不是任何突破一律下一棒離場的量化規則。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Al Brooks；BTC Admin 整理發布"
   },
   {
     "id": "9590534c51e47b546623",
@@ -7816,79 +8018,6 @@
     "titleNote": "",
     "authors": [
       "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "46c3de3604f904500882",
-    "url": "https://support.smbtraining.com/support/solutions/articles/44002792391-what-is-included-in-the-smb-inside-access-subscription-",
-    "sourceTitle": "SMB Inside Access：直播與回放範圍",
-    "titleZh": "SMB 內部觀摩：直播與回放範圍",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "discovery-smb-capital-3"
-      },
-      {
-        "kind": "discovery-material",
-        "id": "smb-capital",
-        "index": 2
-      }
-    ],
-    "resourceIds": [
-      "discovery-smb-capital-3"
-    ],
-    "legacyObservations": [
-      {
-        "id": "discovery-smb-capital-3",
-        "scope": "付費訂閱有效期間內存取。 Morning Game Plan、Trader Development、Scalping and Tape Reading、PlayBook Checkup 等排定現場會議；各類近期錄影與完整 archive。 會議不等於全日執行直播。官方說 Positions 僅顯示 long／short／flat，不提供 entry／exit price。 本輪未逐部完整觀看或核實真實成交。",
-        "checked": "2026-10-24"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "SMB Capital／SMB Training（Mike Bellafiore 等）"
-    ]
-  },
-  {
-    "id": "4903f90032040fe5d580",
-    "url": "https://www.youtube.com/watch?v=0cm7OufOTYM",
-    "sourceTitle": "Emini End of Day Review - Brad Wolff - Q&A - Breaking Even",
-    "titleZh": "E-mini 盤後檢視：Brad Wolff 問答——損益兩平",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-0cm7OufOTYM"
-      }
-    ],
-    "resourceIds": [
-      "yt-0cm7OufOTYM"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-0cm7OufOTYM",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

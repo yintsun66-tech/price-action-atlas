@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "items": [
     {
       "id": "014e9d23788221e0da5b",
@@ -6879,13 +6879,6 @@
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
     {
-      "id": "4f951f9d5f1be0680f80",
-      "url": "https://www.tradingsetupsreview.com/swing-trading-multiple-time-frames/",
-      "resourceIds": [],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
       "id": "4f9ec176b60ee8411d12",
       "url": "https://www.brookstradingcourse.com/analysis/emini-strong-enough-selloff/",
       "resourceIds": [
@@ -12161,13 +12154,6 @@
       "resourceIds": [
         "yt-WKKXYH-wWAQ"
       ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
-      "id": "94c05e994c2a489ce5ce",
-      "url": "https://www.brookstradingcourse.com/ask-al/trading-range-breakout-failures/",
-      "resourceIds": [],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },

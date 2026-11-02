@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-01",
+  "revision": "2026-11-02",
   "articles": [
     {
       "id": "licensed-measured-move",
@@ -772,7 +772,7 @@
       "subtitle": "自編假突破地圖｜避免從取消多單直接跳成追空",
       "summary": "將不再適合追多、形成反向候選與反向假說再次失敗分成三層。用自編十分鐘路徑理解價格退回區間後，為何仍要檢查反向空間及下一次測試。",
       "level": "進階",
-      "minutes": 14,
+      "minutes": 16,
       "mode": "guide",
       "batch": 2,
       "topic": "突破",
@@ -890,7 +890,7 @@
       "subtitle": "不使用未完成的高週期收盤，也不把四張圖當成四份獨立證據",
       "summary": "以自編三十分鐘與十分鐘示例，建立可重播的背景時間戳、觸發順序與取消條件。",
       "level": "進階",
-      "minutes": 9,
+      "minutes": 11,
       "mode": "guide",
       "batch": 2,
       "topic": "趨勢",

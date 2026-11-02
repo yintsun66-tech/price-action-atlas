@@ -93,3 +93,5 @@
 
 
 第二十四批（2026-11-01 蒐集，2026-11-02 接續發布）：build-content-batch24.cjs → 翻譯清單 → 中文呈現；作者檔 batch24-sources.json、batch24-practice.json，實讀紀錄 zh-core-source-reviews-17.json。只新增一篇未收錄的 Sierra 公開支援串與一節原創滾動算例；歷史修正、現行版本及計算定義分開。Reddit 未取得完整回覆與其他未採候選明列範圍，不說成沒有新文。驗證使用 workspace tools/check_content_batch24*.cjs，範圍見 docs/content-batch24.md。原查核與蒐集日期保留，發布日期另記。
+
+第二十五批（2026-11-02）：build-content-batch25.cjs → 翻譯清單 → 中文呈現；實讀紀錄 zh-core-source-reviews-18.json。兩個既有 pending 網址改正文摘要，新增兩張選讀與單口退出、候選分母練習；正文摘要 41、來源卡 32，英文網址仍 2368。相關 Main／Forex 共用 15F 僅列補讀。修正第 23–25 批篩選數字，早期無 batch 卡維持第六批歸屬。驗證使用 workspace tools/check_content_batch25*.cjs，原文範圍、相容性與畫面檢查見 docs/content-batch25.md。

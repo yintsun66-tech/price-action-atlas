@@ -1,5 +1,60 @@
 [
   {
+    "id": "1ed3dbe25c6ec3f13819",
+    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-15c-breakouts/",
+    "sourceTitle": "突破",
+    "titleZh": "突破",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "突破"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "1edbebeb9d5d81291deb",
+    "url": "https://www.quantsystems.ca/course/flashcards",
+    "sourceTitle": "QuantSystem's Flash Cards",
+    "titleZh": "Flash Cards｜價格行為複習卡",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "qs-flashcards"
+      }
+    ],
+    "resourceIds": [
+      "qs-flashcards"
+    ],
+    "legacyObservations": [
+      {
+        "id": "qs-flashcards",
+        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Ali Moin-Afshari／Quant Systems"
+    ]
+  },
+  {
     "id": "1eecb6d5fad39a65465b",
     "url": "https://www.youtube.com/watch?v=bbFuXj8z9kg",
     "sourceTitle": "Emini End of Day Review - Thursday May 9, 2024 - Brad Wolff",
@@ -3175,72 +3230,6 @@
     "courseRefs": [],
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "2b062ebf9655e8f756c7",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-finding-support-at-october-10th-breakout-point-high/",
-    "sourceTitle": "E-mini Finding Support at October 10th Breakout Point High",
-    "titleZh": "Brad 日內案例｜2025-11-05｜突破與延續",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-253931"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-253931"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-253931",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "2b27b0db7d267ce8b11c",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-large-gap-down-on-open/",
-    "sourceTitle": "Emini Large Gap Down on Open",
-    "titleZh": "Brad 日內案例｜2025-04-03｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-233698"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-233698"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-233698",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

@@ -1,5 +1,71 @@
 [
   {
+    "id": "2b062ebf9655e8f756c7",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-finding-support-at-october-10th-breakout-point-high/",
+    "sourceTitle": "E-mini Finding Support at October 10th Breakout Point High",
+    "titleZh": "Brad 日內案例｜2025-11-05｜突破與延續",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-253931"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-253931"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-253931",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "2b27b0db7d267ce8b11c",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-large-gap-down-on-open/",
+    "sourceTitle": "Emini Large Gap Down on Open",
+    "titleZh": "Brad 日內案例｜2025-04-03｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-233698"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-233698"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-233698",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "2b600cef97a96dc86459",
     "url": "https://www.youtube.com/watch?v=3SKoI2U_cI8",
     "sourceTitle": "SP500 E-mini Bear Channel and Evolution into Trading Range for March 11, 2026",
@@ -3175,60 +3241,5 @@
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
     ]
-  },
-  {
-    "id": "36264ea7b6622b7f14d6",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-tight-bull-channel-to-july-high/",
-    "sourceTitle": "E-mini Tight Bull Channel to July High",
-    "titleZh": "Brad 日內案例｜2025-08-11｜區間與通道",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-246865"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-246865"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-246865",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "363b39c506fb66697c5b",
-    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-28-rounded-tops-bottoms/",
-    "sourceTitle": "圓弧型態",
-    "titleZh": "圓弧型態",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "圓弧型態"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   }
 ]

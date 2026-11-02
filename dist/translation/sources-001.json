@@ -1,5 +1,78 @@
 [
   {
+    "id": "46c3de3604f904500882",
+    "url": "https://support.smbtraining.com/support/solutions/articles/44002792391-what-is-included-in-the-smb-inside-access-subscription-",
+    "sourceTitle": "SMB Inside Access：直播與回放範圍",
+    "titleZh": "SMB 內部觀摩：直播與回放範圍",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "discovery-smb-capital-3"
+      },
+      {
+        "kind": "discovery-material",
+        "id": "smb-capital",
+        "index": 2
+      }
+    ],
+    "resourceIds": [
+      "discovery-smb-capital-3"
+    ],
+    "legacyObservations": [
+      {
+        "id": "discovery-smb-capital-3",
+        "scope": "付費訂閱有效期間內存取。 Morning Game Plan、Trader Development、Scalping and Tape Reading、PlayBook Checkup 等排定現場會議；各類近期錄影與完整 archive。 會議不等於全日執行直播。官方說 Positions 僅顯示 long／short／flat，不提供 entry／exit price。 本輪未逐部完整觀看或核實真實成交。",
+        "checked": "2026-10-24"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "SMB Capital／SMB Training（Mike Bellafiore 等）"
+    ]
+  },
+  {
+    "id": "4903f90032040fe5d580",
+    "url": "https://www.youtube.com/watch?v=0cm7OufOTYM",
+    "sourceTitle": "Emini End of Day Review - Brad Wolff - Q&A - Breaking Even",
+    "titleZh": "E-mini 盤後檢視：Brad Wolff 問答——損益兩平",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-0cm7OufOTYM"
+      }
+    ],
+    "resourceIds": [
+      "yt-0cm7OufOTYM"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-0cm7OufOTYM",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "4b77d142c5670f2aaa8f",
     "url": "https://www.youtube.com/watch?v=rZ3XiGtv4Ks",
     "sourceTitle": "How to Take Profits",
@@ -3237,61 +3310,6 @@
     "reviews": [],
     "courseRefs": [],
     "titleNote": "",
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "064cc3615f9bfbdcf2d6",
-    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-33g-protective-stops/",
-    "sourceTitle": "保護停損",
-    "titleZh": "保護停損",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "保護停損"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
-  },
-  {
-    "id": "0676502b290b5850d116",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-surprise-bear-breakout-3/",
-    "sourceTitle": "Emini Surprise Bear Breakout",
-    "titleZh": "Brad 日內案例｜2025-02-24｜突破與延續",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-230759"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-230759"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-230759",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
     "authors": [
       "Brad Wolff"
     ]

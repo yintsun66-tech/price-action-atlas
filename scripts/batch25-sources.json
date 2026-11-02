@@ -1,0 +1,23 @@
+[
+  {
+    "id":"brooks-range-followthrough","platform":"Brooks 官方 Ask Al 公開問答","kind":"author","language":"en","author":"Al Brooks；BTC Admin 整理發布",
+    "title":"區間裡的強突破：看後續延續，也看自己的部位限制","originalTitle":"Ask Al: Trading range breakout failures","url":"https://www.brookstradingcourse.com/ask-al/trading-range-breakout-failures/","published":"2015-12-27","dateNote":"官網文章發布 2015-12-27；問答事件為 2015-09-22 交易室，不是今日行情。",
+    "summary":"Brooks 在區間背景下留意強突破能否續行；沒有立即延續時，他會快速退出。他也談部分部位短打，但這段問答沒有數字勝率或可直接照用的等待棒數。",
+    "quote":{"en":"if the breakout bar does not give me immediate follow through","zh":"如果突破棒沒有立即的後續延續。","context":"原文是 Brooks 描述自己在區間日如何管理交易的條件句，後文接快速退出；不是任何突破一律下一棒離場的量化規則。"},
+    "access":"實讀完整公開問答文字及一則可見讀者留言。頁面列音訊長 3 分 54 秒，但未收聽音訊、重建原圖或觀看付費課。","translation":"繁中精簡摘要與必要短句；非完整問答或音訊翻譯。",
+    "review":{"basis":"官方問答可核對講者與日期；一則 2015 年正面讀者留言屬自選意見，不是獨立教學評鑑。","learning":"將區間背景、後續延續和自己的部位限制分開記錄。","limits":"沒有數字機率、樣本數或微台／BTC 績效；部分出場的個人管理方式不能直接套到單口持倉。","engagement":"沒有可比評分或當前收聽數，不將留言當作獲利證明。"},
+    "courseRefs":[{"version":"Main（共用基礎；Forex 亦可觀看）","unit":"15F","topic":"突破：突破失敗、趨勢恢復或反轉","relation":"相關主題補讀；原問答出自 2015-09-22 交易室，不是本單元逐字稿。已核對公開課綱與會員頁標題，未觀看付費影片。","url":"https://www.brookstradingcourse.com/price-action-fundamentals/video-15f-breakouts/"}],
+    "figure":{"src":"images/study/bp2-failed-breakout-replay-overview.svg","alt":"本站原創合成突破失敗路徑，提醒退回與反向訊號分開判斷","caption":"既有原創合成圖，非 2015 年問答原圖、真實行情或勝率證據。"},
+    "related":["bp2-failed-breakout","bp2-breakout-followthrough","practice-risk-in-r"],"tags":["Brooks","突破失敗","後續延續","部位限制"],"batch":25,"collected":"2026-11-02","checked":"2026-11-02"
+  },
+  {
+    "id":"woods-multiple-frame-ledger","platform":"Trading Setups Review 原作者文章","kind":"author","language":"en","author":"Galen Woods",
+    "title":"雙週期不只找進場：也保留取消與不交易的紀錄","originalTitle":"Swing Trading Strategy with Multiple Time-Frames","url":"https://www.tradingsetupsreview.com/swing-trading-multiple-time-frames/","published":"2015-01-06","dateNote":"原文頁尾明列首次發布 2015-01-06、更新 2020-07-16；查核日另列。",
+    "summary":"Woods 用週線與日線的二十期簡單均線斜率組合背景及回檔，條件失效時取消委託。四個文字案例含虧損與未進場；他也承認多週期可能延遲進場或錯過獲利。",
+    "quote":{"en":"there are no trades in this example.","zh":"這個例子沒有任何交易。","context":"第 4 個例子是沒有進場的案例；它不是已實證的避損比例，取消案件也不能直接算成獲利。"},
+    "access":"實讀完整公開文字：雙週期說明、多空規則、四個案例敘述及策略檢討；未核驗圖像、歷史行情或外鏈書籍。","translation":"繁中精簡摘要與必要短句；未重刊全文、完整規則清單或來源圖。",
+    "review":{"basis":"作者公開規則與正反案例可核對；不等於獨立回測或教學成效評分。","learning":"分開記候選、取消、到期、成交及已平倉結果。","limits":"股票週線／日線案例，另有聯盟行銷揭露；原文未完整規定週棒即時取樣與轉折確認時點，不能直接當成十分鐘策略。","engagement":"未取得可比獨立評分，不補造熱門程度或勝率。"},
+    "figure":{"src":"images/study/pp2-closed-higher-frame-map.svg","alt":"本站原創時間軸，說明高週期資訊要連同完成時刻記錄","caption":"既有原創合成流程，非 Woods 原圖、歷史股票行情或雙週期績效。"},
+    "related":["pp2-closed-higher-frame","pp2-time-exit","pa3-research-register"],"tags":["多週期","已收線","取消交易","研究紀錄"],"batch":25,"collected":"2026-11-02","checked":"2026-11-02","courseRefs":[]
+  }
+]

@@ -1,5 +1,61 @@
 [
   {
+    "id": "4dafe14f46dc1e65b2c4",
+    "url": "https://www.nist.gov/pml/time-and-frequency-division/how-utcnist-related-coordinated-universal-time-utc-international",
+    "sourceTitle": "How is UTC(NIST) related to Coordinated Universal Time (UTC)?",
+    "titleZh": "How is UTC(NIST) related to Coordinated Universal Time (UTC)?",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "ict-liquidity",
+        "index": 4
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "4db38fd6a10fa3a23356",
+    "url": "https://www.brookstradingcourse.com/analysis/bulls-want-strong-entry/",
+    "sourceTitle": "Bulls Want Strong Entry Bar after Friday’s Buy Signal",
+    "titleZh": "Brad 日內案例｜2022-12-27｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-167147"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-167147"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-167147",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "4db419eb0403762c84a9",
     "url": "https://www.brookstradingcourse.com/analysis/emini-bull-flag-likely/",
     "sourceTitle": "Emini Bull Flag Likely",
@@ -783,29 +839,6 @@
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
     ]
-  },
-  {
-    "id": "4f951f9d5f1be0680f80",
-    "url": "https://www.tradingsetupsreview.com/swing-trading-multiple-time-frames/",
-    "sourceTitle": "Swing Trading Strategy with Multiple Time-Frames｜雙週期方法與限制",
-    "titleZh": "Swing Trading Strategy with Multiple Time-Frames｜雙週期方法與限制",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "article-source",
-        "id": "pp2-closed-higher-frame",
-        "index": 0
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   },
   {
     "id": "4f9ec176b60ee8411d12",
@@ -3077,39 +3110,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-259610",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "58225c1cb94ddadefefb",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-approaching-the-august-high/",
-    "sourceTitle": "Emini Approaching the August High",
-    "titleZh": "Brad 日內案例｜2024-09-17｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-218360"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-218360"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-218360",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

@@ -1,5 +1,28 @@
 [
   {
+    "id": "915fd7ab2c4254069d4f",
+    "url": "https://www.davidhbailey.com/dhbpapers/backtest-prob.pdf",
+    "sourceTitle": "The Probability of Backtest Overfitting",
+    "titleZh": "The Probability of Backtest Overfitting",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "pa3-research-register",
+        "index": 0
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "91630dbf5eea26d31735",
     "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-upside-breakout/",
     "sourceTitle": "Emini Bulls Want Upside Breakout and Close above Yesterday’s High",
@@ -978,29 +1001,6 @@
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
     ]
-  },
-  {
-    "id": "94c05e994c2a489ce5ce",
-    "url": "https://www.brookstradingcourse.com/ask-al/trading-range-breakout-failures/",
-    "sourceTitle": "Ask Al: Trading range breakout failures",
-    "titleZh": "Ask Al: Trading range breakout failures",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "article-source",
-        "id": "bp2-failed-breakout",
-        "index": 0
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   },
   {
     "id": "94c92edd0567dc835d01",

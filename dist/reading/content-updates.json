@@ -2,6 +2,44 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch25-20261102",
+      "collected": "2026-11-02",
+      "updated": "2026-11-02",
+      "timezone": "Asia/Taipei",
+      "description": "兩篇既有英文核心來源續讀與繁中摘要，新增單一單位退出及候選分類兩組原創練習。",
+      "articles": [
+        "bp2-failed-breakout",
+        "pp2-closed-higher-frame"
+      ],
+      "sources": [
+        "brooks-range-followthrough",
+        "woods-multiple-frame-ledger"
+      ],
+      "decisions": [
+        {
+          "source": "Ask Al: Trading range breakout failures",
+          "url": "https://www.brookstradingcourse.com/ask-al/trading-range-breakout-failures/",
+          "status": "既有來源正文續讀",
+          "reason": "實讀完整公開問答文字及一則可見讀者留言。頁面列音訊長 3 分 54 秒，但未收聽音訊、重建原圖或觀看付費課。"
+        },
+        {
+          "source": "Swing Trading Strategy with Multiple Time-Frames",
+          "url": "https://www.tradingsetupsreview.com/swing-trading-multiple-time-frames/",
+          "status": "既有來源正文續讀",
+          "reason": "實讀完整公開文字：雙週期說明、多空規則、四個案例敘述及策略檢討；未核驗圖像、歷史行情或外鏈書籍。"
+        }
+      ],
+      "notes": [
+        "更正第二十三至二十五批篩選編號與新增篇數：每個標籤須對應實際 batch 值，不改來源卡 ID。",
+        "兩個網址原已盤點，來源總數不增加。",
+        "只實讀公開文字，未收聽音訊、核驗來源圖或觀看付費課；短摘要不列全文翻譯。",
+        "Brooks 問答發布日與交易室事件日分列；定性機率不補數值，讀者留言不作績效證據。",
+        "Main 15F 依公開課綱核對，會員頁顯示 Main 與 Forex 均適用；只作相關補讀，不冒充問答原課出處。",
+        "Woods 首次發布與更新日期分列，不把歷史文章當成今日策略。",
+        "兩組練習為本站自編，既有原文、筆記、圖與私人權限保留；未建立目標或排程、未執行交易。"
+      ]
+    },
+    {
       "id": "content-batch24-20261101",
       "collected": "2026-11-01",
       "updated": "2026-11-01",

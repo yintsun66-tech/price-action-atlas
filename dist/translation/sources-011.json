@@ -1,5 +1,38 @@
 [
   {
+    "id": "6ed4af41e36e2d3c2746",
+    "url": "https://www.brookstradingcourse.com/analysis/market-update/emini-bears-need-follow-through/",
+    "sourceTitle": "Emini bears need follow-through today",
+    "titleZh": "Brad 日內案例｜2022-01-20｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-141311"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-141311"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-141311",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "6ed8150f42b2b98f5af3",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-buyers-likely-near-june-low/",
     "sourceTitle": "E-mini Buyers Likely Near June Low",
@@ -3052,39 +3085,6 @@
     "courseRefs": [],
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "78d88b37777c6895b490",
-    "url": "https://www.quantsystems.ca/course/ptm-202404",
-    "sourceTitle": "QuantSystem's Pro Trader Mentoring",
-    "titleZh": "PTM 月課綱｜2024/04",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "qs-ptm-202404"
-      }
-    ],
-    "resourceIds": [
-      "qs-ptm-202404"
-    ],
-    "legacyObservations": [
-      {
-        "id": "qs-ptm-202404",
-        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Ali Moin-Afshari／Quant Systems"
     ]
   }
 ]

@@ -1,5 +1,38 @@
 [
   {
+    "id": "859a38b1439336a5e31e",
+    "url": "https://www.youtube.com/watch?v=e1WQTcgcd8k",
+    "sourceTitle": "Emini End of Day Review - Friday September 23, 2022",
+    "titleZh": "Brooks 共享影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-e1WQTcgcd8k"
+      }
+    ],
+    "resourceIds": [
+      "yt-e1WQTcgcd8k"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-e1WQTcgcd8k",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "85d5e15d78c28b05eed2",
     "url": "https://www.brookstradingcourse.com/analysis/emini-disappointing-follow-through-for-bulls/",
     "sourceTitle": "Emini Disappointing Follow-Through for Bulls",
@@ -3161,28 +3194,5 @@
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
     ]
-  },
-  {
-    "id": "915fd7ab2c4254069d4f",
-    "url": "https://www.davidhbailey.com/dhbpapers/backtest-prob.pdf",
-    "sourceTitle": "The Probability of Backtest Overfitting",
-    "titleZh": "The Probability of Backtest Overfitting",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "article-source",
-        "id": "pa3-research-register",
-        "index": 0
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   }
 ]

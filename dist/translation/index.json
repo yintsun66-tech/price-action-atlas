@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "scope": "站內所有英文文字與所有英文來源；中文優先，英文可展開。",
   "totalSources": 2368,
   "englishResourceRecords": 2056,
   "resourceRecords": 2110,
   "statusCounts": {
-    "body-summary": 39,
+    "body-summary": 41,
     "intro-only": 19,
     "unavailable": 4,
     "excerpt-summary": 21,
     "licensed-excerpt": 2,
-    "pending": 2283
+    "pending": 2281
   },
   "siteArticles": 62,
   "articleAudit": "reading/text-audit.json",
@@ -397,6 +397,19 @@
       ]
     },
     {
+      "id": "4f951f9d5f1be0680f80",
+      "titleZh": "雙週期不只找進場：也保留取消與不交易的紀錄",
+      "sourceTitle": "Swing Trading Strategy with Multiple Time-Frames",
+      "status": "body-summary",
+      "resourceIds": [],
+      "chunk": "sources-000.json",
+      "url": "https://www.tradingsetupsreview.com/swing-trading-multiple-time-frames/",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "Galen Woods"
+      ]
+    },
+    {
       "id": "5c3eb7f0b391b748e060",
       "titleZh": "什麼是價格行為？六個觀察面向",
       "sourceTitle": "What is price action? 6 aspects to consider",
@@ -586,6 +599,19 @@
       "titleCoverage": "reviewed-title",
       "authors": [
         "Al Brooks"
+      ]
+    },
+    {
+      "id": "94c05e994c2a489ce5ce",
+      "titleZh": "區間裡的強突破：看後續延續，也看自己的部位限制",
+      "sourceTitle": "Ask Al: Trading range breakout failures",
+      "status": "body-summary",
+      "resourceIds": [],
+      "chunk": "sources-000.json",
+      "url": "https://www.brookstradingcourse.com/ask-al/trading-range-breakout-failures/",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "Al Brooks；BTC Admin 整理發布"
       ]
     },
     {
@@ -1404,7 +1430,7 @@
       "resourceIds": [
         "discovery-smb-capital-3"
       ],
-      "chunk": "sources-000.json",
+      "chunk": "sources-001.json",
       "url": "https://support.smbtraining.com/support/solutions/articles/44002792391-what-is-included-in-the-smb-inside-access-subscription-",
       "titleCoverage": "existing-label",
       "authors": [
@@ -1419,7 +1445,7 @@
       "resourceIds": [
         "yt-0cm7OufOTYM"
       ],
-      "chunk": "sources-000.json",
+      "chunk": "sources-001.json",
       "url": "https://www.youtube.com/watch?v=0cm7OufOTYM",
       "titleCoverage": "title-only",
       "authors": [
@@ -2862,7 +2888,7 @@
       "sourceTitle": "保護停損",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-001.json",
+      "chunk": "sources-002.json",
       "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-33g-protective-stops/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -2875,7 +2901,7 @@
       "resourceIds": [
         "brad-post-230759"
       ],
-      "chunk": "sources-001.json",
+      "chunk": "sources-002.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-surprise-bear-breakout-3/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -4304,7 +4330,7 @@
       "resourceIds": [
         "brad-post-279068"
       ],
-      "chunk": "sources-002.json",
+      "chunk": "sources-003.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-hopeful-for-2nd-leg-down-after-trapped-bulls/",
       "titleCoverage": "title-only",
       "authors": [
@@ -4319,7 +4345,7 @@
       "resourceIds": [
         "brad-post-191923"
       ],
-      "chunk": "sources-002.json",
+      "chunk": "sources-003.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-testing-august-18th-low/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -5746,7 +5772,7 @@
       "sourceTitle": "突破",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-003.json",
+      "chunk": "sources-004.json",
       "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-15c-breakouts/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -5759,7 +5785,7 @@
       "resourceIds": [
         "qs-flashcards"
       ],
-      "chunk": "sources-003.json",
+      "chunk": "sources-004.json",
       "url": "https://www.quantsystems.ca/course/flashcards",
       "titleCoverage": "existing-label",
       "authors": [
@@ -7208,7 +7234,7 @@
       "resourceIds": [
         "brad-post-253931"
       ],
-      "chunk": "sources-004.json",
+      "chunk": "sources-005.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-finding-support-at-october-10th-breakout-point-high/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -7223,7 +7249,7 @@
       "resourceIds": [
         "brad-post-233698"
       ],
-      "chunk": "sources-004.json",
+      "chunk": "sources-005.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-large-gap-down-on-open/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -8684,7 +8710,7 @@
       "resourceIds": [
         "brad-post-246865"
       ],
-      "chunk": "sources-005.json",
+      "chunk": "sources-006.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-tight-bull-channel-to-july-high/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -8697,7 +8723,7 @@
       "sourceTitle": "圓弧型態",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-005.json",
+      "chunk": "sources-006.json",
       "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-28-rounded-tops-bottoms/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -10148,7 +10174,7 @@
       "resourceIds": [
         "yt-X0IXgiSsoYQ"
       ],
-      "chunk": "sources-006.json",
+      "chunk": "sources-007.json",
       "url": "https://www.youtube.com/watch?v=X0IXgiSsoYQ",
       "titleCoverage": "existing-label",
       "authors": [
@@ -10163,7 +10189,7 @@
       "resourceIds": [
         "yt-LjeB76X8iYw"
       ],
-      "chunk": "sources-006.json",
+      "chunk": "sources-007.json",
       "url": "https://www.youtube.com/watch?v=LjeB76X8iYw",
       "titleCoverage": "existing-label",
       "authors": [
@@ -11610,7 +11636,7 @@
       "sourceTitle": "How is UTC(NIST) related to Coordinated Universal Time (UTC)?",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-007.json",
+      "chunk": "sources-008.json",
       "url": "https://www.nist.gov/pml/time-and-frequency-division/how-utcnist-related-coordinated-universal-time-utc-international",
       "titleCoverage": "existing-label",
       "authors": []
@@ -11623,7 +11649,7 @@
       "resourceIds": [
         "brad-post-167147"
       ],
-      "chunk": "sources-007.json",
+      "chunk": "sources-008.json",
       "url": "https://www.brookstradingcourse.com/analysis/bulls-want-strong-entry/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -11984,17 +12010,6 @@
       "authors": [
         "Brooks 團隊（講者未逐支確認）"
       ]
-    },
-    {
-      "id": "4f951f9d5f1be0680f80",
-      "titleZh": "Swing Trading Strategy with Multiple Time-Frames｜雙週期方法與限制",
-      "sourceTitle": "Swing Trading Strategy with Multiple Time-Frames｜雙週期方法與限制",
-      "status": "pending",
-      "resourceIds": [],
-      "chunk": "sources-008.json",
-      "url": "https://www.tradingsetupsreview.com/swing-trading-multiple-time-frames/",
-      "titleCoverage": "existing-label",
-      "authors": []
     },
     {
       "id": "4f9ec176b60ee8411d12",
@@ -13051,7 +13066,7 @@
       "resourceIds": [
         "brad-post-218360"
       ],
-      "chunk": "sources-008.json",
+      "chunk": "sources-009.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-approaching-the-august-high/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -14515,7 +14530,7 @@
       "resourceIds": [
         "brad-post-177909"
       ],
-      "chunk": "sources-009.json",
+      "chunk": "sources-010.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-follow-through-buying/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -15963,7 +15978,7 @@
       "resourceIds": [
         "brad-post-141311"
       ],
-      "chunk": "sources-010.json",
+      "chunk": "sources-011.json",
       "url": "https://www.brookstradingcourse.com/analysis/market-update/emini-bears-need-follow-through/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -17383,7 +17398,7 @@
       "resourceIds": [
         "qs-ptm-202404"
       ],
-      "chunk": "sources-011.json",
+      "chunk": "sources-012.json",
       "url": "https://www.quantsystems.ca/course/ptm-202404",
       "titleCoverage": "existing-label",
       "authors": [
@@ -18831,7 +18846,7 @@
       "resourceIds": [
         "yt-e1WQTcgcd8k"
       ],
-      "chunk": "sources-012.json",
+      "chunk": "sources-013.json",
       "url": "https://www.youtube.com/watch?v=e1WQTcgcd8k",
       "titleCoverage": "existing-label",
       "authors": [
@@ -20285,7 +20300,7 @@
       "sourceTitle": "The Probability of Backtest Overfitting",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-013.json",
+      "chunk": "sources-014.json",
       "url": "https://www.davidhbailey.com/dhbpapers/backtest-prob.pdf",
       "titleCoverage": "existing-label",
       "authors": []
@@ -20738,17 +20753,6 @@
       "authors": [
         "Brooks 團隊（講者未逐支確認）"
       ]
-    },
-    {
-      "id": "94c05e994c2a489ce5ce",
-      "titleZh": "Ask Al: Trading range breakout failures",
-      "sourceTitle": "Ask Al: Trading range breakout failures",
-      "status": "pending",
-      "resourceIds": [],
-      "chunk": "sources-014.json",
-      "url": "https://www.brookstradingcourse.com/ask-al/trading-range-breakout-failures/",
-      "titleCoverage": "existing-label",
-      "authors": []
     },
     {
       "id": "94c92edd0567dc835d01",
