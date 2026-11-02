@@ -1,5 +1,38 @@
 [
   {
+    "id": "c783850367a6fe5f7a8f",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-reach-february-low/",
+    "sourceTitle": "Emini likely to reach February low this week",
+    "titleZh": "Brad 日內案例｜2022-05-02｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-149646"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-149646"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-149646",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "c7a54e6541a587429ec9",
     "url": "https://www.brookstradingcourse.com/trade-price-action/video-48k-trading-the-end-of-the-day/",
     "sourceTitle": "尾盤交易",
@@ -3108,39 +3141,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-267767",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "d47b5e24b1651d79c8f9",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-failed-breakout-below-september-17/",
-    "sourceTitle": "Emini Failed Breakout below September 7 Low",
-    "titleZh": "Brad 日內案例｜2023-09-20｜突破與延續／反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-189737"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-189737"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-189737",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

@@ -1,5 +1,38 @@
 [
   {
+    "id": "634875965dcd8dd25161",
+    "url": "https://www.youtube.com/watch?v=lxlY29T9SwU",
+    "sourceTitle": "Price Action Rose - Trading Room Sample Wednesday 1200-1400 ET",
+    "titleZh": "Brooks 共享影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-lxlY29T9SwU"
+      }
+    ],
+    "resourceIds": [
+      "yt-lxlY29T9SwU"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-lxlY29T9SwU",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "6348df108a43fa84fff9",
     "url": "https://www.brookstradingcourse.com/analysis/emini-wedge-top-at-resistance/",
     "sourceTitle": "Emini Wedge Top at Resistance",
@@ -3178,40 +3211,6 @@
     ],
     "reviews": [],
     "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "6ed8150f42b2b98f5af3",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-buyers-likely-near-june-low/",
-    "sourceTitle": "E-mini Buyers Likely Near June Low",
-    "titleZh": "E-mini：六月低點附近很可能有買方",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-272098"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-272098"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-272098",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
     "authors": [
       "Brad Wolff"
     ]

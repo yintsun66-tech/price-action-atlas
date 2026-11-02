@@ -1,5 +1,38 @@
 [
   {
+    "id": "4db419eb0403762c84a9",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bull-flag-likely/",
+    "sourceTitle": "Emini Bull Flag Likely",
+    "titleZh": "Brad 日內案例｜2024-01-17｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-198178"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-198178"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-198178",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "4dde98cc4d607812484f",
     "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-rally-up/",
     "sourceTitle": "Emini bulls want rally up to 4,200",
@@ -3078,39 +3111,6 @@
       {
         "id": "brad-post-218360",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "58324fc4c50611fdce18",
-    "url": "https://www.youtube.com/watch?v=tjLlRrkACyc",
-    "sourceTitle": "Emini End of Day Review - Thursday, March 13, 2025 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-tjLlRrkACyc"
-      }
-    ],
-    "resourceIds": [
-      "yt-tjLlRrkACyc"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-tjLlRrkACyc",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
         "checked": "2026-10-22"
       }
     ],

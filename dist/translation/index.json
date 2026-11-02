@@ -2,11 +2,11 @@
   "version": 1,
   "updated": "2026-11-01",
   "scope": "站內所有英文文字與所有英文來源；中文優先，英文可展開。",
-  "totalSources": 2367,
+  "totalSources": 2368,
   "englishResourceRecords": 2056,
   "resourceRecords": 2110,
   "statusCounts": {
-    "body-summary": 38,
+    "body-summary": 39,
     "intro-only": 19,
     "unavailable": 4,
     "excerpt-summary": 21,
@@ -213,6 +213,19 @@
       "titleCoverage": "reviewed-title",
       "authors": [
         "Tom Hougaard／TraderTom"
+      ]
+    },
+    {
+      "id": "1edd8a6cd5a2a424eaee",
+      "titleZh": "最近十棒與每天歸零不同：先核對滾動計算的定義與版本",
+      "sourceTitle": "Cumulative Delta Bars- Volume - Perform Rolling Calculation seems to repaint previous bars",
+      "status": "body-summary",
+      "resourceIds": [],
+      "chunk": "sources-000.json",
+      "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=86942",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "User370531、User566250；Sierra_Chart Engineering、John - SC Support"
       ]
     },
     {
@@ -1421,7 +1434,7 @@
       "resourceIds": [
         "yt-rZ3XiGtv4Ks"
       ],
-      "chunk": "sources-000.json",
+      "chunk": "sources-001.json",
       "url": "https://www.youtube.com/watch?v=rZ3XiGtv4Ks",
       "titleCoverage": "title-only",
       "authors": [
@@ -2875,7 +2888,7 @@
       "sourceTitle": "Forex Peace Army：LearnToTradeTheMarket.com Review（評論來源）",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-001.json",
+      "chunk": "sources-002.json",
       "url": "https://www.forexpeacearmy.com/forex-reviews/7097/www.learntotradethemarket.com",
       "titleCoverage": "existing-label",
       "authors": []
@@ -4321,7 +4334,7 @@
       "resourceIds": [
         "brad-post-194709"
       ],
-      "chunk": "sources-002.json",
+      "chunk": "sources-003.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-pullback-to-moving-average-likely/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -5761,7 +5774,7 @@
       "resourceIds": [
         "yt-bbFuXj8z9kg"
       ],
-      "chunk": "sources-003.json",
+      "chunk": "sources-004.json",
       "url": "https://www.youtube.com/watch?v=bbFuXj8z9kg",
       "titleCoverage": "existing-label",
       "authors": [
@@ -7225,7 +7238,7 @@
       "resourceIds": [
         "yt-3SKoI2U_cI8"
       ],
-      "chunk": "sources-004.json",
+      "chunk": "sources-005.json",
       "url": "https://www.youtube.com/watch?v=3SKoI2U_cI8",
       "titleCoverage": "existing-label",
       "authors": [
@@ -8697,7 +8710,7 @@
       "resourceIds": [
         "yt-NNIm6DrAGz4"
       ],
-      "chunk": "sources-005.json",
+      "chunk": "sources-006.json",
       "url": "https://www.youtube.com/watch?v=NNIm6DrAGz4",
       "titleCoverage": "existing-label",
       "authors": [
@@ -10165,7 +10178,7 @@
       "resourceIds": [
         "brad-post-182702"
       ],
-      "chunk": "sources-006.json",
+      "chunk": "sources-007.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-to-test-june-30th-gap/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -11625,7 +11638,7 @@
       "resourceIds": [
         "brad-post-198178"
       ],
-      "chunk": "sources-007.json",
+      "chunk": "sources-008.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-bull-flag-likely/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -13053,7 +13066,7 @@
       "resourceIds": [
         "yt-tjLlRrkACyc"
       ],
-      "chunk": "sources-008.json",
+      "chunk": "sources-009.json",
       "url": "https://www.youtube.com/watch?v=tjLlRrkACyc",
       "titleCoverage": "existing-label",
       "authors": [
@@ -14517,7 +14530,7 @@
       "resourceIds": [
         "yt-lxlY29T9SwU"
       ],
-      "chunk": "sources-009.json",
+      "chunk": "sources-010.json",
       "url": "https://www.youtube.com/watch?v=lxlY29T9SwU",
       "titleCoverage": "existing-label",
       "authors": [
@@ -15965,7 +15978,7 @@
       "resourceIds": [
         "brad-post-272098"
       ],
-      "chunk": "sources-010.json",
+      "chunk": "sources-011.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-buyers-likely-near-june-low/",
       "titleCoverage": "title-only",
       "authors": [
@@ -17385,7 +17398,7 @@
       "resourceIds": [
         "yt-OAlZGoCP3OE"
       ],
-      "chunk": "sources-011.json",
+      "chunk": "sources-012.json",
       "url": "https://www.youtube.com/watch?v=OAlZGoCP3OE",
       "titleCoverage": "existing-label",
       "authors": [
@@ -18833,7 +18846,7 @@
       "resourceIds": [
         "brad-post-230271"
       ],
-      "chunk": "sources-012.json",
+      "chunk": "sources-013.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-disappointing-follow-through-for-bulls/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -20285,7 +20298,7 @@
       "resourceIds": [
         "brad-post-166667"
       ],
-      "chunk": "sources-013.json",
+      "chunk": "sources-014.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-upside-breakout/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -21737,7 +21750,7 @@
       "resourceIds": [
         "yt-AGJx_Cb8VHM"
       ],
-      "chunk": "sources-014.json",
+      "chunk": "sources-015.json",
       "url": "https://www.youtube.com/watch?v=AGJx_Cb8VHM",
       "titleCoverage": "existing-label",
       "authors": [
@@ -23205,7 +23218,7 @@
       "resourceIds": [
         "brad-post-175139"
       ],
-      "chunk": "sources-015.json",
+      "chunk": "sources-016.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-might-form-inside-day/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -24653,7 +24666,7 @@
       "resourceIds": [
         "yt-ui_fQg7gnAM"
       ],
-      "chunk": "sources-016.json",
+      "chunk": "sources-017.json",
       "url": "https://www.youtube.com/watch?v=ui_fQg7gnAM",
       "titleCoverage": "existing-label",
       "authors": [
@@ -26121,7 +26134,7 @@
       "resourceIds": [
         "brad-post-217063"
       ],
-      "chunk": "sources-017.json",
+      "chunk": "sources-018.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-second-leg-down-after-pullack/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -27565,7 +27578,7 @@
       "resourceIds": [
         "brad-post-149646"
       ],
-      "chunk": "sources-018.json",
+      "chunk": "sources-019.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-reach-february-low/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -29009,7 +29022,7 @@
       "resourceIds": [
         "brad-post-189737"
       ],
-      "chunk": "sources-019.json",
+      "chunk": "sources-020.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-failed-breakout-below-september-17/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -30461,7 +30474,7 @@
       "resourceIds": [
         "yt-52CRLthaa3E"
       ],
-      "chunk": "sources-020.json",
+      "chunk": "sources-021.json",
       "url": "https://www.youtube.com/watch?v=52CRLthaa3E",
       "titleCoverage": "existing-label",
       "authors": [
@@ -31917,7 +31930,7 @@
       "resourceIds": [
         "yt-3qUxGcbiQyg"
       ],
-      "chunk": "sources-021.json",
+      "chunk": "sources-022.json",
       "url": "https://www.youtube.com/watch?v=3qUxGcbiQyg",
       "titleCoverage": "existing-label",
       "authors": [
@@ -33369,7 +33382,7 @@
       "resourceIds": [
         "brad-post-221416"
       ],
-      "chunk": "sources-022.json",
+      "chunk": "sources-023.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-probability-is-becoming-neutral/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -34329,7 +34342,7 @@
   "fullTextProgress": {
     "completeSources": 1,
     "excerptSources": 1,
-    "notAssessedSources": 2365,
+    "notAssessedSources": 2366,
     "bilingualUnits": 6
   }
 }

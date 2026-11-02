@@ -1,5 +1,39 @@
 [
   {
+    "id": "4b77d142c5670f2aaa8f",
+    "url": "https://www.youtube.com/watch?v=rZ3XiGtv4Ks",
+    "sourceTitle": "How to Take Profits",
+    "titleZh": "如何獲利了結",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-rZ3XiGtv4Ks"
+      }
+    ],
+    "resourceIds": [
+      "yt-rZ3XiGtv4Ks"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-rZ3XiGtv4Ks",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Ali／Quant Systems 頻道"
+    ]
+  },
+  {
     "id": "4d309c9a998460153513",
     "url": "https://www.youtube.com/watch?v=audn3JFDTI0",
     "sourceTitle": "Conducting Research for System Development",
@@ -3261,28 +3295,5 @@
     "authors": [
       "Brad Wolff"
     ]
-  },
-  {
-    "id": "0684d6712465d5118cec",
-    "url": "https://www.forexpeacearmy.com/forex-reviews/7097/www.learntotradethemarket.com",
-    "sourceTitle": "Forex Peace Army：LearnToTradeTheMarket.com Review（評論來源）",
-    "titleZh": "Forex Peace Army：LearnToTradeTheMarket.com Review（評論來源）",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "discovery-review",
-        "id": "nial-fuller",
-        "index": 1
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   }
 ]

@@ -1,5 +1,38 @@
 [
   {
+    "id": "1eecb6d5fad39a65465b",
+    "url": "https://www.youtube.com/watch?v=bbFuXj8z9kg",
+    "sourceTitle": "Emini End of Day Review - Thursday May 9, 2024 - Brad Wolff",
+    "titleZh": "Brad 公開影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-bbFuXj8z9kg"
+      }
+    ],
+    "resourceIds": [
+      "yt-bbFuXj8z9kg"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-bbFuXj8z9kg",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "1f08204a1d6a9bc587e7",
     "url": "https://www.brookstradingcourse.com/analysis/emini-likely-test-april-18-low/",
     "sourceTitle": "Emini will likely test April 18 low this month",
@@ -3208,39 +3241,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "2b600cef97a96dc86459",
-    "url": "https://www.youtube.com/watch?v=3SKoI2U_cI8",
-    "sourceTitle": "SP500 E-mini Bear Channel and Evolution into Trading Range for March 11, 2026",
-    "titleZh": "Brooks 共享影片｜區間與通道",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-3SKoI2U_cI8"
-      }
-    ],
-    "resourceIds": [
-      "yt-3SKoI2U_cI8"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-3SKoI2U_cI8",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
     ]
   }
 ]

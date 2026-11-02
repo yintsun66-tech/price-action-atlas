@@ -1,5 +1,38 @@
 [
   {
+    "id": "91630dbf5eea26d31735",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-upside-breakout/",
+    "sourceTitle": "Emini Bulls Want Upside Breakout and Close above Yesterday’s High",
+    "titleZh": "Brad 日內案例｜2022-12-21｜突破與延續",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-166667"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-166667"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-166667",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "91ba305be94980044579",
     "url": "https://www.brookstradingcourse.com/analysis/emini-test-of-august-high/",
     "sourceTitle": "Emini Bulls Want Test of August High and Strong Entry Bar",
@@ -3136,39 +3169,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "9ce6e8eff12b7c5b877b",
-    "url": "https://www.youtube.com/watch?v=AGJx_Cb8VHM",
-    "sourceTitle": "Recap for 2010-10-08 part 1",
-    "titleZh": "Brooks 共享影片｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-AGJx_Cb8VHM"
-      }
-    ],
-    "resourceIds": [
-      "yt-AGJx_Cb8VHM"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-AGJx_Cb8VHM",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
     ]
   }
 ]

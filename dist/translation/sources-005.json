@@ -1,5 +1,38 @@
 [
   {
+    "id": "2b600cef97a96dc86459",
+    "url": "https://www.youtube.com/watch?v=3SKoI2U_cI8",
+    "sourceTitle": "SP500 E-mini Bear Channel and Evolution into Trading Range for March 11, 2026",
+    "titleZh": "Brooks 共享影片｜區間與通道",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-3SKoI2U_cI8"
+      }
+    ],
+    "resourceIds": [
+      "yt-3SKoI2U_cI8"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-3SKoI2U_cI8",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "2b6cc335af85cbbe126b",
     "url": "https://www.youtube.com/watch?v=-sdqBVFiWm4",
     "sourceTitle": "S&P500 E-mini Gap Up Opening Range Breakout and Small Pullback Bull Trend - 31 March 2026",
@@ -3197,38 +3230,5 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": []
-  },
-  {
-    "id": "3644260a06c197994237",
-    "url": "https://www.youtube.com/watch?v=NNIm6DrAGz4",
-    "sourceTitle": "Market Recap 2010-01-27",
-    "titleZh": "Brooks 共享影片｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-NNIm6DrAGz4"
-      }
-    ],
-    "resourceIds": [
-      "yt-NNIm6DrAGz4"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-NNIm6DrAGz4",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
   }
 ]

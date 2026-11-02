@@ -1183,6 +1183,99 @@
     "authorConfirmed": "TraderTom（官方第一人稱介紹，所讀頁面未列完整姓名）"
   },
   {
+    "id": "1edd8a6cd5a2a424eaee",
+    "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=86942",
+    "sourceTitle": "Cumulative Delta Bars- Volume - Perform Rolling Calculation seems to repaint previous bars",
+    "titleZh": "最近十棒與每天歸零不同：先核對滾動計算的定義與版本",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "官方支援於 2024 年解釋，滾動長度指定最近幾根棒，與從日盤或時段起點累積不同。串內另記錄 2023 年實作問題與修正回覆，不能據此判定現行版本仍有同樣問題。",
+    "readScope": "實讀全頁八則公開貼文，摘要限第 1 至 7 則的歷史問題、修正與滾動定義；第 8 則轉談熱力圖。未安裝或重現平台版本。",
+    "checked": "2026-11-01",
+    "inventoried": "2026-11-01",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "flow-footprint",
+        "index": 2
+      },
+      {
+        "kind": "community",
+        "id": "sierra-rolling-history"
+      },
+      {
+        "kind": "review",
+        "id": "source-b23-sierra-rolling-history"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b23-sierra-rolling-history",
+        "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=86942",
+        "sourceTitle": "Cumulative Delta Bars- Volume - Perform Rolling Calculation seems to repaint previous bars",
+        "sourceTitleZh": "最近十棒與每天歸零不同：先核對滾動計算的定義與版本",
+        "authorConfirmed": "User370531、User566250；Sierra_Chart Engineering、John - SC Support",
+        "published": "2023-10-09",
+        "dateNoteZh": "首帖為 2023-10-09；修正回覆在 2023-10-10 至 10-11，滾動定義回覆在 2024-06-24。頁首 2026 年時間不是發文日期。",
+        "checked": "2026-11-01",
+        "status": "body-summary",
+        "readScope": "實讀全頁八則公開貼文，摘要限第 1 至 7 則的歷史問題、修正與滾動定義；第 8 則轉談熱力圖。未安裝或重現平台版本。",
+        "summaryZh": "官方支援於 2024 年解釋，滾動長度指定最近幾根棒，與從日盤或時段起點累積不同。串內另記錄 2023 年實作問題與修正回覆，不能據此判定現行版本仍有同樣問題。",
+        "keyPointsZh": [
+          "把滾動窗口、固定分段歸零與時段累積分開，再保存當下輸出。"
+        ],
+        "shortExcerpt": {
+          "en": "the last 10 bars.",
+          "zh": "最近十根棒。",
+          "scope": "2024-06-24 官方第 7 則回覆，以長度 10 說明當前棒的累積範圍；沒有在此完整定義所有歷史棒及開高低的實作。"
+        },
+        "limitsZh": "歷史支援串未列可精確重現的現行版本；2023 年回覆不能當作今天的缺陷認證或更新指示。 本次頁面與搜尋快照瀏覽量不同，未填統一數字；致謝與發文數不作教學成效證據。",
+        "evidence": {
+          "urls": [
+            "https://www.sierrachart.com/SupportBoard.php?ThreadID=86942"
+          ],
+          "accessMethod": "實際讀取原作者或官方公開文字",
+          "scope": "實讀全頁八則公開貼文，摘要限第 1 至 7 則的歷史問題、修正與滾動定義；第 8 則轉談熱力圖。未安裝或重現平台版本。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "User370531、User566250；Sierra_Chart Engineering、John - SC Support"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "官方支援於 2024 年解釋，滾動長度指定最近幾根棒，與從日盤或時段起點累積不同。串內另記錄 2023 年實作問題與修正回覆，不能據此判定現行版本仍有同樣問題。",
+      "readScope": "實讀全頁八則公開貼文，摘要限第 1 至 7 則的歷史問題、修正與滾動定義；第 8 則轉談熱力圖。未安裝或重現平台版本。",
+      "checked": "2026-11-01",
+      "translationScope": "繁中精簡摘要與必要短句；非整串全文翻譯。",
+      "cardId": "sierra-rolling-history"
+    },
+    "published": "2023-10-09",
+    "dateNoteZh": "首帖為 2023-10-09；修正回覆在 2023-10-10 至 10-11，滾動定義回覆在 2024-06-24。頁首 2026 年時間不是發文日期。",
+    "keyPointsZh": [
+      "把滾動窗口、固定分段歸零與時段累積分開，再保存當下輸出。"
+    ],
+    "limitsZh": "歷史支援串未列可精確重現的現行版本；2023 年回覆不能當作今天的缺陷認證或更新指示。 本次頁面與搜尋快照瀏覽量不同，未填統一數字；致謝與發文數不作教學成效證據。",
+    "evidence": {
+      "urls": [
+        "https://www.sierrachart.com/SupportBoard.php?ThreadID=86942"
+      ],
+      "accessMethod": "實際讀取原作者或官方公開文字",
+      "scope": "實讀全頁八則公開貼文，摘要限第 1 至 7 則的歷史問題、修正與滾動定義；第 8 則轉談熱力圖。未安裝或重現平台版本。"
+    },
+    "shortExcerpt": {
+      "en": "the last 10 bars.",
+      "zh": "最近十根棒。",
+      "scope": "2024-06-24 官方第 7 則回覆，以長度 10 說明當前棒的累積範圍；沒有在此完整定義所有歷史棒及開高低的實作。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "User370531、User566250；Sierra_Chart Engineering、John - SC Support"
+  },
+  {
     "id": "2336d48eb1d5ca4e3c46",
     "url": "https://www.brookstradingcourse.com/how-to-trade-manual/stop-orders/",
     "sourceTitle": "Beginners should enter with stop orders",
@@ -7796,40 +7889,6 @@
     "titleNote": "",
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "4b77d142c5670f2aaa8f",
-    "url": "https://www.youtube.com/watch?v=rZ3XiGtv4Ks",
-    "sourceTitle": "How to Take Profits",
-    "titleZh": "如何獲利了結",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-rZ3XiGtv4Ks"
-      }
-    ],
-    "resourceIds": [
-      "yt-rZ3XiGtv4Ks"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-rZ3XiGtv4Ks",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Ali／Quant Systems 頻道"
     ]
   }
 ]

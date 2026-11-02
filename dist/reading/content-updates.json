@@ -2,6 +2,51 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch24-20261101",
+      "collected": "2026-11-01",
+      "updated": "2026-11-01",
+      "timezone": "Asia/Taipei",
+      "description": "每日精選新增一篇 Sierra 公開支援串繁中摘要與一組滾動窗口原創練習。",
+      "articles": [
+        "flow-footprint"
+      ],
+      "sources": [
+        "sierra-rolling-history"
+      ],
+      "decisions": [
+        {
+          "source": "Cumulative Delta Bars- Volume - Perform Rolling Calculation seems to repaint previous bars",
+          "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=86942",
+          "status": "新增社群正文選讀",
+          "reason": "實讀全頁八則公開貼文，摘要限第 1 至 7 則的歷史問題、修正與滾動定義；第 8 則轉談熱力圖。未安裝或重現平台版本。"
+        },
+        {
+          "source": "Reddit 四小時重置討論",
+          "url": "https://www.reddit.com/r/SierraChart/comments/1tynlsp/how_do_traders_get_cvd_values_like_400_800_1200/",
+          "status": "候選略過／僅可見部分回覆",
+          "reason": "已讀主帖與可見回覆；仍有 more reply 未展開，未核對回覆者實際平台。採可直接核對的官方支援回覆，不將此串列完整摘要。"
+        },
+        {
+          "source": "PTT 與 Brooks 特定 CVD 查詢",
+          "status": "查詢未確認合格候選",
+          "reason": "本次搜尋出現無關或跨站結果，沒有取得可核對的對應文章；這不是來源不存在或沒有新文的結論。"
+        },
+        {
+          "source": "威科夫教學與第三方 PDF 搜尋結果",
+          "status": "本輪未採用",
+          "reason": "基礎主題與既有教材重疊，未接續全文；未核對重刊授權的 PDF 不使用。"
+        }
+      ],
+      "notes": [
+        "只精選一篇有新增價值的材料，不為湊數搬入重複重置教學。",
+        "論壇第一帖為 2023-10-09；2026 年頁首時間與搜尋年齡不當成發布日。",
+        "歷史修正不等於現行版本仍有缺陷；沒有安裝、修改或測試平台。",
+        "瀏覽量快照不一致，未列統一值；社群自述、致謝與票數不作績效證據。",
+        "未讀完整或未採用的候選，不列摘要完成；既有私人權限與筆記保留。",
+        "未新增目標或排程，未執行交易。"
+      ]
+    },
+    {
       "id": "content-batch23-20261101",
       "collected": "2026-11-01",
       "updated": "2026-11-01",

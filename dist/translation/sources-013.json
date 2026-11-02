@@ -1,5 +1,38 @@
 [
   {
+    "id": "85d5e15d78c28b05eed2",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-disappointing-follow-through-for-bulls/",
+    "sourceTitle": "Emini Disappointing Follow-Through for Bulls",
+    "titleZh": "Brad 日內案例｜2025-02-19｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-230271"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-230271"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-230271",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "85de60fd1b6bce081231",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-taking-profits-betting-on-pullback/",
     "sourceTitle": "E-mini Bulls Taking Profits Betting on Pullback",
@@ -3151,38 +3184,5 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": []
-  },
-  {
-    "id": "91630dbf5eea26d31735",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-upside-breakout/",
-    "sourceTitle": "Emini Bulls Want Upside Breakout and Close above Yesterday’s High",
-    "titleZh": "Brad 日內案例｜2022-12-21｜突破與延續",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-166667"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-166667"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-166667",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
   }
 ]

@@ -1,5 +1,38 @@
 [
   {
+    "id": "40ebf67e910f17847e41",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-to-test-june-30th-gap/",
+    "sourceTitle": "Emini Likely to Test into June 30th Gap",
+    "titleZh": "Brad 日內案例｜2023-07-06｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-182702"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-182702"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-182702",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "410c40a9ec00c345b9d6",
     "url": "https://www.youtube.com/watch?v=qEt-JRLEs2Y",
     "sourceTitle": "S&P500 E-mini Opening Reversal Spike and Channel Bear Trend   June 10, 2026",
@@ -3158,39 +3191,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-167147",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "4db419eb0403762c84a9",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bull-flag-likely/",
-    "sourceTitle": "Emini Bull Flag Likely",
-    "titleZh": "Brad 日內案例｜2024-01-17｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-198178"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-198178"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-198178",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

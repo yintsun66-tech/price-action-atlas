@@ -1,0 +1,32 @@
+[
+  {
+    "resourceId": "source-b23-sierra-rolling-history",
+    "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=86942",
+    "sourceTitle": "Cumulative Delta Bars- Volume - Perform Rolling Calculation seems to repaint previous bars",
+    "sourceTitleZh": "最近十棒與每天歸零不同：先核對滾動計算的定義與版本",
+    "authorConfirmed": "User370531、User566250；Sierra_Chart Engineering、John - SC Support",
+    "published": "2023-10-09",
+    "dateNoteZh": "首帖為 2023-10-09；修正回覆在 2023-10-10 至 10-11，滾動定義回覆在 2024-06-24。頁首 2026 年時間不是發文日期。",
+    "checked": "2026-11-01",
+    "status": "body-summary",
+    "readScope": "實讀全頁八則公開貼文，摘要限第 1 至 7 則的歷史問題、修正與滾動定義；第 8 則轉談熱力圖。未安裝或重現平台版本。",
+    "summaryZh": "官方支援於 2024 年解釋，滾動長度指定最近幾根棒，與從日盤或時段起點累積不同。串內另記錄 2023 年實作問題與修正回覆，不能據此判定現行版本仍有同樣問題。",
+    "keyPointsZh": [
+      "把滾動窗口、固定分段歸零與時段累積分開，再保存當下輸出。"
+    ],
+    "shortExcerpt": {
+      "en": "the last 10 bars.",
+      "zh": "最近十根棒。",
+      "scope": "2024-06-24 官方第 7 則回覆，以長度 10 說明當前棒的累積範圍；沒有在此完整定義所有歷史棒及開高低的實作。"
+    },
+    "limitsZh": "歷史支援串未列可精確重現的現行版本；2023 年回覆不能當作今天的缺陷認證或更新指示。 本次頁面與搜尋快照瀏覽量不同，未填統一數字；致謝與發文數不作教學成效證據。",
+    "evidence": {
+      "urls": [
+        "https://www.sierrachart.com/SupportBoard.php?ThreadID=86942"
+      ],
+      "accessMethod": "實際讀取原作者或官方公開文字",
+      "scope": "實讀全頁八則公開貼文，摘要限第 1 至 7 則的歷史問題、修正與滾動定義；第 8 則轉談熱力圖。未安裝或重現平台版本。"
+    },
+    "courseRefs": []
+  }
+]

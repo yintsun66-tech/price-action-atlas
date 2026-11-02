@@ -90,3 +90,6 @@
 第二十二批（2026-11-01）：`build-translation-batch22.cjs` → `verify-batch22-coverage.cjs` → 翻譯清單 → 中文呈現；作者檔 licensed-batch22.json，來源快照 docs/sources/batch22-basis-3562704.txt。首筆來源章節教學正文覆蓋稽核綁定固定版本、實讀範圍、排除項、中英區塊雜湊及逐項檢查，只有該章的文字升為 complete-source；圖片、導覽與外鏈另列。全文生成器會拒絕與稽核雜湊不符的內容。保留所有其他來源與 62 個閱讀 ID，驗證用 workspace tools/check_translation_batch22*.cjs。瀏覽器預覽連線異常，本批實際畫面驗證未完成；不以舊截圖作本批證據。範圍與限制見 docs/translation-batch22.md。
 
 第二十三批（2026-11-01）：`build-content-batch23.cjs` → 翻譯清單 → 中文呈現。作者檔 batch23-sources.json、batch23-practice.json；實讀紀錄 zh-core-source-reviews-16.json。三個既有 pending 網址實讀後改正文摘要，來源總數不增；29 張卡、38 正文摘要、2283 待讀。摘要不增加全文完成數。新增自編練習只附在原三個單元尾端，舊節、題目、原文與筆記格式保留。選讀標題用「新增選讀」分清卡片與來源網址。驗證用 workspace tools/check_content_batch23*.cjs，來源、限制與瀏覽器恢復驗證見 docs/content-batch23.md。
+
+
+第二十四批（2026-11-01 蒐集，2026-11-02 接續發布）：build-content-batch24.cjs → 翻譯清單 → 中文呈現；作者檔 batch24-sources.json、batch24-practice.json，實讀紀錄 zh-core-source-reviews-17.json。只新增一篇未收錄的 Sierra 公開支援串與一節原創滾動算例；歷史修正、現行版本及計算定義分開。Reddit 未取得完整回覆與其他未採候選明列範圍，不說成沒有新文。驗證使用 workspace tools/check_content_batch24*.cjs，範圍見 docs/content-batch24.md。原查核與蒐集日期保留，發布日期另記。
