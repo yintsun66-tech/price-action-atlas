@@ -49,3 +49,5 @@ for(const f of fs.readdirSync(path.join(dist,'images/study')).filter(f=>f.endsWi
 console.log('Chinese-first presentation enabled');
 // Keep the installed navigation maps and their reader asset version after later translation builds.
 if(fs.existsSync(path.join(dist,'site-maps.js')))require('./build-site-maps.cjs');
+// Preserve the public release badge and asset versions after every later content batch.
+if(fs.existsSync(path.join(__dirname,'../release.json')))require('./stamp-version.cjs');

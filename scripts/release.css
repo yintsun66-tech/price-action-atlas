@@ -1,0 +1,5 @@
+.atlas-release{display:inline-flex;align-items:center;white-space:nowrap;min-height:32px;padding:4px 12px;border:1px solid #d2d8df;border-radius:999px;font-size:16px;font-weight:750;line-height:1.4;color:#1d1d1f;background:#fff;text-decoration:none}
+.atlas-release:hover{background:#edf3fb;color:#174e7d}
+.atlas-release:focus-visible{outline:3px solid #1767aa;outline-offset:3px}
+.footer a{font-weight:700;color:#245b83}
+@media(max-width:640px){.atlas-release{font-size:15px;padding:4px 10px}.topbar-actions{flex-wrap:wrap}}

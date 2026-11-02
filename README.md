@@ -1,5 +1,13 @@
 # Price Action Atlas · 閱讀庫
 
+**目前版本：v1.0.0 · 2026-11-02**
+
+[公開學習網站](https://yintsun66-tech.github.io/price-action-atlas/) · [GitHub 原始檔](https://github.com/yintsun66-tech/price-action-atlas) · [版本與更新紀錄](https://github.com/yintsun66-tech/price-action-atlas/releases)
+
+完整網站、作者檔、來源紀錄、文件與既有 Git 歷史已搬至本儲存庫；GitHub Pages 由 dist 發布。保留 62 個閱讀單元、68 張原創圖、2110 筆資源索引、32 篇來源選讀及 16 筆影音。自本版起每次發布附 vX.Y.Z，細節見 [版本流程](docs/versioning.md) 與 [更新紀錄](CHANGELOG.md)。下方日期記錄保留歷史語境，舊文提及私人 Sites 為遷移前狀態。
+
+本專案使用 Node.js 22 以上、沒有外部套件依賴。執行 `npm run build` 重建現行內容與版本，`npm test` 驗證。Pages 的相對資產路徑適用 `/price-action-atlas/` 子路徑。個人筆記儲存在瀏覽器，請由舊站匯出再到新站匯入；備份不可上傳公開儲存庫。教材重用範圍見 [RIGHTS.md](RIGHTS.md)。
+
 2026-10-29 全站繁中計畫實作中：62 個閱讀單元完成站內用語盤點，預設中文、英文可展開；建立 2,328 個去重英文來源的處理清單。第一批核心實讀含 7 篇正文摘要、3 個介紹摘要及 3 個取得失敗紀錄，並保留既有選段；尚有來源待處理，沒有宣稱全站英文來源已翻完。詳見 `docs/fullsite-translation.md`，重建與驗證須使用該文件所列最新入口。
 
 2026-10-28 圖解與流派擴充：全庫54篇皆附整理圖，共60張原創SVG；新增威科夫、ICT、訂單流與橫向比較12篇、36題測驗。提供同圖觀點切換及依市場／資料層的研究規劃。詳見 `docs/schools-and-figures.md`。

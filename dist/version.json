@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "released": "2026-11-02",
+  "timezone": "Asia/Taipei",
+  "repository": "https://github.com/yintsun66-tech/price-action-atlas",
+  "site": "https://yintsun66-tech.github.io/price-action-atlas/",
+  "contentEdition": "20261102c25",
+  "notes": [
+    "完整搬移既有網站、來源紀錄、編輯工具與 Git 歷史至 GitHub，改用公開 GitHub Pages。",
+    "保留 62 個閱讀單元、68 張整理圖、2110 筆資源索引、32 篇來源選讀及 16 筆影音入口。",
+    "加入可見版本號、更新紀錄、版本標籤檢查與 GitHub Actions 發布流程。",
+    "筆記與進度仍儲存在瀏覽器；從舊網址搬移須先匯出，再於新網址匯入。"
+  ]
+}
