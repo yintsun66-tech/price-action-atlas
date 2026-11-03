@@ -1,6 +1,6 @@
 # Price Action Atlas · 閱讀庫
 
-**目前版本：v1.0.0 · 2026-11-02**
+**目前版本：v1.0.0 · 2026-11-03**
 
 [公開學習網站](https://yintsun66-tech.github.io/price-action-atlas/) · [GitHub 原始檔](https://github.com/yintsun66-tech/price-action-atlas) · [版本與更新紀錄](https://github.com/yintsun66-tech/price-action-atlas/releases)
 

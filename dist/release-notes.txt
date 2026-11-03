@@ -1,4 +1,4 @@
-Price Action Atlas v1.0.0 — 2026-11-02
+Price Action Atlas v1.0.0 — 2026-11-03
 
 - 完整搬移既有網站、來源紀錄、編輯工具與 Git 歷史至 GitHub，改用公開 GitHub Pages。
 - 保留 62 個閱讀單元、68 張整理圖、2110 筆資源索引、32 篇來源選讀及 16 筆影音入口。

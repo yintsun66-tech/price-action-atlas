@@ -1,0 +1,339 @@
+{
+  "date": "2026-10-29",
+  "scope": "站內 62 個閱讀單元的使用者文字；不是外部來源全文審閱",
+  "reviewedArticleIds": [
+    "bp2-breakout-followthrough",
+    "bp2-failed-breakout",
+    "bp2-range-location",
+    "bp2-reversal-evidence",
+    "bp2-second-entry",
+    "bp2-trend-channel",
+    "brooks-breakout-test",
+    "brooks-candle-evidence",
+    "brooks-context-first",
+    "brooks-order-intent",
+    "brooks-psychology-audit",
+    "brooks-pullback-language",
+    "brooks-scalp-math",
+    "brooks-workspace-routine",
+    "community-failed-followthrough",
+    "community-three-bar-notes",
+    "flow-absorption",
+    "flow-depth",
+    "flow-footprint",
+    "ict-event-rates",
+    "ict-fvg",
+    "ict-liquidity",
+    "ict-structure",
+    "licensed-continuation-reversal",
+    "licensed-measured-move",
+    "licensed-price-forecasting",
+    "licensed-range-consolidation",
+    "licensed-support-resistance",
+    "licensed-trends",
+    "louie-chart-notes",
+    "louie-context-pairs",
+    "louie-replay-audit",
+    "louie-wait-cancel",
+    "pa3-anti-playbook",
+    "pa3-bayes-evidence",
+    "pa3-label-consistency",
+    "pa3-podcast-to-hypothesis",
+    "pa3-research-register",
+    "pa3-session-contract",
+    "pa3-stop-execution",
+    "pa3-winrate-uncertainty",
+    "pp2-closed-higher-frame",
+    "pp2-intrabar-path",
+    "pp2-signal-gap",
+    "pp2-structural-stop",
+    "pp2-target-trailing",
+    "pp2-time-exit",
+    "practice-context-hypothesis",
+    "practice-discretion-audit",
+    "practice-journal-before-after",
+    "practice-pattern-laboratory",
+    "practice-plan-not-stop-only",
+    "practice-replay-evidence",
+    "practice-risk-in-r",
+    "practice-tick-time-transfer",
+    "school-market-fit",
+    "school-same-chart",
+    "school4-comparison",
+    "wyckoff-cycle",
+    "wyckoff-effort",
+    "wyckoff-spring",
+    "wyckoff-template-uncertainty"
+  ],
+  "reviewedCount": 62,
+  "terms": 356,
+  "method": [
+    "讀取全篇 JSON，審核正文、標題、摘要、術語、練習、測驗、案例描述、來源標題與取得範圍中的英文；以英文出現處的完整中文上下文作翻譯判斷。",
+    "既有術語表提供 176 組對照；另補來源標題、縮寫及校對用詞。詞表使用較長精確詞組優先。",
+    "保留原始文章 JSON 與其英語原文，新增詞表供中文優先顯示；英文原文、來源標題及授權文字仍須可展開查核。",
+    "只有本站內容經審核；未因此把任何外部文章、課程或影片標為新讀取完成。"
+  ],
+  "glossaryConflicts": [
+    {
+      "term": "Follow-through",
+      "firstTranslation": "後續延續",
+      "articleTranslation": "後續延續表現",
+      "article": "community-failed-followthrough"
+    },
+    {
+      "term": "OHLC",
+      "firstTranslation": "開高低收",
+      "articleTranslation": "開、高、低、收",
+      "article": "community-three-bar-notes"
+    },
+    {
+      "term": "Market by Order / MBO",
+      "firstTranslation": "逐筆委託資料",
+      "articleTranslation": "逐單委託資料",
+      "article": "ict-liquidity"
+    },
+    {
+      "term": "Trigger",
+      "firstTranslation": "觸發條件",
+      "articleTranslation": "觸發",
+      "article": "pa3-stop-execution"
+    },
+    {
+      "term": "Look-ahead bias",
+      "firstTranslation": "偷看未來偏誤",
+      "articleTranslation": "偷看未來偏差",
+      "article": "pp2-closed-higher-frame"
+    },
+    {
+      "term": "Invalidation",
+      "firstTranslation": "失效條件",
+      "articleTranslation": "假說失效",
+      "article": "pp2-structural-stop"
+    },
+    {
+      "term": "Follow-through",
+      "firstTranslation": "後續延續",
+      "articleTranslation": "後續延續表現",
+      "article": "practice-context-hypothesis"
+    },
+    {
+      "term": "Invalidation",
+      "firstTranslation": "失效條件",
+      "articleTranslation": "假說失效條件",
+      "article": "practice-context-hypothesis"
+    },
+    {
+      "term": "Reconciliation",
+      "firstTranslation": "對帳",
+      "articleTranslation": "對帳核對",
+      "article": "practice-plan-not-stop-only"
+    },
+    {
+      "term": "Replay",
+      "firstTranslation": "歷史回放",
+      "articleTranslation": "錄影回放",
+      "article": "practice-replay-evidence"
+    }
+  ],
+  "requiredContextHandling": [
+    {
+      "term": "Spread / spread",
+      "rule": "只有威科夫棒幅語境可譯「棒幅／高低價幅」；其他位置可能是買賣價差，不可全站無條件套用。"
+    },
+    {
+      "term": "stop",
+      "rule": "本文特別比較進場觸發與保護停損，裸字 stop 無單一譯法；須用完整段落或保持原字並附用途。"
+    },
+    {
+      "term": "tick / Tick",
+      "rule": "Tick chart 是成交筆數圖；minimum tick 是最小價格跳動。裸字不納入全域詞表，須按上下文解釋。"
+    },
+    {
+      "term": "R",
+      "rule": "作初始風險單位，數字與 R 的算式保留；不要作英文字母子字串替換。"
+    },
+    {
+      "term": "Probably / probably",
+      "rule": "譯很可能；Wikibooks 未提供數值，不套用 Brooks 詞彙定義。"
+    },
+    {
+      "term": "Suggest / suggest",
+      "rule": "譯暗示；保留原段提示而非保證的語氣。"
+    },
+    {
+      "term": "Main / Forex",
+      "rule": "提供主課程版／外匯課程版中文，但原版名與單元編號必須保留供查核。"
+    },
+    {
+      "term": "Bid / Ask",
+      "rule": "Bid／Ask 是買價／賣價，成交量語境分別譯以買價／賣價成交的量；不能把掛單量當成交量。"
+    },
+    {
+      "term": "Fill",
+      "rule": "本次詞表譯成交。原 brooks-order-intent glossary 寫成交回報，應避免與 Execution report（成交與委託回報）混同；不修改原文章資料，由整合者加中文校對。"
+    },
+    {
+      "term": "Live / live",
+      "rule": "本文談直播／即時標題與證據，不能將單一標題轉成已確認完整實盤；詞表明列依實際內容核對。"
+    }
+  ],
+  "unresolvedTerms": [
+    {
+      "term": "CSCV",
+      "article": "pa3-research-register",
+      "reason": "站內只列縮寫，未在本次任務讀取原論文核對完整名稱，不自行擴成新定義；保留縮寫與待核對註記。"
+    },
+    {
+      "term": "Trenline / Trendline",
+      "article": "licensed-continuation-reversal",
+      "reason": "原文疑似錯字；英文照錄，僅在中文說明疑為趨勢線。不得改寫英文原文或把疑為改成確定。"
+    },
+    {
+      "term": "MAC / Stoc",
+      "article": "licensed-price-forecasting",
+      "reason": "原文縮寫未明確展開，保留拼法與本站已有校對註，不自行改寫為 MACD 或其他指標。"
+    },
+    {
+      "term": "including trends including / another of from / highs are lows / moving moving",
+      "article": "licensed-trends / licensed-continuation-reversal",
+      "reason": "原文語法或重字，應留在英文校對區，搭配現有中文校對註；不作機械詞組替換。"
+    },
+    {
+      "term": "Trading Triad",
+      "article": "pa3-podcast-to-hypothesis",
+      "reason": "詞表提供「交易三要素」作名稱字面翻譯；未據此補造原作者模型構成或參數。"
+    }
+  ],
+  "exceptions": {
+    "authors": [
+      "Al Brooks",
+      "Adam H. Grimes",
+      "Adam Grimes",
+      "Galen Woods",
+      "Louie",
+      "Thomas Wade",
+      "Mack",
+      "Steve Nison",
+      "Grant Sanderson",
+      "Hank Pruden",
+      "Max von Lichtenstein",
+      "Bailey",
+      "John Colucci",
+      "Bruce Fraser"
+    ],
+    "platformsAndBrands": [
+      "Bookmap",
+      "TradingView",
+      "Sierra Chart",
+      "Binance",
+      "MarketLife",
+      "Wade Trading Academy",
+      "Wikibooks",
+      "StockCharts ChartSchool",
+      "Wyckoff Analytics",
+      "SMB",
+      "PATs",
+      "YouTube",
+      "3Blue1Brown",
+      "Tefi",
+      "futures.io",
+      "The Inner Circle Trader"
+    ],
+    "symbolsAndIdentifiers": [
+      "TMF",
+      "TX",
+      "MTX",
+      "BTC",
+      "BTCUSDT",
+      "ES",
+      "AAPL",
+      "MRNA",
+      "USDⓈ-M",
+      "USD-M",
+      "B0–B5",
+      "A–F",
+      "E",
+      "P",
+      "O/H/L/C",
+      "H1/L1/H3/L3",
+      "z",
+      "PA_BREAKOUT_V1",
+      "learning_data.json",
+      "V1.11.0",
+      "Main 單元編號",
+      "Forex 單元編號"
+    ],
+    "licenses": [
+      "CC BY-SA 4.0"
+    ],
+    "rule": "作者、品牌、商品代號、公式變數、程式／檔案識別與授權名稱可保留原名；應在周邊提供中文用途，不因此宣稱整串是未翻譯文章。"
+  },
+  "originalArticleSha256": {
+    "bp2-breakout-followthrough.json": "0135c42389895cb39db067c7896e6a6add4bc62971108575ac14d7faed336a0d",
+    "bp2-failed-breakout.json": "b4d068c027a7bfd9dcaa17a184fbf5c0844b129e66d759d91064aa4b2739eb6b",
+    "bp2-range-location.json": "7f09881e5ca619948ba488c1c1545746237b23ff7c7700e80847529e40f52e6c",
+    "bp2-reversal-evidence.json": "f335bedf7c4fb92bbf2a4b4218489eb47e75664839d3f56e29baa9b5d80f7e0e",
+    "bp2-second-entry.json": "0890e5f744012705a3e97225ac2c8f9b7f7e724ebbc34fe088f5caa7434f7627",
+    "bp2-trend-channel.json": "5a9e81252c62dd60e10747847336094e8e720ec27b4701822bdd1828178cd7f7",
+    "brooks-breakout-test.json": "61dce2a103a6a99c98250f81148dc2efe59b05fbffc5f7162b9a3085f2b84e31",
+    "brooks-candle-evidence.json": "8fd989653b807ba8deea92d5b1a73448d29c8f9fcc4864aa87e9442967a27a21",
+    "brooks-context-first.json": "822bb5ec7b809b6f42c913bfd3796748a9aa81f7637d95a65774f9f0c9335618",
+    "brooks-order-intent.json": "e1c3fc526b2f47305e6dd518ec99f407113298cc12d0e8622621994b2d854e9f",
+    "brooks-psychology-audit.json": "59d4024b53f2ec9c2cc974e5da7bf3ea28d1a1345c1e429cfd4150beb1d5f247",
+    "brooks-pullback-language.json": "fcad2c7b797b3558a51ac71081de86fb7a917a0f0773fd584b8223dcb1e37616",
+    "brooks-scalp-math.json": "2826b16d6b4cd6ddde6e919f28afc17bdbcdc5904c1dac4a346eac4ba4ce20d3",
+    "brooks-workspace-routine.json": "85fc18c2001a7380119c79af4b31f3eefe41fd34d0aefe69221ecf9a180dade2",
+    "community-failed-followthrough.json": "8bd9a1bf2979ac1845a816c0b62608b0e77449bb1666be8880f53a8cca1f5c15",
+    "community-three-bar-notes.json": "3026b49d4af7ddde690cda2960a71876f714367359cf2185e95667b54b943809",
+    "flow-absorption.json": "15ac62b38ebe6aa4786db71bd6067a8eccfb0c6dde1f1acfc5a66c5a6684e07a",
+    "flow-depth.json": "f6c36e4f80572a4d49992f55149c0678646d876d06c95e4da3fc04c35db61ee3",
+    "flow-footprint.json": "9c0f5cd0acb9374f90501aa2f8822ff50ffd5559b1afdd7f2e2be08aaf44a463",
+    "ict-event-rates.json": "a0e2686227c89f362dd97f097ac8b325aaf5043c23a4fdaabba7bc7488047999",
+    "ict-fvg.json": "3cb9bf489f3c5fbced5b501f6ec9df5c0e29e10faf88008d836a4b16ad8401da",
+    "ict-liquidity.json": "bb6b4e240b5494219f1ad25b32847fe30ed78c1197224ce93bdafcfdbd1c8594",
+    "ict-structure.json": "0887edee57eb6a7be31be843f5f6cfae338da73d570a0bf79026ef4a891cbbe0",
+    "licensed-continuation-reversal.json": "9bf7475cb0b5bd4aaadd955dd52f06316acd6ff97820f997710a3b98c5b674d9",
+    "licensed-measured-move.json": "1fb8af4573b1f6f9d8340fc8a24aaf9b20a64cbee66de7a1ff7c742c113d9d89",
+    "licensed-price-forecasting.json": "e338462761f2c773da38cb0daa97c00410fb1b9edfbeb1a7164140f0a3ed90e2",
+    "licensed-range-consolidation.json": "dc554e0c68dbb22acc28484b456516161a9d63d6f7ac5d937a4665eacecf4cef",
+    "licensed-support-resistance.json": "e10dcca0662aaf748ad01f8a7b57de9097092d8ac808c4705b3c8a2f6790b717",
+    "licensed-trends.json": "d3e8f7966e2bc0e2969daffbf669e037976e9d108343ebf09bd8fbf612876d7c",
+    "louie-chart-notes.json": "c29b9392473e2e0d246015103c8143be6d0c1c72cdffa073a176520e80293f6f",
+    "louie-context-pairs.json": "11e5b1a3a77276f215014ff1577fbec4e8895417bcc6509980b89440a243564a",
+    "louie-replay-audit.json": "fa3ab62deee616c5fb011881f6687c4613e28ac68bde26ed7b2ebbf07a74dc75",
+    "louie-wait-cancel.json": "0f802c8ffc0760f9580f17309b5ade1c8b160849789710cf94eebf7cb8b55550",
+    "pa3-anti-playbook.json": "16576322d3c5db1168835f5e88208000104520193757f5f85625ea50d76c7c4b",
+    "pa3-bayes-evidence.json": "172e836c10fad99d16d81c6617ab245c210057b58b2439048fcba434124d719f",
+    "pa3-label-consistency.json": "9ea5f7507e9326f1c6db1adec8e232fc1561639daa016ced9061542b5d761eb2",
+    "pa3-podcast-to-hypothesis.json": "4fbe54f151a8bb5721608260fdd905b4cef70e1374662a66ac121b9026f6b226",
+    "pa3-research-register.json": "35f4556689071e1f7fd397705d3af7bbf50d313e3673f3476510518861b0b401",
+    "pa3-session-contract.json": "232bd013955f884bdd44bfa0ca972b42de2c89d3e80a12de7181f02727f396f5",
+    "pa3-stop-execution.json": "f71839d89eef45e22d02d4f8dccd7f75ae699b99a3e5c51b398f52afddc0dcf9",
+    "pa3-winrate-uncertainty.json": "b3e88faa554a1391c76f9e6ab2e0f7bd214e80c978ca132bc1c840d888f3e98b",
+    "pp2-closed-higher-frame.json": "482708f71807aca8151cb062dbcbcc33a2a22af515f06175012256f799659a38",
+    "pp2-intrabar-path.json": "b560f064eb05021a02d25e5adeee9b38b3661695142f7a94f210b5560af72cb7",
+    "pp2-signal-gap.json": "d7264a9a1103bfbfb92e0f43a1f69d2696b2c6caea633d66396cd1dd83b8c29f",
+    "pp2-structural-stop.json": "6278d17eddd30af397e3b460132b962113b6e1d3040eeac83423ed75ab6e04ab",
+    "pp2-target-trailing.json": "e80c4875d5103179a3b284432e828b0d6d1ed123bebc331c55332e02f9ddbca2",
+    "pp2-time-exit.json": "5036e2c48cd4cc31108ecd546e58463e3c1051e265d31312eb3f18cd2528f8b0",
+    "practice-context-hypothesis.json": "4a5375b3e387d7eeaa5873a9ad55e3794bda50c524bedb9582b77e39f2d5351e",
+    "practice-discretion-audit.json": "847cfcb4562e200d96e89ee9ccb9056e8797ea768d32aedd85be719b077d5296",
+    "practice-journal-before-after.json": "8273284a13bfcff2663fd27c9aa3e2a39603b082b835af402d830e1bf1772412",
+    "practice-pattern-laboratory.json": "46723ed25781ff4b23d3ec54573510bc157bec2750cb8338ebf62664deafb64f",
+    "practice-plan-not-stop-only.json": "e03495a501be092dadceeb8aa4fb30db2a3d953bb144c49e3cde09031cfc9968",
+    "practice-replay-evidence.json": "52721e2b0bd1ba81a6eb4c73cd543cd7d1c33bcac2d8634e9897e6c82523e4b5",
+    "practice-risk-in-r.json": "eb78750b9da1b79f0df7233ebd3406a07b2c0b5d4c0b6ff0808295446f3f507f",
+    "practice-tick-time-transfer.json": "3686c941d41b1fe30a38449511c8bb86e34c9b9efddf8c6f17ed4807ac9c222d",
+    "school-market-fit.json": "3a2d2c0fd9ba5a0edba1a71f0b773cfdb7fb07fb599537ec662bc2ce9c454dac",
+    "school-same-chart.json": "80c821631156313f6711ad6973e37dc44970f1fd9e27a53f1ecc8a18daa8f6e8",
+    "school4-comparison.json": "fcb4b14d1364c228f526dcff8b9301cbbdcbbaee9715ddf0579550fd5c220a48",
+    "wyckoff-cycle.json": "d022fe121afc342e6c0cdeb7f02f9d54cfda9160d5a5475b445899511aed7d91",
+    "wyckoff-effort.json": "d1d8e6e67ab2481009c80ce1c6a737983883f34d6b7dca2a877d5096e6900cff",
+    "wyckoff-spring.json": "fda4d53885a688e9dc5125ff9cf15b2acf136fcb7a8b3ce1f3fa9ae50ab60808",
+    "wyckoff-template-uncertainty.json": "6758e96a2a11e968c03bc490cc47566211000aaa62fc76378922c46f979c5542"
+  },
+  "limitations": [
+    "未直接修改 renderer，整合後仍須檢查文字邊界、來源標題、英文折疊及各頁原有機率標註。",
+    "沒有對外部來源、付費影片、真實交易數據或原作者績效進行本次新查核。"
+  ]
+}
