@@ -2,6 +2,61 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch26-20261104",
+      "collected": "2026-11-04",
+      "updated": "2026-11-04",
+      "timezone": "Asia/Taipei",
+      "description": "足跡圖配對、資料分類與未知動機：三篇指定範圍選讀及一組原創算例、圖解。",
+      "articles": [
+        "flow-footprint"
+      ],
+      "sources": [
+        "sierra-diagonal-small-volume",
+        "tv-footprint-data-method",
+        "reddit-footprint-intentions"
+      ],
+      "decisions": [
+        {
+          "source": "Numbers Bars",
+          "url": "https://www.sierrachart.com/index.php?l=doc/NumbersBars.php",
+          "status": "採用指定範圍摘要",
+          "reason": "實讀定義中的對角比較、最低比較量、極端價位缺值與零值分母設定；未讀完全部文件或操作軟體。"
+        },
+        {
+          "source": "Volume footprint charts: a complete guide",
+          "url": "https://www.tradingview.com/support/solutions/43000726164-volume-footprint-charts-a-complete-guide/",
+          "status": "採用指定範圍摘要",
+          "reason": "實讀 Calculation 的資料來源、分類及失衡小節，另讀警報重繪注意事項；其餘解讀與設定未逐項驗證，未觀看嵌入影片。"
+        },
+        {
+          "source": "Order Types in Footprint",
+          "url": "https://www.reddit.com/r/FuturesTrading/comments/1ac86vv/order_types_in_footprint/",
+          "status": "採用指定範圍摘要",
+          "reason": "實讀主帖及上述三位使用者的可見回覆，另見部分反對與刪除留言；未核對所有巢狀回覆、帳戶身分或交易紀錄。"
+        },
+        {
+          "source": "Ask Al: Handling a losing trade",
+          "url": "https://www.brookstradingcourse.com/ask-al/handling-losing-trade/",
+          "status": "本批略過",
+          "reason": "取得公開問答頁；本批聚焦足跡資料口徑，未整理本頁採用摘要，不列內容完成。"
+        },
+        {
+          "source": "PTT 訂單流相關原帖查詢",
+          "status": "未確認對應原帖",
+          "reason": "本次檢索未取得可核對的對應原帖；不推斷來源沒有相關新文。"
+        }
+      ],
+      "notes": [
+        "兩個新網址，另續讀一個既有 pending 的 Sierra 文件；URL 以既有 l 參數去重，避免與 page 別名重複計數。",
+        "三篇均以明列範圍的部分摘要驗收，正文摘要與全文完成數不增。",
+        "官方動態文件與 Reddit 相對日期未換算為虛構發布日期。",
+        "社群主帖的開平倉推論保留反對意見，不採為已驗證的委託類型規則；致謝不當教學評分。",
+        "沒有引用新的 Brooks 課程觀念；保留原有相關單元，不另猜課程出處。",
+        "原創價位、量與門檻不是交易策略參數或行情；舊段落、圖、來源物件與瀏覽器筆記鍵保留。",
+        "發布 v1.1.0，沿用既有每日排程；未執行交易。"
+      ]
+    },
+    {
       "id": "content-batch25-20261102",
       "collected": "2026-11-02",
       "updated": "2026-11-02",

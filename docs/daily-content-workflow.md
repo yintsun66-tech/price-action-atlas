@@ -2,6 +2,8 @@
 
 **現行發布規則（2026-11-02 起）：**使用者已明確選擇公開 GitHub Pages。主要原始檔為 https://github.com/yintsun66-tech/price-action-atlas ，網站為 https://yintsun66-tech.github.io/price-action-atlas/ 。先讀本站 AGENTS.md 與 docs/versioning.md；每次實質發布需遞增版本、更新 CHANGELOG 並推送 vX.Y.Z 標籤。以下舊 Sites 流程保留歷史語境，不再作新發布目標。個人筆記／備份不可上傳儲存庫。
 
+最新內容批次為第二十六批 v1.1.0（2026-11-04）：build-content-batch26.cjs → 翻譯清單 → 中文呈現／版本標示。新增足跡資料指定範圍選讀與原創圖解，實讀紀錄 zh-core-source-reviews-19.json。Sierra 的 page／l 別名沿用既有來源，不重複計數。資料與閱讀器驗證使用 workspace tools/check_content_batch26*.cjs；範圍、略過與數量見 docs/content-batch26.md。其後依 release.json 指定最新生成器。
+
 使用者於 2026-10-28 選擇每日更新。已建立本聊天 heartbeat：價格行為教材每日蒐集與繁中更新，時間預設 Asia/Taipei 每日 10:00。這是本機聊天的持續工作排程，沒有另建 Sites 雲端寫入器或第二份排程。排程設定成功不表示未來每次研究或發布必然成功；每次執行仍須查核及確認發布結果。
 
 ## 既有網站（遷移前歷史設定）

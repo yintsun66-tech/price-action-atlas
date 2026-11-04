@@ -1,14 +1,13 @@
 {
-  "version": "1.0.0",
-  "released": "2026-11-03",
+  "version": "1.1.0",
+  "released": "2026-11-04",
   "timezone": "Asia/Taipei",
   "repository": "https://github.com/yintsun66-tech/price-action-atlas",
   "site": "https://yintsun66-tech.github.io/price-action-atlas/",
-  "contentEdition": "20261102c25",
+  "contentEdition": "20261104c26",
   "notes": [
-    "完整搬移既有網站、來源紀錄、編輯工具與 Git 歷史至 GitHub，改用公開 GitHub Pages。",
-    "保留 62 個閱讀單元、68 張整理圖、2110 筆資源索引、32 篇來源選讀及 16 筆影音入口。",
-    "加入可見版本號、更新紀錄、版本標籤檢查與 GitHub Actions 發布流程。",
-    "筆記與進度仍儲存在瀏覽器；從舊網址搬移須先匯出，再於新網址匯入。"
+    "新增 Sierra Chart、TradingView 與 Reddit 三篇指定範圍繁中選讀，保留英文短句、來源與閱讀限制。",
+    "足跡圖單元補上同列／對角比較、小量門檻、資料分類與未知動機的原創練習及圖解。",
+    "閱讀單元維持 62 篇，原創整理圖增為 69 張，來源選讀增為 35 篇；本批不增加正文摘要或全文完成數。"
   ]
 }

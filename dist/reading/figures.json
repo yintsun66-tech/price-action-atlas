@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "checked": "2026-10-29",
+  "checked": "2026-11-04",
   "original": true,
   "figures": [
     {
@@ -817,6 +817,18 @@
       "afterSection": 2,
       "caption": "圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。 本站新增原創圖亦依本篇 CC BY-SA 4.0 提供，未改作來源圖片。",
       "alt": "量度目標相同，達標與未達標都保留。圖中路徑、標記及數字由本站自編，用於整理本篇問題，沒有產生交易訊號。 本站新增原創圖亦依本篇 CC BY-SA 4.0 提供，未改作來源圖片。",
+      "synthetic": true
+    },
+    {
+      "id": "flow-diagonal-comparison",
+      "article": "flow-footprint",
+      "title": "同列、對角與小量：三個問題分開算",
+      "src": "images/study/flow-diagonal-comparison.svg",
+      "width": 960,
+      "height": 620,
+      "afterSection": 7,
+      "caption": "價位、數量與門檻均為本站自編。圖只示範算術與記錄問題，不是 Sierra／TradingView 原圖、行情、平台重現或交易績效。",
+      "alt": "三價位合成表：100 同列為三十倍、對角為三倍；101 的小量三倍配對另按門檻略過。",
       "synthetic": true
     }
   ]

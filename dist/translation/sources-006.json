@@ -1,5 +1,71 @@
 [
   {
+    "id": "35bb2cc176d67522e117",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-micro-double-bottom-and-bounce/",
+    "sourceTitle": "Emini bulls want micro double bottom and bounce",
+    "titleZh": "Brad 日內案例｜2022-04-27｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-149640"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-149640"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-149640",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "35d8976f89fc31a868a4",
+    "url": "https://www.youtube.com/watch?v=CJaR3jDbEsQ",
+    "sourceTitle": "Emini End of Day Review - Friday September 9, 2022",
+    "titleZh": "Brooks 共享影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-CJaR3jDbEsQ"
+      }
+    ],
+    "resourceIds": [
+      "yt-CJaR3jDbEsQ"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-CJaR3jDbEsQ",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "36264ea7b6622b7f14d6",
     "url": "https://www.brookstradingcourse.com/analysis/emini-tight-bull-channel-to-july-high/",
     "sourceTitle": "E-mini Tight Bull Channel to July High",
@@ -3140,73 +3206,6 @@
     "courseRefs": [],
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "40894a96b9f9c3d2d4b2",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-weak-high-1-buy-signal-bar-6/",
-    "sourceTitle": "Emini Weak High 1 Buy Signal Bar",
-    "titleZh": "Brad 日內案例｜2025-03-28｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-233163"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-233163"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-233163",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "40a0e6e9f5895ce7d0a7",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bears-unlikely-to-get-reversal-down/",
-    "sourceTitle": "E-mini Bears Unlikely to Get Reversal Down",
-    "titleZh": "E-mini：空方不太可能形成向下反轉",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-274581"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-274581"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-274581",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-02",
+  "revision": "2026-11-04",
   "articles": [
     {
       "id": "licensed-measured-move",
@@ -442,7 +442,7 @@
       "subtitle": "用自編 Bid 120、Ask 180 的價位表，讀懂成交方向、累積起點與資料限制",
       "summary": "一根 K 棒之內，可以有完全不同的成交分布。本篇用合成數字說明 Footprint、Delta 與 CVD，並建立研究前必須固定的資料與重置規格。所有數字都是教學假設，不是微台或 BTC 的實測結果。",
       "level": "入門",
-      "minutes": 15,
+      "minutes": 19,
       "mode": "guide",
       "batch": 4,
       "topic": "成交資料",
@@ -455,7 +455,7 @@
       ],
       "hasCases": true,
       "hasChart": false,
-      "figureCount": 2
+      "figureCount": 3
     },
     {
       "id": "flow-absorption",

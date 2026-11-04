@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="620" viewBox="0 0 960 620" role="img" aria-labelledby="t d">
+<title id="t">同列、對角與小量：三個問題分開算</title><desc id="d">合成三價位表：101 的 Bid 2、Ask 3；100 的 Bid 1、Ask 30；99 的 Bid 10、Ask 8。100 同列三十除一為三十倍，對角三十除十為三倍。101 對角三除一也是三倍，但兩量都低於自訂門檻五，依本例排除。所有數字均為教學自編，非真實行情，亦非績效證據。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#23658d" stroke-width="2"/></marker></defs>
+<rect width="960" height="620" rx="24" fill="#f5f7fa"/>
+<g font-family="system-ui,'Microsoft JhengHei',sans-serif" fill="#20262d">
+<text x="40" y="52" font-size="30" font-weight="750">同列、對角與小量：三個問題分開算</text>
+<text x="40" y="88" font-size="18" fill="#53616e">本站原創合成表・數量單位自訂・不代表真實成交或平台畫面</text>
+<rect x="40" y="122" width="485" height="278" rx="16" fill="#fff" stroke="#d4dde5"/>
+<path d="M40 180H525M40 250H525M40 320H525" stroke="#dfe6ec"/>
+<text x="70" y="159" font-size="20" font-weight="700">價位</text><text x="228" y="159" font-size="20" font-weight="700">Bid 量</text><text x="402" y="159" font-size="20" font-weight="700">Ask 量</text>
+<g font-size="28"><text x="76" y="226">101</text><text x="254" y="226">2</text><text x="430" y="226">3</text><text x="76" y="296">100</text><text x="254" y="296">1</text><text x="421" y="296" font-weight="750">30</text><text x="76" y="366">99</text><text x="246" y="366" font-weight="750">10</text><text x="430" y="366">8</text></g>
+<path d="M285 350L404 292" stroke="#23658d" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="550" y="122" width="370" height="128" rx="16" fill="#fff"/>
+<text x="572" y="155" font-size="21" font-weight="700">100：比較同一列</text><text x="572" y="199" font-size="30" font-weight="750">30 ÷ 1 ＝ 30 倍</text><text x="572" y="230" font-size="18">這不是本例的對角配對。</text>
+<rect x="550" y="268" width="370" height="132" rx="16" fill="#e9f2f8"/>
+<text x="572" y="302" font-size="21" font-weight="700">100：Ask 對下一低價 Bid</text><text x="572" y="345" font-size="30" font-weight="750">30 ÷ 10 ＝ 3 倍</text><text x="572" y="378" font-size="18">300% 描述量的比率。</text>
+<rect x="40" y="426" width="880" height="112" rx="16" fill="#fff4e2"/>
+<text x="62" y="462" font-size="22" font-weight="750">101：3 ÷ 1 也等於 3 倍，但先檢查數量</text>
+<text x="62" y="501" font-size="21">自訂最低比較量 5：3 與 1 都小於 5 → 本例略過標色。</text>
+<text x="40" y="581" font-size="22" font-weight="750">比率、資料分類與交易勝率，是三種不同的量。</text>
+</g></svg>

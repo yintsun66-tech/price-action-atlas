@@ -1,5 +1,60 @@
 [
   {
+    "id": "6e939db718983d17be26",
+    "url": "https://www.youtube.com/watch?v=fQJ0b8QfXmw",
+    "sourceTitle": "Systems Academy Q&A - Thursday December 6, 2023",
+    "titleZh": "Systems Academy 公開問答",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-fQJ0b8QfXmw"
+      }
+    ],
+    "resourceIds": [
+      "yt-fQJ0b8QfXmw"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-fQJ0b8QfXmw",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Ali／Quant Systems 頻道"
+    ]
+  },
+  {
+    "id": "6eaa722f24f5f57ff0a4",
+    "url": "https://books.google.com/books/about/Understanding_Price_Action.html?id=xjThoQEACAAJ",
+    "sourceTitle": "Understanding Price Action: Practical Analysis of the 5-minute Time Frame",
+    "titleZh": "理解價格行為：五分鐘週期的實務分析（本報告譯名）",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "book",
+        "id": "volman"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "6ed4af41e36e2d3c2746",
     "url": "https://www.brookstradingcourse.com/analysis/market-update/emini-bears-need-follow-through/",
     "sourceTitle": "Emini bears need follow-through today",
@@ -3011,72 +3066,6 @@
     "legacyObservations": [
       {
         "id": "yt-b3acXJLl-NE",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "78881f3d94dd7109e3af",
-    "url": "https://www.quantsystems.ca/blog/wn37-2022",
-    "sourceTitle": "Live Trading Workshop in Orlando, Florida: Oct. 25-27, 2022",
-    "titleZh": "Ali｜工作坊與學習紀錄 2022",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "qs-wn37-2022"
-      }
-    ],
-    "resourceIds": [
-      "qs-wn37-2022"
-    ],
-    "legacyObservations": [
-      {
-        "id": "qs-wn37-2022",
-        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Ali Moin-Afshari／Quant Systems"
-    ]
-  },
-  {
-    "id": "78ce0fd3e5a0009acbe8",
-    "url": "https://www.youtube.com/watch?v=TOuhg-wrupg",
-    "sourceTitle": "Ask Al Brooks: Trading statistics & How to determine probabilities",
-    "titleZh": "Brooks 共享影片｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-TOuhg-wrupg"
-      }
-    ],
-    "resourceIds": [
-      "yt-TOuhg-wrupg"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-TOuhg-wrupg",
         "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
         "checked": "2026-10-22"
       }

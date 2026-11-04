@@ -1,5 +1,71 @@
 [
   {
+    "id": "90d6f55fc286c4c89bfa",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-sideways-to-down-likely-2/",
+    "sourceTitle": "Emini Sideways to Down Likely",
+    "titleZh": "Brad 日內案例｜2025-04-16｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-234832"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-234832"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-234832",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "914aa97531bdd22d14f4",
+    "url": "https://www.youtube.com/watch?v=3utksaFVHYo",
+    "sourceTitle": "Al Brooks live trading room free sample video, Brooks Trading Course",
+    "titleZh": "Brooks 共享影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-3utksaFVHYo"
+      }
+    ],
+    "resourceIds": [
+      "yt-3utksaFVHYo"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-3utksaFVHYo",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "915fd7ab2c4254069d4f",
     "url": "https://www.davidhbailey.com/dhbpapers/backtest-prob.pdf",
     "sourceTitle": "The Probability of Backtest Overfitting",
@@ -3095,72 +3161,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-159965",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "9cc2a7b42fa3a48a4ec8",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-closing-above-march-all-time-high/",
-    "sourceTitle": "Emini Closing above March All Time High",
-    "titleZh": "Brad 日內案例｜2024-05-16｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-208558"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-208558"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-208558",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "9cddfc5aa9f86420a996",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-buyers-below-recent-low-1/",
-    "sourceTitle": "Emini Buyers below Recent Low 1",
-    "titleZh": "Brad 日內案例｜2025-03-14｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-232134"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-232134"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-232134",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

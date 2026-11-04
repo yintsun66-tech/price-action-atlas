@@ -1,5 +1,71 @@
 [
   {
+    "id": "bd408d3e9a4d075bb204",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-disappointed-bulls-near-july-high/",
+    "sourceTitle": "Emini Disappointed Bulls near July High",
+    "titleZh": "Brad 日內案例｜2025-08-08｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-246630"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-246630"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-246630",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "bd6377b5a06f52f52551",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-big-round-number-magnet/",
+    "sourceTitle": "Emini 4,000 Big Round Number Magnet Above",
+    "titleZh": "Brad 日內案例｜2022-11-01｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-163417"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-163417"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-163417",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "bd7bea7badb58d269287",
     "url": "https://www.brookstradingcourse.com/analysis/emini-second-leg-down-after-pullack/",
     "sourceTitle": "Emini Second Leg Down after Pullback",
@@ -3124,61 +3190,5 @@
     "authors": [
       "Brad Wolff"
     ]
-  },
-  {
-    "id": "c7546b6aa474509f8190",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-far-from-moving-average/",
-    "sourceTitle": "Emini Far from Moving Average",
-    "titleZh": "Brad 日內案例｜2023-11-22｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-194508"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-194508"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-194508",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "c7752b12ef719210329b",
-    "url": "https://www.reddit.com/r/Daytrading/comments/18wfq3m/adam_grimes_content/",
-    "sourceTitle": "Reddit：Adam Grimes Content（評論來源）",
-    "titleZh": "Reddit：Adam Grimes Content（評論來源）",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "discovery-review",
-        "id": "adam-grimes-marketlife",
-        "index": 1
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   }
 ]

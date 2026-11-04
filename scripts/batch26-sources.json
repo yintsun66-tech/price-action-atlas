@@ -1,0 +1,32 @@
+[
+  {
+    "id":"sierra-diagonal-small-volume","platform":"Sierra Chart 官方文件","kind":"author","language":"en","author":"Sierra Chart",
+    "title":"同一個 300%，先問比較了哪兩格","originalTitle":"Numbers Bars","url":"https://www.sierrachart.com/index.php?l=doc/NumbersBars.php","published":"發布日未核對","dateNote":"動態官方文件；未確認最初發布或最近更新確日。",
+    "summary":"對角比較使用相鄰價位的 Bid／Ask 量；小量門檻與零值設定會改變標色。比例相同，不代表比較範圍相同。",
+    "quote":{"en":"both less than the threshold","zh":"兩者都小於門檻。","context":"最低比較量設定的條件是兩個被比較量都低於門檻，不是任何一側低就略過。"},
+    "access":"實讀定義中的對角比較、最低比較量、極端價位缺值與零值分母設定；未讀完全部文件或操作軟體。","translation":"指定章節精簡摘要與五詞短句，非全文翻譯。",
+    "review":{"basis":"官方計算規格，適合核對欄位定義。","learning":"先保存配對價位與設定，再解讀顏色。","limits":"未驗證交易績效；官方規格不是獨立教學評分。","engagement":"未取得可比評分，不造星等或熱門排名。"},
+    "figure":{"src":"images/study/flow-diagonal-comparison.svg","alt":"本站自編三價位表，區分同列三十倍、對角三倍與小量排除","caption":"本站原創合成算例，非平台畫面、真實成交或績效。"},
+    "related":["flow-footprint","flow-depth"],"tags":["足跡圖","對角比較","小量門檻"],"batch":26,"collected":"2026-11-04","checked":"2026-11-04","courseRefs":[],"status":"excerpt-summary"
+  },
+  {
+    "id":"tv-footprint-data-method","platform":"TradingView 官方說明中心","kind":"author","language":"en","author":"TradingView",
+    "title":"足跡圖的買賣量，先核對平台怎麼分類","originalTitle":"Volume footprint charts: a complete guide","url":"https://www.tradingview.com/support/solutions/43000726164-volume-footprint-charts-a-complete-guide/","published":"發布日未核對","dateNote":"官方動態說明；未確認發布及修訂確日。",
+    "summary":"文件以較低週期價格方向分類買賣量，並說明歷史資料粒度及重算會改變畫面。圖形相似，不能直接視為相同逐筆口徑。",
+    "quote":{"en":"based on the direction of intrabar price movements","zh":"依據棒內價格移動的方向。","context":"描述該平台足跡圖的成交量分類依據，不是逐筆委託身分辨識。"},
+    "access":"實讀 Calculation 的資料來源、分類及失衡小節，另讀警報重繪注意事項；其餘解讀與設定未逐項驗證，未觀看嵌入影片。","translation":"指定段落精簡繁中摘要與八詞短句；不重刊全文、規則清單或原圖。",
+    "review":{"basis":"官方資料處理說明，可核對分類與限制。","learning":"將資料口徑、棒內粒度、列寬與事件時刻一併保存。","limits":"尚未實際重現平台；功能規格不是微台或 BTC 獲利證據。","engagement":"沒有獨立評分或可比熱門數據。"},
+    "figure":{"src":"images/study/flow-diagonal-comparison.svg","alt":"先記資料分類，再比較格子比率的本站原創教學表","caption":"原創合成圖只示範配對算術，不重建 TradingView 的分類引擎。"},
+    "related":["flow-footprint","pp2-intrabar-path"],"tags":["資料分類","歷史重算","足跡圖"],"batch":26,"collected":"2026-11-04","checked":"2026-11-04","courseRefs":[],"status":"excerpt-summary"
+  },
+  {
+    "id":"reddit-footprint-intentions","platform":"Reddit r/FuturesTrading 公開討論","kind":"community","language":"en","author":"EntrepreneurLost8226；選讀 Leo_The_Tiger_NQ、giantstove 與 gtani 回覆",
+    "title":"看到主動成交，不等於知道誰在開倉或停損","originalTitle":"Order Types in Footprint","url":"https://www.reddit.com/r/FuturesTrading/comments/1ac86vv/order_types_in_footprint/","published":"確日未核對","dateNote":"頁面僅顯示相對日期 3y ago；不換算為已核對的發布日。",
+    "summary":"原帖嘗試從 Delta 推測開倉、停損與停利；選讀回覆質疑動機推論，提醒先看價格如何回應。主帖不是經核驗的委託分類表。",
+    "quote":{"en":"you have no idea what their intentions are","zh":"你並不知道他們的意圖。","context":"Leo_The_Tiger_NQ 警告不要直接替足跡上的成交者編造動機；不是否定所有足跡研究。"},
+    "access":"實讀主帖及上述三位使用者的可見回覆，另見部分反對與刪除留言；未核對所有巢狀回覆、帳戶身分或交易紀錄。","translation":"精簡選讀摘要與八詞短句；不完整翻譯討論串。",
+    "review":{"basis":"公開經驗討論，包含反對意見與致謝。","learning":"把成交觀察與參與者意圖的推測分開記錄。","limits":"匿名或化名自述，無可核驗績效；其他留言的技術說法不一概採信。","engagement":"未取得穩定票數，不以致謝或追蹤推薦當成教學成效。"},
+    "figure":{"src":"images/study/flow-absorption-two-futures.svg","alt":"同樣已知成交可以有不同後續的既有原創圖解","caption":"既有原創合成圖，非社群原圖或真實交易。"},
+    "related":["flow-footprint","flow-absorption","pa3-label-consistency"],"tags":["社群選讀","成交動機","可觀察事實"],"batch":26,"collected":"2026-11-04","checked":"2026-11-04","courseRefs":[],"status":"excerpt-summary"
+  }
+]

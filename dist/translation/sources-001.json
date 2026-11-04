@@ -1,5 +1,112 @@
 [
   {
+    "id": "3cf81d409f91f248a5dd",
+    "url": "https://www.youtube.com/watch?v=WmMMGJmy2uc",
+    "sourceTitle": "Coding for Price Action Trading Systems, Part 3",
+    "titleZh": "價格行為交易系統的程式設計，第三部分",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-WmMMGJmy2uc"
+      }
+    ],
+    "resourceIds": [
+      "yt-WmMMGJmy2uc"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-WmMMGJmy2uc",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Ali／Quant Systems 頻道"
+    ]
+  },
+  {
+    "id": "3e2cc94a915d64979600",
+    "url": "https://www.learntotradethemarket.com/forex-university",
+    "sourceTitle": "Beginners Forex Trading Introduction Course",
+    "titleZh": "初學者外匯交易入門課程",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "discovery-nial-fuller-3"
+      },
+      {
+        "kind": "discovery-material",
+        "id": "nial-fuller",
+        "index": 2
+      }
+    ],
+    "resourceIds": [
+      "discovery-nial-fuller-3"
+    ],
+    "legacyObservations": [
+      {
+        "id": "discovery-nial-fuller-3",
+        "scope": "免費公開課程索引。 Forex 入門圖文課；非即時交易室。 適合先補外匯與圖表基礎，但不是期貨合約、保證金與交易所微結構教材。 本輪未逐部完整觀看或核實真實成交。",
+        "checked": "2026-10-24"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Nial Fuller／Learn To Trade The Market"
+    ]
+  },
+  {
+    "id": "3fe53e233dc5e2ca8c2d",
+    "url": "https://www.youtube.com/watch?v=ytXNYDMzPAc",
+    "sourceTitle": "Trading Pullbacks",
+    "titleZh": "回檔交易",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-ytXNYDMzPAc"
+      }
+    ],
+    "resourceIds": [
+      "yt-ytXNYDMzPAc"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-ytXNYDMzPAc",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Ali／Quant Systems 頻道"
+    ]
+  },
+  {
     "id": "46c3de3604f904500882",
     "url": "https://support.smbtraining.com/support/solutions/articles/44002792391-what-is-included-in-the-smb-inside-access-subscription-",
     "sourceTitle": "SMB Inside Access：直播與回放範圍",
@@ -2362,39 +2469,6 @@
     ]
   },
   {
-    "id": "03cbc830f2d0d7f0259c",
-    "url": "https://www.sierrachart.com/index.php?l=doc%2FNumbersBars.php",
-    "sourceTitle": "Numbers Bars",
-    "titleZh": "Numbers Bars",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "article-source",
-        "id": "school4-comparison",
-        "index": 3
-      },
-      {
-        "kind": "article-source",
-        "id": "school-same-chart",
-        "index": 3
-      },
-      {
-        "kind": "article-source",
-        "id": "flow-footprint",
-        "index": 0
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
-  },
-  {
     "id": "03ceb8867572c1f3ddcd",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-sellers-likely-above-the-october-10th-high/",
     "sourceTitle": "E-mini Sellers Likely Above the October 10th High",
@@ -3245,73 +3319,5 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": []
-  },
-  {
-    "id": "062966b50833fd9ed303",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-want-breakout-and-test-of-7900/",
-    "sourceTitle": "E-mini Bulls Want Breakout and Test of 7,900",
-    "titleZh": "E-mini：多方希望突破並測試 7,900",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-276332"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-276332"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-276332",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "06303e795e4bead43c14",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-buyers-below-scaling-in-lower/",
-    "sourceTitle": "E-mini Buyers Below Scaling In Lower",
-    "titleZh": "E-mini：下方買方在更低價位分批進場",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-278731"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-278731"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-278731",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Brad Wolff"
-    ]
   }
 ]
