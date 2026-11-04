@@ -59,7 +59,7 @@
       "url": "https://www.tradingview.com/support/solutions/43000726164-volume-footprint-charts-a-complete-guide/",
       "published": "發布日未核對",
       "dateNote": "官方動態說明；未確認發布及修訂確日。",
-      "summary": "文件以較低週期價格方向分類買賣量，並說明歷史資料粒度及重算會改變畫面。圖形相似，不能直接視為相同逐筆口徑。",
+      "summary": "文件以較低週期價格方向分類買賣量，並說明歷史資料粒度及重算可能改變畫面。圖形相似，不能直接視為相同逐筆口徑。",
       "quote": {
         "en": "based on the direction of intrabar price movements",
         "zh": "依據棒內價格移動的方向。",

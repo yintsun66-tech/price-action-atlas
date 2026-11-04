@@ -1,7 +1,5 @@
-Price Action Atlas v1.1.0 — 2026-11-04
+Price Action Atlas v1.1.1 — 2026-11-04
 
-- 新增 Sierra Chart、TradingView 與 Reddit 三篇指定範圍繁中選讀，保留英文短句、來源與閱讀限制。
-- 足跡圖單元補上同列／對角比較、小量門檻、資料分類與未知動機的原創練習及圖解。
-- 閱讀單元維持 62 篇，原創整理圖增為 69 張，來源選讀增為 35 篇；本批不增加正文摘要或全文完成數。
+- 保留官方對歷史重算的可能性語氣；教材與圖解沿用 v1.1.0。
 
 網站：https://yintsun66-tech.github.io/price-action-atlas/
