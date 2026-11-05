@@ -1,5 +1,71 @@
 [
   {
+    "id": "bd258a8150b8e36b0a90",
+    "url": "https://www.youtube.com/watch?v=Yn0JWcFOOSI",
+    "sourceTitle": "S&P 500 E-mini Rally to Yesterday's High and Strong Reversal Down -  July 24, 2026",
+    "titleZh": "Brooks 共享影片｜反轉與陷阱",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-Yn0JWcFOOSI"
+      }
+    ],
+    "resourceIds": [
+      "yt-Yn0JWcFOOSI"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-Yn0JWcFOOSI",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
+    "id": "bd3b2d35ccad7d4affe6",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-want-2nd-leg-up-to-7000-round-number/",
+    "sourceTitle": "E-mini Bulls Want 2nd Leg Up to 7,000 Round Number",
+    "titleZh": "Brad 日內案例｜2025-12-01｜回檔與第二段",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-256231"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-256231"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-256231",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "bd408d3e9a4d075bb204",
     "url": "https://www.brookstradingcourse.com/analysis/emini-disappointed-bulls-near-july-high/",
     "sourceTitle": "Emini Disappointed Bulls near July High",
@@ -3123,72 +3189,6 @@
     "courseRefs": [],
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "c72a189dd136314e497e",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-late-buy-climax-bar-possible-exhaustion/",
-    "sourceTitle": "E-mini Late Buy Climax Bar Possible Exhaustion",
-    "titleZh": "Brad 日內案例｜2025-09-23｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-250887"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-250887"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-250887",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "c7395bd7581c70080074",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-testing-october-10th-breakout-point-high/",
-    "sourceTitle": "Emini Bears Testing October 10th Breakout Point High",
-    "titleZh": "Brad 日內案例｜2025-11-04｜突破與延續",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-253927"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-253927"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-253927",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-04",
+  "revision": "2026-11-05",
   "articles": [
     {
       "id": "licensed-measured-move",
@@ -310,7 +310,7 @@
       "subtitle": "把市場敘事拆成可逐步更新的觀察，保留不知道的時候",
       "summary": "累積、上漲、派發與下跌是整理結構的語言。透過一份自編重播紀錄，區分眼前可見的區間與仍待確認的解讀，避免把事後完成的圖形搬回當時。",
       "level": "中階",
-      "minutes": 12,
+      "minutes": 17,
       "mode": "guide",
       "batch": 4,
       "topic": "市場背景",
@@ -323,7 +323,7 @@
       ],
       "hasCases": true,
       "hasChart": false,
-      "figureCount": 1
+      "figureCount": 2
     },
     {
       "id": "wyckoff-spring",

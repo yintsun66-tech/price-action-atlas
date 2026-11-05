@@ -1,8 +1,98 @@
 {
   "version": 1,
-  "checked": "2026-11-04",
+  "checked": "2026-11-05",
   "policy": "編輯選讀順序依本專案學習用途排列，並非獲利或跨平台人氣排名。社群經驗只能作為問題來源。",
   "items": [
+    {
+      "id": "wyckoff-relative-performance",
+      "platform": "StockCharts ChartSchool 原作者教材",
+      "kind": "author",
+      "language": "en",
+      "author": "StockCharts ChartSchool（頁面未列個人署名）",
+      "title": "先看市場，再比較強弱：相對較強仍可能下跌",
+      "originalTitle": "Wyckoff Stock Analysis",
+      "url": "https://chartschool.stockcharts.com/table-of-contents/market-analysis/wyckoff-analysis-articles/wyckoff-stock-analysis",
+      "published": "發布日未核對",
+      "dateNote": "公開動態教材，未確認發布或修訂確日。",
+      "summary": "文章連接市場背景、群組與個股強弱、價量型態及風險規劃。相對表現是與基準比較；原文也將方法限定為概括指引。",
+      "quote": {
+        "en": "broad guidelines, not an exact science",
+        "zh": "概括性的指引，而非精確科學。",
+        "context": "原文結語對方法的限定，不替某個型態提供勝率。"
+      },
+      "access": "實讀完整公開教學文字、個股案例敘述、風險與結語；未逐圖核驗行情、操作平台或讀取外鏈書籍。",
+      "translation": "精簡繁中摘要與六詞短句，非完整文章翻譯。",
+      "review": {
+        "basis": "教材發布者的公開教學，可核對框架與語境。",
+        "learning": "同時保留基準方向、相對表現與標的本身漲跌。",
+        "limits": "XLF 範例前段的 strength 與後文 weakness 措辭不一致，本批不採其圖例作核驗案例；股票框架不直接視為微台或 BTC 策略。",
+        "engagement": "商業教材入口含書籍連結，未取得獨立教學評分或獲利驗證。"
+      },
+      "figure": {
+        "src": "images/study/wyckoff-relative-performance.svg",
+        "alt": "兩條合成序列都下跌，但跌幅較小的標的仍可相對較強",
+        "caption": "原創合成圖，非原文個股圖、真實行情或績效。"
+      },
+      "related": [
+        "wyckoff-cycle",
+        "wyckoff-template-uncertainty"
+      ],
+      "tags": [
+        "威科夫",
+        "相對強弱",
+        "基準比較"
+      ],
+      "batch": 27,
+      "collected": "2026-11-05",
+      "checked": "2026-11-05",
+      "courseRefs": [],
+      "status": "body-summary"
+    },
+    {
+      "id": "price-relative-return-math",
+      "platform": "StockCharts ChartSchool 指標教材",
+      "kind": "author",
+      "language": "en",
+      "author": "StockCharts ChartSchool（頁面未列個人署名）",
+      "title": "比率變動與報酬差：保留原文，也把算式核對清楚",
+      "originalTitle": "Price Relative/Relative Strength",
+      "url": "https://chartschool.stockcharts.com/table-of-contents/technical-indicators-and-overlays/technical-indicators/price-relative-relative-strength",
+      "published": "發布日未核對",
+      "dateNote": "動態官方教材；發布及修訂確日未核對。",
+      "summary": "以兩個價格相除衡量相對表現，原始比值受價格尺度影響。頁面把報酬差寫成等於比率每日變動的措辭，需另作精確算術核對。",
+      "quote": {
+        "en": "also equal to the daily changes in the Price Relative",
+        "zh": "也等於價格比率的每日變動。",
+        "context": "原文使用 equal；本站校註指出報酬差與比率的百分比變動通常不精確相等，原創算例分別計算。"
+      },
+      "access": "實讀完整公開教學文字、計算、解讀、案例敘述、限制與平台操作文字；未核驗原圖、外鏈試算表、書籍或操作平台。",
+      "translation": "精簡繁中摘要與十詞必要短句，原文說法和本站算術校註分開。",
+      "review": {
+        "basis": "原文公式與限制可核對；教材措辭仍需檢查。",
+        "learning": "從同一起點比較，分清百分點差與比率百分比變動。",
+        "limits": "不將原頁 equal 措辭直接視為精確等式；公開案例不是策略績效驗證。",
+        "engagement": "商業平台自有教材，無可比獨立評分。"
+      },
+      "figure": {
+        "src": "images/study/wyckoff-relative-performance.svg",
+        "alt": "自編例分別得到報酬差三個百分點與比率變動約百分之三點一六",
+        "caption": "本站原創算術圖，未重建來源試算表或股票案例。"
+      },
+      "related": [
+        "wyckoff-cycle",
+        "pa3-winrate-uncertainty"
+      ],
+      "tags": [
+        "價格比率",
+        "百分點",
+        "算術校註"
+      ],
+      "batch": 27,
+      "collected": "2026-11-05",
+      "checked": "2026-11-05",
+      "courseRefs": [],
+      "status": "body-summary"
+    },
     {
       "id": "sierra-diagonal-small-volume",
       "platform": "Sierra Chart 官方文件",
@@ -1477,6 +1567,10 @@
   "legacyChecked": "2026-10-28",
   "batches": [
     {
+      "batch": 27,
+      "title": "第二十七批｜11.05 相對強弱與報酬"
+    },
+    {
       "batch": 26,
       "title": "第二十六批｜11.04 足跡圖資料與配對"
     },
@@ -1522,12 +1616,12 @@
     }
   ],
   "intro": {
-    "heading": "同樣叫足跡圖，先核對資料與比較方式。",
-    "text": "三篇指定範圍選讀：Sierra 的格子配對、TradingView 的資料分類，以及 Reddit 對成交動機推論的質疑。新增原創算例與圖解；本批不增加正文摘要或全文完成數。",
+    "heading": "相對較強，與真正賺錢分開看。",
+    "text": "續讀威科夫選股框架與價格比率教材，另核對 RSI 定義。原文措辭、本站校註與原創算術分列；新增兩張選讀、一張圖解及練習，不增加全文翻譯完成數。",
     "links": [
       {
-        "id": "flow-footprint",
-        "label": "打開足跡圖算例與練習"
+        "id": "wyckoff-cycle",
+        "label": "閱讀相對強弱的原創算例"
       }
     ]
   }

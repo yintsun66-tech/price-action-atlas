@@ -1,0 +1,11 @@
+{
+  "resourceId":"source-b27-rsi-definition",
+  "url":"https://www.tradingview.com/support/solutions/43000502338-relative-strength-index-rsi/",
+  "sourceTitle":"Relative Strength Index (RSI)","sourceTitleZh":"RSI 的相對強弱：先辨認它比較了什麼","authorConfirmed":"TradingView","published":null,"dateNoteZh":"官方動態說明，發布及修訂確日未核對。","checked":"2026-11-05","status":"excerpt-summary",
+  "readScope":"實讀 Definition 與 Calculation 指定段落；未驗證完整案例、執行程式或觀看影片。",
+  "summaryZh":"文件把 RSI 定義為價格動能震盪指標，計算使用同一序列的平均上漲與平均下跌。公式中的 RS 不等於兩個標的的價格比率。",
+  "keyPointsZh":["RSI 與標的／基準的價格比率，名稱相近但計算對象不同。"],
+  "shortExcerpt":{"en":"momentum based oscillator","zh":"以動能為基礎的震盪指標。","scope":"定義中的短語；不提供超買、超賣或交易勝率結論。"},
+  "limitsZh":"只有指定段落摘要；跨指標差異由公式核對，不宣稱完成全部文件或實測績效。",
+  "evidence":{"urls":["https://www.tradingview.com/support/solutions/43000502338-relative-strength-index-rsi/"],"accessMethod":"實讀官方公開定義及計算段落","scope":"Definition 與 Calculation"},"courseRefs":[]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "resourceId": "source-b27-wyckoff-relative-performance",
+    "url": "https://chartschool.stockcharts.com/table-of-contents/market-analysis/wyckoff-analysis-articles/wyckoff-stock-analysis",
+    "sourceTitle": "Wyckoff Stock Analysis",
+    "sourceTitleZh": "先看市場，再比較強弱：相對較強仍可能下跌",
+    "authorConfirmed": "StockCharts ChartSchool（頁面未列個人署名）",
+    "published": null,
+    "dateNoteZh": "公開動態教材，未確認發布或修訂確日。",
+    "checked": "2026-11-05",
+    "status": "body-summary",
+    "readScope": "實讀完整公開教學文字、個股案例敘述、風險與結語；未逐圖核驗行情、操作平台或讀取外鏈書籍。",
+    "summaryZh": "文章連接市場背景、群組與個股強弱、價量型態及風險規劃。相對表現是與基準比較；原文也將方法限定為概括指引。",
+    "keyPointsZh": [
+      "同時保留基準方向、相對表現與標的本身漲跌。"
+    ],
+    "shortExcerpt": {
+      "en": "broad guidelines, not an exact science",
+      "zh": "概括性的指引，而非精確科學。",
+      "scope": "原文結語對方法的限定，不替某個型態提供勝率。"
+    },
+    "limitsZh": "XLF 範例前段的 strength 與後文 weakness 措辭不一致，本批不採其圖例作核驗案例；股票框架不直接視為微台或 BTC 策略。 商業教材入口含書籍連結，未取得獨立教學評分或獲利驗證。",
+    "evidence": {
+      "urls": [
+        "https://chartschool.stockcharts.com/table-of-contents/market-analysis/wyckoff-analysis-articles/wyckoff-stock-analysis"
+      ],
+      "accessMethod": "實讀發布者公開教材文字；未核驗圖片或平台",
+      "scope": "實讀完整公開教學文字、個股案例敘述、風險與結語；未逐圖核驗行情、操作平台或讀取外鏈書籍。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "source-b27-price-relative-return-math",
+    "url": "https://chartschool.stockcharts.com/table-of-contents/technical-indicators-and-overlays/technical-indicators/price-relative-relative-strength",
+    "sourceTitle": "Price Relative/Relative Strength",
+    "sourceTitleZh": "比率變動與報酬差：保留原文，也把算式核對清楚",
+    "authorConfirmed": "StockCharts ChartSchool（頁面未列個人署名）",
+    "published": null,
+    "dateNoteZh": "動態官方教材；發布及修訂確日未核對。",
+    "checked": "2026-11-05",
+    "status": "body-summary",
+    "readScope": "實讀完整公開教學文字、計算、解讀、案例敘述、限制與平台操作文字；未核驗原圖、外鏈試算表、書籍或操作平台。",
+    "summaryZh": "以兩個價格相除衡量相對表現，原始比值受價格尺度影響。頁面把報酬差寫成等於比率每日變動的措辭，需另作精確算術核對。",
+    "keyPointsZh": [
+      "從同一起點比較，分清百分點差與比率百分比變動。"
+    ],
+    "shortExcerpt": {
+      "en": "also equal to the daily changes in the Price Relative",
+      "zh": "也等於價格比率的每日變動。",
+      "scope": "原文使用 equal；本站校註指出報酬差與比率的百分比變動通常不精確相等，原創算例分別計算。"
+    },
+    "limitsZh": "不將原頁 equal 措辭直接視為精確等式；公開案例不是策略績效驗證。 商業平台自有教材，無可比獨立評分。",
+    "evidence": {
+      "urls": [
+        "https://chartschool.stockcharts.com/table-of-contents/technical-indicators-and-overlays/technical-indicators/price-relative-relative-strength"
+      ],
+      "accessMethod": "實讀發布者公開教材文字；未核驗圖片或平台",
+      "scope": "實讀完整公開教學文字、計算、解讀、案例敘述、限制與平台操作文字；未核驗原圖、外鏈試算表、書籍或操作平台。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "source-b27-rsi-definition",
+    "url": "https://www.tradingview.com/support/solutions/43000502338-relative-strength-index-rsi/",
+    "sourceTitle": "Relative Strength Index (RSI)",
+    "sourceTitleZh": "RSI 的相對強弱：先辨認它比較了什麼",
+    "authorConfirmed": "TradingView",
+    "published": null,
+    "dateNoteZh": "官方動態說明，發布及修訂確日未核對。",
+    "checked": "2026-11-05",
+    "status": "excerpt-summary",
+    "readScope": "實讀 Definition 與 Calculation 指定段落；未驗證完整案例、執行程式或觀看影片。",
+    "summaryZh": "文件把 RSI 定義為價格動能震盪指標，計算使用同一序列的平均上漲與平均下跌。公式中的 RS 不等於兩個標的的價格比率。",
+    "keyPointsZh": [
+      "RSI 與標的／基準的價格比率，名稱相近但計算對象不同。"
+    ],
+    "shortExcerpt": {
+      "en": "momentum based oscillator",
+      "zh": "以動能為基礎的震盪指標。",
+      "scope": "定義中的短語；不提供超買、超賣或交易勝率結論。"
+    },
+    "limitsZh": "只有指定段落摘要；跨指標差異由公式核對，不宣稱完成全部文件或實測績效。",
+    "evidence": {
+      "urls": [
+        "https://www.tradingview.com/support/solutions/43000502338-relative-strength-index-rsi/"
+      ],
+      "accessMethod": "實讀官方公開定義及計算段落",
+      "scope": "Definition 與 Calculation"
+    },
+    "courseRefs": []
+  }
+]

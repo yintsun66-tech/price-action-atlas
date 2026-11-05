@@ -1,5 +1,104 @@
 [
   {
+    "id": "2a6525d55f0f6a9ccfaa",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-need-follow-through-selling/",
+    "sourceTitle": "Emini Bears Need Follow-Through Selling",
+    "titleZh": "Brad 日內案例｜2023-12-07｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-195361"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-195361"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-195361",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "2a8dff52ac8361f2e41c",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-strong-bull-micro-channel-at-resistance/",
+    "sourceTitle": "Emini Strong Bull Micro Channel at Resistance",
+    "titleZh": "Brad 日內案例｜2024-08-14｜區間與通道",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-214913"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-214913"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-214913",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "2a95c4ede9b259e9ef6c",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-likely-sideways-june-high/",
+    "sourceTitle": "Emini likely sideways at June high",
+    "titleZh": "Brad 日內案例｜2022-08-04｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-157352"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-157352"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-157352",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "2ab3383a53c4bc1b8fe2",
     "url": "https://www.brookstradingcourse.com/analysis/emini-continued-disappointment/",
     "sourceTitle": "Emini Continued Disappointment for Bulls and Bears",
@@ -3144,94 +3243,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-266601",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "35885ef73db5ab039db5",
-    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-30b-traders-equation-probability/",
-    "sourceTitle": "機率與交易方程式",
-    "titleZh": "機率與交易方程式",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "機率與交易方程式"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
-  },
-  {
-    "id": "358922ba96a5dc3830ad",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-2nd-leg-up-likely/",
-    "sourceTitle": "Emini 2nd Leg Up Likely",
-    "titleZh": "Brad 日內案例｜2023-11-01｜回檔與第二段",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-193375"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-193375"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-193375",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "35b5059bdcf6d0ac7321",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-buyers-below-weak-low-1-signal-bar/",
-    "sourceTitle": "Emini Buyers below Weak Low 1 Signal Bar",
-    "titleZh": "Brad 日內案例｜2025-03-03｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-231277"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-231277"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-231277",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

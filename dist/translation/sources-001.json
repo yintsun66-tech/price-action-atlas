@@ -1,5 +1,112 @@
 [
   {
+    "id": "37761ebb596378f9c5fb",
+    "url": "https://www.youtube.com/watch?v=OgOF7sluwss",
+    "sourceTitle": "Backtesting for System Design",
+    "titleZh": "為系統設計進行回測",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-OgOF7sluwss"
+      }
+    ],
+    "resourceIds": [
+      "yt-OgOF7sluwss"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-OgOF7sluwss",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Ali／Quant Systems 頻道"
+    ]
+  },
+  {
+    "id": "3852caf50c0c78f12649",
+    "url": "https://www.youtube.com/watch?v=MI77r4Kl1K8",
+    "sourceTitle": "TraderTom Live Trading US Session（2024-11-11）",
+    "titleZh": "TraderTom 美國時段即時交易（2024-11-11）",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "discovery-tradertom-3"
+      },
+      {
+        "kind": "discovery-material",
+        "id": "tradertom",
+        "index": 2
+      }
+    ],
+    "resourceIds": [
+      "discovery-tradertom-3"
+    ],
+    "legacyObservations": [
+      {
+        "id": "discovery-tradertom-3",
+        "scope": "免費 YouTube；作者 Trader Tom。 US session 直播錄影；描述說交易後會補充當日交易文字。 公開錄影不等於講師全部帳戶、場外交易或經審計績效；本次未觀看完或重算交易。 本輪未逐部完整觀看或核實真實成交。",
+        "checked": "2026-10-24"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Tom Hougaard／TraderTom"
+    ]
+  },
+  {
+    "id": "3b56fedb482fd2eb9c51",
+    "url": "https://www.youtube.com/watch?v=PfpNjDSeBp0",
+    "sourceTitle": "Coding for Price Action Trading Systems, Part 2",
+    "titleZh": "價格行為交易系統的程式設計，第二部分",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-PfpNjDSeBp0"
+      }
+    ],
+    "resourceIds": [
+      "yt-PfpNjDSeBp0"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-PfpNjDSeBp0",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Ali／Quant Systems 頻道"
+    ]
+  },
+  {
     "id": "3cf81d409f91f248a5dd",
     "url": "https://www.youtube.com/watch?v=WmMMGJmy2uc",
     "sourceTitle": "Coding for Price Action Trading Systems, Part 3",
@@ -3231,93 +3338,5 @@
     "authors": [
       "Brad Wolff"
     ]
-  },
-  {
-    "id": "05bff930019e068e5bc7",
-    "url": "https://www.youtube.com/playlist?list=PLFA11UMiAJm-IvCEMchRa8165nF7Beddj",
-    "sourceTitle": "Video Podcast",
-    "titleZh": "Brooks 共享片單｜Video Podcast",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "list-PLFA11UMiAJm-IvCEMchRa8165nF7Beddj"
-      }
-    ],
-    "resourceIds": [
-      "list-PLFA11UMiAJm-IvCEMchRa8165nF7Beddj"
-    ],
-    "legacyObservations": [
-      {
-        "id": "list-PLFA11UMiAJm-IvCEMchRa8165nF7Beddj",
-        "scope": "官方片單入口已核對；包含多講者者不概括歸屬 Brad",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊"
-    ]
-  },
-  {
-    "id": "05cde745b9384e7100e8",
-    "url": "https://www.youtube.com/watch?v=Nbd5BIFGHq4",
-    "sourceTitle": "SP500 E-mini End of Day Review - Friday March 6, 2026 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-Nbd5BIFGHq4"
-      }
-    ],
-    "resourceIds": [
-      "yt-Nbd5BIFGHq4"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-Nbd5BIFGHq4",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "0612712347a586a51433",
-    "url": "https://www.brookstradingcourse.com/trade-price-action/video-39a-trading-mtr-bottoms/",
-    "sourceTitle": "交易底部反轉",
-    "titleZh": "交易底部反轉",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "交易底部反轉"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   }
 ]

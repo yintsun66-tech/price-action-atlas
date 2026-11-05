@@ -1,5 +1,104 @@
 [
   {
+    "id": "b203e7ed801a4c76f55e",
+    "url": "https://www.youtube.com/watch?v=9Cm0ZLiuGiY",
+    "sourceTitle": "Will August 2013 be the high of the year for the stock market?",
+    "titleZh": "Brooks 共享影片｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-9Cm0ZLiuGiY"
+      }
+    ],
+    "resourceIds": [
+      "yt-9Cm0ZLiuGiY"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-9Cm0ZLiuGiY",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
+    "id": "b2050703ccb84e161cf5",
+    "url": "https://www.youtube.com/watch?v=OTCA9o1bVgE",
+    "sourceTitle": "Emini End of Day Review - Thursday September 28, 2023 - Brad Wolff",
+    "titleZh": "Brad 公開影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-OTCA9o1bVgE"
+      }
+    ],
+    "resourceIds": [
+      "yt-OTCA9o1bVgE"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-OTCA9o1bVgE",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "b2173ad04259c6886ad9",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-support-below-moving-average/",
+    "sourceTitle": "Emini Support Below Moving Average",
+    "titleZh": "Brad 日內案例｜2025-08-04｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-246380"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-246380"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-246380",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "b222f2b4d85ec5ffc05d",
     "url": "https://www.brookstradingcourse.com/analysis/emini-sideways-around-big-round-number/",
     "sourceTitle": "Emini Sideways Around Big Round Number 4,000",
@@ -422,29 +521,6 @@
     "authors": [
       "Brad Wolff"
     ]
-  },
-  {
-    "id": "b39df5897e4a91f01e8e",
-    "url": "https://chartschool.stockcharts.com/table-of-contents/market-analysis/wyckoff-analysis-articles/wyckoff-stock-analysis",
-    "sourceTitle": "Wyckoff Stock Analysis",
-    "titleZh": "Wyckoff Stock Analysis",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "article-source",
-        "id": "wyckoff-cycle",
-        "index": 0
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   },
   {
     "id": "b3aaa8df7db1c60b0732",
@@ -3145,71 +3221,5 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": []
-  },
-  {
-    "id": "bd258a8150b8e36b0a90",
-    "url": "https://www.youtube.com/watch?v=Yn0JWcFOOSI",
-    "sourceTitle": "S&P 500 E-mini Rally to Yesterday's High and Strong Reversal Down -  July 24, 2026",
-    "titleZh": "Brooks 共享影片｜反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-Yn0JWcFOOSI"
-      }
-    ],
-    "resourceIds": [
-      "yt-Yn0JWcFOOSI"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-Yn0JWcFOOSI",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "bd3b2d35ccad7d4affe6",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-want-2nd-leg-up-to-7000-round-number/",
-    "sourceTitle": "E-mini Bulls Want 2nd Leg Up to 7,000 Round Number",
-    "titleZh": "Brad 日內案例｜2025-12-01｜回檔與第二段",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-256231"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-256231"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-256231",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
   }
 ]

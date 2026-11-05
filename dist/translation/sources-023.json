@@ -1,5 +1,71 @@
 [
   {
+    "id": "f8236d956e9cb70baeaa",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-likely-to-take-partial-profits-2/",
+    "sourceTitle": "Emini Bears Likely to Take Partial Profits",
+    "titleZh": "Brad 日內案例｜2025-04-22｜風險與退出",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-235296"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-235296"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-235296",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "f8318b80a83d7d5bc0aa",
+    "url": "https://www.youtube.com/watch?v=lNG9VbnWt78",
+    "sourceTitle": "S&P 500 E mini Broad Trading Range and Tight Bear Channel   July 16, 2026",
+    "titleZh": "Brooks 共享影片｜區間與通道",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-lNG9VbnWt78"
+      }
+    ],
+    "resourceIds": [
+      "yt-lNG9VbnWt78"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-lNG9VbnWt78",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "f83610c7ba3f75b97b82",
     "url": "https://www.youtube.com/watch?v=yW5YnXgl-bg",
     "sourceTitle": "Ask Al Brooks: Buy The Close Trend? Or reversal?",

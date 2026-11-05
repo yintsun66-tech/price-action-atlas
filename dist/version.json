@@ -1,11 +1,13 @@
 {
-  "version": "1.1.1",
-  "released": "2026-11-04",
+  "version": "1.2.0",
+  "released": "2026-11-05",
   "timezone": "Asia/Taipei",
   "repository": "https://github.com/yintsun66-tech/price-action-atlas",
   "site": "https://yintsun66-tech.github.io/price-action-atlas/",
-  "contentEdition": "20261104c26",
+  "contentEdition": "20261105c27",
   "notes": [
-    "保留官方對歷史重算的可能性語氣；教材與圖解沿用 v1.1.0。"
+    "新增兩篇公開正文的繁中選讀，另核對 RSI 定義與計算指定段落。",
+    "威科夫單元新增兩節原創算例、算術校註、圖解與術語，分清相對表現和絕對漲跌。",
+    "保留來源 equal 等原文用語，明列與精確比率計算的差異；未增加全文翻譯完成數。"
   ]
 }

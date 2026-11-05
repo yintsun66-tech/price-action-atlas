@@ -1,5 +1,93 @@
 [
   {
+    "id": "a7e95d7157e117819056",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-likely-reach-february-low/",
+    "sourceTitle": "Emini will likely reach February low",
+    "titleZh": "Brad 日內案例｜2022-05-26｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-151849"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-151849"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-151849",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "a8203cdafde92f21ba4d",
+    "url": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781118268315",
+    "sourceTitle": "Evidence-Based Technical Analysis",
+    "titleZh": "EBTA：讓證據說話的技術分析（上、下）",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "book",
+        "id": "aronson"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "a848ab8020f282589f2c",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-beginning-to-take-partial-profits/",
+    "sourceTitle": "Emini Bulls Beginning to Take Partial Profits",
+    "titleZh": "Brad 日內案例｜2025-10-30｜風險與退出",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-253376"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-253376"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-253376",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "a8b5ba025ff5099238ee",
     "url": "https://www.brookstradingcourse.com/analysis/emini-august-18th-low/",
     "sourceTitle": "Emini Likely to Reach August 18 Low",
@@ -3069,105 +3157,6 @@
       {
         "id": "yt-WPT1fqbZa1M",
         "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "b203e7ed801a4c76f55e",
-    "url": "https://www.youtube.com/watch?v=9Cm0ZLiuGiY",
-    "sourceTitle": "Will August 2013 be the high of the year for the stock market?",
-    "titleZh": "Brooks 共享影片｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-9Cm0ZLiuGiY"
-      }
-    ],
-    "resourceIds": [
-      "yt-9Cm0ZLiuGiY"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-9Cm0ZLiuGiY",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "b2050703ccb84e161cf5",
-    "url": "https://www.youtube.com/watch?v=OTCA9o1bVgE",
-    "sourceTitle": "Emini End of Day Review - Thursday September 28, 2023 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-OTCA9o1bVgE"
-      }
-    ],
-    "resourceIds": [
-      "yt-OTCA9o1bVgE"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-OTCA9o1bVgE",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "b2173ad04259c6886ad9",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-support-below-moving-average/",
-    "sourceTitle": "Emini Support Below Moving Average",
-    "titleZh": "Brad 日內案例｜2025-08-04｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-246380"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-246380"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-246380",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }
     ],

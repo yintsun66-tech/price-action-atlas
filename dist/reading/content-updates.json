@@ -2,6 +2,72 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch27-20261105",
+      "collected": "2026-11-05",
+      "updated": "2026-11-05",
+      "timezone": "Asia/Taipei",
+      "description": "威科夫相對表現、價格比率與 RSI 的正文續讀、原創圖解及算術校註。",
+      "articles": [
+        "wyckoff-cycle"
+      ],
+      "sources": [
+        "wyckoff-relative-performance",
+        "price-relative-return-math"
+      ],
+      "decisions": [
+        {
+          "source": "Wyckoff Stock Analysis",
+          "url": "https://chartschool.stockcharts.com/table-of-contents/market-analysis/wyckoff-analysis-articles/wyckoff-stock-analysis",
+          "status": "採用正文摘要",
+          "reason": "實讀完整公開教學文字、個股案例敘述、風險與結語；未逐圖核驗行情、操作平台或讀取外鏈書籍。"
+        },
+        {
+          "source": "Price Relative/Relative Strength",
+          "url": "https://chartschool.stockcharts.com/table-of-contents/technical-indicators-and-overlays/technical-indicators/price-relative-relative-strength",
+          "status": "採用正文摘要",
+          "reason": "實讀完整公開教學文字、計算、解讀、案例敘述、限制與平台操作文字；未核驗原圖、外鏈試算表、書籍或操作平台。"
+        },
+        {
+          "source": "Relative Strength Index (RSI)",
+          "url": "https://www.tradingview.com/support/solutions/43000502338-relative-strength-index-rsi/",
+          "status": "採用指定段落摘要",
+          "reason": "實讀 Definition 與 Calculation 指定段落；未驗證完整案例、執行程式或觀看影片。"
+        },
+        {
+          "source": "Reddit 自述 13,000 次威科夫訊號",
+          "url": "https://www.reddit.com/r/Daytrading/comments/1rqpcrw/i_analyzed_13000_wyckoff_accumulation_signals/",
+          "status": "本批略過績效摘要",
+          "reason": "實讀主帖與前段可見參數／過度配適問答；已讀範圍不足以重現自述結果，未展開全部 more replies，不推斷整串完全沒有資料。"
+        },
+        {
+          "source": "TradingView Relative Strength Comparison — RishiAjmera",
+          "url": "https://www.tradingview.com/script/AdFU969A-Relative-Strength-Comparison/",
+          "status": "本批略過",
+          "reason": "已讀公開描述，標示 protected script；未取得程式或執行，與本批框架重疊，不以互動量作績效評價。"
+        },
+        {
+          "source": "Ruben Villahermosa 努力與結果",
+          "url": "https://tradingwyckoff.com/en/effort-vs-result/",
+          "status": "本批略過",
+          "reason": "取得公開文字，主題與既有努力／結果內容重疊，未另加重複卡片。"
+        },
+        {
+          "source": "PTT 威科夫與成交量原帖查詢",
+          "status": "未取得對應原帖",
+          "reason": "本次檢索未確認合格對應原帖；不推斷沒有新文。"
+        }
+      ],
+      "notes": [
+        "兩個新來源網址，另續讀一個既有 pending；正文摘要增加兩筆，RSI 只列指定段落。",
+        "兩篇 StockCharts 原頁無已核對發布日期；只更新實際讀取日。正文摘要不含平台導覽與附加說明。",
+        "原文 XLF 強弱措辭不一致、價格比率頁 equal 句與精確定義的差異明列，不悄悄更改或採為已核驗案例。",
+        "三筆來源共六詞、十詞、三詞短句；未取得全文翻譯授權，不增加全文完成數。",
+        "自編序列與算式不提供 RSI 值、機構身分、進出場訊號或微台／BTC 績效。",
+        "未引用新 Brooks 課程；原筆記鍵、文章 ID、舊來源與圖解保留。",
+        "發布 v1.2.0，沿用既有每日排程，未執行交易。"
+      ]
+    },
+    {
       "id": "content-batch26-20261104",
       "collected": "2026-11-04",
       "updated": "2026-11-04",

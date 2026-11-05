@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "items": [
     {
       "id": "014e9d23788221e0da5b",
@@ -258,6 +258,13 @@
     {
       "id": "c5f7326765be153c6069",
       "url": "https://www.adamhgrimes.com/volatility-has-a-memory/",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
+      "id": "ce6836c73b86f121c656",
+      "url": "https://www.tradingview.com/support/solutions/43000502338-relative-strength-index-rsi/",
       "resourceIds": [],
       "status": "excerpt-summary",
       "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
@@ -14623,13 +14630,6 @@
       "resourceIds": [
         "brad-post-252867"
       ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
-      "id": "b39df5897e4a91f01e8e",
-      "url": "https://chartschool.stockcharts.com/table-of-contents/market-analysis/wyckoff-analysis-articles/wyckoff-stock-analysis",
-      "resourceIds": [],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },

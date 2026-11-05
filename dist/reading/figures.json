@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "checked": "2026-11-04",
+  "checked": "2026-11-05",
   "original": true,
   "figures": [
     {
@@ -829,6 +829,18 @@
       "afterSection": 7,
       "caption": "價位、數量與門檻均為本站自編。圖只示範算術與記錄問題，不是 Sierra／TradingView 原圖、行情、平台重現或交易績效。",
       "alt": "三價位合成表：100 同列為三十倍、對角為三倍；101 的小量三倍配對另按門檻略過。",
+      "synthetic": true
+    },
+    {
+      "id": "wyckoff-relative-performance",
+      "article": "wyckoff-cycle",
+      "title": "相對較強，仍可能正在下跌",
+      "src": "images/study/wyckoff-relative-performance.svg",
+      "width": 960,
+      "height": 640,
+      "afterSection": 5,
+      "caption": "本站自編兩條序列、共同起點與算式；非來源個股圖、平台重現、真實行情或策略績效。",
+      "alt": "兩條合成序列都下跌，標的跌百分之二、基準跌百分之五；相差三個百分點，比率變動卻約百分之三點一六。",
       "synthetic": true
     }
   ]

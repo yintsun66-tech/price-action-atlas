@@ -1,5 +1,104 @@
 [
   {
+    "id": "62eef5e9712f2167c826",
+    "url": "https://www.youtube.com/watch?v=qr2XxmGwSg0",
+    "sourceTitle": "Ask Al Brooks: What breakthrough for becoming successful trader",
+    "titleZh": "Brooks 共享影片｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-qr2XxmGwSg0"
+      }
+    ],
+    "resourceIds": [
+      "yt-qr2XxmGwSg0"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-qr2XxmGwSg0",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
+    "id": "630cd68a062585d291b2",
+    "url": "https://www.youtube.com/watch?v=UbXplppteIw",
+    "sourceTitle": "Emini End of Day Review - Friday, May 2, 2025 - Brad Wolff",
+    "titleZh": "Brad 公開影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-UbXplppteIw"
+      }
+    ],
+    "resourceIds": [
+      "yt-UbXplppteIw"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-UbXplppteIw",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "631a8764b5a50709d1b5",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-finding-buyers-below-january-20th-low/",
+    "sourceTitle": "E-mini Finding Buyers below January 20th Low",
+    "titleZh": "Brad 日內案例｜2026-02-05｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-261693"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-261693"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-261693",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "631d65ded847621ed45c",
     "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-31b-swing-trading-scalping/",
     "sourceTitle": "波段與短打",
@@ -3106,105 +3205,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-215806",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "6e64e4c7e5924f282646",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-pullback-likely-over-upcoming-days/",
-    "sourceTitle": "Emini Pullback Likely over Upcoming Days",
-    "titleZh": "Brad 日內案例｜2025-04-28｜回檔與第二段",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-235576"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-235576"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-235576",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "6e709c8f76407ce7f55f",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-want-rally-to-year-end/",
-    "sourceTitle": "E-Mini Bulls Want Rally to Year End",
-    "titleZh": "Brad 日內案例｜2025-12-09｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-256935"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-256935"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-256935",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "6e91ae0a3438bfa53a22",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-market-testing-may-2-low/",
-    "sourceTitle": "Emini market testing May 2 low",
-    "titleZh": "Brad 日內案例｜2022-05-09｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-150048"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-150048"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-150048",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }
