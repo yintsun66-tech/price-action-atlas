@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-05",
+  "revision": "2026-11-06",
   "articles": [
     {
       "id": "licensed-measured-move",
@@ -580,7 +580,7 @@
       "subtitle": "用跳空算例區分觸發、委託、報價與成交回報",
       "summary": "畫在圖上的停損線，不等於已經成交的價格。本篇對照 CME 的公開委託教學，用一段自編跳空路徑解釋限價保護、價格滑落及未成交風險；再列出把例子帶回微台與 BTC 前必須核對的欄位。",
       "level": "進階",
-      "minutes": 13,
+      "minutes": 18,
       "mode": "guide",
       "batch": 3,
       "topic": "進出場",
@@ -595,7 +595,7 @@
       ],
       "hasCases": true,
       "hasChart": true,
-      "figureCount": 1
+      "figureCount": 2
     },
     {
       "id": "pa3-session-contract",

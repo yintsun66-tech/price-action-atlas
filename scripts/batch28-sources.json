@@ -1,0 +1,21 @@
+[
+  {
+    "id":"limit-touch-backtest-setting","platform":"NinjaTrader 官方程式文件","kind":"author","language":"en","author":"NinjaTrader",
+    "title":"觸價就算成交？先看回測的成交設定","originalTitle":"IsFillLimitOnTouch","url":"https://static.ninjatrader.com/support/helpGuides/nt8/isfilllimitontouch.htm","published":"發布日未核對","dateNote":"官方動態文件，未確認發布或修訂確日。",
+    "summary":"此屬性僅用於回測。預設 false 要求價格穿越限價；設為 true 則可在到達限價時算成交。這是模擬算法選擇，不是實盤成交承諾。",
+    "quote":{"en":"for back-testing purposes only","zh":"僅供回測用途。","context":"原文對較寬鬆成交算法的適用範圍；不據此宣稱實盤掛單也會在觸價時成交。"},
+    "access":"實讀此頁的定義、預設值、設定時機警語、語法與程式範例；未執行程式或操作軟體。","translation":"精簡繁中摘要與四詞必要短句；非全文翻譯或範例程式重刊。",
+    "review":{"basis":"軟體發布者對該屬性的直接說明。","learning":"比較策略結果前，把限價成交設定固定並保存。","limits":"單一屬性的說明不是完整撮合、延遲、數量與佇列模型；不直接套用其他平台或商品。","engagement":"官方文件不是獨立績效驗證；未取得可比教學評分，不補造星等。"},
+    "figure":{"src":"images/study/limit-touch-models.svg","alt":"兩條自編價格路徑，分別比較觸價與穿越一個跳動的模擬判定","caption":"本站自訂簡化規則與合成價格；不是 NinjaTrader 完整算法、實際成交或績效。"},
+    "related":["pa3-stop-execution","flow-depth"],"tags":["限價單","回測設定","觸價與穿越"],"batch":28,"collected":"2026-11-06","checked":"2026-11-06","courseRefs":[],"status":"body-summary"
+  },
+  {
+    "id":"sierra-replay-queue-scope","platform":"Sierra Chart 公開支援區","kind":"community","language":"en","author":"John - SC Support",
+    "title":"看見佇列數字，不代表回放按佇列成交","originalTitle":"Post From: Estimated position in queue is 1 in Replay","url":"https://www.sierrachart.com/SupportBoard.php?PostID=377537","published":"2024-03-29","dateNote":"指定答覆顯示 13:28:12，時區未標；不是今日新文。",
+    "summary":"2024 年客服答覆區分回放成交與估計佇列位置；本次另讀現行文件的相關段落，保留回放、非回放模擬及實盤之間的界線。",
+    "quote":{"en":"the order filling is not going to be based on the actual Estimated Position in Queue","zh":"成交處理將不會依據該「估計佇列位置」。","context":"這是該答覆對回放的說明；Estimated 仍是估計，不能當成真實交易所順位或所有版本的實測結果。"},
+    "access":"實讀 PostID 377537 的單則完整公開客服答覆；未讀完整討論串、測試歷史版本或取得使用者委託紀錄。另核對官方《交易模擬》文件的買賣價與限價相關段落。","translation":"指定答覆的繁中摘要與十六詞短句；不是整串翻譯，未重刊附帶廣告。",
+    "review":{"basis":"具日期及客服署名的第一手答覆，與本次官方文件分開核對。","learning":"先標記執行模式，再判斷佇列顯示是否參與模擬成交。","limits":"2024 年答覆不等於所有現行設定的完整規格；未驗證軟體實際行為或真實交易所排隊。","engagement":"查核時此則答覆顯示致謝數為 0，僅是互動快照，不是品質分數或獲利證明。"},
+    "related":["pa3-stop-execution","flow-depth"],"tags":["回放","佇列估計","模擬成交"],"batch":28,"collected":"2026-11-06","checked":"2026-11-06","courseRefs":[],"status":"excerpt-summary"
+  }
+]

@@ -1,5 +1,104 @@
 [
   {
+    "id": "781abe206aadde3d6017",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-profit-maximization-by-bulls/",
+    "sourceTitle": "Emini Profit Maximization by Bulls",
+    "titleZh": "Brad 日內案例｜2025-09-16｜風險與退出",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-250513"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-250513"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-250513",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "783a16a08cece7d52a40",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-follow-through-buying-yesterday/",
+    "sourceTitle": "Emini Follow-Through Buying",
+    "titleZh": "Brad 日內案例｜2023-08-31｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-187976"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-187976"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-187976",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "78459f22ebd531a5aab4",
+    "url": "https://www.youtube.com/watch?v=-weC9l8b1aY",
+    "sourceTitle": "Emini End of Day Review - Wednesday July 19, 2023 - Brad Wolff",
+    "titleZh": "Brad 公開影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt--weC9l8b1aY"
+      }
+    ],
+    "resourceIds": [
+      "yt--weC9l8b1aY"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt--weC9l8b1aY",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "78688a14fc26c55d5ff9",
     "url": "https://www.youtube.com/watch?v=FQ9b_J7W1Jc",
     "sourceTitle": "Emini End of Day Review - Monday September 23, 2024 - Brad Wolff",
@@ -3068,105 +3167,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-191023",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "8463234e8af1330d660c",
-    "url": "https://www.youtube.com/watch?v=9dHkzH5Tf2Y",
-    "sourceTitle": "Market Outlook for 2021 Gold Futures",
-    "titleZh": "Brooks 共享影片｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-9dHkzH5Tf2Y"
-      }
-    ],
-    "resourceIds": [
-      "yt-9dHkzH5Tf2Y"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-9dHkzH5Tf2Y",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "8468722d1086789ea045",
-    "url": "https://www.youtube.com/watch?v=C7Mg6ZQveck",
-    "sourceTitle": "S&P 500 E-mini Trading Range Open and Small PB Bull Trend - July 10, 2026",
-    "titleZh": "Brooks 共享影片｜區間與通道",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-C7Mg6ZQveck"
-      }
-    ],
-    "resourceIds": [
-      "yt-C7Mg6ZQveck"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-C7Mg6ZQveck",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "847570d4491956cc0747",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-likely-to-reach-june-high/",
-    "sourceTitle": "Emini likely to reach June high today",
-    "titleZh": "Brad 日內案例｜2022-08-08｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-157661"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-157661"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-157661",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

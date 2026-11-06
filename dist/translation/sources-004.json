@@ -1,5 +1,83 @@
 [
   {
+    "id": "1e4a139337675ccaecfc",
+    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-21c-reversals/",
+    "sourceTitle": "反轉",
+    "titleZh": "反轉",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "反轉"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "1e4f655f5303ff17bb33",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-triangle-on-daily-chart/",
+    "sourceTitle": "E-mini Triangle on Daily Chart",
+    "titleZh": "E-mini 日線圖形成三角形",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-271697"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-271697"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-271697",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "1e54aeb110f72214bec0",
+    "url": "https://www.brookstradingcourse.com/trade-price-action/video-50b-scalping/",
+    "sourceTitle": "短打",
+    "titleZh": "短打",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "短打"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "1e71b806a56444a1e8c8",
     "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-breakout-follow-through/",
     "sourceTitle": "Emini Bulls Want Breakout Follow-through",
@@ -3124,105 +3202,6 @@
     "legacyObservations": [
       {
         "id": "yt-MMmQ2lKWNDU",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "29c3be73fe52188abd38",
-    "url": "https://www.youtube.com/watch?v=bf6GHjINQZY",
-    "sourceTitle": "Al Brooks  - 2019 Market Outlook",
-    "titleZh": "Brooks 共享影片｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-bf6GHjINQZY"
-      }
-    ],
-    "resourceIds": [
-      "yt-bf6GHjINQZY"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-bf6GHjINQZY",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "2a0bade16ab161c7c9ce",
-    "url": "https://www.youtube.com/watch?v=-EAHMV85g5o",
-    "sourceTitle": "E-mini S&P 500 Bull Reversal Day - October 1, 2026",
-    "titleZh": "Brooks 共享影片｜反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt--EAHMV85g5o"
-      }
-    ],
-    "resourceIds": [
-      "yt--EAHMV85g5o"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt--EAHMV85g5o",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "2a0c35cae6a9ca6fd46e",
-    "url": "https://www.youtube.com/watch?v=15qaWtrqJt8",
-    "sourceTitle": "Ask Al Brooks: Can I Make Money Following Al's Commentary?",
-    "titleZh": "Brooks 共享影片｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-15qaWtrqJt8"
-      }
-    ],
-    "resourceIds": [
-      "yt-15qaWtrqJt8"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-15qaWtrqJt8",
         "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
         "checked": "2026-10-22"
       }

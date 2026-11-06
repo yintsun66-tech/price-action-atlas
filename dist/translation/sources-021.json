@@ -1,5 +1,104 @@
 [
   {
+    "id": "debaeaaf0690e7b39f90",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-likely-to-test-july-21/",
+    "sourceTitle": "Emini likely to test July 21 close soon",
+    "titleZh": "Brad 日內案例｜2022-07-27｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-156900"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-156900"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-156900",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "dedab31c2443ac9f0283",
+    "url": "https://www.youtube.com/watch?v=29tYkh-2nIc",
+    "sourceTitle": "Emini End of Day Review - Wednesday March 29, 2023",
+    "titleZh": "Brooks 共享影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-29tYkh-2nIc"
+      }
+    ],
+    "resourceIds": [
+      "yt-29tYkh-2nIc"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-29tYkh-2nIc",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
+    "id": "df25fb70eaf9ea2d8890",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-will-probably-need-to-reach-4000/",
+    "sourceTitle": "Emini will probably need to reach 4,000",
+    "titleZh": "Brad 日內案例｜2022-10-31｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-163415"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-163415"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-163415",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "df460575db4f4ef544e0",
     "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-close-above-open/",
     "sourceTitle": "Emini bulls want close above open of week",
@@ -3083,105 +3182,6 @@
     "legacyObservations": [
       {
         "id": "yt-uDDirOjb3xs",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "ece3a333a6336fa3be40",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-may-go-sideways-now/",
-    "sourceTitle": "Emini May Go sideways around Last Week’s High",
-    "titleZh": "Brad 日內案例｜2022-11-16｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-164673"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-164673"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-164673",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "ecea917a0bb012f29298",
-    "url": "https://www.youtube.com/watch?v=wQkBIj-rlBA",
-    "sourceTitle": "Al Brooks - Emini End of Day Review for Wednesday April 19, 2023",
-    "titleZh": "Brooks 共享影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-wQkBIj-rlBA"
-      }
-    ],
-    "resourceIds": [
-      "yt-wQkBIj-rlBA"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-wQkBIj-rlBA",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "ecfed0528d0f0eeccee5",
-    "url": "https://www.youtube.com/watch?v=7f-Y7VjvvzA",
-    "sourceTitle": "Emini End of Day Review - Monday August 29, 2022",
-    "titleZh": "Brooks 共享影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-7f-Y7VjvvzA"
-      }
-    ],
-    "resourceIds": [
-      "yt-7f-Y7VjvvzA"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-7f-Y7VjvvzA",
         "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
         "checked": "2026-10-22"
       }

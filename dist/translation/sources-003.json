@@ -1,5 +1,104 @@
 [
   {
+    "id": "11b49a6ffb9a73f306e7",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-testing-top-of-july-rally/",
+    "sourceTitle": "Emini Bulls Testing Top of July Rally",
+    "titleZh": "Brad 日內案例｜2025-08-07｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-246628"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-246628"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-246628",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "11cae0adefca8a14e4d5",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-want-strong-reversal-bar/",
+    "sourceTitle": "Emini Bears Want Strong Reversal Bar Today",
+    "titleZh": "Brad 日內案例｜2023-01-25｜反轉與陷阱",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-169113"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-169113"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-169113",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "11d333a3cc16e5a29732",
+    "url": "https://www.youtube.com/watch?v=UtaksWB5zZE",
+    "sourceTitle": "Emini End of Day Review - Thursday, April 17, 2025 - Brad Wolff",
+    "titleZh": "Brad 公開影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-UtaksWB5zZE"
+      }
+    ],
+    "resourceIds": [
+      "yt-UtaksWB5zZE"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-UtaksWB5zZE",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "11df1d57ef6c9fafc291",
     "url": "https://www.youtube.com/watch?v=6vn3wZc8S4Q",
     "sourceTitle": "SP500 E mini 5 Min  Broad Bear Flag Trading Range Day",
@@ -3090,83 +3189,5 @@
     "authors": [
       "Brad Wolff"
     ]
-  },
-  {
-    "id": "1e4a139337675ccaecfc",
-    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-21c-reversals/",
-    "sourceTitle": "反轉",
-    "titleZh": "反轉",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "反轉"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
-  },
-  {
-    "id": "1e4f655f5303ff17bb33",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-triangle-on-daily-chart/",
-    "sourceTitle": "E-mini Triangle on Daily Chart",
-    "titleZh": "E-mini 日線圖形成三角形",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-271697"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-271697"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-271697",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "1e54aeb110f72214bec0",
-    "url": "https://www.brookstradingcourse.com/trade-price-action/video-50b-scalping/",
-    "sourceTitle": "短打",
-    "titleZh": "短打",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "短打"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   }
 ]

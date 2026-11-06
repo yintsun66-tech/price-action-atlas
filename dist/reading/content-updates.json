@@ -2,6 +2,71 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch28-20261106",
+      "collected": "2026-11-06",
+      "updated": "2026-11-06",
+      "timezone": "Asia/Taipei",
+      "description": "限價單觸價、回放佇列與模擬成交的指定範圍選讀、原創圖解及練習。",
+      "articles": [
+        "pa3-stop-execution"
+      ],
+      "sources": [
+        "limit-touch-backtest-setting",
+        "sierra-replay-queue-scope"
+      ],
+      "decisions": [
+        {
+          "source": "IsFillLimitOnTouch",
+          "url": "https://static.ninjatrader.com/support/helpGuides/nt8/isfilllimitontouch.htm",
+          "status": "採用正文摘要",
+          "reason": "實讀此頁的定義、預設值、設定時機警語、語法與程式範例；未執行程式或操作軟體。"
+        },
+        {
+          "source": "Post From: Estimated position in queue is 1 in Replay",
+          "url": "https://www.sierrachart.com/SupportBoard.php?PostID=377537",
+          "status": "採用指定答覆摘要",
+          "reason": "實讀 PostID 377537 的單則完整公開客服答覆；未讀完整討論串、測試歷史版本或取得使用者委託紀錄。另核對官方《交易模擬》文件的買賣價與限價相關段落。"
+        },
+        {
+          "source": "Trade Simulation",
+          "url": "https://www.sierrachart.com/index.php?page=doc/TradeSimulation.php",
+          "status": "採用指定段落摘要",
+          "reason": "實讀 Trade Simulation Accuracy and Bid/Ask Prices During Replays、How Orders are Filled 的相關買賣價、紀錄及 Limit Orders 段落；未讀完全部文件、操作軟體或逐項測試設定。"
+        },
+        {
+          "source": "PTT 個股期被插隊",
+          "url": "https://www.ptt.cc/bbs/Stock/M.1793254493.A.64A.html",
+          "status": "取得失敗",
+          "reason": "直接開啟原帖返回 403；僅見搜尋介紹，不據此整理正文、作者或留言結論。"
+        },
+        {
+          "source": "Reddit Limit order - fill assumptions using OHLC data",
+          "url": "https://www.reddit.com/r/algotrading/comments/12nbxk0/limit_order_fill_assumptions_using_ohlc_data/",
+          "status": "本批略過",
+          "reason": "實讀主帖與可見回覆，化名／已刪除作者、自述樣本二十五與其他數值未對帳；問題與本批重疊，不採其百分比、成交保證或委託語意作規格。未核對所有回覆完整性。"
+        },
+        {
+          "source": "CME Matching Algorithm Overview",
+          "url": "https://www.cmegroup.com/education/matching-algorithm-overview",
+          "status": "本批略過影片內容",
+          "reason": "僅讀影片介紹；未觀看影片或取得逐字稿，不標影片已讀。"
+        },
+        {
+          "source": "TradingView 與 Brooks 公開討論檢索",
+          "status": "本批不新增",
+          "reason": "檢索找到策略屬性及限價主題入口；本批未續讀這些完整來源，不列正文完成或新增課程引用。"
+        }
+      ],
+      "notes": [
+        "新增三個英文網址，一篇正文摘要與兩筆指定範圍摘要；來源卡增加兩張。",
+        "客服答覆日期 2024-03-29 與今日查核日分列；其餘兩頁發布及修訂確日未核對。",
+        "英文短句為四詞、十六詞、七詞；未取得全文翻譯授權，不增加全文完成數。",
+        "兩條最新成交價路徑、跳動一與填單條件均為本站簡化假設；不冒充平台完整算法或真實成交。",
+        "未新增 Brooks 引用，未變更 PA_BREAKOUT_V1 引擎、筆記鍵或文章 ID。",
+        "發布依 GitHub Pages 與版本流程核對；沿用既有排程，未執行交易。"
+      ]
+    },
+    {
       "id": "content-batch27-20261105",
       "collected": "2026-11-05",
       "updated": "2026-11-05",

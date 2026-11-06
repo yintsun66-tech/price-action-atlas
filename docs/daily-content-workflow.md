@@ -2,7 +2,7 @@
 
 **現行發布規則（2026-11-02 起）：**使用者已明確選擇公開 GitHub Pages。主要原始檔為 https://github.com/yintsun66-tech/price-action-atlas ，網站為 https://yintsun66-tech.github.io/price-action-atlas/ 。先讀本站 AGENTS.md 與 docs/versioning.md；每次實質發布需遞增版本、更新 CHANGELOG 並推送 vX.Y.Z 標籤。以下舊 Sites 流程保留歷史語境，不再作新發布目標。個人筆記／備份不可上傳儲存庫。
 
-最新內容批次為第二十七批 v1.2.0（2026-11-05）：build-content-batch27.cjs → 翻譯清單 → 中文呈現／版本標示。新增相對表現選讀、原創算術圖及威科夫單元練習，實讀紀錄 zh-core-source-reviews-20.json。保留來源用語與算術校註的差別；RSI 只列指定段落摘要。資料與閱讀器驗證使用 workspace tools/check_content_batch27*.cjs；範圍、略過、畫面驗證限制與數量見 docs/content-batch27.md。其後依 release.json 指定最新生成器。
+最新內容批次為第二十八批 v1.3.0（2026-11-06）：build-content-batch28.cjs → 翻譯清單 → 中文呈現／版本標示。新增限價成交設定與回放佇列選讀、原創對照圖及停損執行練習，實讀紀錄 zh-core-source-reviews-21.json。指定客服答覆、現行文件與自訂簡化模型分開；最新成交價使用明確中文，避免通用 Last 譯成「最後」。資料與閱讀器驗證使用 workspace tools/check_content_batch28*.cjs；範圍、略過、畫面驗證與數量見 docs/content-batch28.md。其後依 release.json 指定最新生成器。
 
 使用者於 2026-10-28 選擇每日更新。已建立本聊天 heartbeat：價格行為教材每日蒐集與繁中更新，時間預設 Asia/Taipei 每日 10:00。這是本機聊天的持續工作排程，沒有另建 Sites 雲端寫入器或第二份排程。排程設定成功不表示未來每次研究或發布必然成功；每次執行仍須查核及確認發布結果。
 

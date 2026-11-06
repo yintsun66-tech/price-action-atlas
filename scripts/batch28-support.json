@@ -1,0 +1,9 @@
+{
+  "resourceId":"source-b28-sierra-simulation-limit-scope","url":"https://www.sierrachart.com/index.php?page=doc/TradeSimulation.php","sourceTitle":"Trade Simulation","sourceTitleZh":"回放成交使用哪些價格？佇列選項又適用何時？","authorConfirmed":"Sierra Chart","published":null,"dateNoteZh":"官方動態文件，發布及修訂確日未核對。","checked":"2026-11-06","status":"excerpt-summary",
+  "readScope":"實讀 Trade Simulation Accuracy and Bid/Ask Prices During Replays、How Orders are Filled 的相關買賣價、紀錄及 Limit Orders 段落；未讀完全部文件、操作軟體或逐項測試設定。",
+  "summaryZh":"限價模擬使用 Bid／Ask；回放可能使用記錄或估算的報價。文件將依佇列追蹤的成交選項限於非回放圖表，不能以回放成交冒充實盤順位。",
+  "keyPointsZh":["先保存回放／非回放模式、報價來源、設定及成交回報，再討論填單結果。"],
+  "shortExcerpt":{"en":"This option only applies to non-replaying charts.","zh":"此選項僅適用於非回放中的圖表。","scope":"特指 Limit Orders 段落的 Estimated Position in Queue Tracking 選項，不泛指所有模擬功能。"},
+  "limitsZh":"只有指定範圍摘要，未完成全部文件或實測軟體；平台算法不是 TMF 或 Binance 交易所撮合規則。",
+  "evidence":{"urls":["https://www.sierrachart.com/index.php?page=doc/TradeSimulation.php"],"accessMethod":"實讀官方公開指定段落","scope":"回放 Bid／Ask 資料、成交紀錄與限價模擬條件"},"courseRefs":[]
+}

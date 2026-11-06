@@ -1,5 +1,104 @@
 [
   {
+    "id": "c6e3af1ac2de461ee260",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-needs-test-of-moving-average/",
+    "sourceTitle": "Emini Needs Test of Moving Average",
+    "titleZh": "Brad 日內案例｜2025-06-18｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-241225"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-241225"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-241225",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "c6ecb2acbc638907ffff",
+    "url": "https://www.youtube.com/watch?v=fA9k3qk8ffE",
+    "sourceTitle": "Recap for 2010-05-20 Part 1",
+    "titleZh": "Brooks 共享影片｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-fA9k3qk8ffE"
+      }
+    ],
+    "resourceIds": [
+      "yt-fA9k3qk8ffE"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-fA9k3qk8ffE",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
+    "id": "c70e9723e26c80272c0c",
+    "url": "https://www.youtube.com/watch?v=TnnU2VNu_YQ",
+    "sourceTitle": "Market Recap 2010-02-16",
+    "titleZh": "Brooks 共享影片｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-TnnU2VNu_YQ"
+      }
+    ],
+    "resourceIds": [
+      "yt-TnnU2VNu_YQ"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-TnnU2VNu_YQ",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "c72a189dd136314e497e",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-late-buy-climax-bar-possible-exhaustion/",
     "sourceTitle": "E-mini Late Buy Climax Bar Possible Exhaustion",
@@ -3046,94 +3145,6 @@
       {
         "kind": "course-index",
         "id": "寬空頭通道交易"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
-  },
-  {
-    "id": "d3c30b9aa50c3cba174c",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-strong-bear-breakout-3/",
-    "sourceTitle": "Emini Strong Bear Breakout",
-    "titleZh": "Brad 日內案例｜2024-11-01｜突破與延續",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-221940"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-221940"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-221940",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "d3ea18619282a8e3c449",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-likely-1-3-day-pullback/",
-    "sourceTitle": "Emini likely 1-3 day pullback following last week’s bull breakout",
-    "titleZh": "Brad 日內案例｜2022-03-22｜突破與延續／回檔與第二段",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-146771"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-146771"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-146771",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "d4281baf58d0b8f788be",
-    "url": "https://chatwithtraders.com/",
-    "sourceTitle": "Chat With Traders",
-    "titleZh": "交易者訪談",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "media",
-        "id": "p01"
       }
     ],
     "resourceIds": [],

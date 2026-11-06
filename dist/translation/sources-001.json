@@ -1,5 +1,112 @@
 [
   {
+    "id": "19ba203b66ae9c61ce06",
+    "url": "https://www.youtube.com/watch?v=Dvb-EWlGOZI",
+    "sourceTitle": "Market Regime",
+    "titleZh": "市場狀態",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-Dvb-EWlGOZI"
+      }
+    ],
+    "resourceIds": [
+      "yt-Dvb-EWlGOZI"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-Dvb-EWlGOZI",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Ali／Quant Systems 頻道"
+    ]
+  },
+  {
+    "id": "1b5a401b97775f30de8f",
+    "url": "https://www.youtube.com/watch?v=R4fRHOEbgUg",
+    "sourceTitle": "Brooks Trading Course Q&A with Brad Wolff",
+    "titleZh": "Brooks 交易課程問答：Brad Wolff",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-R4fRHOEbgUg"
+      }
+    ],
+    "resourceIds": [
+      "yt-R4fRHOEbgUg"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-R4fRHOEbgUg",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "31f86e07b6a62f73d799",
+    "url": "https://priceactiontradingsystem.com/free-posts-filter/",
+    "sourceTitle": "Free Posts Filter：官方免費文章與課堂入口",
+    "titleZh": "免費文章篩選：官方免費文章與課堂入口",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "discovery-mack-pats-3"
+      },
+      {
+        "kind": "discovery-material",
+        "id": "mack-pats",
+        "index": 2
+      }
+    ],
+    "resourceIds": [
+      "discovery-mack-pats-3"
+    ],
+    "legacyObservations": [
+      {
+        "id": "discovery-mack-pats-3",
+        "scope": "免費；頁面以 Non Member Articles 按鈕與篩選器載入內容。 文章／概念及圖表教材索引，與付費會員文章分開。 本次確認入口可取回；動態篩選器的每一篇未逐一核對。 本輪未逐部完整觀看或核實真實成交。",
+        "checked": "2026-10-24"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Mack／PATs（Price Action Trading System）"
+    ]
+  },
+  {
     "id": "37761ebb596378f9c5fb",
     "url": "https://www.youtube.com/watch?v=OgOF7sluwss",
     "sourceTitle": "Backtesting for System Design",
@@ -3230,105 +3337,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-159161",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "058ec20c8be4338c609a",
-    "url": "https://www.youtube.com/watch?v=3xdT7lZx3XA",
-    "sourceTitle": "E-mini S&P 500 Wedge Top, Selloff then Tight Trading Range - October 2, 2026",
-    "titleZh": "Brooks 共享影片｜區間與通道／反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-3xdT7lZx3XA"
-      }
-    ],
-    "resourceIds": [
-      "yt-3xdT7lZx3XA"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-3xdT7lZx3XA",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "059b844e9f791bc7a024",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-test-of-july-16th-high-likely/",
-    "sourceTitle": "E-mini Test of July 16th High Likely",
-    "titleZh": "Brad 日內案例｜2025-07-21｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-245068"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-245068"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-245068",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "05a4c44995fda0b1a5a3",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-daily-chart-transitioning-into-trading-range/",
-    "sourceTitle": "Emini Daily Chart Transitioning into Trading Range",
-    "titleZh": "Brad 日內案例｜2024-06-25｜區間與通道",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-211431"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-211431"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-211431",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "checked": "2026-11-05",
+  "checked": "2026-11-06",
   "original": true,
   "figures": [
     {
@@ -841,6 +841,18 @@
       "afterSection": 5,
       "caption": "本站自編兩條序列、共同起點與算式；非來源個股圖、平台重現、真實行情或策略績效。",
       "alt": "兩條合成序列都下跌，標的跌百分之二、基準跌百分之五；相差三個百分點，比率變動卻約百分之三點一六。",
+      "synthetic": true
+    },
+    {
+      "id": "limit-touch-models",
+      "article": "pa3-stop-execution",
+      "title": "碰到限價，還是穿越限價？",
+      "src": "images/study/limit-touch-models.svg",
+      "width": 960,
+      "height": 700,
+      "afterSection": 6,
+      "caption": "本站自訂最新成交價規則與兩條合成路徑；非平台完整算法、真實行情、成交回報或績效。",
+      "alt": "限價一百、跳動一，甲只碰到一百而乙到九十九；自訂觸價模型兩者填單，穿越一跳模型只填乙。",
       "synthetic": true
     }
   ]

@@ -1,10 +1,10 @@
 # Price Action Atlas · 閱讀庫
 
-**目前版本：v1.2.0 · 2026-11-05**
+**目前版本：v1.3.0 · 2026-11-06**
 
 [公開學習網站](https://yintsun66-tech.github.io/price-action-atlas/) · [GitHub 原始檔](https://github.com/yintsun66-tech/price-action-atlas) · [版本與更新紀錄](https://github.com/yintsun66-tech/price-action-atlas/releases)
 
-完整網站、作者檔、來源紀錄、文件與既有 Git 歷史已搬至本儲存庫；GitHub Pages 由 dist 發布。保留 62 個閱讀單元、70 張原創圖、2110 筆資源索引、37 篇來源選讀及 16 筆影音。每次發布附 vX.Y.Z，細節見 [版本流程](docs/versioning.md) 與 [更新紀錄](CHANGELOG.md)。下方日期記錄保留歷史語境，舊文提及私人 Sites 為遷移前狀態。
+完整網站、作者檔、來源紀錄、文件與既有 Git 歷史已搬至本儲存庫；GitHub Pages 由 dist 發布。保留 62 個閱讀單元、71 張原創圖、2110 筆資源索引、39 篇來源選讀及 16 筆影音。每次發布附 vX.Y.Z，細節見 [版本流程](docs/versioning.md) 與 [更新紀錄](CHANGELOG.md)。下方日期記錄保留歷史語境，舊文提及私人 Sites 為遷移前狀態。
 
 本專案使用 Node.js 22 以上、沒有外部套件依賴。執行 `npm run build` 重建現行內容與版本，`npm test` 驗證。Pages 的相對資產路徑適用 `/price-action-atlas/` 子路徑。個人筆記儲存在瀏覽器，請由舊站匯出再到新站匯入；備份不可上傳公開儲存庫。教材重用範圍見 [RIGHTS.md](RIGHTS.md)。
 

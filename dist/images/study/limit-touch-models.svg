@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="700" viewBox="0 0 960 700" role="img" aria-labelledby="t d">
+<title id="t">碰到限價，還是穿越限價？先固定模擬規則</title><desc id="d">非真實行情。本站假設買入限價一百、數量一、最小跳動一，委託在第一個事件前已有效。路徑甲為一百零二、一百、一百零二；路徑乙為一百零二、九十九、一百零二。自訂觸價規則把兩者算成交；自訂穿越一跳規則只把乙算成交。這不是平台完整算法，也不證明實際成交。</desc>
+<rect width="960" height="700" rx="24" fill="#f5f7fa"/>
+<g font-family="system-ui,'Microsoft JhengHei',sans-serif" fill="#20262d">
+<text x="40" y="50" font-size="29" font-weight="750">碰到限價，還是穿越限價？</text>
+<text x="40" y="85" font-size="18" fill="#53616e">原創假設：買限價 100・數量 1・最小跳動 1・委託事前有效</text>
+<rect x="40" y="112" width="425" height="232" rx="16" fill="#fff" stroke="#d5dde6"/>
+<rect x="495" y="112" width="425" height="232" rx="16" fill="#fff" stroke="#d5dde6"/>
+<text x="60" y="147" font-size="22" font-weight="750">甲：102 → 100 → 102</text>
+<text x="515" y="147" font-size="22" font-weight="750">乙：102 → 99 → 102</text>
+<path d="M65 252H440M520 252H895" stroke="#a36543" stroke-width="2" stroke-dasharray="7 5"/>
+<g font-size="16" fill="#8a5437"><text x="66" y="276">限價 100</text><text x="521" y="276">限價 100</text></g>
+<path d="M100 182L252 252L405 182M555 182L707 287L860 182" fill="none" stroke="#23658d" stroke-width="4"/>
+<g fill="#23658d"><circle cx="100" cy="182" r="5"/><circle cx="252" cy="252" r="6"/><circle cx="405" cy="182" r="5"/><circle cx="555" cy="182" r="5"/><circle cx="707" cy="287" r="6"/><circle cx="860" cy="182" r="5"/></g>
+<g font-size="18" fill="#23658d" font-weight="700"><text x="228" y="316">只碰到</text><text x="677" y="319">穿越一跳</text></g>
+<rect x="40" y="368" width="880" height="179" rx="16" fill="#eaf1f7"/>
+<g font-size="20" font-weight="700"><text x="62" y="403">本站自訂簡化規則（成交價）</text><text x="569" y="403">甲</text><text x="759" y="403">乙</text></g>
+<path d="M60 420H900M60 482H900" stroke="#c6d5e3"/>
+<g font-size="23"><text x="62" y="460">觸價：成交價 ≤ 100</text><text x="551" y="460">算成交</text><text x="741" y="460">算成交</text><text x="62" y="522">穿越：成交價 ≤ 99</text><text x="551" y="522">不成交</text><text x="741" y="522">算成交</text></g>
+<rect x="40" y="570" width="880" height="75" rx="16" fill="#fff4e2"/>
+<text x="62" y="602" font-size="21" font-weight="750">這是兩套假設，不是實際成交回報。</text>
+<text x="62" y="631" font-size="18">未重建平台算法；仍缺買賣報價、排隊、數量、延遲與拒單資料。</text>
+<text x="40" y="678" font-size="17" fill="#53616e">非真實行情或績效。觸價與穿越皆不能單獨證明你的委託已成交。</text>
+</g></svg>
