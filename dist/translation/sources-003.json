@@ -1,5 +1,104 @@
 [
   {
+    "id": "11759c6ee61de42e849c",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-buyers-likely-scaling-in-lower/",
+    "sourceTitle": "E-mini Buyers Likely Scaling In Lower",
+    "titleZh": "Brad 日內案例｜2026-03-06｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-264548"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-264548"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-264548",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "117ce0ba74a7321ecf5c",
+    "url": "https://www.youtube.com/watch?v=yzL9e5d8NcQ",
+    "sourceTitle": "S&P 500 E-mini Spike and Channel Bull Trend Day - May 8, 2026",
+    "titleZh": "Brooks 共享影片｜區間與通道",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-yzL9e5d8NcQ"
+      }
+    ],
+    "resourceIds": [
+      "yt-yzL9e5d8NcQ"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-yzL9e5d8NcQ",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
+    "id": "1180836e792a601cca5f",
+    "url": "https://www.youtube.com/watch?v=feAQQ70A4vU",
+    "sourceTitle": "Recap for 2010-07-27 Part 2 and Outlook for 2010-07-28",
+    "titleZh": "Brooks 共享影片｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-feAQQ70A4vU"
+      }
+    ],
+    "resourceIds": [
+      "yt-feAQQ70A4vU"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-feAQQ70A4vU",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "11b49a6ffb9a73f306e7",
     "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-testing-top-of-july-rally/",
     "sourceTitle": "Emini Bulls Testing Top of July Rally",
@@ -3092,94 +3191,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-218173",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "1e30e751bef5ee828730",
-    "url": "https://www.brookstradingcourse.com/trade-price-action/video-45b-trading-broad-bull-channels/",
-    "sourceTitle": "寬多頭通道交易",
-    "titleZh": "寬多頭通道交易",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "寬多頭通道交易"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
-  },
-  {
-    "id": "1e34a89ec986851ac857",
-    "url": "https://www.youtube.com/watch?v=8GJUG_ht3bs",
-    "sourceTitle": "Emini End of Day Review - Tuesday August 29, 2023 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-8GJUG_ht3bs"
-      }
-    ],
-    "resourceIds": [
-      "yt-8GJUG_ht3bs"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-8GJUG_ht3bs",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "1e388a5c07e35123d43e",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-sideways-for-the-week/",
-    "sourceTitle": "Emini Sideways for the Week",
-    "titleZh": "Brad 日內案例｜2025-04-29｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-235744"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-235744"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-235744",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

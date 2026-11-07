@@ -1,0 +1,9 @@
+{
+  "resourceId":"source-b29-sierra-zigzag-close","url":"https://www.sierrachart.com/index.php?ID=133&page=doc/StudiesReference.php","sourceTitle":"Zig Zag","sourceTitleZh":"收線計算處理哪一種重算差異？","authorConfirmed":"Sierra Chart","published":null,"dateNoteZh":"頁尾標示最後修改 2025-01-24；不當成初次發布日，實際查核日另列。","checked":"2026-11-07","status":"excerpt-summary",
+  "readScope":"實讀計算說明、Zig Zag Reverses at Wrong Bar、輸入高低價、Calculate New Values on Bar Close 及 Display Reversal Price 指定段落；未逐項驗證全部功能或操作軟體。",
+  "summaryZh":"文件針對棒內形成順序造成的即時／重算差異提出收線計算設定；顯示的轉折價也不等於啟動反轉的觸發價。",
+  "keyPointsZh":["把棒內資料順序、未確認轉折與圖上標記分欄，不把收線設定說成所有重繪問題的通用解。"],
+  "shortExcerpt":{"en":"only perform calculations on the completed chart bars","zh":"僅對已完成的圖表 K 線進行計算。","scope":"收線時計算選項的說明；不是保證未來不再更新折線端點。"},
+  "limitsZh":"指定段落摘要；沒有核驗完整算法、附件或軟體版本。平台規格不當作 ICT 或 Brooks 官方規則，也不直接套用微台或 BTC。",
+  "evidence":{"urls":["https://www.sierrachart.com/index.php?ID=133&page=doc/StudiesReference.php"],"accessMethod":"實讀官方公開指定段落與頁尾修改日","scope":"重算差異、收線計算、輸入價與顯示價的界線"},"courseRefs":[]
+}

@@ -1,5 +1,104 @@
 [
   {
+    "id": "3f2f2a2524efaac2a3cf",
+    "url": "https://www.youtube.com/watch?v=M7xUHNm02nA",
+    "sourceTitle": "The SA2 Experience with Warren Norton",
+    "titleZh": "Systems Academy 經驗訪談：Warren Norton",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-M7xUHNm02nA"
+      }
+    ],
+    "resourceIds": [
+      "yt-M7xUHNm02nA"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-M7xUHNm02nA",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Ali／Quant Systems 頻道"
+    ]
+  },
+  {
+    "id": "3f59f43810272719bec6",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-buy-climax-late-in-bull-rally/",
+    "sourceTitle": "E-mini Buy Climax Late In Bull Rally",
+    "titleZh": "Brad 日內案例｜2025-09-22｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-250885"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-250885"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-250885",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "3fc723466833569c7cb1",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-sideways-likely-into-fomc/",
+    "sourceTitle": "Emini Sideways Likely into FOMC Meeting Tomorrow",
+    "titleZh": "Brad 日內案例｜2022-11-22｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-165160"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-165160"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-165160",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "3fd1e1bb8a4f9b846ad7",
     "url": "https://www.youtube.com/watch?v=eY-mKJ6t8V4",
     "sourceTitle": "Scalping series: #01 Rules for scalping",
@@ -3110,106 +3209,6 @@
     "courseRefs": [],
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "4c8a8f3e286f9ba4cf0f",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-weak-high-1-buy-signal-bar-3/",
-    "sourceTitle": "Emini Weak High 1 Buy Signal Bar",
-    "titleZh": "Brad 日內案例｜2024-09-23｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-218701"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-218701"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-218701",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "4cb5be9bc80983ae843a",
-    "url": "https://www.brookstradingcourse.com/analysis/bears-want-final-flag/",
-    "sourceTitle": "Emini Bears Want Final Flag",
-    "titleZh": "Brad 日內案例｜2024-01-30｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-199445"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-199445"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-199445",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "4ce823a94508177f01dc",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bears-reaching-june-all-time-high/",
-    "sourceTitle": "E-mini Bears Reaching Prior June All-Time High",
-    "titleZh": "E-mini：空方到達六月的先前歷史高點",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-275451"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-275451"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-275451",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

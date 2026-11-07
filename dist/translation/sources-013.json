@@ -1,5 +1,104 @@
 [
   {
+    "id": "8426bc72ca61485db95b",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-hopeful-for-strong-follow-through/",
+    "sourceTitle": "E-mini Bulls Hopeful for Strong Follow-through",
+    "titleZh": "Brad 日內案例｜2026-02-09｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-261986"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-261986"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-261986",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "8450981840f81ed12a58",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-strong-entry/",
+    "sourceTitle": "Emini Bulls Strong Entry Bar Wanted after Yesterday’s Buy Signal Bar",
+    "titleZh": "Brad 日內案例｜2023-03-21｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-174065"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-174065"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-174065",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "84541f151a62571ca1ab",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-test-of-august-18th-low/",
+    "sourceTitle": "Emini Bulls Want Test of August 18th Low",
+    "titleZh": "Brad 日內案例｜2023-09-29｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-191023"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-191023"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-191023",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "8463234e8af1330d660c",
     "url": "https://www.youtube.com/watch?v=9dHkzH5Tf2Y",
     "sourceTitle": "Market Outlook for 2021 Gold Futures",
@@ -3092,105 +3191,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "900a7efd51254fb9be25",
-    "url": "https://www.youtube.com/watch?v=BxuXqj9rbK4",
-    "sourceTitle": "SP500 E-mini 5 Min Bear Spike & Channel to Endless Pullback - September 8, 2026",
-    "titleZh": "Brooks 共享影片｜回檔與第二段／區間與通道",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-BxuXqj9rbK4"
-      }
-    ],
-    "resourceIds": [
-      "yt-BxuXqj9rbK4"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-BxuXqj9rbK4",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "9016237bb8c9ca7ca2c1",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-strong-reversal-up-after-text-of-october-10th-low/",
-    "sourceTitle": "E-mini Strong Reversal Up After Test of October 10th Low",
-    "titleZh": "Brad 日內案例｜2025-11-11｜反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-254489"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-254489"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-254489",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "902bd23850fe3e6fdf38",
-    "url": "https://www.quantsystems.ca/course/ptm-202602",
-    "sourceTitle": "QuantSystem's Pro Trader Mentoring",
-    "titleZh": "PTM 月課綱｜2026/02",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "qs-ptm-202602"
-      }
-    ],
-    "resourceIds": [
-      "qs-ptm-202602"
-    ],
-    "legacyObservations": [
-      {
-        "id": "qs-ptm-202602",
-        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Ali Moin-Afshari／Quant Systems"
     ]
   }
 ]

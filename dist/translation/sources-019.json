@@ -1,5 +1,104 @@
 [
   {
+    "id": "c69bc70d9c243ba71bc7",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-testing-50-percent-pullback/",
+    "sourceTitle": "Emini testing 50% pullback of October 18 rally",
+    "titleZh": "Brad 日內案例｜2022-10-21｜回檔與第二段",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-162909"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-162909"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-162909",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "c69f67289cc66b830363",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-all-time-high-within-reach/",
+    "sourceTitle": "E-mini All-Time High Within Reach",
+    "titleZh": "Brad 日內案例｜2026-04-15｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-267535"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-267535"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-267535",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "c6a81c187f916db0c9d8",
+    "url": "https://www.youtube.com/watch?v=D5CXbm_iYWU",
+    "sourceTitle": "Brooks Trading Course Sample: 37AB How to Trade",
+    "titleZh": "Brooks 共享影片｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-D5CXbm_iYWU"
+      }
+    ],
+    "resourceIds": [
+      "yt-D5CXbm_iYWU"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-D5CXbm_iYWU",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "c6e3af1ac2de461ee260",
     "url": "https://www.brookstradingcourse.com/analysis/emini-needs-test-of-moving-average/",
     "sourceTitle": "Emini Needs Test of Moving Average",
@@ -3074,82 +3173,5 @@
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
     ]
-  },
-  {
-    "id": "d35840a89c028751da0a",
-    "url": "https://www.youtube.com/watch?v=rZf4l8wgS-Q",
-    "sourceTitle": "E-mini S&P 500 Morning Selloff, Bar 18 Reversal, then Midday Reversal - September 28, 2026",
-    "titleZh": "Brooks 共享影片｜反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-rZf4l8wgS-Q"
-      }
-    ],
-    "resourceIds": [
-      "yt-rZf4l8wgS-Q"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-rZf4l8wgS-Q",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "d35c071485c938917671",
-    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-16e-channels/",
-    "sourceTitle": "通道",
-    "titleZh": "通道",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "通道"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
-  },
-  {
-    "id": "d3805a5dbeffd38890b8",
-    "url": "https://www.brookstradingcourse.com/trade-price-action/video-46a-trading-broad-bear-channels/",
-    "sourceTitle": "寬空頭通道交易",
-    "titleZh": "寬空頭通道交易",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "寬空頭通道交易"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   }
 ]

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-06",
+  "revision": "2026-11-07",
   "articles": [
     {
       "id": "licensed-measured-move",
@@ -398,7 +398,7 @@
       "subtitle": "先記價格先後，再分清 MSS、BOS 與失敗情境",
       "summary": "以本站自編高低點路徑，將高點穿越、反向位移、已知結構點突破與 FVG 分開登記。術語相近不代表規則相同，結構改變也不是永久趨勢預告。",
       "level": "進階",
-      "minutes": 13,
+      "minutes": 18,
       "mode": "guide",
       "batch": 4,
       "topic": "背景",
@@ -411,7 +411,7 @@
       ],
       "hasCases": true,
       "hasChart": false,
-      "figureCount": 1
+      "figureCount": 2
     },
     {
       "id": "ict-liquidity",

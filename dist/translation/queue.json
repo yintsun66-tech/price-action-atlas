@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "items": [
     {
       "id": "014e9d23788221e0da5b",
@@ -211,8 +211,22 @@
       "nextAction": "取得實際教材或字幕後才能補內容摘要"
     },
     {
+      "id": "b1e02a5b43e387a1075b",
+      "url": "https://www.sierrachart.com/index.php?ID=133&page=doc%2FStudiesReference.php",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
       "id": "b2f9888e592e3c904a46",
       "url": "https://www.reddit.com/r/FuturesTrading/comments/1ac86vv/order_types_in_footprint/",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
+      "id": "b638c20f0b1451e69ecb",
+      "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=68957",
       "resourceIds": [],
       "status": "excerpt-summary",
       "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="700" viewBox="0 0 960 700" role="img" aria-labelledby="t d">
+<title id="t">高點在第三根，第五根才知道</title><desc id="d">非真實行情。原創規則要求左右各兩根高價都嚴格低於候選高點。共同前三個高價為一百、一百零二、一百零五。甲的後兩根為一百零四、一百零三，第三根高點到第五根收線才確認。乙的第四根高價一百零六，因此第三根不成立。這是高價序列，不是完整 K 線或平台 Zigzag 算法。</desc>
+<rect width="960" height="700" rx="24" fill="#f5f7fa"/>
+<g font-family="system-ui,'Microsoft JhengHei',sans-serif" fill="#20262d">
+<text x="40" y="51" font-size="30" font-weight="750">高點在第三根，第五根才知道</text>
+<text x="40" y="86" font-size="18" fill="#53616e">原創規則：左右各兩根高價都嚴格較低；以下只畫已收線棒高價</text>
+<rect x="40" y="114" width="425" height="318" rx="16" fill="#fff" stroke="#d5dde6"/>
+<rect x="495" y="114" width="425" height="318" rx="16" fill="#fff" stroke="#d5dde6"/>
+<text x="61" y="151" font-size="22" font-weight="750">甲：100、102、105、104、103</text>
+<text x="516" y="151" font-size="22" font-weight="750">乙：100、102、105、106、103</text>
+<rect x="239" y="175" width="35" height="158" rx="8" fill="#fff1d8"/>
+<rect x="694" y="175" width="35" height="158" rx="8" fill="#fff1d8"/>
+<path d="M86 318L171 274L256 208L341 230L426 252" fill="none" stroke="#23658d" stroke-width="4"/>
+<path d="M541 318L626 274L711 208L796 186L881 252" fill="none" stroke="#a36543" stroke-width="4"/>
+<g fill="#23658d"><circle cx="86" cy="318" r="5"/><circle cx="171" cy="274" r="5"/><circle cx="256" cy="208" r="6"/><circle cx="341" cy="230" r="5"/><circle cx="426" cy="252" r="6"/></g>
+<g fill="#a36543"><circle cx="541" cy="318" r="5"/><circle cx="626" cy="274" r="5"/><circle cx="711" cy="208" r="6"/><circle cx="796" cy="186" r="6"/><circle cx="881" cy="252" r="5"/></g>
+<g font-size="17" fill="#53616e"><text x="77" y="356">①</text><text x="162" y="356">②</text><text x="247" y="356">③</text><text x="332" y="356">④</text><text x="417" y="356">⑤</text><text x="532" y="356">①</text><text x="617" y="356">②</text><text x="702" y="356">③</text><text x="787" y="356">④</text><text x="872" y="356">⑤</text></g>
+<text x="64" y="399" font-size="21" fill="#23658d" font-weight="750">第五根收線：第三根符合規則</text>
+<text x="519" y="399" font-size="21" fill="#955b3c" font-weight="750">第四根更高：第三根不成立</text>
+<rect x="40" y="456" width="880" height="109" rx="16" fill="#eaf1f7"/>
+<text x="62" y="493" font-size="22" font-weight="750">第三根收線時：已知前三點相同，都只能列候選。</text>
+<text x="62" y="535" font-size="22">甲的紀錄：高點所在＝③；確認時間＝⑤收線後。</text>
+<rect x="40" y="585" width="880" height="64" rx="16" fill="#fff4e2"/>
+<text x="62" y="625" font-size="22" font-weight="750">把標籤畫回③，不等於可以在③使用確認結果。</text>
+<text x="40" y="680" font-size="17" fill="#53616e">非真實行情、平台算法或績效。局部點確認與 Zigzag 最新連線固定，是不同問題。</text>
+</g></svg>

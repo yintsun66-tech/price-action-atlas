@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "checked": "2026-11-06",
+  "checked": "2026-11-07",
   "original": true,
   "figures": [
     {
@@ -853,6 +853,18 @@
       "afterSection": 6,
       "caption": "本站自訂最新成交價規則與兩條合成路徑；非平台完整算法、真實行情、成交回報或績效。",
       "alt": "限價一百、跳動一，甲只碰到一百而乙到九十九；自訂觸價模型兩者填單，穿越一跳模型只填乙。",
+      "synthetic": true
+    },
+    {
+      "id": "pivot-known-time",
+      "article": "ict-structure",
+      "title": "高點在第三根，第五根才知道",
+      "src": "images/study/pivot-known-time.svg",
+      "width": 960,
+      "height": 700,
+      "afterSection": 6,
+      "caption": "本站嚴格兩左兩右規則與兩條合成高價序列；非完整 K 線、平台 Zigzag 算法、真實行情或績效。",
+      "alt": "兩條路徑前三個高價相同；甲第三點到第五根收線才確認，乙第四根創更高價使第三點不成立。",
       "synthetic": true
     }
   ]

@@ -1,5 +1,104 @@
 [
   {
+    "id": "b1173e6fbc01585b50bf",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-disappointment-after-bull-breakout/",
+    "sourceTitle": "E-mini Disappointment after Bull Breakout",
+    "titleZh": "Brad 日內案例｜2026-02-26｜突破與延續",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-264033"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-264033"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-264033",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "b16b5b9db778ccf9eb24",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-testing-daily-moving-average/",
+    "sourceTitle": "Emini Testing Daily Moving Average",
+    "titleZh": "Brad 日內案例｜2024-02-21｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-200942"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-200942"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-200942",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "b17dd2e144f699425a99",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-hopeful-for-upside-breakout-after-fomc/",
+    "sourceTitle": "E-mini Bulls Hopeful for Upside Breakout after FOMC",
+    "titleZh": "Brad 日內案例｜2026-03-18｜突破與延續",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-265506"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-265506"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-265506",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "b18db6799609d9a66a3f",
     "url": "https://www.brookstradingcourse.com/trade-price-action/video-37b-how-to-trade/",
     "sourceTitle": "交易流程",
@@ -3124,94 +3223,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-197597",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "bbed2372efbdbd8806d1",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bad-follow-through-after-fridays-reversal-up/",
-    "sourceTitle": "Emini Bad Follow-through after Friday’s Reversal Up",
-    "titleZh": "Brad 日內案例｜2025-01-07｜反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-226974"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-226974"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-226974",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "bc4601ed717f923eb6a3",
-    "url": "https://www.brookstradingcourse.com/trade-price-action/video-48e-trading-the-open/",
-    "sourceTitle": "開盤交易",
-    "titleZh": "開盤交易",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "開盤交易"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
-  },
-  {
-    "id": "bcd95f9693f3e87c2da8",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-reached-5000-and-moving-average-yesterday/",
-    "sourceTitle": "Emini Reached 5,000 and Moving Average Yesterday",
-    "titleZh": "Brad 日內案例｜2024-02-14｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-200384"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-200384"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-200384",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

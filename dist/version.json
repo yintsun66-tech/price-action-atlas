@@ -1,13 +1,13 @@
 {
-  "version": "1.3.0",
-  "released": "2026-11-06",
+  "version": "1.4.0",
+  "released": "2026-11-07",
   "timezone": "Asia/Taipei",
   "repository": "https://github.com/yintsun66-tech/price-action-atlas",
   "site": "https://yintsun66-tech.github.io/price-action-atlas/",
-  "contentEdition": "20261106c28",
+  "contentEdition": "20261107c29",
   "notes": [
-    "實讀 NinjaTrader 回測屬性、Sierra Chart 指定客服答覆與官方文件相關段落，新增兩張繁中選讀。",
-    "停損執行單元新增模式界線、兩套自編成交假設、一張原創圖與練習；原有正文、題目及筆記格式保留。",
-    "正文摘要增加一筆、指定範圍摘要增加兩筆；模擬成交與實盤證據分開，全文翻譯完成數保持。"
+    "實讀 TradingView Zigzag 公開教學與 Sierra Chart 指定討論、文件段落，新增兩張繁中選讀。",
+    "結構單元追加兩節與一張原創圖，分清轉折點所在、確認時間、可用決策時間與最新折線更新。",
+    "保留論壇分歧、平台定義與自訂規則的差異；一篇正文摘要、兩筆指定範圍摘要，全文翻譯完成數保持。"
   ]
 }

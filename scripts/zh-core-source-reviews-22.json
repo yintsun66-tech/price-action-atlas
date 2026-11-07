@@ -1,0 +1,92 @@
+[
+  {
+    "resourceId": "source-b29-zigzag-pivot-confirmation",
+    "url": "https://www.tradingview.com/support/solutions/43000591664-zigzag-indicator/",
+    "sourceTitle": "Zigzag indicator",
+    "sourceTitleZh": "圖上高點的時間，不是你知道高點的時間",
+    "authorConfirmed": "TradingView",
+    "published": null,
+    "dateNoteZh": "動態官方文件；發布及修訂確日未核對。",
+    "checked": "2026-11-07",
+    "status": "body-summary",
+    "readScope": "實讀完整公開教學文字，包括計算、投影、限制與輸入說明；未觀看嵌入影片、核驗原圖或執行指標。",
+    "summaryZh": "局部轉折需要後續 K 線確認；Zigzag 最新實線與投影又可能更新。標籤畫回舊棒，不代表當時已有訊號。",
+    "keyPointsZh": [
+      "分別保存轉折點所在時間、確認時間與決策時點。"
+    ],
+    "shortExcerpt": {
+      "en": "The latest solid line in the Zigzag is not final.",
+      "zh": "Zigzag 最新的實線並非最終結果。",
+      "scope": "原文區分確認延遲與最新線段的可變性；局部轉折點已確認，不等於最新連線永久固定。"
+    },
+    "limitsZh": "左右比較及相等價格的處理有具體定義；本站嚴格兩左兩右例題另立規則，不冒充相同算法或可獲利策略。 官方文件不是獨立績效驗證；沒有可比教學評分，不補造星等。",
+    "evidence": {
+      "urls": [
+        "https://www.tradingview.com/support/solutions/43000591664-zigzag-indicator/"
+      ],
+      "accessMethod": "實讀公開教學或指定貼文文字；未操作軟體",
+      "scope": "實讀完整公開教學文字，包括計算、投影、限制與輸入說明；未觀看嵌入影片、核驗原圖或執行指標。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "source-b29-zigzag-close-calculation-discussion",
+    "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=68957",
+    "sourceTitle": "Zig zag cumulative volume",
+    "sourceTitleZh": "收線計算建議，與仍未核驗的重繪爭議",
+    "authorConfirmed": "User575399、User907968 與 Sierra Chart Engineering",
+    "published": "2021-11-25",
+    "dateNoteZh": "發問日為 2021-11-25，採用答覆涵蓋 11-26 至 11-29；頁面時區未標。",
+    "checked": "2026-11-07",
+    "status": "excerpt-summary",
+    "readScope": "實讀此頁十一則可見貼文文字，摘要採用第 1、3、4、7、10、11 則；未核驗附件截圖、重現設定或測試軟體。",
+    "summaryZh": "會員質疑對照圖設定不同，工程團隊建議收線計算；發問者仍自述各設定均會發生。保留分歧，不宣稱問題已證實或已解決。",
+    "keyPointsZh": [
+      "比較前先固定計算模式、輸入價、版本與時間快照。"
+    ],
+    "shortExcerpt": {
+      "en": "Did you try using calculate on close?",
+      "zh": "你試過用收線時計算嗎？",
+      "scope": "2021-11-26 第三則貼文，User907968 的提問；不是官方修復保證，也不是 Brooks 課程原話。"
+    },
+    "limitsZh": "會員對截圖設定的判讀及發問者反駁，均未經本站實驗核驗；收線計算不被泛化為消除所有回溯變動。 沒有可比教學評分或帳戶對帳；討論串互動不作獲利證明。",
+    "evidence": {
+      "urls": [
+        "https://www.sierrachart.com/SupportBoard.php?ThreadID=68957"
+      ],
+      "accessMethod": "實讀公開教學或指定貼文文字；未操作軟體",
+      "scope": "實讀此頁十一則可見貼文文字，摘要採用第 1、3、4、7、10、11 則；未核驗附件截圖、重現設定或測試軟體。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "source-b29-sierra-zigzag-close",
+    "url": "https://www.sierrachart.com/index.php?ID=133&page=doc/StudiesReference.php",
+    "sourceTitle": "Zig Zag",
+    "sourceTitleZh": "收線計算處理哪一種重算差異？",
+    "authorConfirmed": "Sierra Chart",
+    "published": null,
+    "dateNoteZh": "頁尾標示最後修改 2025-01-24；不當成初次發布日，實際查核日另列。",
+    "checked": "2026-11-07",
+    "status": "excerpt-summary",
+    "readScope": "實讀計算說明、Zig Zag Reverses at Wrong Bar、輸入高低價、Calculate New Values on Bar Close 及 Display Reversal Price 指定段落；未逐項驗證全部功能或操作軟體。",
+    "summaryZh": "文件針對棒內形成順序造成的即時／重算差異提出收線計算設定；顯示的轉折價也不等於啟動反轉的觸發價。",
+    "keyPointsZh": [
+      "把棒內資料順序、未確認轉折與圖上標記分欄，不把收線設定說成所有重繪問題的通用解。"
+    ],
+    "shortExcerpt": {
+      "en": "only perform calculations on the completed chart bars",
+      "zh": "僅對已完成的圖表 K 線進行計算。",
+      "scope": "收線時計算選項的說明；不是保證未來不再更新折線端點。"
+    },
+    "limitsZh": "指定段落摘要；沒有核驗完整算法、附件或軟體版本。平台規格不當作 ICT 或 Brooks 官方規則，也不直接套用微台或 BTC。",
+    "evidence": {
+      "urls": [
+        "https://www.sierrachart.com/index.php?ID=133&page=doc/StudiesReference.php"
+      ],
+      "accessMethod": "實讀官方公開指定段落與頁尾修改日",
+      "scope": "重算差異、收線計算、輸入價與顯示價的界線"
+    },
+    "courseRefs": []
+  }
+]

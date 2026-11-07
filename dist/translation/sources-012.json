@@ -1,5 +1,93 @@
 [
   {
+    "id": "77e0d2c61c23dec6822a",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-strong-buy-signal-bar/",
+    "sourceTitle": "Emini Bulls Want Strong Buy Signal Bar Today",
+    "titleZh": "Brad 日內案例｜2022-10-12｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-162413"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-162413"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-162413",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "77e4756fe6771e33e471",
+    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-09b-pullbacks-bar-counting/",
+    "sourceTitle": "回檔與計數",
+    "titleZh": "回檔與計數",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "回檔與計數"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "77e7e0f66b5afbbf2f83",
+    "url": "https://www.youtube.com/watch?v=N-bNxL56I60",
+    "sourceTitle": "Ask Al Brooks: Bought many times in small pullback bear trend",
+    "titleZh": "Brooks 共享影片｜回檔與第二段",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-N-bNxL56I60"
+      }
+    ],
+    "resourceIds": [
+      "yt-N-bNxL56I60"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-N-bNxL56I60",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "781abe206aadde3d6017",
     "url": "https://www.brookstradingcourse.com/analysis/emini-profit-maximization-by-bulls/",
     "sourceTitle": "Emini Profit Maximization by Bulls",
@@ -3068,105 +3156,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-159425",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "8426bc72ca61485db95b",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-hopeful-for-strong-follow-through/",
-    "sourceTitle": "E-mini Bulls Hopeful for Strong Follow-through",
-    "titleZh": "Brad 日內案例｜2026-02-09｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-261986"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-261986"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-261986",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "8450981840f81ed12a58",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-strong-entry/",
-    "sourceTitle": "Emini Bulls Strong Entry Bar Wanted after Yesterday’s Buy Signal Bar",
-    "titleZh": "Brad 日內案例｜2023-03-21｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-174065"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-174065"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-174065",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "84541f151a62571ca1ab",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-test-of-august-18th-low/",
-    "sourceTitle": "Emini Bulls Want Test of August 18th Low",
-    "titleZh": "Brad 日內案例｜2023-09-29｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-191023"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-191023"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-191023",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

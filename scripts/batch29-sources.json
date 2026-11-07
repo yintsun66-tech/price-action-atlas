@@ -1,0 +1,21 @@
+[
+  {
+    "id":"zigzag-pivot-confirmation","platform":"TradingView 官方指標文件","kind":"author","language":"en","author":"TradingView",
+    "title":"圖上高點的時間，不是你知道高點的時間","originalTitle":"Zigzag indicator","url":"https://www.tradingview.com/support/solutions/43000591664-zigzag-indicator/","published":"發布日未核對","dateNote":"動態官方文件；發布及修訂確日未核對。",
+    "summary":"局部轉折需要後續 K 線確認；Zigzag 最新實線與投影又可能更新。標籤畫回舊棒，不代表當時已有訊號。",
+    "quote":{"en":"The latest solid line in the Zigzag is not final.","zh":"Zigzag 最新的實線並非最終結果。","context":"原文區分確認延遲與最新線段的可變性；局部轉折點已確認，不等於最新連線永久固定。"},
+    "access":"實讀完整公開教學文字，包括計算、投影、限制與輸入說明；未觀看嵌入影片、核驗原圖或執行指標。","translation":"精簡繁中摘要與必要短句；不是整篇翻譯或平台算法重建。",
+    "review":{"basis":"指標發布者的直接定義與限制。","learning":"分別保存轉折點所在時間、確認時間與決策時點。","limits":"左右比較及相等價格的處理有具體定義；本站嚴格兩左兩右例題另立規則，不冒充相同算法或可獲利策略。","engagement":"官方文件不是獨立績效驗證；沒有可比教學評分，不補造星等。"},
+    "figure":{"src":"images/study/pivot-known-time.svg","alt":"共同前三個高價之後，甲的第三點在第五根才確認，乙因第四根更高而不成立","caption":"原創高價序列與自訂規則；非完整 K 線、平台 Zigzag 算法、行情或績效。"},
+    "related":["ict-structure","wyckoff-template-uncertainty"],"tags":["轉折確認","重繪","偷看未來"],"batch":29,"collected":"2026-11-07","checked":"2026-11-07","courseRefs":[],"status":"body-summary"
+  },
+  {
+    "id":"zigzag-close-calculation-discussion","platform":"Sierra Chart 公開支援區","kind":"community","language":"en","author":"User575399、User907968 與 Sierra Chart Engineering",
+    "title":"收線計算建議，與仍未核驗的重繪爭議","originalTitle":"Zig zag cumulative volume","url":"https://www.sierrachart.com/SupportBoard.php?ThreadID=68957","published":"2021-11-25","dateNote":"發問日為 2021-11-25，採用答覆涵蓋 11-26 至 11-29；頁面時區未標。",
+    "summary":"會員質疑對照圖設定不同，工程團隊建議收線計算；發問者仍自述各設定均會發生。保留分歧，不宣稱問題已證實或已解決。",
+    "quote":{"en":"Did you try using calculate on close?","zh":"你試過用收線時計算嗎？","context":"2021-11-26 第三則貼文，User907968 的提問；不是官方修復保證，也不是 Brooks 課程原話。"},
+    "access":"實讀此頁十一則可見貼文文字，摘要採用第 1、3、4、7、10、11 則；未核驗附件截圖、重現設定或測試軟體。","translation":"指定貼文的繁中摘要與必要短句；不重刊整串、附件或附帶廣告。",
+    "review":{"basis":"可核對發問、會員回覆及工程團隊答覆的順序與角色。","learning":"比較前先固定計算模式、輸入價、版本與時間快照。","limits":"會員對截圖設定的判讀及發問者反駁，均未經本站實驗核驗；收線計算不被泛化為消除所有回溯變動。","engagement":"沒有可比教學評分或帳戶對帳；討論串互動不作獲利證明。"},
+    "related":["ict-structure","flow-footprint"],"tags":["Zigzag","設定比較","證據界線"],"batch":29,"collected":"2026-11-07","checked":"2026-11-07","courseRefs":[],"status":"excerpt-summary"
+  }
+]

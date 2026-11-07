@@ -1,5 +1,104 @@
 [
   {
+    "id": "6dbcb93cdbb35c788315",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-pullback-likely-after-test-of-6000/",
+    "sourceTitle": "Emini Pullback Likely after Test of 6,000",
+    "titleZh": "Brad 日內案例｜2025-05-20｜回檔與第二段",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-237339"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-237339"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-237339",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "6de3e2355c7a53bf474c",
+    "url": "https://www.youtube.com/watch?v=XEoz-faFE-U",
+    "sourceTitle": "Emini End of Day Review - Thursday March 28, 2024 - Brad Wolff",
+    "titleZh": "Brad 公開影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-XEoz-faFE-U"
+      }
+    ],
+    "resourceIds": [
+      "yt-XEoz-faFE-U"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-XEoz-faFE-U",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "6df523009bbc2fef2043",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-pullback-after-wednesdays-strong-bull-breakout/",
+    "sourceTitle": "Emini Pullback after Wednesday’s Strong Bull Breakout",
+    "titleZh": "Brad 日內案例｜2025-04-11｜突破與延續／回檔與第二段",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-234284"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-234284"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-234284",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "6e110cb7e6bff88e0603",
     "url": "https://www.brookstradingcourse.com/analysis/stock-market-in-china-and-hong-kong-on-fire/",
     "sourceTitle": "英文官方身分交叉核對：Stock Market in China and Hong Kong on Fire",
@@ -2986,94 +3085,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "77e0d2c61c23dec6822a",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-strong-buy-signal-bar/",
-    "sourceTitle": "Emini Bulls Want Strong Buy Signal Bar Today",
-    "titleZh": "Brad 日內案例｜2022-10-12｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-162413"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-162413"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-162413",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "77e4756fe6771e33e471",
-    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-09b-pullbacks-bar-counting/",
-    "sourceTitle": "回檔與計數",
-    "titleZh": "回檔與計數",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "回檔與計數"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
-  },
-  {
-    "id": "77e7e0f66b5afbbf2f83",
-    "url": "https://www.youtube.com/watch?v=N-bNxL56I60",
-    "sourceTitle": "Ask Al Brooks: Bought many times in small pullback bear trend",
-    "titleZh": "Brooks 共享影片｜回檔與第二段",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-N-bNxL56I60"
-      }
-    ],
-    "resourceIds": [
-      "yt-N-bNxL56I60"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-N-bNxL56I60",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
     ]
   }
 ]

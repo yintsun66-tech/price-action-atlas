@@ -2,6 +2,64 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch29-20261107",
+      "collected": "2026-11-07",
+      "updated": "2026-11-07",
+      "timezone": "Asia/Taipei",
+      "description": "轉折點、確認時間、Zigzag 最新連線與收線計算的指定範圍選讀及原創圖解。",
+      "articles": [
+        "ict-structure"
+      ],
+      "sources": [
+        "zigzag-pivot-confirmation",
+        "zigzag-close-calculation-discussion"
+      ],
+      "decisions": [
+        {
+          "source": "Zigzag indicator",
+          "url": "https://www.tradingview.com/support/solutions/43000591664-zigzag-indicator/",
+          "status": "採用正文摘要",
+          "reason": "實讀完整公開教學文字，包括計算、投影、限制與輸入說明；未觀看嵌入影片、核驗原圖或執行指標。"
+        },
+        {
+          "source": "Zig zag cumulative volume",
+          "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=68957",
+          "status": "採用指定貼文摘要",
+          "reason": "實讀此頁十一則可見貼文文字，摘要採用第 1、3、4、7、10、11 則；未核驗附件截圖、重現設定或測試軟體。"
+        },
+        {
+          "source": "Zig Zag",
+          "url": "https://www.sierrachart.com/index.php?ID=133&page=doc/StudiesReference.php",
+          "status": "採用指定段落摘要",
+          "reason": "實讀計算說明、Zig Zag Reverses at Wrong Bar、輸入高低價、Calculate New Values on Bar Close 及 Display Reversal Price 指定段落；未逐項驗證全部功能或操作軟體。"
+        },
+        {
+          "source": "PTT Zigzag 交易原帖查詢",
+          "status": "未取得相符原帖",
+          "reason": "本次檢索返回多個非交易同名結果，未確認可採用的對應原帖；不推斷沒有新文。"
+        },
+        {
+          "source": "TradingView 官方 ZigZag 程式庫與其他公開腳本",
+          "url": "https://www.tradingview.com/script/bzIRuGXC-ZigZag/",
+          "status": "本批未採程式內容",
+          "reason": "本批只整理官方指標文件；程式庫及民間腳本僅見搜尋介紹，未審計或執行，不稱已驗證非重繪。"
+        },
+        {
+          "source": "Reddit 與 Brooks 公開討論檢索",
+          "status": "本批不新增",
+          "reason": "找到轉折確認或重繪主題入口，本批未讀完整原帖，不作正文摘要、績效結論或新課程引用。"
+        }
+      ],
+      "notes": [
+        "三個新英文網址：一篇正文摘要與兩筆指定範圍摘要；新增兩張選讀。",
+        "TradingView 發布／修訂確日未核對；Sierra 文件頁尾修改日 2025-01-24 與論壇 2021 年貼文日期、今日查核日分列。",
+        "短句保留原文與問句語氣；收線計算建議不當作所有未來資料依賴的通用解。",
+        "兩左兩右嚴格比較及合成高價序列是本站假設，等高處理與平台定義不同；不是平台算法或 ICT 原作者參數。",
+        "固定窗口高點確認與 Zigzag 後續選點分開，沒有回填第三根成交或產生交易指令。",
+        "保留全部舊來源日期、文章 ID、影片讀取範圍與筆記格式；未新增 Brooks 引用、排程或交易。"
+      ]
+    },
+    {
       "id": "content-batch28-20261106",
       "collected": "2026-11-06",
       "updated": "2026-11-06",

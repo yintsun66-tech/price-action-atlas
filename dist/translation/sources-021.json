@@ -1,5 +1,104 @@
 [
   {
+    "id": "de85b278e063f39088c3",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-above-trading-range-low/",
+    "sourceTitle": "Emini closed above 9-month trading range low",
+    "titleZh": "Brad 日內案例｜2022-05-31｜區間與通道",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-151853"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-151853"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-151853",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "de8f1fc902eb7e81d840",
+    "url": "https://www.quantsystems.ca/course/ptm-202402",
+    "sourceTitle": "QuantSystem's Pro Trader Mentoring",
+    "titleZh": "PTM 月課綱｜2024/02",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "qs-ptm-202402"
+      }
+    ],
+    "resourceIds": [
+      "qs-ptm-202402"
+    ],
+    "legacyObservations": [
+      {
+        "id": "qs-ptm-202402",
+        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Ali Moin-Afshari／Quant Systems"
+    ]
+  },
+  {
+    "id": "de9ec476719ee13904a5",
+    "url": "https://www.brookstradingcourse.com/analysis/bulls-trying-for-upside-breakout/",
+    "sourceTitle": "Bulls trying for upside breakout test of 3,800",
+    "titleZh": "Brad 日內案例｜2022-10-18｜突破與延續",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-162903"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-162903"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-162903",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "debaeaaf0690e7b39f90",
     "url": "https://www.brookstradingcourse.com/analysis/emini-likely-to-test-july-21/",
     "sourceTitle": "Emini likely to test July 21 close soon",
@@ -3091,105 +3190,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "ec4960c8877906bf6dac",
-    "url": "https://www.quantsystems.ca/course/ptm-202501",
-    "sourceTitle": "QuantSystem's Pro Trader Mentoring",
-    "titleZh": "PTM 月課綱｜2025/01",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "qs-ptm-202501"
-      }
-    ],
-    "resourceIds": [
-      "qs-ptm-202501"
-    ],
-    "legacyObservations": [
-      {
-        "id": "qs-ptm-202501",
-        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Ali Moin-Afshari／Quant Systems"
-    ]
-  },
-  {
-    "id": "ec4f1f58818429202b5f",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-complex-pullback-after-last-fridays-bear-breakout/",
-    "sourceTitle": "E-mini Complex Pullback After Last Friday’s Bear Breakout",
-    "titleZh": "Brad 日內案例｜2025-10-15｜突破與延續／回檔與第二段",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-252607"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-252607"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-252607",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "ecb534ad12fae7fdf560",
-    "url": "https://www.youtube.com/watch?v=uDDirOjb3xs",
-    "sourceTitle": "Bitcoin Parabolic Wedge Bottom and Double Bottom on Daily - August 16, 2026",
-    "titleZh": "Brooks 共享影片｜反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-uDDirOjb3xs"
-      }
-    ],
-    "resourceIds": [
-      "yt-uDDirOjb3xs"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-uDDirOjb3xs",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
     ]
   }
 ]
