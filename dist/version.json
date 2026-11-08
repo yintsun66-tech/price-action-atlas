@@ -1,13 +1,13 @@
 {
-  "version": "1.4.0",
-  "released": "2026-11-07",
+  "version": "1.5.0",
+  "released": "2026-11-09",
   "timezone": "Asia/Taipei",
   "repository": "https://github.com/yintsun66-tech/price-action-atlas",
   "site": "https://yintsun66-tech.github.io/price-action-atlas/",
-  "contentEdition": "20261107c29",
+  "contentEdition": "20261108c30",
   "notes": [
-    "實讀 TradingView Zigzag 公開教學與 Sierra Chart 指定討論、文件段落，新增兩張繁中選讀。",
-    "結構單元追加兩節與一張原創圖，分清轉折點所在、確認時間、可用決策時間與最新折線更新。",
-    "保留論壇分歧、平台定義與自訂規則的差異；一篇正文摘要、兩筆指定範圍摘要，全文翻譯完成數保持。"
+    "兩個既有待讀 Brad 網址完成正文摘要，保留 2023-12-06 與 2025-02-24 的歷史日期，未增加英文網址。",
+    "來源卡新增四項機率語境標註，分清事件、開盤／全天期限與未提供的統計依據，英文短句可展開。",
+    "相關 18A／15A 僅為 Main、Forex 共用基礎補讀；62 個閱讀單元、72 張圖及筆記格式保持，全文翻譯完成數不變。"
   ]
 }

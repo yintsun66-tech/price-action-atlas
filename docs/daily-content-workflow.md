@@ -2,7 +2,9 @@
 
 **現行發布規則（2026-11-02 起）：**使用者已明確選擇公開 GitHub Pages。主要原始檔為 https://github.com/yintsun66-tech/price-action-atlas ，網站為 https://yintsun66-tech.github.io/price-action-atlas/ 。先讀本站 AGENTS.md 與 docs/versioning.md；每次實質發布需遞增版本、更新 CHANGELOG 並推送 vX.Y.Z 標籤。以下舊 Sites 流程保留歷史語境，不再作新發布目標。個人筆記／備份不可上傳儲存庫。
 
-最新內容批次為第二十九批 v1.4.0（2026-11-07）：build-content-batch29.cjs → 翻譯清單 → 中文呈現／版本標示。新增 Zigzag 轉折確認與重繪界線選讀、原創雙路徑圖及結構單元練習，實讀紀錄 zh-core-source-reviews-22.json。局部點確認、最新連線、即時／重算差異分開；兩左兩右的嚴格比較是本站例題。資料與閱讀器驗證使用 workspace tools/check_content_batch29*.cjs；範圍、略過、畫面驗證與數量見 docs/content-batch29.md。其後依 release.json 指定最新生成器。
+**第三十批：v1.5.0（發布日 2026-11-09；來源查核日 2026-11-08）**。最新生成器為 build-content-batch30.cjs → 翻譯清單 → 中文呈現／版本標示；實讀紀錄 zh-core-source-reviews-23.json，新增兩張歷史選讀與四項來源卡機率語境。資料、閱讀器及瀏覽器驗收通過：第三十批顯示兩篇／累積四十三篇，英文短句可展開，75% 搜尋正確，大字機率區塊及沿用原創圖正常。詳見 docs/content-batch30.md 與 workspace artifacts/content_batch30_2026-11-08/。仍須依版本流程確認 Actions、同版 Release 及 Pages 後才對外稱已上線。
+
+先前因 11-08 瀏覽器介面不可用而保留候選版；11-09 恢復後接續同批驗收，沒有重複升版或改寫兩篇來源日期。第二十九批 v1.4.0 的原創圖解、閱讀單元與驗證紀錄保留。
 
 使用者於 2026-10-28 選擇每日更新。已建立本聊天 heartbeat：價格行為教材每日蒐集與繁中更新，時間預設 Asia/Taipei 每日 10:00。這是本機聊天的持續工作排程，沒有另建 Sites 雲端寫入器或第二份排程。排程設定成功不表示未來每次研究或發布必然成功；每次執行仍須查核及確認發布結果。
 

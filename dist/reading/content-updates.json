@@ -2,6 +2,63 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch30-20261108",
+      "collected": "2026-11-08",
+      "updated": "2026-11-08",
+      "timezone": "Asia/Taipei",
+      "description": "續讀兩篇既有 Brad 文章，保留四項機率的事件、日期與統計依據界線。",
+      "articles": [],
+      "sources": [
+        "brad-range-20231206",
+        "brad-surprise-20250224"
+      ],
+      "decisions": [
+        {
+          "source": "Emini Tight Trading Range at September High",
+          "url": "https://www.brookstradingcourse.com/analysis/emini-tight-trading-range-at-september-high/",
+          "status": "既有 pending 續讀為正文摘要",
+          "reason": "實讀全部公開文字，包括 Emini 日線／五分鐘預期、EURUSD、圖表說明與兩則可見留言；未核驗原圖、觀看影片或付費課。"
+        },
+        {
+          "source": "Emini Surprise Bear Breakout",
+          "url": "https://www.brookstradingcourse.com/analysis/emini-surprise-bear-breakout-3/",
+          "status": "既有 pending 續讀為正文摘要",
+          "reason": "實讀全部公開文字，包括 Emini 日線／五分鐘預期、EURUSD 與圖表說明；未核驗原圖、觀看盤後影片或付費課。"
+        },
+        {
+          "source": "Brooks 官方 Main／Forex 課綱與 15A／18A 單元",
+          "status": "相關補讀核對",
+          "reason": "兩個課綱索引直讀返回 403；搜尋取得官方 Forex 課綱 15A／18A 相關列，並讀官方單元標題及適用 Main、Forex 成員文字，交叉核對共用基礎。未觀看付費影片，未把課綱或會員頁標成教材正文完成。"
+        },
+        {
+          "source": "通用課程入口",
+          "status": "本次工具未取得",
+          "reason": "brooks-trading-course 與 forex-trading-course 通用地址未取得內容，改循原文章的官方索引連結；不視作已讀課程。"
+        },
+        {
+          "source": "Adam Grimes 與期望值題材初查",
+          "status": "本批未採",
+          "reason": "僅見搜尋介紹，未讀原文；本批優先消化既有 Brad 待讀來源，不新增重複題材。"
+        },
+        {
+          "source": "Reddit、PTT 機率與期望值檢索",
+          "status": "本批未採",
+          "reason": "只讀搜尋摘錄，未讀完整原帖，不採社群百分比或自述績效作正文與獲利證據。"
+        }
+      ],
+      "notes": [
+        "英文網址總數不增加，兩個既有來源 ID 與收錄日保留，pending 減少二筆；正文摘要增加二筆。",
+        "兩頁歷史日期為 2023-12-06 與 2025-02-24，查核日 2026-11-08；沒有改成今日行情。",
+        "第一篇 20% 未明訂持續全天，第二篇 20% 明寫全天；75% 的兩小時整理起點條件與 50% 組合路徑分別列出。",
+        "原文 probably、likely、odds favor 保留定性，不把其他未量化句子補成數字，也不將事件機率換成交易勝率。",
+        "同篇日線重複段落不當兩份證據；未取得原始發表／編輯快照，不計盤前預測命中。",
+        "保留 Brad 文字與 Al 圖表作者的歸屬界線，未核驗、重建或重刊原圖；圖解沿用本站原創資料。",
+        "兩個短句分別七詞與五詞；摘要不增加全文翻譯完成數。",
+        "62 個閱讀單元、72 筆圖解、18 項既有閱讀器機率紀錄與筆記格式保持；新增四條註記僅在來源卡及來源摘要。",
+        "沿用 GitHub Pages、版本發布與原有每日排程；未執行交易。"
+      ]
+    },
+    {
       "id": "content-batch29-20261107",
       "collected": "2026-11-07",
       "updated": "2026-11-07",

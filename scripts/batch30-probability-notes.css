@@ -1,0 +1,10 @@
+/* CONTENT_BATCH30_PROBABILITY_START */
+.community-probability-notes{margin:22px 0;padding:22px;border:1px solid #d5e2ef;border-left:4px solid #2d6f9f;border-radius:12px;background:#f1f6fb;font-size:20px;line-height:1.9;color:#263747}
+.community-probability-notes h4{margin:0 0 14px;font-size:22px;line-height:1.6;font-weight:800;color:#152b3e}
+.community-probability-notes ul{margin:0;padding:0;list-style:none}
+.community-probability-notes li+li{margin-top:19px;padding-top:17px;border-top:1px solid #d3e0ec}
+.community-probability-notes p{margin:9px 0 0;font-size:19px;line-height:1.9}
+.community-probability-notes .community-probability-value{font-size:27px;font-weight:850;white-space:nowrap;color:#174f78}
+.community-probability-notes .community-probability-basis{margin-top:20px;padding-top:15px;border-top:1px solid #c9d8e6}
+@media(max-width:850px){.community-probability-notes{padding:18px;font-size:20px}.community-probability-notes h4{font-size:21px}}
+/* CONTENT_BATCH30_PROBABILITY_END */

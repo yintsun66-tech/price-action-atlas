@@ -1,5 +1,38 @@
 [
   {
+    "id": "054163fbb71185779959",
+    "url": "https://www.youtube.com/watch?v=0802triShOo",
+    "sourceTitle": "Bitcoin Breakout Mode Pattern at the EMA on Daily Chart - July 19, 2026",
+    "titleZh": "Brooks 共享影片｜突破與延續",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-0802triShOo"
+      }
+    ],
+    "resourceIds": [
+      "yt-0802triShOo"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-0802triShOo",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "056177ca2016d7afbeeb",
     "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-03c-forex-basics/",
     "sourceTitle": "外匯基礎",
@@ -363,39 +396,6 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": []
-  },
-  {
-    "id": "0676502b290b5850d116",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-surprise-bear-breakout-3/",
-    "sourceTitle": "Emini Surprise Bear Breakout",
-    "titleZh": "Brad 日內案例｜2025-02-24｜突破與延續",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-230759"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-230759"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-230759",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
   },
   {
     "id": "0684d6712465d5118cec",

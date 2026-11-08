@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "items": [
     {
       "id": "014e9d23788221e0da5b",
@@ -944,15 +944,6 @@
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },
     {
-      "id": "00bed177c3b8a842d915",
-      "url": "https://www.brookstradingcourse.com/analysis/emini-tight-trading-range-at-september-high/",
-      "resourceIds": [
-        "brad-post-195359"
-      ],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
       "id": "00f28c3a12c12c45aa3b",
       "url": "https://www.quantsystems.ca/course/sa2i",
       "resourceIds": [
@@ -1426,15 +1417,6 @@
       "id": "064cc3615f9bfbdcf2d6",
       "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-33g-protective-stops/",
       "resourceIds": [],
-      "status": "pending",
-      "nextAction": "讀取原始內容並撰寫忠實摘要"
-    },
-    {
-      "id": "0676502b290b5850d116",
-      "url": "https://www.brookstradingcourse.com/analysis/emini-surprise-bear-breakout-3/",
-      "resourceIds": [
-        "brad-post-230759"
-      ],
       "status": "pending",
       "nextAction": "讀取原始內容並撰寫忠實摘要"
     },

@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "scope": "站內所有英文文字與所有英文來源；中文優先，英文可展開。",
   "totalSources": 2378,
   "englishResourceRecords": 2056,
   "resourceRecords": 2110,
   "statusCounts": {
-    "body-summary": 45,
+    "body-summary": 47,
     "intro-only": 19,
     "excerpt-summary": 29,
     "unavailable": 4,
     "licensed-excerpt": 2,
-    "pending": 2279
+    "pending": 2277
   },
   "siteArticles": 62,
   "articleAudit": "reading/text-audit.json",
@@ -52,6 +52,22 @@
       "titleCoverage": "reviewed-title",
       "authors": [
         "Brad Wolff"
+      ]
+    },
+    {
+      "id": "00bed177c3b8a842d915",
+      "titleZh": "區間高檔的均線回測：下跌與橫盤是兩種路徑",
+      "sourceTitle": "Emini Tight Trading Range at September High",
+      "status": "body-summary",
+      "resourceIds": [
+        "brad-post-195359"
+      ],
+      "chunk": "sources-000.json",
+      "url": "https://www.brookstradingcourse.com/analysis/emini-tight-trading-range-at-september-high/",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "Brad Wolff",
+        "Brad（原頁署名）"
       ]
     },
     {
@@ -153,6 +169,22 @@
       "titleCoverage": "reviewed-title",
       "authors": [
         "Sierra Chart"
+      ]
+    },
+    {
+      "id": "0676502b290b5850d116",
+      "titleZh": "日線偏向續跌，日內仍可能整理：三個機率分開看",
+      "sourceTitle": "Emini Surprise Bear Breakout",
+      "status": "body-summary",
+      "resourceIds": [
+        "brad-post-230759"
+      ],
+      "chunk": "sources-000.json",
+      "url": "https://www.brookstradingcourse.com/analysis/emini-surprise-bear-breakout-3/",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "Brad Wolff",
+        "Brad（原頁署名）"
       ]
     },
     {
@@ -1372,7 +1404,7 @@
       "sourceTitle": "Technical Analysis／Patterns — Targets 指定選段",
       "status": "licensed-excerpt",
       "resourceIds": [],
-      "chunk": "sources-000.json",
+      "chunk": "sources-001.json",
       "url": "https://en.wikibooks.org/w/index.php?oldid=4351762&title=Technical_Analysis%2FPatterns",
       "titleCoverage": "existing-label",
       "authors": []
@@ -1385,7 +1417,7 @@
       "resourceIds": [
         "yt-62fbo9zT5Ms"
       ],
-      "chunk": "sources-000.json",
+      "chunk": "sources-001.json",
       "url": "https://www.youtube.com/watch?v=62fbo9zT5Ms",
       "titleCoverage": "title-only",
       "authors": [
@@ -2229,21 +2261,6 @@
       "authors": []
     },
     {
-      "id": "00bed177c3b8a842d915",
-      "titleZh": "Brad 日內案例｜2023-12-06｜區間與通道",
-      "sourceTitle": "Emini Tight Trading Range at September High",
-      "status": "pending",
-      "resourceIds": [
-        "brad-post-195359"
-      ],
-      "chunk": "sources-001.json",
-      "url": "https://www.brookstradingcourse.com/analysis/emini-tight-trading-range-at-september-high/",
-      "titleCoverage": "existing-label",
-      "authors": [
-        "Brad Wolff"
-      ]
-    },
-    {
       "id": "00f28c3a12c12c45aa3b",
       "titleZh": "Systems Academy｜公開入門與介紹",
       "sourceTitle": "Systems Academy 2i",
@@ -2857,7 +2874,7 @@
       "resourceIds": [
         "yt-0802triShOo"
       ],
-      "chunk": "sources-001.json",
+      "chunk": "sources-002.json",
       "url": "https://www.youtube.com/watch?v=0802triShOo",
       "titleCoverage": "existing-label",
       "authors": [
@@ -3031,21 +3048,6 @@
       "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-33g-protective-stops/",
       "titleCoverage": "existing-label",
       "authors": []
-    },
-    {
-      "id": "0676502b290b5850d116",
-      "titleZh": "Brad 日內案例｜2025-02-24｜突破與延續",
-      "sourceTitle": "Emini Surprise Bear Breakout",
-      "status": "pending",
-      "resourceIds": [
-        "brad-post-230759"
-      ],
-      "chunk": "sources-002.json",
-      "url": "https://www.brookstradingcourse.com/analysis/emini-surprise-bear-breakout-3/",
-      "titleCoverage": "existing-label",
-      "authors": [
-        "Brad Wolff"
-      ]
     },
     {
       "id": "0684d6712465d5118cec",

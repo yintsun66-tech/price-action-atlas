@@ -204,6 +204,139 @@
     "authorConfirmed": "Brad（官方公開頁署名）"
   },
   {
+    "id": "00bed177c3b8a842d915",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-tight-trading-range-at-september-high/",
+    "sourceTitle": "Emini Tight Trading Range at September High",
+    "titleZh": "區間高檔的均線回測：下跌與橫盤是兩種路徑",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "作者在區間高檔討論均線回測：價格下跌靠近，或橫盤等待均線上移。日線背景與當日開盤預期分開閱讀。",
+    "readScope": "實讀全部公開文字，包括 Emini 日線／五分鐘預期、EURUSD、圖表說明與兩則可見留言；未核驗原圖、觀看影片或付費課。",
+    "checked": "2026-11-08",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-195359"
+      },
+      {
+        "kind": "community",
+        "id": "brad-range-20231206"
+      },
+      {
+        "kind": "review",
+        "id": "brad-post-195359"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-195359"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-195359",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [
+      {
+        "resourceId": "brad-post-195359",
+        "url": "https://www.brookstradingcourse.com/analysis/emini-tight-trading-range-at-september-high/",
+        "sourceTitle": "Emini Tight Trading Range at September High",
+        "sourceTitleZh": "區間高檔的均線回測：下跌與橫盤是兩種路徑",
+        "authorConfirmed": "Brad（原頁署名）",
+        "published": "2023-12-06",
+        "dateNoteZh": "歷史報告日期；未取得首次發表及後續編輯的完整版本快照。",
+        "checked": "2026-11-08",
+        "status": "body-summary",
+        "readScope": "實讀全部公開文字，包括 Emini 日線／五分鐘預期、EURUSD、圖表說明與兩則可見留言；未核驗原圖、觀看影片或付費課。",
+        "summaryZh": "作者在區間高檔討論均線回測：價格下跌靠近，或橫盤等待均線上移。日線背景與當日開盤預期分開閱讀。",
+        "keyPointsZh": [
+          "區分均線回測的不同路徑，以及日線與開盤的判斷期限。"
+        ],
+        "shortExcerpt": {
+          "en": "Without it, the upside is probably limited.",
+          "zh": "若未出現這個均線回測，上檔空間很可能受限。",
+          "scope": "it 承接未來數週回測均線的預期；保留條件與 probably 的近似語氣，不改成當天必跌。"
+        },
+        "limitsZh": "未取得可鎖定盤前版本與實際結果的對帳；百分比保留為該篇表述，不能直接搬成微台或 BTC 勝率。 原作者網站含課程銷售；未取得可比獨立評分，不補造熱門排名。",
+        "evidence": {
+          "urls": [
+            "https://www.brookstradingcourse.com/analysis/emini-tight-trading-range-at-september-high/"
+          ],
+          "accessMethod": "實讀原作者公開文字；沒有核驗原圖、影片或原始發表版本",
+          "scope": "實讀全部公開文字，包括 Emini 日線／五分鐘預期、EURUSD、圖表說明與兩則可見留言；未核驗原圖、觀看影片或付費課。"
+        },
+        "editorNotesZh": [
+          "作者當日機率判讀；本文未列樣本分母或估計方法，不當作已驗證交易勝率。",
+          "機率語境：20%，當日從開盤即形成趨勢。2023-12-06 的美國開盤情境；該句未明訂趨勢維持多久。"
+        ],
+        "probabilityNotes": [
+          {
+            "value": "20%",
+            "event": "當日從開盤即形成趨勢",
+            "window": "2023-12-06 的美國開盤情境；該句未明訂趨勢維持多久。"
+          }
+        ],
+        "attributionNoteZh": "文章文字署名 Brad；頁面另標 Al 為圖表作者，本批未核驗或重刊原圖。",
+        "courseRefs": [
+          {
+            "version": "Main／Forex 共用基礎",
+            "unit": "18A",
+            "topic": "交易區間",
+            "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-18a-trading-ranges/",
+            "relation": "相關主題補讀；Brad 本文不是本單元逐字稿。公開課綱相關列與單元標題已核對，未觀看付費影片。"
+          }
+        ]
+      }
+    ],
+    "courseRefs": [
+      {
+        "version": "Main／Forex 共用基礎",
+        "unit": "18A",
+        "topic": "交易區間",
+        "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-18a-trading-ranges/",
+        "relation": "相關主題補讀；Brad 本文不是本單元逐字稿。公開課綱相關列與單元標題已核對，未觀看付費影片。"
+      }
+    ],
+    "authors": [
+      "Brad Wolff",
+      "Brad（原頁署名）"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "作者在區間高檔討論均線回測：價格下跌靠近，或橫盤等待均線上移。日線背景與當日開盤預期分開閱讀。",
+      "readScope": "實讀全部公開文字，包括 Emini 日線／五分鐘預期、EURUSD、圖表說明與兩則可見留言；未核驗原圖、觀看影片或付費課。",
+      "checked": "2026-11-08",
+      "translationScope": "只摘要 Emini 背景、指定機率及必要短句；不是完整文章或留言翻譯。",
+      "cardId": "brad-range-20231206"
+    },
+    "published": "2023-12-06",
+    "dateNoteZh": "歷史報告日期；未取得首次發表及後續編輯的完整版本快照。",
+    "keyPointsZh": [
+      "區分均線回測的不同路徑，以及日線與開盤的判斷期限。"
+    ],
+    "limitsZh": "未取得可鎖定盤前版本與實際結果的對帳；百分比保留為該篇表述，不能直接搬成微台或 BTC 勝率。 原作者網站含課程銷售；未取得可比獨立評分，不補造熱門排名。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/analysis/emini-tight-trading-range-at-september-high/"
+      ],
+      "accessMethod": "實讀原作者公開文字；沒有核驗原圖、影片或原始發表版本",
+      "scope": "實讀全部公開文字，包括 Emini 日線／五分鐘預期、EURUSD、圖表說明與兩則可見留言；未核驗原圖、觀看影片或付費課。"
+    },
+    "shortExcerpt": {
+      "en": "Without it, the upside is probably limited.",
+      "zh": "若未出現這個均線回測，上檔空間很可能受限。",
+      "scope": "it 承接未來數週回測均線的預期；保留條件與 probably 的近似語氣，不改成當天必跌。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [
+      "作者當日機率判讀；本文未列樣本分母或估計方法，不當作已驗證交易勝率。",
+      "機率語境：20%，當日從開盤即形成趨勢。2023-12-06 的美國開盤情境；該句未明訂趨勢維持多久。"
+    ],
+    "authorConfirmed": "Brad（原頁署名）",
+    "attributionNoteZh": "文章文字署名 Brad；頁面另標 Al 為圖表作者，本批未核驗或重刊原圖。"
+  },
+  {
     "id": "00c58e3cc31665f957fc",
     "url": "https://www.brookstradingcourse.com/analysis/emini-weak-buy-sigal-bar-in-tight-trading-ragne/",
     "sourceTitle": "Emini Weak Buy Signal Bar in Tight Trading Range",
@@ -873,6 +1006,153 @@
     "termNotes": [],
     "editorNotesZh": [],
     "authorConfirmed": "Sierra Chart"
+  },
+  {
+    "id": "0676502b290b5850d116",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-surprise-bear-breakout-3/",
+    "sourceTitle": "Emini Surprise Bear Breakout",
+    "titleZh": "日線偏向續跌，日內仍可能整理：三個機率分開看",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "作者偏向日線第二段下跌，同時討論大跌後的短線整理。開盤路徑、兩小時橫盤與全天趨勢各有不同事件定義。",
+    "readScope": "實讀全部公開文字，包括 Emini 日線／五分鐘預期、EURUSD 與圖表說明；未核驗原圖、觀看盤後影片或付費課。",
+    "checked": "2026-11-08",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-230759"
+      },
+      {
+        "kind": "community",
+        "id": "brad-surprise-20250224"
+      },
+      {
+        "kind": "review",
+        "id": "brad-post-230759"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-230759"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-230759",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [
+      {
+        "resourceId": "brad-post-230759",
+        "url": "https://www.brookstradingcourse.com/analysis/emini-surprise-bear-breakout-3/",
+        "sourceTitle": "Emini Surprise Bear Breakout",
+        "sourceTitleZh": "日線偏向續跌，日內仍可能整理：三個機率分開看",
+        "authorConfirmed": "Brad（原頁署名）",
+        "published": "2025-02-24",
+        "dateNoteZh": "歷史報告日期；原頁日線段落有重複文字，未當作兩份獨立證據。",
+        "checked": "2026-11-08",
+        "status": "body-summary",
+        "readScope": "實讀全部公開文字，包括 Emini 日線／五分鐘預期、EURUSD 與圖表說明；未核驗原圖、觀看盤後影片或付費課。",
+        "summaryZh": "作者偏向日線第二段下跌，同時討論大跌後的短線整理。開盤路徑、兩小時橫盤與全天趨勢各有不同事件定義。",
+        "keyPointsZh": [
+          "將數字連回事件及期限，保留定性判斷，不自行補造第二段下跌的百分比。"
+        ],
+        "shortExcerpt": {
+          "en": "traders must not force trades",
+          "zh": "交易者不可勉強下單。",
+          "scope": "原文條件是無法提出可辯護的數學理由；不是保證等待某段時間後就有交易機會。"
+        },
+        "limitsZh": "未取得可鎖定盤前版本及結果對帳；沒有用事後頁面證明預測命中，日內機率也不能替日線或別的市場背書。 官網評論與付費課程分開歸屬；未取得可比獨立評分或帳戶績效。",
+        "evidence": {
+          "urls": [
+            "https://www.brookstradingcourse.com/analysis/emini-surprise-bear-breakout-3/"
+          ],
+          "accessMethod": "實讀原作者公開文字；沒有核驗原圖、影片或原始發表版本",
+          "scope": "實讀全部公開文字，包括 Emini 日線／五分鐘預期、EURUSD 與圖表說明；未核驗原圖、觀看盤後影片或付費課。"
+        },
+        "editorNotesZh": [
+          "皆為作者當日判讀，本文未列樣本分母或估計方法。事件可能重疊，不能直接相加或當獨立機率相乘。",
+          "機率語境：75%，出現兩小時橫盤，且在第二個小時結束前開始。2025-02-24 日內預期；未要求橫盤必須從開盤那刻開始。",
+          "機率語境：50%，續跌後，接著兩小時橫盤。同日的組合路徑事件；不是交易勝率。",
+          "機率語境：20%，從開盤形成、並持續全天的趨勢。同日全天事件；這一句明確包含持續全天。"
+        ],
+        "probabilityNotes": [
+          {
+            "value": "75%",
+            "event": "出現兩小時橫盤，且在第二個小時結束前開始",
+            "window": "2025-02-24 日內預期；未要求橫盤必須從開盤那刻開始。"
+          },
+          {
+            "value": "50%",
+            "event": "續跌後，接著兩小時橫盤",
+            "window": "同日的組合路徑事件；不是交易勝率。"
+          },
+          {
+            "value": "20%",
+            "event": "從開盤形成、並持續全天的趨勢",
+            "window": "同日全天事件；這一句明確包含持續全天。"
+          }
+        ],
+        "attributionNoteZh": "文章文字署名 Brad；頁面另標 Al 為圖表作者，本批未核驗或重刊原圖。",
+        "courseRefs": [
+          {
+            "version": "Main／Forex 共用基礎",
+            "unit": "15A",
+            "topic": "突破",
+            "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-15a-breakouts/",
+            "relation": "相關主題補讀；Brad 本文不是本單元逐字稿。公開課綱相關列與單元標題已核對，未觀看付費影片。"
+          }
+        ]
+      }
+    ],
+    "courseRefs": [
+      {
+        "version": "Main／Forex 共用基礎",
+        "unit": "15A",
+        "topic": "突破",
+        "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-15a-breakouts/",
+        "relation": "相關主題補讀；Brad 本文不是本單元逐字稿。公開課綱相關列與單元標題已核對，未觀看付費影片。"
+      }
+    ],
+    "authors": [
+      "Brad Wolff",
+      "Brad（原頁署名）"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "作者偏向日線第二段下跌，同時討論大跌後的短線整理。開盤路徑、兩小時橫盤與全天趨勢各有不同事件定義。",
+      "readScope": "實讀全部公開文字，包括 Emini 日線／五分鐘預期、EURUSD 與圖表說明；未核驗原圖、觀看盤後影片或付費課。",
+      "checked": "2026-11-08",
+      "translationScope": "只摘要 Emini 多週期背景、三項指定機率與必要短句；不是全文翻譯或績效檢驗。",
+      "cardId": "brad-surprise-20250224"
+    },
+    "published": "2025-02-24",
+    "dateNoteZh": "歷史報告日期；原頁日線段落有重複文字，未當作兩份獨立證據。",
+    "keyPointsZh": [
+      "將數字連回事件及期限，保留定性判斷，不自行補造第二段下跌的百分比。"
+    ],
+    "limitsZh": "未取得可鎖定盤前版本及結果對帳；沒有用事後頁面證明預測命中，日內機率也不能替日線或別的市場背書。 官網評論與付費課程分開歸屬；未取得可比獨立評分或帳戶績效。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/analysis/emini-surprise-bear-breakout-3/"
+      ],
+      "accessMethod": "實讀原作者公開文字；沒有核驗原圖、影片或原始發表版本",
+      "scope": "實讀全部公開文字，包括 Emini 日線／五分鐘預期、EURUSD 與圖表說明；未核驗原圖、觀看盤後影片或付費課。"
+    },
+    "shortExcerpt": {
+      "en": "traders must not force trades",
+      "zh": "交易者不可勉強下單。",
+      "scope": "原文條件是無法提出可辯護的數學理由；不是保證等待某段時間後就有交易機會。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [
+      "皆為作者當日判讀，本文未列樣本分母或估計方法。事件可能重疊，不能直接相加或當獨立機率相乘。",
+      "機率語境：75%，出現兩小時橫盤，且在第二個小時結束前開始。2025-02-24 日內預期；未要求橫盤必須從開盤那刻開始。",
+      "機率語境：50%，續跌後，接著兩小時橫盤。同日的組合路徑事件；不是交易勝率。",
+      "機率語境：20%，從開盤形成、並持續全天的趨勢。同日全天事件；這一句明確包含持續全天。"
+    ],
+    "authorConfirmed": "Brad（原頁署名）",
+    "attributionNoteZh": "文章文字署名 Brad；頁面另標 Al 為圖表作者，本批未核驗或重刊原圖。"
   },
   {
     "id": "10795e3594bf859fb0b3",
@@ -8546,134 +8826,5 @@
     },
     "published": null,
     "dateNoteZh": "頁面只見相對時間，精確發布日未核對，不稱為今天新帖。"
-  },
-  {
-    "id": "fcf8997c72866e681dbd",
-    "url": "https://en.wikibooks.org/w/index.php?oldid=4351762&title=Technical_Analysis%2FPatterns",
-    "sourceTitle": "Technical Analysis／Patterns — Targets 指定選段",
-    "titleZh": "Technical Analysis／Patterns — Targets 指定選段",
-    "titleCoverage": "existing-label",
-    "status": "licensed-excerpt",
-    "summaryZh": "原文以整理前的價格移動幅度作為突破後目標的參考，並以股票先漲5的例子說明；沒有給出回補或目標達成率。",
-    "readScope": "Targets 完整小節的四段正文與兩行製圖占位文字；第三、第四段採逐句對照。不含其他小節、導覽或來源圖片，也不是整章翻譯。",
-    "checked": "2026-10-31",
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "article-source",
-        "id": "licensed-measured-move",
-        "index": 0
-      },
-      {
-        "kind": "article-source",
-        "id": "licensed-trends",
-        "index": 0
-      },
-      {
-        "kind": "article-source",
-        "id": "licensed-range-consolidation",
-        "index": 0
-      },
-      {
-        "kind": "article-source",
-        "id": "licensed-continuation-reversal",
-        "index": 0
-      },
-      {
-        "kind": "article-source",
-        "id": "licensed-support-resistance",
-        "index": 0
-      },
-      {
-        "kind": "licensed-excerpt",
-        "id": "licensed-measured-move"
-      },
-      {
-        "kind": "licensed-excerpt",
-        "id": "licensed-trends"
-      },
-      {
-        "kind": "licensed-excerpt",
-        "id": "licensed-range-consolidation"
-      },
-      {
-        "kind": "licensed-excerpt",
-        "id": "licensed-continuation-reversal"
-      },
-      {
-        "kind": "licensed-excerpt",
-        "id": "licensed-support-resistance"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": [],
-    "existingLicensed": [
-      {
-        "articleId": "licensed-measured-move",
-        "scope": "Targets 完整小節的四段正文與兩行製圖占位文字；第三、第四段採逐句對照。不含其他小節、導覽或來源圖片，也不是整章翻譯。",
-        "license": "CC BY-SA 4.0",
-        "revision": "2026-10-31"
-      },
-      {
-        "articleId": "licensed-trends",
-        "scope": "Trends 主標題下的三段正文與一行製圖占位文字，加上完整 Up-Trend 子小節的一段正文（拆為三句對照）；不含 Range-bound / Oscillating 或其他小節。",
-        "license": "CC BY-SA 4.0",
-        "revision": "2026-10-31"
-      },
-      {
-        "articleId": "licensed-range-consolidation",
-        "scope": "完整 Range-bound / Oscillating 子小節的三段正文與一行製圖占位文字；不含前面的 Up-Trend 或後面的 Patterns。",
-        "license": "CC BY-SA 4.0",
-        "revision": "2026-10-28"
-      },
-      {
-        "articleId": "licensed-continuation-reversal",
-        "scope": "章首三段導言（第三段為原表引介）及含十一列的上／下趨勢型態原表，加上 Patterns 父節七段正文、一行占位文字與延續、反轉、K 線三個完整子小節。依各部分原順序對照；不含其餘主節、導覽或來源圖片，不宣稱整章全文核對完成。",
-        "license": "CC BY-SA 4.0",
-        "revision": "2026-11-01"
-      },
-      {
-        "articleId": "licensed-support-resistance",
-        "scope": "原章兩個 Support and Resistance 同名小節：第一節三段正文，第二節四段正文與兩行製圖占位文字，依各節原順序完整對照。不含其餘小節、導覽或來源圖片；不是整章。",
-        "license": "CC BY-SA 4.0",
-        "revision": "2026-10-31"
-      }
-    ]
-  },
-  {
-    "id": "00abbdd08b2ec448c201",
-    "url": "https://www.youtube.com/watch?v=62fbo9zT5Ms",
-    "sourceTitle": "Signal Bar and Depth of Pullback",
-    "titleZh": "訊號棒與回檔深度",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-62fbo9zT5Ms"
-      }
-    ],
-    "resourceIds": [
-      "yt-62fbo9zT5Ms"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-62fbo9zT5Ms",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Ali／Quant Systems 頻道"
-    ]
   }
 ]

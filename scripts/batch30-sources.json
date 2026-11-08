@@ -1,0 +1,28 @@
+[
+  {
+    "id":"brad-range-20231206","resourceId":"brad-post-195359","platform":"Brooks 網站｜Brad 歷史行情評論","kind":"author","language":"en","author":"Brad（原頁署名）",
+    "title":"區間高檔的均線回測：下跌與橫盤是兩種路徑","originalTitle":"Emini Tight Trading Range at September High","url":"https://www.brookstradingcourse.com/analysis/emini-tight-trading-range-at-september-high/","published":"2023-12-06","dateNote":"歷史報告日期；未取得首次發表及後續編輯的完整版本快照。",
+    "summary":"作者在區間高檔討論均線回測：價格下跌靠近，或橫盤等待均線上移。日線背景與當日開盤預期分開閱讀。",
+    "quote":{"en":"Without it, the upside is probably limited.","zh":"若未出現這個均線回測，上檔空間很可能受限。","context":"it 承接未來數週回測均線的預期；保留條件與 probably 的近似語氣，不改成當天必跌。"},
+    "probabilityNotes":[{"value":"20%","event":"當日從開盤即形成趨勢","window":"2023-12-06 的美國開盤情境；該句未明訂趨勢維持多久。"}],
+    "probabilityBasis":"作者當日機率判讀；本文未列樣本分母或估計方法，不當作已驗證交易勝率。",
+    "access":"實讀全部公開文字，包括 Emini 日線／五分鐘預期、EURUSD、圖表說明與兩則可見留言；未核驗原圖、觀看影片或付費課。","translation":"只摘要 Emini 背景、指定機率及必要短句；不是完整文章或留言翻譯。",
+    "review":{"basis":"可核對日期與署名的原作者公開評論。","learning":"區分均線回測的不同路徑，以及日線與開盤的判斷期限。","limits":"未取得可鎖定盤前版本與實際結果的對帳；百分比保留為該篇表述，不能直接搬成微台或 BTC 勝率。","engagement":"原作者網站含課程銷售；未取得可比獨立評分，不補造熱門排名。"},
+    "figure":{"src":"images/study/practice-context-hypothesis-three-backgrounds.svg","alt":"本站自編比較圖，提醒將相同上推放回不同背景，不代表歷史 Emini 行情","caption":"沿用本站原創背景比較圖；不重建 2023-12-06 的 Emini、均線或原文圖表。"},
+    "related":["practice-context-hypothesis","brooks-context-first"],"tags":["歷史案例","區間背景","機率語境"],"batch":30,"collected":"2026-11-08","checked":"2026-11-08","status":"body-summary",
+    "courseRefs":[{"version":"Main／Forex 共用基礎","unit":"18A","topic":"交易區間","url":"https://www.brookstradingcourse.com/price-action-fundamentals/video-18a-trading-ranges/","relation":"相關主題補讀；Brad 本文不是本單元逐字稿。公開課綱相關列與單元標題已核對，未觀看付費影片。"}]
+  },
+  {
+    "id":"brad-surprise-20250224","resourceId":"brad-post-230759","platform":"Brooks 網站｜Brad 歷史行情評論","kind":"author","language":"en","author":"Brad（原頁署名）",
+    "title":"日線偏向續跌，日內仍可能整理：三個機率分開看","originalTitle":"Emini Surprise Bear Breakout","url":"https://www.brookstradingcourse.com/analysis/emini-surprise-bear-breakout-3/","published":"2025-02-24","dateNote":"歷史報告日期；原頁日線段落有重複文字，未當作兩份獨立證據。",
+    "summary":"作者偏向日線第二段下跌，同時討論大跌後的短線整理。開盤路徑、兩小時橫盤與全天趨勢各有不同事件定義。",
+    "quote":{"en":"traders must not force trades","zh":"交易者不可勉強下單。","context":"原文條件是無法提出可辯護的數學理由；不是保證等待某段時間後就有交易機會。"},
+    "probabilityNotes":[{"value":"75%","event":"出現兩小時橫盤，且在第二個小時結束前開始","window":"2025-02-24 日內預期；未要求橫盤必須從開盤那刻開始。"},{"value":"50%","event":"續跌後，接著兩小時橫盤","window":"同日的組合路徑事件；不是交易勝率。"},{"value":"20%","event":"從開盤形成、並持續全天的趨勢","window":"同日全天事件；這一句明確包含持續全天。"}],
+    "probabilityBasis":"皆為作者當日判讀，本文未列樣本分母或估計方法。事件可能重疊，不能直接相加或當獨立機率相乘。",
+    "access":"實讀全部公開文字，包括 Emini 日線／五分鐘預期、EURUSD 與圖表說明；未核驗原圖、觀看盤後影片或付費課。","translation":"只摘要 Emini 多週期背景、三項指定機率與必要短句；不是全文翻譯或績效檢驗。",
+    "review":{"basis":"帶日期、作者及事件窗口的原始文字。","learning":"將數字連回事件及期限，保留定性判斷，不自行補造第二段下跌的百分比。","limits":"未取得可鎖定盤前版本及結果對帳；沒有用事後頁面證明預測命中，日內機率也不能替日線或別的市場背書。","engagement":"官網評論與付費課程分開歸屬；未取得可比獨立評分或帳戶績效。"},
+    "figure":{"src":"images/study/practice-plan-not-stop-only-map.svg","alt":"本站原創交易計畫檢核圖，不是歷史 Emini 行情或買賣訊號","caption":"沿用本站原創計畫檢核圖；不重建 2025-02-24 Emini 行情，沒有新增交易訊號。"},
+    "related":["practice-context-hypothesis","practice-plan-not-stop-only"],"tags":["歷史案例","多週期背景","機率語境"],"batch":30,"collected":"2026-11-08","checked":"2026-11-08","status":"body-summary",
+    "courseRefs":[{"version":"Main／Forex 共用基礎","unit":"15A","topic":"突破","url":"https://www.brookstradingcourse.com/price-action-fundamentals/video-15a-breakouts/","relation":"相關主題補讀；Brad 本文不是本單元逐字稿。公開課綱相關列與單元標題已核對，未觀看付費影片。"}]
+  }
+]
