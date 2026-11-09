@@ -1,13 +1,13 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "released": "2026-11-09",
   "timezone": "Asia/Taipei",
   "repository": "https://github.com/yintsun66-tech/price-action-atlas",
   "site": "https://yintsun66-tech.github.io/price-action-atlas/",
-  "contentEdition": "20261108c30",
+  "contentEdition": "20261109c31",
   "notes": [
-    "兩個既有待讀 Brad 網址完成正文摘要，保留 2023-12-06 與 2025-02-24 的歷史日期，未增加英文網址。",
-    "來源卡新增四項機率語境標註，分清事件、開盤／全天期限與未提供的統計依據，英文短句可展開。",
-    "相關 18A／15A 僅為 Main、Forex 共用基礎補讀；62 個閱讀單元、72 張圖及筆記格式保持，全文翻譯完成數不變。"
+    "實讀兩篇未收錄的威科夫公開文章，新增繁中摘要、原文短句與作者／日期限制。",
+    "既有圖式單元新增目標區與報酬風險兩節、原創投射算例圖；投射、潛在獲利及勝率分開。",
+    "累積 45 篇來源選讀、73 張原創圖；英文來源 2380、正文摘要 49，全文翻譯完成判定與筆記格式保持。"
   ]
 }

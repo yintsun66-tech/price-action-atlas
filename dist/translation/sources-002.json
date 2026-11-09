@@ -1,5 +1,71 @@
 [
   {
+    "id": "051266c51d7d1a365173",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-2nd-leg-down-after-yesterdays-outside-down-bar/",
+    "sourceTitle": "E-mini 2nd Leg Down After Yesterday’s Outside Down Bar",
+    "titleZh": "Brad 日內案例｜2025-07-30｜回檔與第二段",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-245879"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-245879"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-245879",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "0532446e88cc73809427",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-reversal-up-from-test-of-5500-round-number/",
+    "sourceTitle": "Emini Reversal up from Test of 5,500 Round Number",
+    "titleZh": "Brad 日內案例｜2024-07-02｜反轉與陷阱",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-211865"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-211865"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-211865",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "054163fbb71185779959",
     "url": "https://www.youtube.com/watch?v=0802triShOo",
     "sourceTitle": "Bitcoin Breakout Mode Pattern at the EMA on Daily Chart - July 19, 2026",
@@ -3066,72 +3132,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "1141efdff01560427303",
-    "url": "https://www.brookstradingcourse.com/analysis/brad-travelling-no-report-today/",
-    "sourceTitle": "Brad travelling – No report today",
-    "titleZh": "Brad 日內案例｜2024-12-04｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-224316"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-224316"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-224316",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "115a93a7e5594bf086b2",
-    "url": "https://www.youtube.com/playlist?list=PLFA11UMiAJm9vu7VsCd4ICSL-MQKceE2H",
-    "sourceTitle": "Live Stream Videos",
-    "titleZh": "Brooks 共享片單｜Live Stream Videos",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "list-PLFA11UMiAJm9vu7VsCd4ICSL-MQKceE2H"
-      }
-    ],
-    "resourceIds": [
-      "list-PLFA11UMiAJm9vu7VsCd4ICSL-MQKceE2H"
-    ],
-    "legacyObservations": [
-      {
-        "id": "list-PLFA11UMiAJm9vu7VsCd4ICSL-MQKceE2H",
-        "scope": "官方片單入口已核對；包含多講者者不概括歸屬 Brad",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊"
     ]
   }
 ]

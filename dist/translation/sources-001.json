@@ -1,5 +1,78 @@
 [
   {
+    "id": "f51078b6a9c53a692968",
+    "url": "https://www.wyckoffanalytics.com/wp-content/uploads/2019/09/WyckoffSchematics-VisualTemplatesForMarketTimingDecisions.pdf",
+    "sourceTitle": "威科夫圖式是視覺範本：不要強迫每段區間照圖演出",
+    "titleZh": "威科夫圖式是視覺範本：不要強迫每段區間照圖演出",
+    "titleCoverage": "existing-label",
+    "status": "excerpt-summary",
+    "summaryZh": "原文以理想化圖式整理累積與派發，也明示基本累積模型不能涵蓋交易區間的所有變化。",
+    "readScope": "已讀公開 PDF 的文字，核對作者、刊期與模型限制；未重製圖式或原文市場圖。",
+    "checked": "2026-10-29",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "wyckoff-template-uncertainty",
+        "index": 0
+      },
+      {
+        "kind": "community",
+        "id": "wyckoff-schematics-paper"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Hank Pruden、Max von Lichtenstein"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "原文以理想化圖式整理累積與派發，也明示基本累積模型不能涵蓋交易區間的所有變化。",
+      "readScope": "已讀公開 PDF 的文字，核對作者、刊期與模型限制；未重製圖式或原文市場圖。",
+      "checked": "2026-10-29",
+      "translationScope": "來源短摘要與必要短句翻譯；非論文全文譯文。",
+      "cardId": "wyckoff-schematics-paper"
+    },
+    "published": null,
+    "dateNoteZh": "刊物明列 Issue 55、2006 年 3 月；不以 2019 年下載路徑當成發表日期。"
+  },
+  {
+    "id": "fc5f102a8f296ec9cd48",
+    "url": "https://www.reddit.com/r/Daytrading/comments/1xebtgu/price_action_recommendations/",
+    "sourceTitle": "看完 Brooks 仍想找更基礎教材：先確認學習缺口",
+    "titleZh": "看完 Brooks 仍想找更基礎教材：先確認學習缺口",
+    "titleCoverage": "existing-label",
+    "status": "excerpt-summary",
+    "summaryZh": "提問者覺得解讀常有兩種方向；回覆一方建議增加觀察練習，另一方談其他確認方法。分歧是學習感受，不能決定方法是否有效。",
+    "readScope": "已讀公開提問與可見回覆，沒有加入私群或聯絡作者。",
+    "checked": "2026-10-28",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "reddit-first-principles"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "提問 hello_diddy；短句回覆 OffbeatConcur_109"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "提問者覺得解讀常有兩種方向；回覆一方建議增加觀察練習，另一方談其他確認方法。分歧是學習感受，不能決定方法是否有效。",
+      "readScope": "已讀公開提問與可見回覆，沒有加入私群或聯絡作者。",
+      "checked": "2026-10-28",
+      "translationScope": "必要短句翻譯與來源摘要；不同回覆不合併成社群共識。",
+      "cardId": "reddit-first-principles"
+    },
+    "published": null,
+    "dateNoteZh": "頁面只見相對時間，精確發布日未核對，不稱為今天新帖。"
+  },
+  {
     "id": "fcf8997c72866e681dbd",
     "url": "https://en.wikibooks.org/w/index.php?oldid=4351762&title=Technical_Analysis%2FPatterns",
     "sourceTitle": "Technical Analysis／Patterns — Targets 指定選段",
@@ -3361,72 +3434,6 @@
     "courseRefs": [],
     "authors": [
       "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "051266c51d7d1a365173",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-2nd-leg-down-after-yesterdays-outside-down-bar/",
-    "sourceTitle": "E-mini 2nd Leg Down After Yesterday’s Outside Down Bar",
-    "titleZh": "Brad 日內案例｜2025-07-30｜回檔與第二段",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-245879"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-245879"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-245879",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "0532446e88cc73809427",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-reversal-up-from-test-of-5500-round-number/",
-    "sourceTitle": "Emini Reversal up from Test of 5,500 Round Number",
-    "titleZh": "Brad 日內案例｜2024-07-02｜反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-211865"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-211865"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-211865",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

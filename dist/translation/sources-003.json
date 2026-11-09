@@ -1,5 +1,71 @@
 [
   {
+    "id": "1141efdff01560427303",
+    "url": "https://www.brookstradingcourse.com/analysis/brad-travelling-no-report-today/",
+    "sourceTitle": "Brad travelling – No report today",
+    "titleZh": "Brad 日內案例｜2024-12-04｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-224316"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-224316"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-224316",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "115a93a7e5594bf086b2",
+    "url": "https://www.youtube.com/playlist?list=PLFA11UMiAJm9vu7VsCd4ICSL-MQKceE2H",
+    "sourceTitle": "Live Stream Videos",
+    "titleZh": "Brooks 共享片單｜Live Stream Videos",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "list-PLFA11UMiAJm9vu7VsCd4ICSL-MQKceE2H"
+      }
+    ],
+    "resourceIds": [
+      "list-PLFA11UMiAJm9vu7VsCd4ICSL-MQKceE2H"
+    ],
+    "legacyObservations": [
+      {
+        "id": "list-PLFA11UMiAJm9vu7VsCd4ICSL-MQKceE2H",
+        "scope": "官方片單入口已核對；包含多講者者不概括歸屬 Brad",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊"
+    ]
+  },
+  {
     "id": "11759c6ee61de42e849c",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-buyers-likely-scaling-in-lower/",
     "sourceTitle": "E-mini Buyers Likely Scaling In Lower",
@@ -3133,72 +3199,6 @@
     "courseRefs": [],
     "authors": [
       "Ali Moin-Afshari／Quant Systems"
-    ]
-  },
-  {
-    "id": "1dbaed0db54829b7c944",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-testing-breakout-point/",
-    "sourceTitle": "Emini Testing Breakout Point of September 6",
-    "titleZh": "Brad 日內案例｜2022-09-20｜突破與延續",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-160859"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-160859"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-160859",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "1dcaacad7716f8314a4c",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bull-profit-taking-likely/",
-    "sourceTitle": "Emini Bull Profit Taking Likely",
-    "titleZh": "Brad 日內案例｜2024-09-16｜風險與退出",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-218173"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-218173"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-218173",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

@@ -1,5 +1,61 @@
 [
   {
+    "id": "b0ff928a5066ef216a89",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-momentum-slowing-down/",
+    "sourceTitle": "E-Mini Momentum Slowing Down",
+    "titleZh": "Brad 日內案例｜2025-08-14｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-247180"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-247180"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-247180",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "b10ac85beeea7332c1fa",
+    "url": "https://www.itl.nist.gov/div898/handbook/prc/section2/prc241.htm",
+    "sourceTitle": "Confidence intervals for a binomial proportion",
+    "titleZh": "Confidence intervals for a binomial proportion",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "pa3-winrate-uncertainty",
+        "index": 0
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "b1173e6fbc01585b50bf",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-disappointment-after-bull-breakout/",
     "sourceTitle": "E-mini Disappointment after Bull Breakout",
@@ -3157,72 +3213,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-156423",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "bbd0dbe961dc58d2cb87",
-    "url": "https://www.youtube.com/watch?v=MaEjbWDKVdE",
-    "sourceTitle": "Emini End of Day Review - Monday November 27, 2023 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-MaEjbWDKVdE"
-      }
-    ],
-    "resourceIds": [
-      "yt-MaEjbWDKVdE"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-MaEjbWDKVdE",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "bbdcc32dcdb1b7bb142b",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-disappointing-follow-through-2/",
-    "sourceTitle": "Emini Disappointing Follow-through",
-    "titleZh": "Brad 日內案例｜2024-01-10｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-197597"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-197597"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-197597",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

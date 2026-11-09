@@ -1,5 +1,71 @@
 [
   {
+    "id": "8fbc73b483a6d6b86172",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-close-above-last-weeks-high/",
+    "sourceTitle": "Emini Bulls Want Close above Last Week’s High",
+    "titleZh": "Brad 日內案例｜2022-11-18｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-164677"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-164677"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-164677",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "8ff916824695ce88f27c",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-outside-down-but-bad-context/",
+    "sourceTitle": "Emini Outside Down but Bad Context",
+    "titleZh": "Brad 日內案例｜2024-09-19｜背景與日結構",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-218367"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-218367"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-218367",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "900a7efd51254fb9be25",
     "url": "https://www.youtube.com/watch?v=BxuXqj9rbK4",
     "sourceTitle": "SP500 E-mini 5 Min Bear Spike & Channel to Endless Pullback - September 8, 2026",
@@ -3108,72 +3174,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-187783",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "9bb00fe17df8814e3e6a",
-    "url": "https://www.youtube.com/watch?v=-eWE2CQFevQ",
-    "sourceTitle": "S&P 500 E-mini Gap Up to Resistance, S&C Bear, Evolution into TR Day - August 12, 2026",
-    "titleZh": "Brooks 共享影片｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt--eWE2CQFevQ"
-      }
-    ],
-    "resourceIds": [
-      "yt--eWE2CQFevQ"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt--eWE2CQFevQ",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "9bb314fdbb214ab32563",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-testing-4500-round-number/",
-    "sourceTitle": "Emini Testing 4,500 Round Number",
-    "titleZh": "Brad 日內案例｜2023-08-03｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-185025"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-185025"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-185025",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

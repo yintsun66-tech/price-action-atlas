@@ -1,8 +1,99 @@
 {
   "version": 1,
-  "checked": "2026-11-08",
+  "checked": "2026-11-09",
   "policy": "編輯選讀順序依本專案學習用途排列，並非獲利或跨平台人氣排名。社群經驗只能作為問題來源。",
   "items": [
+    {
+      "id": "fraser-pnf-objective-window",
+      "platform": "StockCharts｜Wyckoff Power Charting",
+      "kind": "author",
+      "language": "en",
+      "author": "Bruce Fraser",
+      "title": "點數圖目標到了，也可能只是趨勢中的停頓",
+      "originalTitle": "Secrets of Point and Figure Distribution",
+      "url": "https://articles.stockcharts.com/article/articles-wyckoff-2016-01-secrets-of-point-and-figure-distribution/",
+      "requestedUrl": "https://stockcharts.com/articles/wyckoff/2016/01/secrets-of-point-and-figure-distribution.html",
+      "published": "2016-01-16",
+      "dateNote": "原頁列 January 16, 2016 at 03:08 PM；時區未標。舊網址重新導向至目前文章頁。",
+      "summary": "Fraser 以點數圖估計派發後的目標區；到價後仍須觀察停止行為，也可能整理後續跌。價格投射不等於反轉保證。",
+      "quote": {
+        "en": "Reaching a price objective can result in an extended pause",
+        "zh": "到達價格目標可能只帶來較長的停頓。",
+        "context": "原句後續指出趨勢仍可能延續；不是到價立刻反向進場的指令。"
+      },
+      "access": "實讀完整公開文章文字，含計數、目標區、保守報酬風險與到價後行為；未核驗原圖、重建歷史行情或檢驗績效。",
+      "translation": "精簡繁中摘要與必要短句，原文入口保留；不是全文翻譯或原圖重刊。",
+      "review": {
+        "basis": "作者在其公開專欄直接說明做法與限制。",
+        "learning": "將目標區與後續價格反應分開；作者提出以保守目標評估至少三比一的報酬風險準則。",
+        "limits": "三比一是本文交易篩選準則，並非命中率、所有威科夫版本的必要條件，亦非微台或 BTC 實測門檻。",
+        "engagement": "未取得可比獨立教學評分或帳戶對帳；平台作者介紹不作獲利證明。"
+      },
+      "figure": {
+        "src": "images/study/pnf-objective-risk.svg",
+        "alt": "本站假設投射距離四十八點，目標區一百零八至一百一十二，另計入場一百四十八與停損一百六十四",
+        "caption": "本站自訂數字的投射與風險算例；不重建本文歷史指數或完整點數圖。"
+      },
+      "related": [
+        "wyckoff-template-uncertainty",
+        "pa3-research-register"
+      ],
+      "tags": [
+        "點數圖",
+        "目標區",
+        "報酬風險"
+      ],
+      "batch": 31,
+      "collected": "2026-11-09",
+      "checked": "2026-11-09",
+      "courseRefs": [],
+      "status": "body-summary"
+    },
+    {
+      "id": "wyckoff-step-three-indications",
+      "platform": "Wyckoff Stock Market Institute 公開教材",
+      "kind": "author",
+      "language": "en",
+      "author": "The Jamison Group, Inc.（頁面版權署名；個人作者未列）",
+      "title": "先把目標當參考：不要為了等到價而忽略價量改變",
+      "originalTitle": "Step Three of the Wyckoff Method",
+      "url": "https://wyckoffstockmarketinstitute.com/wyckoff_articles/Wyckoff_Articles/wyckoff_step3.htm",
+      "published": null,
+      "dateNote": "首次發布與修訂日期未核對；頁尾 ©2009 是版權年份，不當作發文日。",
+      "summary": "第三步以橫向計數估計價格目標，並要求目標距離配合持有期間。目標只是參考，後續價量特徵仍需持續檢查。",
+      "quote": {
+        "en": "They provide indications only.",
+        "zh": "它們僅提供參考指引。",
+        "context": "They 指點數圖、計數與目標；保留 only 的限制，不改成保證實現的預測。"
+      },
+      "access": "實讀 Step Three 全部公開教學正文，含目標區、指數／個股、持有期間與結語；未觀看付費課程、核驗圖片或測試原文可靠性主張。",
+      "translation": "精簡繁中摘要與四詞短句；不重刊整篇或完整翻譯。",
+      "review": {
+        "basis": "機構公開教材的直接文字；頁面未列個人作者。",
+        "learning": "先固定圖表規格與目標範圍，再記錄是否出現不支持原假說的新價量。",
+        "limits": "原文關於指數與衍生商品計數可靠性的比較未附可重算實證，本卡不採為交易結論。未指定本文通用最小計數門檻。",
+        "engagement": "未取得獨立教材評分、樣本或績效驗證；不因機構署名補造排名。"
+      },
+      "figure": {
+        "src": "images/study/pnf-objective-risk.svg",
+        "alt": "目標距離、投射基準、進場與停損分列的本站原創計算圖",
+        "caption": "與本批另一卡共用一張原創算例；非本文行情、完整點數圖算法或勝率估計。"
+      },
+      "related": [
+        "wyckoff-template-uncertainty",
+        "practice-plan-not-stop-only"
+      ],
+      "tags": [
+        "威科夫",
+        "持有期間",
+        "假說失效"
+      ],
+      "batch": 31,
+      "collected": "2026-11-09",
+      "checked": "2026-11-09",
+      "courseRefs": [],
+      "status": "body-summary"
+    },
     {
       "id": "brad-range-20231206",
       "resourceId": "brad-post-195359",
@@ -1871,6 +1962,10 @@
   "legacyChecked": "2026-10-28",
   "batches": [
     {
+      "batch": 31,
+      "title": "第三十一批｜11.09 目標區與風險"
+    },
+    {
       "batch": 30,
       "title": "第三十批｜11.08 歷史判讀與機率語境"
     },
@@ -1932,12 +2027,12 @@
     }
   ],
   "intro": {
-    "heading": "同樣是 20%，先讀它在說哪件事。",
-    "text": "續讀兩篇既有 Brad 英文文章，補上繁中摘要與四項機率語境。歷史日期、開盤／全天事件、作者判讀及缺少的統計依據分開；沿用本站原創圖，不新增行情重建。",
+    "heading": "到達目標，也可能只是停頓。",
+    "text": "兩篇威科夫公開教材的繁中選讀，分清點數圖目標、後續價量與報酬風險。搭配本站自訂數字的計算圖；歷史文章與來源日期分列，不把目標投射當成勝率。",
     "links": [
       {
-        "id": "practice-context-hypothesis",
-        "label": "搭配背景假說的原創閱讀"
+        "id": "wyckoff-template-uncertainty",
+        "label": "閱讀目標區與風險的原創練習"
       }
     ]
   }

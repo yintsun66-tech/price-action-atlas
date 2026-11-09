@@ -2,6 +2,69 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch31-20261109",
+      "collected": "2026-11-09",
+      "updated": "2026-11-09",
+      "timezone": "Asia/Taipei",
+      "description": "威科夫目標區、到價後行為與報酬風險的公開選讀及原創算例。",
+      "articles": [
+        "wyckoff-template-uncertainty"
+      ],
+      "sources": [
+        "fraser-pnf-objective-window",
+        "wyckoff-step-three-indications"
+      ],
+      "decisions": [
+        {
+          "source": "Secrets of Point and Figure Distribution",
+          "url": "https://articles.stockcharts.com/article/articles-wyckoff-2016-01-secrets-of-point-and-figure-distribution/",
+          "status": "採用正文摘要",
+          "reason": "實讀完整公開文章文字，含計數、目標區、保守報酬風險與到價後行為；未核驗原圖、重建歷史行情或檢驗績效。"
+        },
+        {
+          "source": "Step Three of the Wyckoff Method",
+          "url": "https://wyckoffstockmarketinstitute.com/wyckoff_articles/Wyckoff_Articles/wyckoff_step3.htm",
+          "status": "採用正文摘要",
+          "reason": "實讀 Step Three 全部公開教學正文，含目標區、指數／個股、持有期間與結語；未觀看付費課程、核驗圖片或測試原文可靠性主張。"
+        },
+        {
+          "source": "Sierra Chart Cumulative Delta Bars - Volume",
+          "status": "略過重複題材",
+          "reason": "去重確認第二十三批已讀重置與歷史資料限制，第二十四批另有滾動計算；不重複算作新文。"
+        },
+        {
+          "source": "cum delta reset at 9.30",
+          "url": "https://www.sierrachart.com/SupportBoard.php?Page=1&ThreadID=24070",
+          "status": "本次取得失敗",
+          "reason": "公開原帖讀取返回 cache miss；只有搜尋摘錄，不當作沒有新文或正文已讀。"
+        },
+        {
+          "source": "Reddit 價格行為與多週期討論",
+          "status": "本批未採",
+          "reason": "僅取得搜尋摘錄，未實讀完整原帖，亦未採會員自述勝率或交易效果。"
+        },
+        {
+          "source": "PTT／TradingView 中文檢索",
+          "status": "未取得合適原帖",
+          "reason": "本次混合檢索未找到可供本批實讀的繁中原帖；不推斷平台沒有新文。"
+        },
+        {
+          "source": "Wyckoff Analytics 官方文章與教學影片",
+          "status": "本批未採全文或影片",
+          "reason": "只有搜尋結果介紹，未觀看影片。未授權書籍 PDF 亦不取作全文翻譯。"
+        }
+      ],
+      "notes": [
+        "兩個新英文網址與兩張選讀；原文發表日期、版權年與查核日分列。",
+        "StockCharts 舊網址重新導向至文章頁，採最終網址去重；頁面原始網址留存。",
+        "點數圖目標、價格距離、報酬風險及勝率分開；三比一歸屬本文作者的準則，不泛化為威科夫保證。",
+        "原創數字為八欄×二點×三格＝四十八點；自設目標108–112、進場148、停損164，近端報酬風險2.25，未計成本。",
+        "原文指數與衍生商品的可靠性比較未經本站實證，不採作交易結論。",
+        "短句分別十詞、四詞；公開可讀不等於取得完整翻譯授權。",
+        "保留原有閱讀 ID、來源日期、四十三張舊卡、七十二張舊圖與筆記格式；未新增 Brooks 課程引用、排程或執行交易。"
+      ]
+    },
+    {
       "id": "content-batch30-20261108",
       "collected": "2026-11-08",
       "updated": "2026-11-08",

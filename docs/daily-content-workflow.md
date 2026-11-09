@@ -2,7 +2,7 @@
 
 **現行發布規則（2026-11-02 起）：**使用者已明確選擇公開 GitHub Pages。主要原始檔為 https://github.com/yintsun66-tech/price-action-atlas ，網站為 https://yintsun66-tech.github.io/price-action-atlas/ 。先讀本站 AGENTS.md 與 docs/versioning.md；每次實質發布需遞增版本、更新 CHANGELOG 並推送 vX.Y.Z 標籤。以下舊 Sites 流程保留歷史語境，不再作新發布目標。個人筆記／備份不可上傳儲存庫。
 
-**第三十批：v1.5.0（發布日 2026-11-09；來源查核日 2026-11-08）**。最新生成器為 build-content-batch30.cjs → 翻譯清單 → 中文呈現／版本標示；實讀紀錄 zh-core-source-reviews-23.json，新增兩張歷史選讀與四項來源卡機率語境。資料、閱讀器及瀏覽器驗收通過：第三十批顯示兩篇／累積四十三篇，英文短句可展開，75% 搜尋正確，大字機率區塊及沿用原創圖正常。詳見 docs/content-batch30.md 與 workspace artifacts/content_batch30_2026-11-08/。仍須依版本流程確認 Actions、同版 Release 及 Pages 後才對外稱已上線。
+**第三十一批：v1.6.0（2026-11-09）**。最新生成器為 build-content-batch31.cjs → 翻譯清單 → 中文呈現／版本標示；實讀紀錄 zh-core-source-reviews-24.json。兩篇威科夫選讀、既有圖式單元追加兩節及一張原創圖；累積四十五張來源卡、七十三張圖。目標投射與報酬風險分開，原文未提供的命中率不補造；詳見 docs/content-batch31.md。仍須依版本流程確認驗證、Actions、同版 Release 及 Pages 後才對外稱已上線。
 
 先前因 11-08 瀏覽器介面不可用而保留候選版；11-09 恢復後接續同批驗收，沒有重複升版或改寫兩篇來源日期。第二十九批 v1.4.0 的原創圖解、閱讀單元與驗證紀錄保留。
 

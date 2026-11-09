@@ -1,5 +1,60 @@
 [
   {
+    "id": "de6b045bee69820927ab",
+    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-11b-gaps-v2/",
+    "sourceTitle": "缺口",
+    "titleZh": "缺口",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "缺口"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "de710137d959afb1ae78",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-odds-second-leg-up/",
+    "sourceTitle": "Emini odds favor second leg up and test of 4,000 big round number",
+    "titleZh": "Brad 日內案例｜2022-06-28｜回檔與第二段",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-155058"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-155058"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-155058",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "de85b278e063f39088c3",
     "url": "https://www.brookstradingcourse.com/analysis/emini-above-trading-range-low/",
     "sourceTitle": "Emini closed above 9-month trading range low",
@@ -3125,71 +3180,5 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": []
-  },
-  {
-    "id": "ec1a4cb528cb628dca62",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-close-below-daily-moving-average/",
-    "sourceTitle": "Emini Close below Daily Moving Average",
-    "titleZh": "Brad 日內案例｜2024-09-04｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-216573"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-216573"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-216573",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "ec27240efd2a5bd5215b",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-losing-momentum/",
-    "sourceTitle": "Emini Bulls Losing Momentum",
-    "titleZh": "Brad 日內案例｜2024-11-12｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-222787"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-222787"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-222787",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
   }
 ]

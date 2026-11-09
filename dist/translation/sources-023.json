@@ -1,5 +1,72 @@
 [
   {
+    "id": "f74425f6a18aef47d1c8",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-want-2nd-leg-up-after-yesterday/",
+    "sourceTitle": "E-mini Bulls Want 2nd Leg Up After Yesterday",
+    "titleZh": "E-mini：多方希望在昨日走勢之後出現第二段上漲",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-279445"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-279445"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-279445",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "原題只寫 After Yesterday，沒有補造昨日具體走勢。",
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "f753aab7a28b0f6d8e1b",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bull-breakout-of-triangle/",
+    "sourceTitle": "Emini Bull Breakout of Triangle",
+    "titleZh": "Brad 日內案例｜2023-05-19｜突破與延續",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-178293"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-178293"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-178293",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "f7688751ed7ed8d6fca5",
     "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-24a-wedges/",
     "sourceTitle": "楔形",

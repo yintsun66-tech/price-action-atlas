@@ -1,5 +1,71 @@
 [
   {
+    "id": "a74d81b530fdf9c9570e",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-test-of-4400/",
+    "sourceTitle": "Emini Bears Want Test of 4,400",
+    "titleZh": "Brad 日內案例｜2023-09-21｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-189739"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-189739"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-189739",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "a76247e18cb06ea5ce8b",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-want-test-of-november-low/",
+    "sourceTitle": "Emini Bears Want Test of November Low",
+    "titleZh": "Brad 日內案例｜2025-01-13｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-227292"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-227292"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-227292",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "a7982cc817fa7c709304",
     "url": "https://www.brookstradingcourse.com/analysis/emini-momentum-stalling/",
     "sourceTitle": "Emini Momentum Stalling",
@@ -3121,61 +3187,5 @@
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
     ]
-  },
-  {
-    "id": "b0ff928a5066ef216a89",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-momentum-slowing-down/",
-    "sourceTitle": "E-Mini Momentum Slowing Down",
-    "titleZh": "Brad 日內案例｜2025-08-14｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-247180"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-247180"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-247180",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "b10ac85beeea7332c1fa",
-    "url": "https://www.itl.nist.gov/div898/handbook/prc/section2/prc241.htm",
-    "sourceTitle": "Confidence intervals for a binomial proportion",
-    "titleZh": "Confidence intervals for a binomial proportion",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "article-source",
-        "id": "pa3-winrate-uncertainty",
-        "index": 0
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   }
 ]

@@ -3376,6 +3376,99 @@
     "editorNotesZh": []
   },
   {
+    "id": "60db76cbbb3bb4668efd",
+    "url": "https://wyckoffstockmarketinstitute.com/wyckoff_articles/Wyckoff_Articles/wyckoff_step3.htm",
+    "sourceTitle": "Step Three of the Wyckoff Method",
+    "titleZh": "先把目標當參考：不要為了等到價而忽略價量改變",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "第三步以橫向計數估計價格目標，並要求目標距離配合持有期間。目標只是參考，後續價量特徵仍需持續檢查。",
+    "readScope": "實讀 Step Three 全部公開教學正文，含目標區、指數／個股、持有期間與結語；未觀看付費課程、核驗圖片或測試原文可靠性主張。",
+    "checked": "2026-11-09",
+    "inventoried": "2026-11-09",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "wyckoff-template-uncertainty",
+        "index": 2
+      },
+      {
+        "kind": "community",
+        "id": "wyckoff-step-three-indications"
+      },
+      {
+        "kind": "review",
+        "id": "source-b31-wyckoff-step-three-indications"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b31-wyckoff-step-three-indications",
+        "url": "https://wyckoffstockmarketinstitute.com/wyckoff_articles/Wyckoff_Articles/wyckoff_step3.htm",
+        "sourceTitle": "Step Three of the Wyckoff Method",
+        "sourceTitleZh": "先把目標當參考：不要為了等到價而忽略價量改變",
+        "authorConfirmed": "The Jamison Group, Inc.（頁面版權署名；個人作者未列）",
+        "published": null,
+        "dateNoteZh": "首次發布與修訂日期未核對；頁尾 ©2009 是版權年份，不當作發文日。",
+        "checked": "2026-11-09",
+        "status": "body-summary",
+        "readScope": "實讀 Step Three 全部公開教學正文，含目標區、指數／個股、持有期間與結語；未觀看付費課程、核驗圖片或測試原文可靠性主張。",
+        "summaryZh": "第三步以橫向計數估計價格目標，並要求目標距離配合持有期間。目標只是參考，後續價量特徵仍需持續檢查。",
+        "keyPointsZh": [
+          "先固定圖表規格與目標範圍，再記錄是否出現不支持原假說的新價量。"
+        ],
+        "shortExcerpt": {
+          "en": "They provide indications only.",
+          "zh": "它們僅提供參考指引。",
+          "scope": "They 指點數圖、計數與目標；保留 only 的限制，不改成保證實現的預測。"
+        },
+        "limitsZh": "原文關於指數與衍生商品計數可靠性的比較未附可重算實證，本卡不採為交易結論。未指定本文通用最小計數門檻。 未取得獨立教材評分、樣本或績效驗證；不因機構署名補造排名。",
+        "evidence": {
+          "urls": [
+            "https://wyckoffstockmarketinstitute.com/wyckoff_articles/Wyckoff_Articles/wyckoff_step3.htm"
+          ],
+          "accessMethod": "實讀原作者或機構公開正文文字；未核驗原圖或績效",
+          "scope": "實讀 Step Three 全部公開教學正文，含目標區、指數／個股、持有期間與結語；未觀看付費課程、核驗圖片或測試原文可靠性主張。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "The Jamison Group, Inc.（頁面版權署名；個人作者未列）"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "第三步以橫向計數估計價格目標，並要求目標距離配合持有期間。目標只是參考，後續價量特徵仍需持續檢查。",
+      "readScope": "實讀 Step Three 全部公開教學正文，含目標區、指數／個股、持有期間與結語；未觀看付費課程、核驗圖片或測試原文可靠性主張。",
+      "checked": "2026-11-09",
+      "translationScope": "精簡繁中摘要與四詞短句；不重刊整篇或完整翻譯。",
+      "cardId": "wyckoff-step-three-indications"
+    },
+    "published": null,
+    "dateNoteZh": "首次發布與修訂日期未核對；頁尾 ©2009 是版權年份，不當作發文日。",
+    "keyPointsZh": [
+      "先固定圖表規格與目標範圍，再記錄是否出現不支持原假說的新價量。"
+    ],
+    "limitsZh": "原文關於指數與衍生商品計數可靠性的比較未附可重算實證，本卡不採為交易結論。未指定本文通用最小計數門檻。 未取得獨立教材評分、樣本或績效驗證；不因機構署名補造排名。",
+    "evidence": {
+      "urls": [
+        "https://wyckoffstockmarketinstitute.com/wyckoff_articles/Wyckoff_Articles/wyckoff_step3.htm"
+      ],
+      "accessMethod": "實讀原作者或機構公開正文文字；未核驗原圖或績效",
+      "scope": "實讀 Step Three 全部公開教學正文，含目標區、指數／個股、持有期間與結語；未觀看付費課程、核驗圖片或測試原文可靠性主張。"
+    },
+    "shortExcerpt": {
+      "en": "They provide indications only.",
+      "zh": "它們僅提供參考指引。",
+      "scope": "They 指點數圖、計數與目標；保留 only 的限制，不改成保證實現的預測。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "The Jamison Group, Inc.（頁面版權署名；個人作者未列）"
+  },
+  {
     "id": "6577dcee167868bb196b",
     "url": "https://podcasts.apple.com/us/podcast/line-your-own-pockets/id1762640188",
     "sourceTitle": "Line Your Own Pockets - Apple Podcasts",
@@ -8125,6 +8218,99 @@
     "authorConfirmed": "Adam H. Grimes"
   },
   {
+    "id": "e66ee3c088e6f75e6790",
+    "url": "https://articles.stockcharts.com/article/articles-wyckoff-2016-01-secrets-of-point-and-figure-distribution/",
+    "sourceTitle": "Secrets of Point and Figure Distribution",
+    "titleZh": "點數圖目標到了，也可能只是趨勢中的停頓",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "Fraser 以點數圖估計派發後的目標區；到價後仍須觀察停止行為，也可能整理後續跌。價格投射不等於反轉保證。",
+    "readScope": "實讀完整公開文章文字，含計數、目標區、保守報酬風險與到價後行為；未核驗原圖、重建歷史行情或檢驗績效。",
+    "checked": "2026-11-09",
+    "inventoried": "2026-11-09",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "wyckoff-template-uncertainty",
+        "index": 1
+      },
+      {
+        "kind": "community",
+        "id": "fraser-pnf-objective-window"
+      },
+      {
+        "kind": "review",
+        "id": "source-b31-fraser-pnf-objective-window"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b31-fraser-pnf-objective-window",
+        "url": "https://articles.stockcharts.com/article/articles-wyckoff-2016-01-secrets-of-point-and-figure-distribution/",
+        "sourceTitle": "Secrets of Point and Figure Distribution",
+        "sourceTitleZh": "點數圖目標到了，也可能只是趨勢中的停頓",
+        "authorConfirmed": "Bruce Fraser",
+        "published": "2016-01-16",
+        "dateNoteZh": "原頁列 January 16, 2016 at 03:08 PM；時區未標。舊網址重新導向至目前文章頁。",
+        "checked": "2026-11-09",
+        "status": "body-summary",
+        "readScope": "實讀完整公開文章文字，含計數、目標區、保守報酬風險與到價後行為；未核驗原圖、重建歷史行情或檢驗績效。",
+        "summaryZh": "Fraser 以點數圖估計派發後的目標區；到價後仍須觀察停止行為，也可能整理後續跌。價格投射不等於反轉保證。",
+        "keyPointsZh": [
+          "將目標區與後續價格反應分開；作者提出以保守目標評估至少三比一的報酬風險準則。"
+        ],
+        "shortExcerpt": {
+          "en": "Reaching a price objective can result in an extended pause",
+          "zh": "到達價格目標可能只帶來較長的停頓。",
+          "scope": "原句後續指出趨勢仍可能延續；不是到價立刻反向進場的指令。"
+        },
+        "limitsZh": "三比一是本文交易篩選準則，並非命中率、所有威科夫版本的必要條件，亦非微台或 BTC 實測門檻。 未取得可比獨立教學評分或帳戶對帳；平台作者介紹不作獲利證明。",
+        "evidence": {
+          "urls": [
+            "https://articles.stockcharts.com/article/articles-wyckoff-2016-01-secrets-of-point-and-figure-distribution/"
+          ],
+          "accessMethod": "實讀原作者或機構公開正文文字；未核驗原圖或績效",
+          "scope": "實讀完整公開文章文字，含計數、目標區、保守報酬風險與到價後行為；未核驗原圖、重建歷史行情或檢驗績效。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "Bruce Fraser"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "Fraser 以點數圖估計派發後的目標區；到價後仍須觀察停止行為，也可能整理後續跌。價格投射不等於反轉保證。",
+      "readScope": "實讀完整公開文章文字，含計數、目標區、保守報酬風險與到價後行為；未核驗原圖、重建歷史行情或檢驗績效。",
+      "checked": "2026-11-09",
+      "translationScope": "精簡繁中摘要與必要短句，原文入口保留；不是全文翻譯或原圖重刊。",
+      "cardId": "fraser-pnf-objective-window"
+    },
+    "published": "2016-01-16",
+    "dateNoteZh": "原頁列 January 16, 2016 at 03:08 PM；時區未標。舊網址重新導向至目前文章頁。",
+    "keyPointsZh": [
+      "將目標區與後續價格反應分開；作者提出以保守目標評估至少三比一的報酬風險準則。"
+    ],
+    "limitsZh": "三比一是本文交易篩選準則，並非命中率、所有威科夫版本的必要條件，亦非微台或 BTC 實測門檻。 未取得可比獨立教學評分或帳戶對帳；平台作者介紹不作獲利證明。",
+    "evidence": {
+      "urls": [
+        "https://articles.stockcharts.com/article/articles-wyckoff-2016-01-secrets-of-point-and-figure-distribution/"
+      ],
+      "accessMethod": "實讀原作者或機構公開正文文字；未核驗原圖或績效",
+      "scope": "實讀完整公開文章文字，含計數、目標區、保守報酬風險與到價後行為；未核驗原圖、重建歷史行情或檢驗績效。"
+    },
+    "shortExcerpt": {
+      "en": "Reaching a price objective can result in an extended pause",
+      "zh": "到達價格目標可能只帶來較長的停頓。",
+      "scope": "原句後續指出趨勢仍可能延續；不是到價立刻反向進場的指令。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Bruce Fraser"
+  },
+  {
     "id": "ea097b1f9392051cff5f",
     "url": "https://www.wyckoffanalytics.com/wyckoff-reaccumulation-vs-distribution-how-to-tell-which-one-youre-in/",
     "sourceTitle": "Wyckoff Reaccumulation vs Distribution: How to Tell Which One You’re In",
@@ -8753,78 +8939,5 @@
     },
     "published": "2025-10-14",
     "dateNoteZh": "原頁明列日期並有 Updated 標示；更新日未另提供。"
-  },
-  {
-    "id": "f51078b6a9c53a692968",
-    "url": "https://www.wyckoffanalytics.com/wp-content/uploads/2019/09/WyckoffSchematics-VisualTemplatesForMarketTimingDecisions.pdf",
-    "sourceTitle": "威科夫圖式是視覺範本：不要強迫每段區間照圖演出",
-    "titleZh": "威科夫圖式是視覺範本：不要強迫每段區間照圖演出",
-    "titleCoverage": "existing-label",
-    "status": "excerpt-summary",
-    "summaryZh": "原文以理想化圖式整理累積與派發，也明示基本累積模型不能涵蓋交易區間的所有變化。",
-    "readScope": "已讀公開 PDF 的文字，核對作者、刊期與模型限制；未重製圖式或原文市場圖。",
-    "checked": "2026-10-29",
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "article-source",
-        "id": "wyckoff-template-uncertainty",
-        "index": 0
-      },
-      {
-        "kind": "community",
-        "id": "wyckoff-schematics-paper"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Hank Pruden、Max von Lichtenstein"
-    ],
-    "existingExcerpt": {
-      "summaryZh": "原文以理想化圖式整理累積與派發，也明示基本累積模型不能涵蓋交易區間的所有變化。",
-      "readScope": "已讀公開 PDF 的文字，核對作者、刊期與模型限制；未重製圖式或原文市場圖。",
-      "checked": "2026-10-29",
-      "translationScope": "來源短摘要與必要短句翻譯；非論文全文譯文。",
-      "cardId": "wyckoff-schematics-paper"
-    },
-    "published": null,
-    "dateNoteZh": "刊物明列 Issue 55、2006 年 3 月；不以 2019 年下載路徑當成發表日期。"
-  },
-  {
-    "id": "fc5f102a8f296ec9cd48",
-    "url": "https://www.reddit.com/r/Daytrading/comments/1xebtgu/price_action_recommendations/",
-    "sourceTitle": "看完 Brooks 仍想找更基礎教材：先確認學習缺口",
-    "titleZh": "看完 Brooks 仍想找更基礎教材：先確認學習缺口",
-    "titleCoverage": "existing-label",
-    "status": "excerpt-summary",
-    "summaryZh": "提問者覺得解讀常有兩種方向；回覆一方建議增加觀察練習，另一方談其他確認方法。分歧是學習感受，不能決定方法是否有效。",
-    "readScope": "已讀公開提問與可見回覆，沒有加入私群或聯絡作者。",
-    "checked": "2026-10-28",
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "community",
-        "id": "reddit-first-principles"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "提問 hello_diddy；短句回覆 OffbeatConcur_109"
-    ],
-    "existingExcerpt": {
-      "summaryZh": "提問者覺得解讀常有兩種方向；回覆一方建議增加觀察練習，另一方談其他確認方法。分歧是學習感受，不能決定方法是否有效。",
-      "readScope": "已讀公開提問與可見回覆，沒有加入私群或聯絡作者。",
-      "checked": "2026-10-28",
-      "translationScope": "必要短句翻譯與來源摘要；不同回覆不合併成社群共識。",
-      "cardId": "reddit-first-principles"
-    },
-    "published": null,
-    "dateNoteZh": "頁面只見相對時間，精確發布日未核對，不稱為今天新帖。"
   }
 ]

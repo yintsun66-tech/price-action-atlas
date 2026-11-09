@@ -1,0 +1,62 @@
+[
+  {
+    "resourceId": "source-b31-fraser-pnf-objective-window",
+    "url": "https://articles.stockcharts.com/article/articles-wyckoff-2016-01-secrets-of-point-and-figure-distribution/",
+    "sourceTitle": "Secrets of Point and Figure Distribution",
+    "sourceTitleZh": "點數圖目標到了，也可能只是趨勢中的停頓",
+    "authorConfirmed": "Bruce Fraser",
+    "published": "2016-01-16",
+    "dateNoteZh": "原頁列 January 16, 2016 at 03:08 PM；時區未標。舊網址重新導向至目前文章頁。",
+    "checked": "2026-11-09",
+    "status": "body-summary",
+    "readScope": "實讀完整公開文章文字，含計數、目標區、保守報酬風險與到價後行為；未核驗原圖、重建歷史行情或檢驗績效。",
+    "summaryZh": "Fraser 以點數圖估計派發後的目標區；到價後仍須觀察停止行為，也可能整理後續跌。價格投射不等於反轉保證。",
+    "keyPointsZh": [
+      "將目標區與後續價格反應分開；作者提出以保守目標評估至少三比一的報酬風險準則。"
+    ],
+    "shortExcerpt": {
+      "en": "Reaching a price objective can result in an extended pause",
+      "zh": "到達價格目標可能只帶來較長的停頓。",
+      "scope": "原句後續指出趨勢仍可能延續；不是到價立刻反向進場的指令。"
+    },
+    "limitsZh": "三比一是本文交易篩選準則，並非命中率、所有威科夫版本的必要條件，亦非微台或 BTC 實測門檻。 未取得可比獨立教學評分或帳戶對帳；平台作者介紹不作獲利證明。",
+    "evidence": {
+      "urls": [
+        "https://articles.stockcharts.com/article/articles-wyckoff-2016-01-secrets-of-point-and-figure-distribution/"
+      ],
+      "accessMethod": "實讀原作者或機構公開正文文字；未核驗原圖或績效",
+      "scope": "實讀完整公開文章文字，含計數、目標區、保守報酬風險與到價後行為；未核驗原圖、重建歷史行情或檢驗績效。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "source-b31-wyckoff-step-three-indications",
+    "url": "https://wyckoffstockmarketinstitute.com/wyckoff_articles/Wyckoff_Articles/wyckoff_step3.htm",
+    "sourceTitle": "Step Three of the Wyckoff Method",
+    "sourceTitleZh": "先把目標當參考：不要為了等到價而忽略價量改變",
+    "authorConfirmed": "The Jamison Group, Inc.（頁面版權署名；個人作者未列）",
+    "published": null,
+    "dateNoteZh": "首次發布與修訂日期未核對；頁尾 ©2009 是版權年份，不當作發文日。",
+    "checked": "2026-11-09",
+    "status": "body-summary",
+    "readScope": "實讀 Step Three 全部公開教學正文，含目標區、指數／個股、持有期間與結語；未觀看付費課程、核驗圖片或測試原文可靠性主張。",
+    "summaryZh": "第三步以橫向計數估計價格目標，並要求目標距離配合持有期間。目標只是參考，後續價量特徵仍需持續檢查。",
+    "keyPointsZh": [
+      "先固定圖表規格與目標範圍，再記錄是否出現不支持原假說的新價量。"
+    ],
+    "shortExcerpt": {
+      "en": "They provide indications only.",
+      "zh": "它們僅提供參考指引。",
+      "scope": "They 指點數圖、計數與目標；保留 only 的限制，不改成保證實現的預測。"
+    },
+    "limitsZh": "原文關於指數與衍生商品計數可靠性的比較未附可重算實證，本卡不採為交易結論。未指定本文通用最小計數門檻。 未取得獨立教材評分、樣本或績效驗證；不因機構署名補造排名。",
+    "evidence": {
+      "urls": [
+        "https://wyckoffstockmarketinstitute.com/wyckoff_articles/Wyckoff_Articles/wyckoff_step3.htm"
+      ],
+      "accessMethod": "實讀原作者或機構公開正文文字；未核驗原圖或績效",
+      "scope": "實讀 Step Three 全部公開教學正文，含目標區、指數／個股、持有期間與結語；未觀看付費課程、核驗圖片或測試原文可靠性主張。"
+    },
+    "courseRefs": []
+  }
+]

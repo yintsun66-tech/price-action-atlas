@@ -1,5 +1,71 @@
 [
   {
+    "id": "1dbaed0db54829b7c944",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-testing-breakout-point/",
+    "sourceTitle": "Emini Testing Breakout Point of September 6",
+    "titleZh": "Brad 日內案例｜2022-09-20｜突破與延續",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-160859"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-160859"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-160859",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "1dcaacad7716f8314a4c",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bull-profit-taking-likely/",
+    "sourceTitle": "Emini Bull Profit Taking Likely",
+    "titleZh": "Brad 日內案例｜2024-09-16｜風險與退出",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-218173"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-218173"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-218173",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "1e30e751bef5ee828730",
     "url": "https://www.brookstradingcourse.com/trade-price-action/video-45b-trading-broad-bull-channels/",
     "sourceTitle": "寬多頭通道交易",
@@ -3133,72 +3199,6 @@
     "courseRefs": [],
     "authors": [
       "Ali Moin-Afshari／Quant Systems"
-    ]
-  },
-  {
-    "id": "2916b2085235004b9c02",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-major-trend-reversal/",
-    "sourceTitle": "Emini bulls want major trend reversal",
-    "titleZh": "Brad 日內案例｜2022-03-07｜反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-145326"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-145326"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-145326",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "29911a57653eb1f74bbe",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bad-buy-signal-bar-for-bulls/",
-    "sourceTitle": "Emini Bad Buy Signal Bar for Bulls",
-    "titleZh": "Brad 日內案例｜2024-06-26｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-211433"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-211433"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-211433",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

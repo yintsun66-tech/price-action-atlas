@@ -1,5 +1,71 @@
 [
   {
+    "id": "83bdf913b740c08e83af",
+    "url": "https://www.brookstradingcourse.com/analysis/no-report-today-brad-travelling-3/",
+    "sourceTitle": "No report today — Brad travelling",
+    "titleZh": "Brad 日內案例｜2023-10-09｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-191737"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-191737"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-191737",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "83e8a50690fc05d67910",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-reversal-up-likely-minor/",
+    "sourceTitle": "Emini first reversal up likely minor",
+    "titleZh": "Brad 日內案例｜2022-09-01｜反轉與陷阱",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-159425"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-159425"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-159425",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "8426bc72ca61485db95b",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-hopeful-for-strong-follow-through/",
     "sourceTitle": "E-mini Bulls Hopeful for Strong Follow-through",
@@ -3118,72 +3184,6 @@
       {
         "id": "yt-_kId4yg6ni0",
         "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "8fbc73b483a6d6b86172",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-close-above-last-weeks-high/",
-    "sourceTitle": "Emini Bulls Want Close above Last Week’s High",
-    "titleZh": "Brad 日內案例｜2022-11-18｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-164677"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-164677"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-164677",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "8ff916824695ce88f27c",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-outside-down-but-bad-context/",
-    "sourceTitle": "Emini Outside Down but Bad Context",
-    "titleZh": "Brad 日內案例｜2024-09-19｜背景與日結構",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-218367"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-218367"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-218367",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }
     ],

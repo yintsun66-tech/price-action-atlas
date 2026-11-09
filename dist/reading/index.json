@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-07",
+  "revision": "2026-11-09",
   "articles": [
     {
       "id": "licensed-measured-move",
@@ -39,7 +39,7 @@
       "subtitle": "先保存當時可見的資料，再讀原作者對圖式範圍的限制",
       "summary": "用本站另編的兩條價格路徑，練習辨認同一段已知區間與不同後續。重點是凍結邊界、保存原判斷及缺少的資料，避免在完整圖上找完字母後，誤認自己當時就知道結局。",
       "level": "中階",
-      "minutes": 12,
+      "minutes": 18,
       "mode": "guide",
       "batch": 7,
       "topic": "區間",
@@ -58,7 +58,7 @@
       ],
       "hasCases": true,
       "hasChart": false,
-      "figureCount": 1
+      "figureCount": 2
     },
     {
       "id": "ict-event-rates",

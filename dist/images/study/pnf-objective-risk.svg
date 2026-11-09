@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="760" viewBox="0 0 960 760" role="img" aria-labelledby="t d">
+<title id="t">目標區、進場與風險，要分開計算</title><desc id="d">非真實行情。本站假設已選定八欄、每格兩點、三格轉向，投射距離四十八點。由一百六十與一百五十六分別向下投射，得到一百一十二至一百零八的目標區。另假設空單進場一百四十八、停損一百六十四，風險十六點；較近目標的潛在報酬三十六點，報酬風險二點二五，尚未扣除成本。這不是完整點數圖計數教學、作者歷史案例或勝率。</desc>
+<rect width="960" height="760" rx="24" fill="#f5f7fa"/>
+<g font-family="system-ui,'Microsoft JhengHei',sans-serif" fill="#20262d">
+<text x="40" y="52" font-size="30" font-weight="750">目標區、進場與風險，要分開計算</text>
+<text x="40" y="88" font-size="18" fill="#53616e">原創假設：已選定 8 欄 × 每格 2 點 × 3 格轉向 ＝ 投射距離 48 點</text>
+<rect x="40" y="116" width="425" height="360" rx="16" fill="#fff" stroke="#d5dde6"/>
+<rect x="495" y="116" width="425" height="360" rx="16" fill="#fff" stroke="#d5dde6"/>
+<text x="62" y="156" font-size="24" font-weight="750">① 投射：得到價格區間</text>
+<text x="517" y="156" font-size="24" font-weight="750">② 交易：另設進場與停損</text>
+<path d="M95 210H410M95 241H410M95 385H410M95 417H410" stroke="#b7c5d1" stroke-width="2"/>
+<path d="M110 217V378M405 248V410" stroke="#23658d" stroke-width="3"/>
+<path d="M102 369L110 380L118 369M397 401L405 412L413 401" fill="none" stroke="#23658d" stroke-width="3"/>
+<g font-size="21"><text x="132" y="204">區域高點 160</text><text x="132" y="237">計數線 156</text><text x="133" y="319" fill="#23658d">各減 48 點</text><text x="132" y="379">較近目標 112</text><text x="132" y="443">較遠目標 108</text></g>
+<path d="M540 211H876" stroke="#a36543" stroke-width="3"/>
+<path d="M540 277H876" stroke="#23658d" stroke-width="3"/>
+<path d="M540 410H876" stroke="#2b7367" stroke-width="3"/>
+<g font-size="21"><text x="551" y="201">停損 164</text><text x="551" y="267">空單進場 148</text><text x="551" y="400">較近目標 112</text><text x="715" y="244" fill="#955b3c">風險 16 點</text><text x="687" y="345" fill="#2b7367">潛在報酬 36 點</text></g>
+<rect x="40" y="501" width="880" height="108" rx="16" fill="#eaf1f7"/>
+<text x="62" y="541" font-size="24" font-weight="750">保守算例：36 ÷ 16 ＝ 2.25 倍報酬風險</text>
+<text x="62" y="581" font-size="21">不是 2.25 倍收益保證，也不能換算成勝率；尚未扣除成本。</text>
+<rect x="40" y="630" width="880" height="66" rx="16" fill="#fff4e2"/>
+<text x="62" y="671" font-size="22" font-weight="750">到達目標 ≠ 一定反轉；後續可停止、整理或延續。</text>
+<text x="40" y="736" font-size="17" fill="#53616e">非真實行情、完整點數圖算法或績效；位置非等比例，數字另設，不能據此下單。</text>
+</g></svg>
