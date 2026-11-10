@@ -1,6 +1,6 @@
 {
   "name": "price-action-atlas",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "private": true,
   "description": "繁體中文價格行為學習網站",
   "engines": {
@@ -10,7 +10,7 @@
     "build": "node scripts/build-current.cjs",
     "preview": "node scripts/serve.cjs",
     "verify": "node scripts/verify-site.cjs",
-    "test": "node --test test/release.test.cjs && node scripts/verify-site.cjs",
+    "test": "node --test test/release.test.cjs test/readability.test.cjs && node scripts/verify-site.cjs",
     "version:patch": "node scripts/release-version.cjs patch",
     "version:minor": "node scripts/release-version.cjs minor",
     "version:major": "node scripts/release-version.cjs major"

@@ -1,5 +1,7 @@
 # Price Action Atlas 每日內容更新
 
+**2026-11-10 易讀性優先調整：**沿用每天 Asia/Taipei 10:00 的原排程。先修語境翻譯、數量與日期，再校讀既有教材、圖文數字與自測答案，最後少量新增來源。先讀 [readability-editorial.md](readability-editorial.md)；十八篇主線、十二練習單元與四十八任務使用同一學習入口。最新 build-current 在既有教材、翻譯清單及中文呈現之後執行 build-readability.cjs，保留其閱讀層次與所有原文來源。
+
 **現行發布規則（2026-11-02 起）：**使用者已明確選擇公開 GitHub Pages。主要原始檔為 https://github.com/yintsun66-tech/price-action-atlas ，網站為 https://yintsun66-tech.github.io/price-action-atlas/ 。先讀本站 AGENTS.md 與 docs/versioning.md；每次實質發布需遞增版本、更新 CHANGELOG 並推送 vX.Y.Z 標籤。以下舊 Sites 流程保留歷史語境，不再作新發布目標。個人筆記／備份不可上傳儲存庫。
 
 **第三十二批：v1.7.0（2026-11-10）**。最新生成器為 build-content-batch32.cjs → 翻譯清單 → 中文呈現／版本標示；實讀紀錄 zh-core-source-reviews-25.json。兩篇官方文件正文摘要、一筆客服指定答覆摘要，訊號成交單元追加兩節及一張同尺度原創圖；累積四十八張來源卡、七十四張圖。最末棒覆寫、歷史公式與標準價格成交分開；詳見 docs/content-batch32.md。依版本流程確認驗證、Actions、同版 Release 與 Pages 後才對外稱已上線。

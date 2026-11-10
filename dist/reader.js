@@ -87,7 +87,7 @@
     q("#reader-read").textContent=r.read?"已標記已讀 ✓":"標記已讀";
     q("#reader-note").value=r.note;
     const i=ids.indexOf(current.id);
-    q("#reader-position").textContent=(i+1)+" / "+ids.length;
+    q("#reader-position").textContent="閱讀庫排序 "+(i+1)+" / "+ids.length;
     q("#reader-previous").disabled=i===0; q("#reader-next").disabled=i===ids.length-1;
     storageStatus();
   }
@@ -135,8 +135,9 @@
     } else if(name==="cases") {body.innerHTML=globalThis.AtlasPractice.render(a);globalThis.AtlasPractice.mount(body,a);}
     else if(name==="translation") body.innerHTML=translationHTML(a);
     else body.innerHTML=sourceHTML(a);
+    if(name==="guide"&&globalThis.AtlasReadingGuide?.compose)body.innerHTML=globalThis.AtlasReadingGuide.compose(body.innerHTML,a);
     q("#reader-toc").innerHTML='<strong>本頁目錄</strong>'+Array.from(body.querySelectorAll("h2[id]")).map(h=>'<a href="#'+h.id+'" data-toc="'+h.id+'">'+esc(h.textContent)+'</a>').join("");
-    q("#reader-toc").querySelectorAll("[data-toc]").forEach(el=>el.addEventListener("click",e=>{e.preventDefault();document.getElementById(el.dataset.toc)?.scrollIntoView({behavior:"smooth",block:"start"});}));
+    q("#reader-toc").querySelectorAll("[data-toc]").forEach(el=>el.addEventListener("click",e=>{e.preventDefault();const target=document.getElementById(el.dataset.toc);if(target){let parent=target.parentElement;while(parent&&parent!==body){if(parent.tagName==="DETAILS")parent.open=true;parent=parent.parentElement;}target.scrollIntoView({behavior:"smooth",block:"start"});}}));
     body.querySelectorAll("[data-reader-plan]").forEach(el=>el.addEventListener("click",()=>{dialog.close();}));
     body.querySelectorAll("[data-reader-probability]").forEach(el=>el.addEventListener("click",()=>{renderTab("probabilities");document.getElementById("reader-prob-"+el.dataset.readerProbability)?.scrollIntoView({behavior:"smooth",block:"start"});}));
     body.querySelectorAll("[data-open-translation]").forEach(el=>el.addEventListener("click",()=>{renderTab("translation");document.getElementById("reader-translation")?.scrollIntoView({block:"start"});}));
@@ -154,7 +155,7 @@
       if(token!==ticket)return;
       current=a;
       q("#reader-title").textContent=a.title; q("#reader-subtitle").textContent=a.subtitle;
-      q("#reader-meta").textContent=a.language+"來源 · 約 "+a.minutes+" 分鐘 · "+a.level+" · 查核 "+a.revision;
+      q("#reader-meta").textContent=a.language+"來源 · 約 "+a.minutes+" 分鐘 · "+a.level+" · 文章修訂 "+a.revision;
       q("#reader-badges").innerHTML='<span class="pill blue">'+esc(a.category)+'</span><span class="pill">'+esc(a.mode==="licensed-section"?"授權範圍節譯":"原創導讀")+'</span>';
       q('[data-reader-tab="translation"]').hidden=!a.translation;
       q('[data-reader-tab="cases"]').hidden=!a.caseQuiz?.length;

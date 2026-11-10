@@ -6,13 +6,13 @@
  const base=globalThis.AtlasZhTerms||{},titles=globalThis.AtlasZhTitles||{},reviews=globalThis.AtlasZhReviews||[];
  const reviewById=Object.fromEntries(reviews.map(r=>[r.resourceId,r]));
  const reviewByUrl=Object.fromEntries(reviews.map(r=>[r.url,r]));
- const contextual=new Set(['spread','stop','tick','fill','h2','l2']);
- function dictionary(glossary=[]){const d=Object.fromEntries(Object.entries(base).filter(([k])=>!contextual.has(k.toLowerCase())));for(const t of glossary){if(t.en&&t.zh&&t.en.length>1)d[t.en]=t.en.toLowerCase()==='fill'?'成交':t.zh;}return d;}
+ const contextual=new Set(['spread','stop','tick','fill','h2','l2','last','close','likely','probably','usually','delta','cvd','dom','fvg','mss','utc','bid','ask','footprint','footprint / numbers bars','bid 120','ask 180','bid 成交量','ask 成交量','bid/ask','bid／ask','ohlc','ohlcv']);
+ function dictionary(glossary=[]){const d=Object.fromEntries(Object.entries(base).filter(([k])=>!contextual.has(k.toLowerCase())));for(const t of glossary){if(t.en&&t.zh&&t.en.length>1&&!contextual.has(t.en.toLowerCase()))d[t.en]=t.en.toLowerCase()==='fill'?'成交':t.zh;}return d;}
  function text(value,glossary=[]){
   const source=String(value??''),d=dictionary(glossary),keys=Object.keys(d).filter(k=>k.length>1&&d[k]&&d[k]!==k).sort((a,b)=>b.length-a.length);
   if(!keys.length)return source;
   const folded=Object.fromEntries(keys.map(k=>[k.toLocaleLowerCase(),d[k]]));
-  return source.replace(new RegExp('(^|[^A-Za-z0-9])('+keys.map(rx).join('|')+')(?=$|[^A-Za-z0-9])','gi'),(_,pre,key,offset)=>key.toLowerCase()==='price action'&&source.slice(offset+pre.length+key.length).startsWith(' Atlas')?pre+key:pre+folded[key.toLocaleLowerCase()]).replace(/主課程版（主課程）/g,'主課程版').replace(/三棒失衡區間\s*三棒失衡/g,'三棒失衡區間').replace(/三棒\s*三棒失衡區間/g,'三棒失衡區間');
+  return source.replace(new RegExp('(^|[^A-Za-z0-9])('+keys.map(rx).join('|')+')(?=$|[^A-Za-z0-9])','gi'),(_,pre,key,offset)=>key.toLowerCase()==='price action'&&source.slice(offset+pre.length+key.length).startsWith(' Atlas')?pre+key:pre+folded[key.toLocaleLowerCase()]).replace(/^([^｜]+)\s*｜\s*\1$/, '$1').replace(/主課程版（主課程）/g,'主課程版').replace(/三棒失衡區間\s*三棒失衡/g,'三棒失衡區間').replace(/三棒\s*三棒失衡區間/g,'三棒失衡區間');
  }
  function original(value,label='展開英文用語與原版文字') {return '<details class="zh-original"><summary>'+E(label)+'</summary><div lang="en">'+E(value)+'</div></details>';}
  function paragraph(value,glossary=[]){const translated=text(value,glossary);return '<p lang="zh-Hant">'+E(translated)+'</p>'+(translated!==String(value)?original(value):'');}
