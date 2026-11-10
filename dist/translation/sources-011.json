@@ -1,5 +1,93 @@
 [
   {
+    "id": "6d22f7cc016fa928d23d",
+    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-30d-traders-equation-probability/",
+    "sourceTitle": "機率與交易方程式",
+    "titleZh": "機率與交易方程式",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "機率與交易方程式"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "6d8befd312197ef9f755",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-likely-to-continue-sideways/",
+    "sourceTitle": "Emini likely to continue sideways",
+    "titleZh": "Brad 日內案例｜2022-05-20｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-151207"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-151207"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-151207",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "6d8d46d70014c91e5d64",
+    "url": "https://www.youtube.com/watch?v=mI7fxs05tRg",
+    "sourceTitle": "Blog 2014 Jan 5 2014 Stock Market Might Be In A Trading Range",
+    "titleZh": "Brooks 共享影片｜區間與通道",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-mI7fxs05tRg"
+      }
+    ],
+    "resourceIds": [
+      "yt-mI7fxs05tRg"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-mI7fxs05tRg",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "6da0681cd23c0cc49500",
     "url": "https://www.quantsystems.ca/course/ptm-202305",
     "sourceTitle": "QuantSystem's Pro Trader Mentoring",
@@ -2978,105 +3066,6 @@
     "legacyObservations": [
       {
         "id": "yt-lRS5trePhB4",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "7727928c62a6d10d258f",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-reversal-to-exit-longs/",
-    "sourceTitle": "Emini Bulls Likely to Use First Reversal to Exit Longs",
-    "titleZh": "Brad 日內案例｜2023-05-26｜反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-178942"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-178942"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-178942",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "776b4d09028b5fe6301d",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-buyers-at-midpoint-of-august-rally/",
-    "sourceTitle": "E-mini Buyers at Midpoint of August Rally",
-    "titleZh": "Brad 日內案例｜2025-08-21｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-247865"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-247865"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-247865",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "778088f732f4bb8fc00c",
-    "url": "https://www.youtube.com/watch?v=RsQ2WBZVjUQ",
-    "sourceTitle": "The Godfather of Price Action Trading! Speculators podcast with Al Brooks.",
-    "titleZh": "Brooks 共享影片｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-RsQ2WBZVjUQ"
-      }
-    ],
-    "resourceIds": [
-      "yt-RsQ2WBZVjUQ"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-RsQ2WBZVjUQ",
         "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
         "checked": "2026-10-22"
       }

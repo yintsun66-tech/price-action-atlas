@@ -1,6 +1,6 @@
 /* Inventory every referenced English source; only reviewed content earns a summary status. */
 const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm'),crypto=require('node:crypto');
-const root=path.resolve(__dirname,'..'),dist=path.join(root,'dist'),date='2026-11-09';
+const root=path.resolve(__dirname,'..'),dist=path.join(root,'dist'),date='2026-11-10';
 const read=f=>JSON.parse(fs.readFileSync(path.join(root,f),'utf8'));
 const write=(f,v)=>{fs.mkdirSync(path.dirname(path.join(dist,f)),{recursive:true});fs.writeFileSync(path.join(dist,f),typeof v==='string'?v:JSON.stringify(v,null,2)+'\n');};
 const ctx={window:{}};vm.runInNewContext(fs.readFileSync(path.join(dist,'data/core.js'),'utf8'),ctx);const core=ctx.window.ATLAS_CORE_DATA;

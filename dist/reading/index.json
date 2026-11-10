@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-09",
+  "revision": "2026-11-10",
   "articles": [
     {
       "id": "licensed-measured-move",
@@ -913,7 +913,7 @@
       "subtitle": "先量化棒形，再以實際可成交價檢查風險與報酬空間",
       "summary": "用兩根相同外觀、不同位置的強棒，練習形狀、成交與取消條件的分工。",
       "level": "進階",
-      "minutes": 11,
+      "minutes": 17,
       "mode": "guide",
       "batch": 2,
       "topic": "突破",
@@ -927,7 +927,7 @@
       ],
       "hasCases": true,
       "hasChart": false,
-      "figureCount": 1
+      "figureCount": 2
     },
     {
       "id": "pp2-time-exit",

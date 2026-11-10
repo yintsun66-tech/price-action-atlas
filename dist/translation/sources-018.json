@@ -1,5 +1,104 @@
 [
   {
+    "id": "bb8e0ee6c3a7e30d1c75",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-4431-midpoint-of-june-selloff/",
+    "sourceTitle": "Emini testing 4,431 Midpoint of June Selloff",
+    "titleZh": "Brad 日內案例｜2023-06-29｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-181970"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-181970"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-181970",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "bba2e007586078206021",
+    "url": "https://www.youtube.com/watch?v=qCJnBHRkMW4",
+    "sourceTitle": "Orlando Workshop Q&A Webinar #2",
+    "titleZh": "Brooks 共享影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-qCJnBHRkMW4"
+      }
+    ],
+    "resourceIds": [
+      "yt-qCJnBHRkMW4"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-qCJnBHRkMW4",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
+    "id": "bbbb034d27ba57df599d",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-poor-follow-through/",
+    "sourceTitle": "Emini bulls disappointed after poor follow-through",
+    "titleZh": "Brad 日內案例｜2022-07-19｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-156423"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-156423"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-156423",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "bbd0dbe961dc58d2cb87",
     "url": "https://www.youtube.com/watch?v=MaEjbWDKVdE",
     "sourceTitle": "Emini End of Day Review - Monday November 27, 2023 - Brad Wolff",
@@ -3071,94 +3170,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-155972",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "c609a53117aaa01c39f6",
-    "url": "https://www.youtube.com/watch?v=2J9dTgKVq_0",
-    "sourceTitle": "Coding for Price Action Trading Systems: Series Re-Cap",
-    "titleZh": "價格行為系統程式設計：系列回顧",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-2J9dTgKVq_0"
-      }
-    ],
-    "resourceIds": [
-      "yt-2J9dTgKVq_0"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-2J9dTgKVq_0",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "c61f81448c9099c8071b",
-    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-33b-protective-stops/",
-    "sourceTitle": "保護停損",
-    "titleZh": "保護停損",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "保護停損"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
-  },
-  {
-    "id": "c632cb51edbd5ef3018c",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-buyers-at-4300-round-number/",
-    "sourceTitle": "Emini Buyers at 4,300 Round Number",
-    "titleZh": "Brad 日內案例｜2023-09-28｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-191021"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-191021"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-191021",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

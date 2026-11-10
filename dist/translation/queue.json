@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "items": [
     {
       "id": "014e9d23788221e0da5b",
@@ -293,6 +293,13 @@
     {
       "id": "ce6836c73b86f121c656",
       "url": "https://www.tradingview.com/support/solutions/43000502338-relative-strength-index-rsi/",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
+    },
+    {
+      "id": "d6c541d5510dda5c4c4c",
+      "url": "https://www.sierrachart.com/SupportBoard.php?Page=1&ThreadID=93599",
       "resourceIds": [],
       "status": "excerpt-summary",
       "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"

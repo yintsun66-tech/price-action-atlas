@@ -1,6 +1,6 @@
 {
   "name": "price-action-atlas",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "private": true,
   "description": "繁體中文價格行為學習網站",
   "engines": {

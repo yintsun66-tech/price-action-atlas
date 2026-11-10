@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-09",
-  "totalSources": 2380,
+  "updated": "2026-11-10",
+  "totalSources": 2383,
   "summary": {
     "completeSources": 1,
     "excerptSources": 1,
-    "notAssessedSources": 2378,
+    "notAssessedSources": 2381,
     "bilingualUnits": 6
   },
   "policy": [
@@ -503,6 +503,12 @@
       "unitIds": []
     },
     {
+      "sourceId": "cf6a5ca4b64a54c1df49",
+      "translationStatus": "not-assessed",
+      "rightsStatus": "not-assessed",
+      "unitIds": []
+    },
+    {
       "sourceId": "cfc82eb2428dac533b12",
       "translationStatus": "not-assessed",
       "rightsStatus": "not-assessed",
@@ -521,7 +527,19 @@
       "unitIds": []
     },
     {
+      "sourceId": "d6c541d5510dda5c4c4c",
+      "translationStatus": "not-assessed",
+      "rightsStatus": "not-assessed",
+      "unitIds": []
+    },
+    {
       "sourceId": "d91695d26b55824a5afc",
+      "translationStatus": "not-assessed",
+      "rightsStatus": "not-assessed",
+      "unitIds": []
+    },
+    {
+      "sourceId": "d9b705dd273b200e4b65",
       "translationStatus": "not-assessed",
       "rightsStatus": "not-assessed",
       "unitIds": []

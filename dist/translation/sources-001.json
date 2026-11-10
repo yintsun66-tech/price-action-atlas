@@ -1,5 +1,107 @@
 [
   {
+    "id": "91c65725042121b361d3",
+    "url": "https://www.sierrachart.com/SupportBoard.php?PostID=222357",
+    "sourceTitle": "吸收怎麼寫成條件：大 Delta 與價格進展",
+    "titleZh": "吸收怎麼寫成條件：大 Delta 與價格進展",
+    "titleCoverage": "existing-label",
+    "status": "excerpt-summary",
+    "summaryZh": "留言者以較大 Delta 卻沒有相應價格進展討論吸收，並建議把價位成交量與價格條件一起用於提醒。",
+    "readScope": "已讀指定貼文文字，沒有重製其他回覆或原圖。",
+    "checked": "2026-10-28",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "sierra-absorption"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "binaryduke（自述為工具開發者與訂單流講師）"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "留言者以較大 Delta 卻沒有相應價格進展討論吸收，並建議把價位成交量與價格條件一起用於提醒。",
+      "readScope": "已讀指定貼文文字，沒有重製其他回覆或原圖。",
+      "checked": "2026-10-28",
+      "translationScope": "短句翻譯與摘要；留言不等於 Sierra 官方定義。",
+      "cardId": "sierra-absorption"
+    },
+    "published": "2020-06-07",
+    "dateNoteZh": "貼文時間 2020-06-07 14:12:25；原頁未明確標示該貼文時區。"
+  },
+  {
+    "id": "db22cee358b8e2a8e4c6",
+    "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=97845",
+    "sourceTitle": "Can't obtain stacking/pulling data on replay",
+    "titleZh": "掛單增加／撤減回放：先確認市場深度歷史",
+    "titleCoverage": "reviewed-title",
+    "status": "excerpt-summary",
+    "summaryZh": "官方支援說明，掛單增加與撤減由市場深度變化推導，並非另外儲存的一套資料。回放需要對應時段的深度歷史；連續期貨跨換月時，也可能需要逐契約取得資料。",
+    "readScope": "已讀單頁第 1–14 則全部文字；未操作軟體、下載或驗證深度歷史。",
+    "checked": "2026-10-29",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "sierra-depth-replay"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "提問 cmack1011；重點回覆 John — SC Support"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "官方支援說明，掛單增加與撤減由市場深度變化推導，並非另外儲存的一套資料。回放需要對應時段的深度歷史；連續期貨跨換月時，也可能需要逐契約取得資料。",
+      "readScope": "已讀單頁第 1–14 則全部文字；未操作軟體、下載或驗證深度歷史。",
+      "checked": "2026-10-29",
+      "translationScope": "公開討論的短摘要與必要短句；不是軟體操作手冊全文。",
+      "cardId": "sierra-depth-replay"
+    },
+    "published": "2025-02-01",
+    "dateNoteZh": "實讀首帖至 2025-02-17 回覆；原頁時間的時區未核對。"
+  },
+  {
+    "id": "e5df3c433f8f08e4c1b1",
+    "url": "https://bookmap.com/blog/how-to-set-profit-targets-using-liquidity-maps",
+    "sourceTitle": "用流動性圖規劃目標：掛單與已成交仍要分開",
+    "titleZh": "用流動性圖規劃目標：掛單與已成交仍要分開",
+    "titleCoverage": "existing-label",
+    "status": "excerpt-summary",
+    "summaryZh": "文章把可見掛單、實際成交及價格反應放入目標規劃，並提示資料層級、深度歷史與商品支援需分別檢查。",
+    "readScope": "已讀公開文字的資料與目標規劃段落；未重製原圖或驗證其 ES 案例成交。",
+    "checked": "2026-10-29",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "bookmap-target-map"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Bookmap"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "文章把可見掛單、實際成交及價格反應放入目標規劃，並提示資料層級、深度歷史與商品支援需分別檢查。",
+      "readScope": "已讀公開文字的資料與目標規劃段落；未重製原圖或驗證其 ES 案例成交。",
+      "checked": "2026-10-29",
+      "translationScope": "來源短摘要與短句對照；沒有完整重刊供應商文章。",
+      "cardId": "bookmap-target-map"
+    },
+    "published": "2025-10-14",
+    "dateNoteZh": "原頁明列日期並有 Updated 標示；更新日未另提供。"
+  },
+  {
     "id": "f51078b6a9c53a692968",
     "url": "https://www.wyckoffanalytics.com/wp-content/uploads/2019/09/WyckoffSchematics-VisualTemplatesForMarketTimingDecisions.pdf",
     "sourceTitle": "威科夫圖式是視覺範本：不要強迫每段區間照圖演出",
@@ -3335,105 +3437,6 @@
     "courseRefs": [],
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "04f0d7b74caa5cfc2f8f",
-    "url": "https://www.youtube.com/watch?v=DPCyojTDM5Q",
-    "sourceTitle": "Systematic Trading for Price Action Traders",
-    "titleZh": "價格行為交易者的系統化方法",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-DPCyojTDM5Q"
-      }
-    ],
-    "resourceIds": [
-      "yt-DPCyojTDM5Q"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-DPCyojTDM5Q",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "04f13acd07092601c5f9",
-    "url": "https://www.youtube.com/watch?v=ZKOUEuQv5V0",
-    "sourceTitle": "Emini End of Day Review - Tuesday, June 10, 2025 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-ZKOUEuQv5V0"
-      }
-    ],
-    "resourceIds": [
-      "yt-ZKOUEuQv5V0"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-ZKOUEuQv5V0",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "05019bd3ce05b6431a81",
-    "url": "https://www.youtube.com/watch?v=1GJUHfBHlbE",
-    "sourceTitle": "CAD Updates and Initial User Feedback",
-    "titleZh": "CAD 更新與初期使用回饋",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-1GJUHfBHlbE"
-      }
-    ],
-    "resourceIds": [
-      "yt-1GJUHfBHlbE"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-1GJUHfBHlbE",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Ali／Quant Systems 頻道"
     ]
   }
 ]

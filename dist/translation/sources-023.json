@@ -1,5 +1,104 @@
 [
   {
+    "id": "f726d76ca3fa62f3f44c",
+    "url": "https://www.youtube.com/watch?v=Q8zrjV5r9UE",
+    "sourceTitle": "Ask Al Brooks: Trading progress - getting rid of losers",
+    "titleZh": "Brooks 共享影片｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-Q8zrjV5r9UE"
+      }
+    ],
+    "resourceIds": [
+      "yt-Q8zrjV5r9UE"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-Q8zrjV5r9UE",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
+    "id": "f7274b0f8db2e6b96737",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-surprise-upside-breakout/",
+    "sourceTitle": "Emini Surprise Upside Breakout during Globex Market",
+    "titleZh": "Brad 日內案例｜2022-11-10｜突破與延續",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-164147"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-164147"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-164147",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "f73b6bee5471e032ee01",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-breakout-below-bear-channel/",
+    "sourceTitle": "Emini Breakout below Bear Channel",
+    "titleZh": "Brad 日內案例｜2023-10-27｜突破與延續／區間與通道",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-192906"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-192906"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-192906",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "f74425f6a18aef47d1c8",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-want-2nd-leg-up-after-yesterday/",
     "sourceTitle": "E-mini Bulls Want 2nd Leg Up After Yesterday",

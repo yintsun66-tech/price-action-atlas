@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="760" viewBox="0 0 960 760" role="img" aria-labelledby="t d">
+<title id="t">同一根行情，兩種價格表示</title><desc id="d">非真實行情。自編原始開盤一百零一、最高一百零七、最低九十八、收盤一百零四。已給定前一棒平均 K 開盤一百一十與收盤一百零八。非首根且非最末棒的平均 K 開盤為一百零九，最高一百零九、最低九十八、收盤一百零二點五。原始棒收漲，合成棒收跌。合成開盤一百零九超出原始最高一百零七，不能當這根原始棒內的成交。合成四值再次平均為一百零四點六二五。</desc>
+<rect width="960" height="760" rx="24" fill="#f5f7fa"/>
+<g font-family="system-ui,'Microsoft JhengHei',sans-serif" fill="#20262d">
+<text x="40" y="52" font-size="30" font-weight="750">同一根行情，兩種價格表示</text>
+<text x="40" y="87" font-size="18" fill="#53616e">原創算例｜非首根、非最末棒；不套用最末棒當前價覆寫</text>
+<rect x="40" y="112" width="425" height="330" rx="16" fill="#fff" stroke="#d5dde6"/>
+<rect x="495" y="112" width="425" height="330" rx="16" fill="#fff" stroke="#d5dde6"/>
+<text x="62" y="151" font-size="23" font-weight="750">① 原始棒：收漲</text>
+<text x="517" y="151" font-size="23" font-weight="750">② 平均 K：收跌</text>
+<path d="M126 217V361" stroke="#2b7367" stroke-width="4"/>
+<rect x="103" y="265" width="46" height="48" fill="#2b7367"/>
+<g font-size="21"><text x="180" y="222">最高 107</text><text x="180" y="271">收盤 104</text><text x="180" y="319">開盤 101</text><text x="180" y="367">最低 98</text></g>
+<path d="M571 185V361" stroke="#a36543" stroke-width="4"/>
+<rect x="548" y="185" width="46" height="104" fill="#a36543"/>
+<g font-size="21"><text x="620" y="195">開盤／最高 109</text><text x="620" y="294">收盤 102.5</text><text x="620" y="367">最低 98</text></g>
+<text x="62" y="422" font-size="18" fill="#53616e">只給 OHLC，未提供棒內成交路徑。</text>
+<text x="517" y="422" font-size="18" fill="#955b3c">109 超出當根原始最高價 107。</text>
+<rect x="40" y="465" width="880" height="135" rx="16" fill="#eaf1f7"/>
+<text x="62" y="502" font-size="21">已給前一棒平均 K：開盤 110、收盤 108</text>
+<text x="62" y="540" font-size="22" font-weight="750">合成開盤 (110＋108) ÷ 2 ＝ 109</text>
+<text x="62" y="578" font-size="22" font-weight="750">合成收盤 (101＋107＋98＋104) ÷ 4 ＝ 102.5</text>
+<rect x="40" y="622" width="880" height="70" rx="16" fill="#fff4e2"/>
+<text x="62" y="652" font-size="21">再平均合成四值：OHLC Avg ＝ 104.625</text>
+<text x="62" y="680" font-size="19">不等於原始收盤 104，也不等於合成收盤 102.5。</text>
+<text x="40" y="735" font-size="17" fill="#53616e">非真實行情或成交建議；兩圖使用相同價格尺度，圖形方向不能代替成交資料。</text>
+</g></svg>

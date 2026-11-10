@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "checked": "2026-11-09",
+  "checked": "2026-11-10",
   "original": true,
   "figures": [
     {
@@ -877,6 +877,18 @@
       "afterSection": 5,
       "caption": "本站自訂八欄、格值、轉向與價格的算例；不是完整點數圖建構、原作者行情或可驗證收益。",
       "alt": "四十八點投射形成一百零八至一百一十二目標區；另計空單進場一百四十八、停損一百六十四，近端報酬風險二點二五。",
+      "synthetic": true
+    },
+    {
+      "id": "ha-price-provenance",
+      "article": "pp2-signal-gap",
+      "title": "同一根行情，兩種價格表示",
+      "src": "images/study/ha-price-provenance.svg",
+      "width": 960,
+      "height": 760,
+      "afterSection": 8,
+      "caption": "本站自設前值與原始 OHLC，非首根且非最末棒，不套用當前價覆寫；非真實行情、平台截圖或成交建議。",
+      "alt": "原始棒一百零一開、一百零四收；平均 K 一百零九開、一百零二點五收，合成開盤超出當根原始最高一百零七。",
       "synthetic": true
     }
   ]

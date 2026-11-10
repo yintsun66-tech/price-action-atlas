@@ -1,5 +1,104 @@
 [
   {
+    "id": "110df5111e8b2394969c",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-testing-last-wednesdays-close/",
+    "sourceTitle": "Emini Testing Last Wednesday’s Close",
+    "titleZh": "Brad 日內案例｜2025-04-14｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-234547"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-234547"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-234547",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "1119a0c832932849e544",
+    "url": "https://www.youtube.com/watch?v=BOjEXlqywIY",
+    "sourceTitle": "CAD Updates",
+    "titleZh": "CAD 更新介紹",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-BOjEXlqywIY"
+      }
+    ],
+    "resourceIds": [
+      "yt-BOjEXlqywIY"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-BOjEXlqywIY",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Ali／Quant Systems 頻道"
+    ]
+  },
+  {
+    "id": "11309f010307bdf64f06",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-likely-to-bounce-over-the-next-few-trading-days/",
+    "sourceTitle": "Emini Likely to Bounce over the Next Few Trading Days",
+    "titleZh": "Brad 日內案例｜2025-03-05｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-231585"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-231585"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-231585",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "1141efdff01560427303",
     "url": "https://www.brookstradingcourse.com/analysis/brad-travelling-no-report-today/",
     "sourceTitle": "Brad travelling – No report today",
@@ -3100,105 +3199,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "1d2b1223f6b2fb7c0eeb",
-    "url": "https://www.youtube.com/playlist?list=PLFA11UMiAJm99Xo0Mr4yPzWgwxUTTSJ_e",
-    "sourceTitle": "Trading Strategies",
-    "titleZh": "Brooks 共享片單｜Trading Strategies",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "list-PLFA11UMiAJm99Xo0Mr4yPzWgwxUTTSJ_e"
-      }
-    ],
-    "resourceIds": [
-      "list-PLFA11UMiAJm99Xo0Mr4yPzWgwxUTTSJ_e"
-    ],
-    "legacyObservations": [
-      {
-        "id": "list-PLFA11UMiAJm99Xo0Mr4yPzWgwxUTTSJ_e",
-        "scope": "官方片單入口已核對；包含多講者者不概括歸屬 Brad",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊"
-    ]
-  },
-  {
-    "id": "1d895bafa2b637256b55",
-    "url": "https://www.youtube.com/watch?v=pwOvBCVWawQ",
-    "sourceTitle": "Review: PA System Trades for Wednesday, 2/28/2024",
-    "titleZh": "價格行為系統交易復盤：2024/2/28",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-pwOvBCVWawQ"
-      }
-    ],
-    "resourceIds": [
-      "yt-pwOvBCVWawQ"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-pwOvBCVWawQ",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Ali／Quant Systems 頻道"
-    ]
-  },
-  {
-    "id": "1d93d34e743c4e303c97",
-    "url": "https://www.quantsystems.ca/course/sa2a-on",
-    "sourceTitle": "Systems Academy 2.0A",
-    "titleZh": "Systems Academy｜公開版本入口 A-ON",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "qs-sa2a-on"
-      }
-    ],
-    "resourceIds": [
-      "qs-sa2a-on"
-    ],
-    "legacyObservations": [
-      {
-        "id": "qs-sa2a-on",
-        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Ali Moin-Afshari／Quant Systems"
     ]
   }
 ]

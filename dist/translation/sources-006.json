@@ -1,5 +1,104 @@
 [
   {
+    "id": "3432038e5e24e5986f08",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-second-entry/",
+    "sourceTitle": "Emini Bulls Want Second Entry",
+    "titleZh": "Brad 日內案例｜2023-10-19｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-192472"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-192472"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-192472",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "344ff9bbed27995d28e6",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-vacuum-test-moving-average/",
+    "sourceTitle": "Emini Vacuum Test of 100-Day Moving Average",
+    "titleZh": "Brad 日內案例｜2023-08-22｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-187593"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-187593"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-187593",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "347415e200e82fd0bfd2",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-breakout-above-db-neckline/",
+    "sourceTitle": "Emini bulls want breakout above neckline of double bottom",
+    "titleZh": "Brad 日內案例｜2022-07-18｜突破與延續",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-156158"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-156158"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-156158",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "3482fae30d2a5d0d5682",
     "url": "https://www.youtube.com/watch?v=QhgoaOnMNWo",
     "sourceTitle": "Recap for 2010-03-05 and Outlook for 2010-03-08",
@@ -3096,104 +3195,5 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": []
-  },
-  {
-    "id": "3ef1478cea6284652e08",
-    "url": "https://www.youtube.com/watch?v=eoImdbrpxrY",
-    "sourceTitle": "Emini End of Day Review - Friday August 12, 2022",
-    "titleZh": "Brooks 共享影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-eoImdbrpxrY"
-      }
-    ],
-    "resourceIds": [
-      "yt-eoImdbrpxrY"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-eoImdbrpxrY",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "3f028f958bbf4a6b8d3c",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-sideways-to-down-likely/",
-    "sourceTitle": "Emini Sideways to Down Likely",
-    "titleZh": "Brad 日內案例｜2024-12-12｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-225060"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-225060"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-225060",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "3f0b4ebde64bb946b554",
-    "url": "https://www.youtube.com/watch?v=mJxUUiXOXjE",
-    "sourceTitle": "Systems Academy Q&A - Wednesday November 6, 2024",
-    "titleZh": "Systems Academy 公開問答",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-mJxUUiXOXjE"
-      }
-    ],
-    "resourceIds": [
-      "yt-mJxUUiXOXjE"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-mJxUUiXOXjE",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Ali／Quant Systems 頻道"
-    ]
   }
 ]

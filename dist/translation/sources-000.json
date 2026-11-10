@@ -7350,6 +7350,99 @@
     "authorConfirmed": "TradingView"
   },
   {
+    "id": "cf6a5ca4b64a54c1df49",
+    "url": "https://www.sierrachart.com/index.php?ID=138&Name=Heikin-Ashi&page=doc%2FStudiesReference.php",
+    "sourceTitle": "Heikin-Ashi",
+    "titleZh": "平均 K 的開高低收，與最末棒覆寫設定分開",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "文件定義平均 K 的遞迴與平均公式；預設可把圖表最末棒收盤改為當前價。這項覆寫只限最末棒，不會把整份歷史還原成原始價格。",
+    "readScope": "實讀完整 Description、公式、Inputs 與 Spreadsheet 文字；未下載或執行附帶試算表、未操作軟體。",
+    "checked": "2026-11-10",
+    "inventoried": "2026-11-10",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "pp2-signal-gap",
+        "index": 2
+      },
+      {
+        "kind": "community",
+        "id": "sierra-ha-formulas-last-bar"
+      },
+      {
+        "kind": "review",
+        "id": "source-b32-sierra-ha-formulas-last-bar"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b32-sierra-ha-formulas-last-bar",
+        "url": "https://www.sierrachart.com/index.php?ID=138&Name=Heikin-Ashi&page=doc%2FStudiesReference.php",
+        "sourceTitle": "Heikin-Ashi",
+        "sourceTitleZh": "平均 K 的開高低收，與最末棒覆寫設定分開",
+        "authorConfirmed": "Sierra Chart",
+        "published": null,
+        "dateNoteZh": "頁尾最後修改日為 2025-01-24；不是首次發布日，查核日另列。",
+        "checked": "2026-11-10",
+        "status": "body-summary",
+        "readScope": "實讀完整 Description、公式、Inputs 與 Spreadsheet 文字；未下載或執行附帶試算表、未操作軟體。",
+        "summaryZh": "文件定義平均 K 的遞迴與平均公式；預設可把圖表最末棒收盤改為當前價。這項覆寫只限最末棒，不會把整份歷史還原成原始價格。",
+        "keyPointsZh": [
+          "核對是否為首棒、前一棒的合成值，以及 Set Close to Current Price for Last Bar 是否開啟。"
+        ],
+        "shortExcerpt": {
+          "en": "These are average price bars.",
+          "zh": "這些是平均價格棒。",
+          "scope": "指 Heikin-Ashi 棒；不是逐筆委託、主動買賣量或機構行為證據。"
+        },
+        "limitsZh": "本算例用非首根、非最末歷史棒；不得將未完成棒、最末棒覆寫與歷史公式混算。未測試各版本軟體。 未取得可比教學評分；公式可核對不代表策略經過獲利驗證。",
+        "evidence": {
+          "urls": [
+            "https://www.sierrachart.com/index.php?ID=138&Name=Heikin-Ashi&page=doc%2FStudiesReference.php"
+          ],
+          "accessMethod": "實讀公開文字與公式；未操作軟體或驗證績效",
+          "scope": "實讀完整 Description、公式、Inputs 與 Spreadsheet 文字；未下載或執行附帶試算表、未操作軟體。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "Sierra Chart"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "文件定義平均 K 的遞迴與平均公式；預設可把圖表最末棒收盤改為當前價。這項覆寫只限最末棒，不會把整份歷史還原成原始價格。",
+      "readScope": "實讀完整 Description、公式、Inputs 與 Spreadsheet 文字；未下載或執行附帶試算表、未操作軟體。",
+      "checked": "2026-11-10",
+      "translationScope": "精簡繁中摘要及必要短句；算例由本站另設，非全文翻譯。",
+      "cardId": "sierra-ha-formulas-last-bar"
+    },
+    "published": null,
+    "dateNoteZh": "頁尾最後修改日為 2025-01-24；不是首次發布日，查核日另列。",
+    "keyPointsZh": [
+      "核對是否為首棒、前一棒的合成值，以及 Set Close to Current Price for Last Bar 是否開啟。"
+    ],
+    "limitsZh": "本算例用非首根、非最末歷史棒；不得將未完成棒、最末棒覆寫與歷史公式混算。未測試各版本軟體。 未取得可比教學評分；公式可核對不代表策略經過獲利驗證。",
+    "evidence": {
+      "urls": [
+        "https://www.sierrachart.com/index.php?ID=138&Name=Heikin-Ashi&page=doc%2FStudiesReference.php"
+      ],
+      "accessMethod": "實讀公開文字與公式；未操作軟體或驗證績效",
+      "scope": "實讀完整 Description、公式、Inputs 與 Spreadsheet 文字；未下載或執行附帶試算表、未操作軟體。"
+    },
+    "shortExcerpt": {
+      "en": "These are average price bars.",
+      "zh": "這些是平均價格棒。",
+      "scope": "指 Heikin-Ashi 棒；不是逐筆委託、主動買賣量或機構行為證據。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Sierra Chart"
+  },
+  {
     "id": "cfc82eb2428dac533b12",
     "url": "https://www.sierrachart.com/index.php?ID=292&page=doc%2FStudiesReference.php",
     "sourceTitle": "Cumulative Delta Bars - Volume",
@@ -7614,6 +7707,99 @@
     "authorConfirmed": "Galen Woods（整理）；Trade price／Sho（原方法）"
   },
   {
+    "id": "d6c541d5510dda5c4c4c",
+    "url": "https://www.sierrachart.com/SupportBoard.php?Page=1&ThreadID=93599",
+    "sourceTitle": "Heikin-Ashi study questions",
+    "titleZh": "同樣叫 Last：先確認是原始價還是平均 K 欄位",
+    "titleCoverage": "reviewed-title",
+    "status": "excerpt-summary",
+    "summaryZh": "會員詢問 Last、Close 與 OHLC Avg；客服區分平均 K 收盤和對平均 K 四個欄位再次取平均。名稱相似不表示來源或數值相同。",
+    "readScope": "實讀整頁兩則可見貼文，摘要採第 2 則客服對欄位的答覆；未操作軟體、未驗證預設顏色或執行測試。",
+    "checked": "2026-11-10",
+    "inventoried": "2026-11-10",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "pp2-signal-gap",
+        "index": 3
+      },
+      {
+        "kind": "community",
+        "id": "sierra-ha-last-vs-average"
+      },
+      {
+        "kind": "review",
+        "id": "source-b32-sierra-ha-last-vs-average"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b32-sierra-ha-last-vs-average",
+        "url": "https://www.sierrachart.com/SupportBoard.php?Page=1&ThreadID=93599",
+        "sourceTitle": "Heikin-Ashi study questions",
+        "sourceTitleZh": "同樣叫 Last：先確認是原始價還是平均 K 欄位",
+        "authorConfirmed": "User512353；John - SC Support",
+        "published": "2024-07-18",
+        "dateNoteZh": "兩則貼文同為 2024-07-18；頁面時區未標。工具返回較早頁首時間，不作即時互動量快照。",
+        "checked": "2026-11-10",
+        "status": "excerpt-summary",
+        "readScope": "實讀整頁兩則可見貼文，摘要採第 2 則客服對欄位的答覆；未操作軟體、未驗證預設顏色或執行測試。",
+        "summaryZh": "會員詢問 Last、Close 與 OHLC Avg；客服區分平均 K 收盤和對平均 K 四個欄位再次取平均。名稱相似不表示來源或數值相同。",
+        "keyPointsZh": [
+          "原始收盤、平均 K 收盤與平均 K OHLC Avg 分欄核對，不能只憑 Last 名稱串接資料。"
+        ],
+        "shortExcerpt": {
+          "en": "We use the terms Last and Close interchangeably.",
+          "zh": "我們交替使用 Last 與 Close 這兩個名稱。",
+          "scope": "客服在此平均 K 指標欄位語境的說明；不把所有商品的 Last 都改定義成平均價。"
+        },
+        "limitsZh": "原答以 only 描述最末棒覆寫條件；本站另作算術校註：合成平均也可能偶然等於原始收盤，同值不證明來源相同。未採未核驗的顏色規則。 貼文感謝數或檢視數不作獲利證明，未列為即時熱門排名。",
+        "evidence": {
+          "urls": [
+            "https://www.sierrachart.com/SupportBoard.php?Page=1&ThreadID=93599"
+          ],
+          "accessMethod": "實讀公開文字與公式；未操作軟體或驗證績效",
+          "scope": "實讀整頁兩則可見貼文，摘要採第 2 則客服對欄位的答覆；未操作軟體、未驗證預設顏色或執行測試。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "User512353；John - SC Support"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "會員詢問 Last、Close 與 OHLC Avg；客服區分平均 K 收盤和對平均 K 四個欄位再次取平均。名稱相似不表示來源或數值相同。",
+      "readScope": "實讀整頁兩則可見貼文，摘要採第 2 則客服對欄位的答覆；未操作軟體、未驗證預設顏色或執行測試。",
+      "checked": "2026-11-10",
+      "translationScope": "指定答覆的繁中摘要與八詞短句；不是整串逐字翻譯。",
+      "cardId": "sierra-ha-last-vs-average"
+    },
+    "published": "2024-07-18",
+    "dateNoteZh": "兩則貼文同為 2024-07-18；頁面時區未標。工具返回較早頁首時間，不作即時互動量快照。",
+    "keyPointsZh": [
+      "原始收盤、平均 K 收盤與平均 K OHLC Avg 分欄核對，不能只憑 Last 名稱串接資料。"
+    ],
+    "limitsZh": "原答以 only 描述最末棒覆寫條件；本站另作算術校註：合成平均也可能偶然等於原始收盤，同值不證明來源相同。未採未核驗的顏色規則。 貼文感謝數或檢視數不作獲利證明，未列為即時熱門排名。",
+    "evidence": {
+      "urls": [
+        "https://www.sierrachart.com/SupportBoard.php?Page=1&ThreadID=93599"
+      ],
+      "accessMethod": "實讀公開文字與公式；未操作軟體或驗證績效",
+      "scope": "實讀整頁兩則可見貼文，摘要採第 2 則客服對欄位的答覆；未操作軟體、未驗證預設顏色或執行測試。"
+    },
+    "shortExcerpt": {
+      "en": "We use the terms Last and Close interchangeably.",
+      "zh": "我們交替使用 Last 與 Close 這兩個名稱。",
+      "scope": "客服在此平均 K 指標欄位語境的說明；不把所有商品的 Last 都改定義成平均價。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "User512353；John - SC Support"
+  },
+  {
     "id": "d91695d26b55824a5afc",
     "url": "https://www.quantsystems.ca/article-position-sizing",
     "sourceTitle": "Position Sizing",
@@ -7693,6 +7879,99 @@
     "shortExcerpt": null,
     "termNotes": [],
     "editorNotesZh": []
+  },
+  {
+    "id": "d9b705dd273b200e4b65",
+    "url": "https://www.tradingview.com/support/solutions/43000481029-strategy-produces-unrealistic-results-on-non-standard-chart-types-heikin-ashi-renko-etc/",
+    "sourceTitle": "Strategy produces unrealistic results on non-standard chart types (Heikin Ashi, Renko, etc.)",
+    "titleZh": "合成圖表上的漂亮成交，可能無法在市場重現",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "預設回測可使用圖表合成價格成交。平均 K 與一般棒一對一對應時間，平台另有標準開高低收成交選項；不能將此例推廣為所有合成圖都已修正。",
+    "readScope": "實讀全部公開教學文字及程式範例；未執行策略、核驗圖像或操作目前介面。",
+    "checked": "2026-11-10",
+    "inventoried": "2026-11-10",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "pp2-signal-gap",
+        "index": 1
+      },
+      {
+        "kind": "community",
+        "id": "tv-synthetic-chart-fills"
+      },
+      {
+        "kind": "review",
+        "id": "source-b32-tv-synthetic-chart-fills"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b32-tv-synthetic-chart-fills",
+        "url": "https://www.tradingview.com/support/solutions/43000481029-strategy-produces-unrealistic-results-on-non-standard-chart-types-heikin-ashi-renko-etc/",
+        "sourceTitle": "Strategy produces unrealistic results on non-standard chart types (Heikin Ashi, Renko, etc.)",
+        "sourceTitleZh": "合成圖表上的漂亮成交，可能無法在市場重現",
+        "authorConfirmed": "TradingView",
+        "published": null,
+        "dateNoteZh": "動態說明頁；首次發布與修訂確日未核對。",
+        "checked": "2026-11-10",
+        "status": "body-summary",
+        "readScope": "實讀全部公開教學文字及程式範例；未執行策略、核驗圖像或操作目前介面。",
+        "summaryZh": "預設回測可使用圖表合成價格成交。平均 K 與一般棒一對一對應時間，平台另有標準開高低收成交選項；不能將此例推廣為所有合成圖都已修正。",
+        "keyPointsZh": [
+          "訊號計算資料與模擬成交資料分開記錄；原頁選項名稱為 Using standard OHLC。"
+        ],
+        "shortExcerpt": {
+          "en": "rather than from real market prices",
+          "zh": "而非來自真實市場價格。",
+          "scope": "原文在 Renko 範例說明策略使用磚塊價位；不是指每筆合成數值都必定不曾與市價相同。"
+        },
+        "limitsZh": "這是指定圖表的成交來源選項，不能保證成本、棒內路徑或即時執行都正確；本批未確認目前選單文字或宣稱實盤獲利。 未取得獨立教材評分或績效對帳；官方功能描述不是收益證明。",
+        "evidence": {
+          "urls": [
+            "https://www.tradingview.com/support/solutions/43000481029-strategy-produces-unrealistic-results-on-non-standard-chart-types-heikin-ashi-renko-etc/"
+          ],
+          "accessMethod": "實讀公開文字與公式；未操作軟體或驗證績效",
+          "scope": "實讀全部公開教學文字及程式範例；未執行策略、核驗圖像或操作目前介面。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "TradingView"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "預設回測可使用圖表合成價格成交。平均 K 與一般棒一對一對應時間，平台另有標準開高低收成交選項；不能將此例推廣為所有合成圖都已修正。",
+      "readScope": "實讀全部公開教學文字及程式範例；未執行策略、核驗圖像或操作目前介面。",
+      "checked": "2026-11-10",
+      "translationScope": "精簡繁中摘要與必要短句；非全文翻譯或原程式重刊。",
+      "cardId": "tv-synthetic-chart-fills"
+    },
+    "published": null,
+    "dateNoteZh": "動態說明頁；首次發布與修訂確日未核對。",
+    "keyPointsZh": [
+      "訊號計算資料與模擬成交資料分開記錄；原頁選項名稱為 Using standard OHLC。"
+    ],
+    "limitsZh": "這是指定圖表的成交來源選項，不能保證成本、棒內路徑或即時執行都正確；本批未確認目前選單文字或宣稱實盤獲利。 未取得獨立教材評分或績效對帳；官方功能描述不是收益證明。",
+    "evidence": {
+      "urls": [
+        "https://www.tradingview.com/support/solutions/43000481029-strategy-produces-unrealistic-results-on-non-standard-chart-types-heikin-ashi-renko-etc/"
+      ],
+      "accessMethod": "實讀公開文字與公式；未操作軟體或驗證績效",
+      "scope": "實讀全部公開教學文字及程式範例；未執行策略、核驗圖像或操作目前介面。"
+    },
+    "shortExcerpt": {
+      "en": "rather than from real market prices",
+      "zh": "而非來自真實市場價格。",
+      "scope": "原文在 Renko 範例說明策略使用磚塊價位；不是指每筆合成數值都必定不曾與市價相同。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "TradingView"
   },
   {
     "id": "da3162e2ea6c958819af",
@@ -8837,107 +9116,5 @@
     },
     "published": null,
     "dateNoteZh": "原頁未列可核對的發布日；AMZN 是案例商品，沒有視為當日行情。"
-  },
-  {
-    "id": "91c65725042121b361d3",
-    "url": "https://www.sierrachart.com/SupportBoard.php?PostID=222357",
-    "sourceTitle": "吸收怎麼寫成條件：大 Delta 與價格進展",
-    "titleZh": "吸收怎麼寫成條件：大 Delta 與價格進展",
-    "titleCoverage": "existing-label",
-    "status": "excerpt-summary",
-    "summaryZh": "留言者以較大 Delta 卻沒有相應價格進展討論吸收，並建議把價位成交量與價格條件一起用於提醒。",
-    "readScope": "已讀指定貼文文字，沒有重製其他回覆或原圖。",
-    "checked": "2026-10-28",
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "community",
-        "id": "sierra-absorption"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "binaryduke（自述為工具開發者與訂單流講師）"
-    ],
-    "existingExcerpt": {
-      "summaryZh": "留言者以較大 Delta 卻沒有相應價格進展討論吸收，並建議把價位成交量與價格條件一起用於提醒。",
-      "readScope": "已讀指定貼文文字，沒有重製其他回覆或原圖。",
-      "checked": "2026-10-28",
-      "translationScope": "短句翻譯與摘要；留言不等於 Sierra 官方定義。",
-      "cardId": "sierra-absorption"
-    },
-    "published": "2020-06-07",
-    "dateNoteZh": "貼文時間 2020-06-07 14:12:25；原頁未明確標示該貼文時區。"
-  },
-  {
-    "id": "db22cee358b8e2a8e4c6",
-    "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=97845",
-    "sourceTitle": "Can't obtain stacking/pulling data on replay",
-    "titleZh": "掛單增加／撤減回放：先確認市場深度歷史",
-    "titleCoverage": "reviewed-title",
-    "status": "excerpt-summary",
-    "summaryZh": "官方支援說明，掛單增加與撤減由市場深度變化推導，並非另外儲存的一套資料。回放需要對應時段的深度歷史；連續期貨跨換月時，也可能需要逐契約取得資料。",
-    "readScope": "已讀單頁第 1–14 則全部文字；未操作軟體、下載或驗證深度歷史。",
-    "checked": "2026-10-29",
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "community",
-        "id": "sierra-depth-replay"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "提問 cmack1011；重點回覆 John — SC Support"
-    ],
-    "existingExcerpt": {
-      "summaryZh": "官方支援說明，掛單增加與撤減由市場深度變化推導，並非另外儲存的一套資料。回放需要對應時段的深度歷史；連續期貨跨換月時，也可能需要逐契約取得資料。",
-      "readScope": "已讀單頁第 1–14 則全部文字；未操作軟體、下載或驗證深度歷史。",
-      "checked": "2026-10-29",
-      "translationScope": "公開討論的短摘要與必要短句；不是軟體操作手冊全文。",
-      "cardId": "sierra-depth-replay"
-    },
-    "published": "2025-02-01",
-    "dateNoteZh": "實讀首帖至 2025-02-17 回覆；原頁時間的時區未核對。"
-  },
-  {
-    "id": "e5df3c433f8f08e4c1b1",
-    "url": "https://bookmap.com/blog/how-to-set-profit-targets-using-liquidity-maps",
-    "sourceTitle": "用流動性圖規劃目標：掛單與已成交仍要分開",
-    "titleZh": "用流動性圖規劃目標：掛單與已成交仍要分開",
-    "titleCoverage": "existing-label",
-    "status": "excerpt-summary",
-    "summaryZh": "文章把可見掛單、實際成交及價格反應放入目標規劃，並提示資料層級、深度歷史與商品支援需分別檢查。",
-    "readScope": "已讀公開文字的資料與目標規劃段落；未重製原圖或驗證其 ES 案例成交。",
-    "checked": "2026-10-29",
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "community",
-        "id": "bookmap-target-map"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Bookmap"
-    ],
-    "existingExcerpt": {
-      "summaryZh": "文章把可見掛單、實際成交及價格反應放入目標規劃，並提示資料層級、深度歷史與商品支援需分別檢查。",
-      "readScope": "已讀公開文字的資料與目標規劃段落；未重製原圖或驗證其 ES 案例成交。",
-      "checked": "2026-10-29",
-      "translationScope": "來源短摘要與短句對照；沒有完整重刊供應商文章。",
-      "cardId": "bookmap-target-map"
-    },
-    "published": "2025-10-14",
-    "dateNoteZh": "原頁明列日期並有 Updated 標示；更新日未另提供。"
   }
 ]

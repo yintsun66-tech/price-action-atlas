@@ -1,13 +1,13 @@
 {
-  "version": "1.6.0",
-  "released": "2026-11-09",
+  "version": "1.7.0",
+  "released": "2026-11-10",
   "timezone": "Asia/Taipei",
   "repository": "https://github.com/yintsun66-tech/price-action-atlas",
   "site": "https://yintsun66-tech.github.io/price-action-atlas/",
-  "contentEdition": "20261109c31",
+  "contentEdition": "20261110c32",
   "notes": [
-    "實讀兩篇未收錄的威科夫公開文章，新增繁中摘要、原文短句與作者／日期限制。",
-    "既有圖式單元新增目標區與報酬風險兩節、原創投射算例圖；投射、潛在獲利及勝率分開。",
-    "累積 45 篇來源選讀、73 張原創圖；英文來源 2380、正文摘要 49，全文翻譯完成判定與筆記格式保持。"
+    "實讀 TradingView、Sierra Chart 官方合成圖文件及指定客服答覆，新增兩篇正文與一筆答覆摘要。",
+    "訊號成交單元追加兩節及一張同尺度原創圖；分清原始收盤、平均 K 收盤、再次平均與最末棒設定。",
+    "累積 48 篇來源選讀、74 張原創圖；英文來源 2383、正文摘要 51、指定範圍摘要 30，全文完成判定與筆記格式保持。"
   ]
 }

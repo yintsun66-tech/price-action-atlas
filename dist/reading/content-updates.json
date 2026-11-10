@@ -2,6 +2,66 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch32-20261110",
+      "collected": "2026-11-10",
+      "updated": "2026-11-10",
+      "timezone": "Asia/Taipei",
+      "description": "合成棒、平均 K 最末棒與成交資料的公開選讀及原創對照。",
+      "articles": [
+        "pp2-signal-gap"
+      ],
+      "sources": [
+        "tv-synthetic-chart-fills",
+        "sierra-ha-formulas-last-bar",
+        "sierra-ha-last-vs-average"
+      ],
+      "decisions": [
+        {
+          "source": "Strategy produces unrealistic results on non-standard chart types (Heikin Ashi, Renko, etc.)",
+          "url": "https://www.tradingview.com/support/solutions/43000481029-strategy-produces-unrealistic-results-on-non-standard-chart-types-heikin-ashi-renko-etc/",
+          "status": "採用正文摘要",
+          "reason": "實讀全部公開教學文字及程式範例；未執行策略、核驗圖像或操作目前介面。"
+        },
+        {
+          "source": "Heikin-Ashi",
+          "url": "https://www.sierrachart.com/index.php?ID=138&Name=Heikin-Ashi&page=doc%2FStudiesReference.php",
+          "status": "採用正文摘要",
+          "reason": "實讀完整 Description、公式、Inputs 與 Spreadsheet 文字；未下載或執行附帶試算表、未操作軟體。"
+        },
+        {
+          "source": "Heikin-Ashi study questions",
+          "url": "https://www.sierrachart.com/SupportBoard.php?Page=1&ThreadID=93599",
+          "status": "採用指定答覆摘要",
+          "reason": "實讀整頁兩則可見貼文，摘要採第 2 則客服對欄位的答覆；未操作軟體、未驗證預設顏色或執行測試。"
+        },
+        {
+          "source": "Reddit r/pinescript 合成圖回測原帖",
+          "url": "https://www.reddit.com/r/pinescript/comments/1w84jyx/how_do_you_backtest_alternative_charts_properly/",
+          "status": "實讀但本批不新增選讀",
+          "reason": "實讀原帖與可見回覆；只顯示相對日期，會員對選項消失與可重播性的說法未操作核驗。本批以官方文件支持技術定義，不採社群績效、only rig 或不再重繪保證。"
+        },
+        {
+          "source": "Brooks 公開討論、PTT 平均 K 檢索",
+          "status": "未取得適合原帖",
+          "reason": "本次未找到可實讀的對應原帖；不推斷沒有新文。未新增官方課程引用。"
+        },
+        {
+          "source": "TradingView 其他 FAQ、PineCoders 腳本及網路書籍 PDF",
+          "status": "本批未採",
+          "reason": "只有搜尋介紹，未審計或執行腳本；未核對授權的 PDF 不取作完整翻譯或已讀正文。"
+        }
+      ],
+      "notes": [
+        "三個新英文網址：兩筆正文摘要、一筆指定答覆摘要；摘要不增加全文完成數。",
+        "原文發文日、頁尾修改日、頁首動態時間與今日查核日分列；不補造即時熱門排名。",
+        "本例非首根且非最末棒；平均 K 當前價覆寫只限最末棒。未操作目前 TradingView 選單，原頁選項名稱與現行介面不混淆。",
+        "自編數字：原始101/107/98/104，前一平均K開110收108；當根平均K109/109/98/102.5，再平均104.625。",
+        "圖中兩棒共用每點16像素的尺度；合成109超出當根原始高107，不代表其他時間未成交該價。",
+        "落在高低內仍不由OHLC保證逐價成交；合成值偶然等於原價亦不證明資料來源相同。",
+        "保留六十二個閱讀ID、四十五張舊卡、七十三張舊圖與筆記格式；不新增排程或執行交易。"
+      ]
+    },
+    {
       "id": "content-batch31-20261109",
       "collected": "2026-11-09",
       "updated": "2026-11-09",
