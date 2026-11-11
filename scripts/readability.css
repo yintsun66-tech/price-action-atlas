@@ -21,6 +21,7 @@
 .reader-source-summary>summary{cursor:pointer;font-size:18px;font-weight:600}
 .reader-term-preview{font-size:18px;margin:20px 0}.reader-term-preview summary{cursor:pointer}.reader-term-preview dt{margin-top:16px}.reader-term-preview dd{margin:6px 0 16px;line-height:1.8}
 .reader-guide-figure{margin:28px 0}.reader-guide-figure img{display:block;width:100%;height:auto}.reader-guide-figure figcaption,.reader-editorial-date{font-size:16px;line-height:1.8;color:#595959}
+.readability-progress{margin:24px 0;font-size:18px;line-height:1.85;color:#51515a}.readability-progress strong{display:block;color:#202124}.atlas-map-example-badge{display:block;font-size:16px;color:#17634d;margin-top:8px}
 .reader-body p{max-width:100%;overflow-wrap:anywhere}.reader-body{line-height:1.85}
 .atlas-entry-choices{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;margin:24px 0 40px}
 .atlas-entry-choices a{display:flex;flex-direction:column;gap:10px;padding:24px;border:1px solid #dedee3;background:#fff;border-radius:16px;color:#202124;text-decoration:none}

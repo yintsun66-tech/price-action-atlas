@@ -1,5 +1,38 @@
 [
   {
+    "id": "828a84019f5556d87c46",
+    "url": "https://www.youtube.com/watch?v=uS8eBJDBEjg",
+    "sourceTitle": "Recap for 2010-10-12 part 2 and Outlook for 2010-10-13",
+    "titleZh": "Brooks 共享影片｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-uS8eBJDBEjg"
+      }
+    ],
+    "resourceIds": [
+      "yt-uS8eBJDBEjg"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-uS8eBJDBEjg",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "82a86aff1dc6393ff06e",
     "url": "https://www.youtube.com/playlist?list=PLHLr2xVJTUWE",
     "sourceTitle": "Live Trading Workshop",
@@ -3179,27 +3212,5 @@
     "authors": [
       "Brad Wolff"
     ]
-  },
-  {
-    "id": "8f0f10a97f400dd24663",
-    "url": "https://www.brookstradingcourse.com/trade-price-action/video-45e-trading-broad-bull-channels/",
-    "sourceTitle": "寬多頭通道交易",
-    "titleZh": "寬多頭通道交易",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "寬多頭通道交易"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   }
 ]

@@ -5892,6 +5892,94 @@
     "authorConfirmed": "Al Brooks；Mark Holstead 主持；官網介紹署名 BTC Admin"
   },
   {
+    "id": "9d0eff0361453c7d0fef",
+    "url": "https://www.brookstradingcourse.com/analysis/crude-oil-tested-the-middle-of-the-trading-range/",
+    "sourceTitle": "Crude Oil Tested the Middle of the Trading Range",
+    "titleZh": "歷史原油案例：區間中段可能是平衡區",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "Andrew 以原油月線與週線的重疊、反覆反轉及跟進不足，討論區間中段作為可能的平衡區。他並列向上測試與轉弱的條件；不能將這份歷史解讀當成現在的微台或 BTC 訊號。",
+    "readScope": "已讀公開導言、Monthly、Weekly 全部分析文字及作者署名；未重建行情、重刊圖片或觀看付費課。",
+    "checked": "2026-11-11",
+    "inventoried": "2026-11-11",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "andrew-crude-range-middle"
+      },
+      {
+        "kind": "review",
+        "id": "source-b34-andrew-crude-range-middle"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b34-andrew-crude-range-middle",
+        "url": "https://www.brookstradingcourse.com/analysis/crude-oil-tested-the-middle-of-the-trading-range/",
+        "sourceTitle": "Crude Oil Tested the Middle of the Trading Range",
+        "sourceTitleZh": "歷史原油案例：區間中段可能是平衡區",
+        "authorConfirmed": "Andrew（原頁署名，非 Al Brooks）",
+        "published": "2026-08-02",
+        "dateNoteZh": "原頁列 August 2, 2026，作者 Andrew；修訂確日未標。文中 this week、July 對應當時歷史分析。",
+        "checked": "2026-11-11",
+        "status": "body-summary",
+        "readScope": "已讀公開導言、Monthly、Weekly 全部分析文字及作者署名；未重建行情、重刊圖片或觀看付費課。",
+        "summaryZh": "Andrew 以原油月線與週線的重疊、反覆反轉及跟進不足，討論區間中段作為可能的平衡區。他並列向上測試與轉弱的條件；不能將這份歷史解讀當成現在的微台或 BTC 訊號。",
+        "keyPointsZh": [
+          "把區間背景、位置及後續條件分列；對照本站合成候選的第一個障礙。"
+        ],
+        "shortExcerpt": {
+          "en": "The middle of the trading range is an area of balance",
+          "zh": "交易區間中段是一個平衡區域。",
+          "scope": "原句後接 can act as a magnet，保留「可能」作用的語氣；不是保證回中線或固定時間內反轉。"
+        },
+        "limitsZh": "作者是 Andrew，並非 Al 本人；原油月／週線歷史情境不能直接移植十分鐘微台或 BTC，也未提供本站可重現績效驗證。 官方刊登與作者自述經驗不等於獨立評分或收益證據，未列人氣排名。",
+        "evidence": {
+          "urls": [
+            "https://www.brookstradingcourse.com/analysis/crude-oil-tested-the-middle-of-the-trading-range/"
+          ],
+          "accessMethod": "實讀公開月／週分析及署名；未重建行情或觀看付費課",
+          "scope": "已讀公開導言、Monthly、Weekly 全部分析文字及作者署名；未重建行情、重刊圖片或觀看付費課。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "Andrew（原頁署名，非 Al Brooks）"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "Andrew 以原油月線與週線的重疊、反覆反轉及跟進不足，討論區間中段作為可能的平衡區。他並列向上測試與轉弱的條件；不能將這份歷史解讀當成現在的微台或 BTC 訊號。",
+      "readScope": "已讀公開導言、Monthly、Weekly 全部分析文字及作者署名；未重建行情、重刊圖片或觀看付費課。",
+      "checked": "2026-11-11",
+      "translationScope": "正文精簡繁中摘要與十一詞短句；非全文翻譯。",
+      "cardId": "andrew-crude-range-middle"
+    },
+    "published": "2026-08-02",
+    "dateNoteZh": "原頁列 August 2, 2026，作者 Andrew；修訂確日未標。文中 this week、July 對應當時歷史分析。",
+    "keyPointsZh": [
+      "把區間背景、位置及後續條件分列；對照本站合成候選的第一個障礙。"
+    ],
+    "limitsZh": "作者是 Andrew，並非 Al 本人；原油月／週線歷史情境不能直接移植十分鐘微台或 BTC，也未提供本站可重現績效驗證。 官方刊登與作者自述經驗不等於獨立評分或收益證據，未列人氣排名。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/analysis/crude-oil-tested-the-middle-of-the-trading-range/"
+      ],
+      "accessMethod": "實讀公開月／週分析及署名；未重建行情或觀看付費課",
+      "scope": "已讀公開導言、Monthly、Weekly 全部分析文字及作者署名；未重建行情、重刊圖片或觀看付費課。"
+    },
+    "shortExcerpt": {
+      "en": "The middle of the trading range is an area of balance",
+      "zh": "交易區間中段是一個平衡區域。",
+      "scope": "原句後接 can act as a magnet，保留「可能」作用的語氣；不是保證回中線或固定時間內反轉。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Andrew（原頁署名，非 Al Brooks）"
+  },
+  {
     "id": "9dca89fa57b796c5de55",
     "url": "https://www.brookstradingcourse.com/guest-traders/band-based-trading-systems/",
     "sourceTitle": "Why Band Trading Works: Part 4 — Band Based Trading Systems",
@@ -9190,39 +9278,5 @@
     },
     "published": "2025-09-09",
     "dateNoteZh": "原頁發布日；本輪只讀作者說明，未審查或執行程式碼。"
-  },
-  {
-    "id": "72ce74c836caf68fe3fa",
-    "url": "https://www.tradingview.com/script/bUk7gcA1-AG-Pro-Fair-Value-Gap-Engine-AGPro-Series/",
-    "sourceTitle": "AG Pro Fair Value Gap Engine [AGPro Series]",
-    "titleZh": "三棒失衡區品質評分不是經校準的價格機率",
-    "titleCoverage": "reviewed-title",
-    "status": "excerpt-summary",
-    "summaryZh": "作者依形成、存續、回補與老化追蹤三棒失衡區域，再用大小、返回速度、相對量及觸及後反應評分。分數用於比較模型內事件；作者明說高分不保證方向結果，提醒也不是交易指令。",
-    "readScope": "已讀公開說明的辨識、追蹤、老化、回補、評分、提醒及限制；未讀程式碼、執行指標或驗證非重繪與績效。",
-    "checked": "2026-10-29",
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "community",
-        "id": "tv-fvg-score-not-probability"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "AGProLabs"
-    ],
-    "existingExcerpt": {
-      "summaryZh": "作者依形成、存續、回補與老化追蹤三棒失衡區域，再用大小、返回速度、相對量及觸及後反應評分。分數用於比較模型內事件；作者明說高分不保證方向結果，提醒也不是交易指令。",
-      "readScope": "已讀公開說明的辨識、追蹤、老化、回補、評分、提醒及限制；未讀程式碼、執行指標或驗證非重繪與績效。",
-      "checked": "2026-10-29",
-      "translationScope": "第三方工具說明的短摘要與短句翻譯；不是 ICT 原課、程式全文或策略驗證。",
-      "cardId": "tv-fvg-score-not-probability"
-    },
-    "published": null,
-    "dateNoteZh": "頁面顯示 4 月 6 日、更新 6 月 13 日；年份未可靠核對，不補造完整日期。"
   }
 ]

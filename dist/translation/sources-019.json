@@ -1,5 +1,38 @@
 [
   {
+    "id": "c5d47a95a49a5a3a8493",
+    "url": "https://www.youtube.com/watch?v=dRp_SVIIIDI",
+    "sourceTitle": "E-mini S&P 500 Small Pullback Bear Trend - October 16, 2026",
+    "titleZh": "Brooks 共享影片｜回檔與第二段",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-dRp_SVIIIDI"
+      }
+    ],
+    "resourceIds": [
+      "yt-dRp_SVIIIDI"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-dRp_SVIIIDI",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "c5e924198be4ea14c5fe",
     "url": "https://www.youtube.com/watch?v=6cJXwkQRG2E",
     "sourceTitle": "Ask Al Brooks: Two Trade Management Examples",
@@ -3130,32 +3163,6 @@
       {
         "kind": "course-index",
         "id": "楔形"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
-  },
-  {
-    "id": "d29a96a4a7163beba1a4",
-    "url": "https://www.goodreads.com/shelf/show/trading",
-    "sourceTitle": "Trading in the Zone",
-    "titleZh": "賺錢，再自然不過",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "book-review",
-        "id": "douglas"
-      },
-      {
-        "kind": "book-review",
-        "id": "hougaard"
       }
     ],
     "resourceIds": [],

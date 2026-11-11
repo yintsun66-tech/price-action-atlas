@@ -1,5 +1,39 @@
 [
   {
+    "id": "1074d0a48773ef037811",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-getting-2nd-leg-up/",
+    "sourceTitle": "E-mini Bulls Getting 2nd Leg Up",
+    "titleZh": "E-mini：多方正出現第二段上漲",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-274964"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-274964"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-274964",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "10c2e7ae03b624255413",
     "url": "https://www.youtube.com/watch?v=PYIeMsyqUro",
     "sourceTitle": "SP500 E mini Parabolic Bull Trend Then Endless Pullback Trading Range",
@@ -3163,40 +3197,6 @@
     ],
     "reviews": [],
     "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "1cec8fc9accca64856db",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-losing-momentum-on-daily-chart/",
-    "sourceTitle": "E-mini Bulls Losing Momentum on Daily Chart",
-    "titleZh": "E-mini：多方在日線圖上失去動能",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-276946"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-276946"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-276946",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
     "authors": [
       "Brad Wolff"
     ]

@@ -1,5 +1,38 @@
 [
   {
+    "id": "0456e3d0b7d0423aab79",
+    "url": "https://www.youtube.com/watch?v=H3CjEmT7qEo",
+    "sourceTitle": "E-mini S&P500 Big Gap Up on Open Then Sideways Trading Range Day - September 11, 2026",
+    "titleZh": "Brooks 共享影片｜區間與通道",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-H3CjEmT7qEo"
+      }
+    ],
+    "resourceIds": [
+      "yt-H3CjEmT7qEo"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-H3CjEmT7qEo",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "04aad49c12ffc9002025",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-daily-chart-in-breakout-mode/",
     "sourceTitle": "E-mini Daily Chart In Breakout Mode",
@@ -3098,40 +3131,6 @@
     "courseRefs": [],
     "authors": [
       "Ali Moin-Afshari／Quant Systems"
-    ]
-  },
-  {
-    "id": "1074d0a48773ef037811",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-getting-2nd-leg-up/",
-    "sourceTitle": "E-mini Bulls Getting 2nd Leg Up",
-    "titleZh": "E-mini：多方正出現第二段上漲",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-274964"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-274964"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-274964",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

@@ -2,6 +2,30 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch34-20261111",
+      "collected": "2026-11-11",
+      "updated": "2026-11-11",
+      "timezone": "Asia/Taipei",
+      "description": "補齊第一階段例題並校讀通道與區間位置；新增 Andrew 一篇歷史原油正文摘要。",
+      "articles": [],
+      "referencedArticles": [
+        "brooks-candle-evidence",
+        "louie-chart-notes",
+        "bp2-trend-channel",
+        "bp2-range-location"
+      ],
+      "sources": [
+        "https://www.brookstradingcourse.com/analysis/crude-oil-tested-the-middle-of-the-trading-range/"
+      ],
+      "notes": [
+        "四篇新例題與原創圖配對，保留原正文、測驗、課程參照、文章ID和筆記。",
+        "深度編排9/62、主線6/18；第一階段3/3篇附原創例題和答案，與已讀進度分開。",
+        "新增原創編排清單 editorial-progress.json，下一批先處理尚待校讀的主線，避免隨機堆文。",
+        "新來源作者是Andrew，不誤署Al；原油月／週歷史語境及可行情境分列。",
+        "舊K棒來源與Main課綱本次回傳403，記取得失敗，不將舊查核日改成今日；詳見 docs/content-batch34.md。"
+      ]
+    },
+    {
       "id": "content-batch33-20261111",
       "collected": "2026-11-11",
       "updated": "2026-11-11",

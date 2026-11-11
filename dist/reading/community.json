@@ -4,6 +4,51 @@
   "policy": "編輯選讀順序依本專案學習用途排列，並非獲利或跨平台人氣排名。社群經驗只能作為問題來源。",
   "items": [
     {
+      "id": "andrew-crude-range-middle",
+      "platform": "Brooks Trading Course 公開分析",
+      "kind": "author",
+      "language": "en",
+      "author": "Andrew（原頁署名，非 Al Brooks）",
+      "title": "歷史原油案例：區間中段可能是平衡區",
+      "originalTitle": "Crude Oil Tested the Middle of the Trading Range",
+      "url": "https://www.brookstradingcourse.com/analysis/crude-oil-tested-the-middle-of-the-trading-range/",
+      "published": "2026-08-02",
+      "dateNote": "原頁列 August 2, 2026，作者 Andrew；修訂確日未標。文中 this week、July 對應當時歷史分析。",
+      "summary": "Andrew 以原油月線與週線的重疊、反覆反轉及跟進不足，討論區間中段作為可能的平衡區。他並列向上測試與轉弱的條件；不能將這份歷史解讀當成現在的微台或 BTC 訊號。",
+      "quote": {
+        "en": "The middle of the trading range is an area of balance",
+        "zh": "交易區間中段是一個平衡區域。",
+        "context": "原句後接 can act as a magnet，保留「可能」作用的語氣；不是保證回中線或固定時間內反轉。"
+      },
+      "access": "已讀公開導言、Monthly、Weekly 全部分析文字及作者署名；未重建行情、重刊圖片或觀看付費課。",
+      "translation": "正文精簡繁中摘要與十一詞短句；非全文翻譯。",
+      "review": {
+        "basis": "官方網站的作者署名、2026-08-02 發布日及完整月／週線分析文字。",
+        "learning": "把區間背景、位置及後續條件分列；對照本站合成候選的第一個障礙。",
+        "limits": "作者是 Andrew，並非 Al 本人；原油月／週線歷史情境不能直接移植十分鐘微台或 BTC，也未提供本站可重現績效驗證。",
+        "engagement": "官方刊登與作者自述經驗不等於獨立評分或收益證據，未列人氣排名。"
+      },
+      "figure": {
+        "src": "images/study/bp2-range-location-table.svg",
+        "alt": "本站自編25000至25120區間，非原作者原油圖表",
+        "caption": "只搭配站內位置練習；數字與商品由本站自編，沒有重製原油歷史價格。"
+      },
+      "related": [
+        "bp2-range-location",
+        "bp2-trend-channel"
+      ],
+      "tags": [
+        "中段",
+        "歷史語境",
+        "作者核對"
+      ],
+      "batch": 34,
+      "collected": "2026-11-11",
+      "checked": "2026-11-11",
+      "courseRefs": [],
+      "status": "body-summary"
+    },
+    {
       "id": "tv-gap-close-definition",
       "platform": "TradingView 官方指標說明",
       "kind": "author",
@@ -2187,6 +2232,10 @@
   "legacyChecked": "2026-10-28",
   "batches": [
     {
+      "batch": 34,
+      "title": "第三十四批｜11.11 主線精讀與區間中段"
+    },
+    {
       "batch": 33,
       "title": "第三十三批｜11.11 定義、金額與自測"
     },
@@ -2260,16 +2309,16 @@
     }
   ],
   "intro": {
-    "heading": "先畫對區域，再把風險換成金額。",
-    "text": "先校讀 FVG 與 R／口數兩篇，再讀一般缺口與每跳金額的來源。五篇已完成深度閱讀編排，其餘五十七篇逐批處理；新增算例不是作者官方策略。",
+    "heading": "看懂同一根棒，也看懂它所在的位置。",
+    "text": "本輪先補四篇主線例題、反例與答案，再收錄 Andrew 的歷史原油分析。累積九篇深度編排，第一階段三篇已附例題；原油月／週線解讀不當成微台十分鐘訊號。",
     "links": [
       {
-        "id": "ict-fvg",
-        "label": "先做三棒確認練習"
+        "id": "brooks-candle-evidence",
+        "label": "先量出棒形能說的事"
       },
       {
-        "id": "practice-risk-in-r",
-        "label": "計算一口與風險預算"
+        "id": "bp2-range-location",
+        "label": "比較邊緣與中段的空間"
       }
     ]
   }

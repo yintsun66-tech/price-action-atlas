@@ -1,5 +1,31 @@
 [
   {
+    "id": "d29a96a4a7163beba1a4",
+    "url": "https://www.goodreads.com/shelf/show/trading",
+    "sourceTitle": "Trading in the Zone",
+    "titleZh": "賺錢，再自然不過",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "book-review",
+        "id": "douglas"
+      },
+      {
+        "kind": "book-review",
+        "id": "hougaard"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "d29caaec31b2e0821277",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-likely-to-get-2nd-leg-up/",
     "sourceTitle": "E-Mini Bulls Likely to Get 2nd Leg Up",
@@ -3149,39 +3175,6 @@
     "courseRefs": [],
     "authors": [
       "Ali Moin-Afshari／Quant Systems"
-    ]
-  },
-  {
-    "id": "ddb37b1170175c870d86",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-getting-upside-breakout/",
-    "sourceTitle": "Emini Bulls Getting Upside Breakout",
-    "titleZh": "Brad 日內案例｜2025-01-15｜突破與延續",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-227757"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-227757"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-227757",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

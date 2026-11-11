@@ -1,5 +1,38 @@
 [
   {
+    "id": "f6dc4f988d60c47ac445",
+    "url": "https://www.youtube.com/watch?v=7BOUf-lSFmk",
+    "sourceTitle": "Emini End of Day Review - Thursday February 29, 2024 - Brad Wolff",
+    "titleZh": "Brad 公開影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-7BOUf-lSFmk"
+      }
+    ],
+    "resourceIds": [
+      "yt-7BOUf-lSFmk"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-7BOUf-lSFmk",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "f6eb5107a03e44a3869c",
     "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-34a-actual-risk/",
     "sourceTitle": "事後實際風險",

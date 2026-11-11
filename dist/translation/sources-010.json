@@ -1,5 +1,38 @@
 [
   {
+    "id": "60a2463949a37a79828b",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-bears-to-give-up/",
+    "sourceTitle": "Emini Bulls Want Bears to Give Up",
+    "titleZh": "Brad 日內案例｜2023-10-25｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-192902"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-192902"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-192902",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "60ccc20a427f464751bc",
     "url": "https://www.brookstradingcourse.com/analysis/emini-buyers-at-may-8th-buy-signal-bar/",
     "sourceTitle": "Emini Buyers at May 8th Buy Signal bar",
@@ -3182,39 +3215,6 @@
     "titleNote": "",
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "6ce4f089cc043a27bb0d",
-    "url": "https://www.youtube.com/watch?v=KCNIKipeNq8",
-    "sourceTitle": "Ask Al Brooks: Trading Range Days -  Swing trade or 2nd leg trap?",
-    "titleZh": "Brooks 共享影片｜回檔與第二段／區間與通道／反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-KCNIKipeNq8"
-      }
-    ],
-    "resourceIds": [
-      "yt-KCNIKipeNq8"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-KCNIKipeNq8",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
     ]
   }
 ]

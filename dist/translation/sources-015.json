@@ -1,5 +1,38 @@
 [
   {
+    "id": "9afdef325cb981e62d0b",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-possible-wedge-bottom/",
+    "sourceTitle": "Emini Possible Wedge Bottom",
+    "titleZh": "Brad 日內案例｜2025-01-10｜反轉與陷阱",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-226981"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-226981"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-226981",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "9b25a6caec97a4a3f639",
     "url": "https://www.brookstradingcourse.com/analysis/emini-low-1-following-bear-breakout/",
     "sourceTitle": "Emini Low 1 Short Following Bear Breakout",
@@ -3179,39 +3212,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-224198",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "a6b202e5a7fc6aec410c",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-strong-reversal-down-from-7000-round-number/",
-    "sourceTitle": "E-mini Strong Reversal Down from 7,000 Round Number",
-    "titleZh": "Brad 日內案例｜2026-01-29｜反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-261104"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-261104"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-261104",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

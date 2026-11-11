@@ -2,11 +2,11 @@
   "version": 1,
   "updated": "2026-11-11",
   "scope": "站內所有英文文字與所有英文來源；中文優先，英文可展開。",
-  "totalSources": 2385,
+  "totalSources": 2386,
   "englishResourceRecords": 2056,
   "resourceRecords": 2110,
   "statusCounts": {
-    "body-summary": 52,
+    "body-summary": 53,
     "intro-only": 19,
     "excerpt-summary": 31,
     "unavailable": 4,
@@ -833,6 +833,19 @@
       ]
     },
     {
+      "id": "9d0eff0361453c7d0fef",
+      "titleZh": "歷史原油案例：區間中段可能是平衡區",
+      "sourceTitle": "Crude Oil Tested the Middle of the Trading Range",
+      "status": "body-summary",
+      "resourceIds": [],
+      "chunk": "sources-000.json",
+      "url": "https://www.brookstradingcourse.com/analysis/crude-oil-tested-the-middle-of-the-trading-range/",
+      "titleCoverage": "reviewed-title",
+      "authors": [
+        "Andrew（原頁署名，非 Al Brooks）"
+      ]
+    },
+    {
       "id": "9dca89fa57b796c5de55",
       "titleZh": "帶狀交易（四）：成交價格變好，不等於系統績效變好",
       "sourceTitle": "Why Band Trading Works: Part 4 — Band Based Trading Systems",
@@ -1391,7 +1404,7 @@
       "sourceTitle": "AG Pro Fair Value Gap Engine [AGPro Series]",
       "status": "excerpt-summary",
       "resourceIds": [],
-      "chunk": "sources-000.json",
+      "chunk": "sources-001.json",
       "url": "https://www.tradingview.com/script/bUk7gcA1-AG-Pro-Fair-Value-Gap-Engine-AGPro-Series/",
       "titleCoverage": "reviewed-title",
       "authors": [
@@ -2845,7 +2858,7 @@
       "resourceIds": [
         "yt-H3CjEmT7qEo"
       ],
-      "chunk": "sources-001.json",
+      "chunk": "sources-002.json",
       "url": "https://www.youtube.com/watch?v=H3CjEmT7qEo",
       "titleCoverage": "existing-label",
       "authors": [
@@ -4281,7 +4294,7 @@
       "resourceIds": [
         "brad-post-274964"
       ],
-      "chunk": "sources-002.json",
+      "chunk": "sources-003.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-getting-2nd-leg-up/",
       "titleCoverage": "title-only",
       "authors": [
@@ -5733,7 +5746,7 @@
       "resourceIds": [
         "brad-post-276946"
       ],
-      "chunk": "sources-003.json",
+      "chunk": "sources-004.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-losing-momentum-on-daily-chart/",
       "titleCoverage": "title-only",
       "authors": [
@@ -7185,7 +7198,7 @@
       "resourceIds": [
         "yt-Xe1kPiU4M6E"
       ],
-      "chunk": "sources-004.json",
+      "chunk": "sources-005.json",
       "url": "https://www.youtube.com/watch?v=Xe1kPiU4M6E",
       "titleCoverage": "existing-label",
       "authors": [
@@ -8665,7 +8678,7 @@
       "resourceIds": [
         "yt-sufaykrGJlM"
       ],
-      "chunk": "sources-005.json",
+      "chunk": "sources-006.json",
       "url": "https://www.youtube.com/watch?v=sufaykrGJlM",
       "titleCoverage": "existing-label",
       "authors": [
@@ -10125,7 +10138,7 @@
       "resourceIds": [
         "brad-post-145686"
       ],
-      "chunk": "sources-006.json",
+      "chunk": "sources-007.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-becoming-neutral/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -11589,7 +11602,7 @@
       "resourceIds": [
         "yt-gtvVICPprIQ"
       ],
-      "chunk": "sources-007.json",
+      "chunk": "sources-008.json",
       "url": "https://www.youtube.com/watch?v=gtvVICPprIQ",
       "titleCoverage": "existing-label",
       "authors": [
@@ -13035,7 +13048,7 @@
       "sourceTitle": "執行錯誤",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-008.json",
+      "chunk": "sources-009.json",
       "url": "https://www.brookstradingcourse.com/trade-price-action/video-51a-losing-because-of-mistakes/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -14485,7 +14498,7 @@
       "resourceIds": [
         "brad-post-192902"
       ],
-      "chunk": "sources-009.json",
+      "chunk": "sources-010.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-bears-to-give-up/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -15937,7 +15950,7 @@
       "resourceIds": [
         "yt-KCNIKipeNq8"
       ],
-      "chunk": "sources-010.json",
+      "chunk": "sources-011.json",
       "url": "https://www.youtube.com/watch?v=KCNIKipeNq8",
       "titleCoverage": "existing-label",
       "authors": [
@@ -17349,7 +17362,7 @@
       "resourceIds": [
         "brad-post-196216"
       ],
-      "chunk": "sources-011.json",
+      "chunk": "sources-012.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-climactic-behavior/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -18793,7 +18806,7 @@
       "resourceIds": [
         "yt-uS8eBJDBEjg"
       ],
-      "chunk": "sources-012.json",
+      "chunk": "sources-013.json",
       "url": "https://www.youtube.com/watch?v=uS8eBJDBEjg",
       "titleCoverage": "existing-label",
       "authors": [
@@ -20255,7 +20268,7 @@
       "sourceTitle": "寬多頭通道交易",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-013.json",
+      "chunk": "sources-014.json",
       "url": "https://www.brookstradingcourse.com/trade-price-action/video-45e-trading-broad-bull-channels/",
       "titleCoverage": "existing-label",
       "authors": []
@@ -21705,7 +21718,7 @@
       "resourceIds": [
         "brad-post-226981"
       ],
-      "chunk": "sources-014.json",
+      "chunk": "sources-015.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-possible-wedge-bottom/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -23173,7 +23186,7 @@
       "resourceIds": [
         "brad-post-261104"
       ],
-      "chunk": "sources-015.json",
+      "chunk": "sources-016.json",
       "url": "https://www.brookstradingcourse.com/analysis/e-mini-strong-reversal-down-from-7000-round-number/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -24637,7 +24650,7 @@
       "resourceIds": [
         "yt-TQDIJrcvjng"
       ],
-      "chunk": "sources-016.json",
+      "chunk": "sources-017.json",
       "url": "https://www.youtube.com/watch?v=TQDIJrcvjng",
       "titleCoverage": "existing-label",
       "authors": [
@@ -26097,7 +26110,7 @@
       "resourceIds": [
         "yt-_wQ5CRIQ6mc"
       ],
-      "chunk": "sources-017.json",
+      "chunk": "sources-018.json",
       "url": "https://www.youtube.com/watch?v=_wQ5CRIQ6mc",
       "titleCoverage": "existing-label",
       "authors": [
@@ -27541,7 +27554,7 @@
       "resourceIds": [
         "yt-dRp_SVIIIDI"
       ],
-      "chunk": "sources-018.json",
+      "chunk": "sources-019.json",
       "url": "https://www.youtube.com/watch?v=dRp_SVIIIDI",
       "titleCoverage": "existing-label",
       "authors": [
@@ -28991,7 +29004,7 @@
       "sourceTitle": "Trading in the Zone",
       "status": "pending",
       "resourceIds": [],
-      "chunk": "sources-019.json",
+      "chunk": "sources-020.json",
       "url": "https://www.goodreads.com/shelf/show/trading",
       "titleCoverage": "existing-label",
       "authors": []
@@ -30445,7 +30458,7 @@
       "resourceIds": [
         "brad-post-227757"
       ],
-      "chunk": "sources-020.json",
+      "chunk": "sources-021.json",
       "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-getting-upside-breakout/",
       "titleCoverage": "existing-label",
       "authors": [
@@ -31893,7 +31906,7 @@
       "resourceIds": [
         "yt-cRmDVffMj6g"
       ],
-      "chunk": "sources-021.json",
+      "chunk": "sources-022.json",
       "url": "https://www.youtube.com/watch?v=cRmDVffMj6g",
       "titleCoverage": "existing-label",
       "authors": [
@@ -33345,7 +33358,7 @@
       "resourceIds": [
         "yt-7BOUf-lSFmk"
       ],
-      "chunk": "sources-022.json",
+      "chunk": "sources-023.json",
       "url": "https://www.youtube.com/watch?v=7BOUf-lSFmk",
       "titleCoverage": "existing-label",
       "authors": [
@@ -34567,7 +34580,7 @@
   "fullTextProgress": {
     "completeSources": 1,
     "excerptSources": 1,
-    "notAssessedSources": 2383,
+    "notAssessedSources": 2384,
     "bilingualUnits": 6
   }
 }

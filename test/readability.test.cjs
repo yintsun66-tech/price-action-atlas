@@ -32,3 +32,17 @@ test('風險表的金額、分母及圖中完整數字一致',()=>{
  const g=guides['practice-risk-in-r'];assert.equal((24000-23950)*10+100,600);assert.equal(Math.floor(250/600),0);assert.equal(((24100-24000)*10-100)/500,1.8);assert.equal(900/600,1.5);assert.ok(g.check.answer.includes('原先 250 元預算不允許此單'));
  const svg=read(g.figure.src);assert.ok(svg.includes('24,000 ／ 23,950'));assert.ok(svg.includes('500 + 100 = 600 元'));assert.ok(!/<script|<image|https?:/.test(svg.replace('http://www.w3.org/2000/svg','')));
 });
+test('單棒兩種路徑具有相同OHLC，實體比例與結果機率分開',()=>{
+ const shape=xs=>({o:xs[0],h:Math.max(...xs),l:Math.min(...xs),c:xs.at(-1)});assert.deepEqual(shape([100,110,98,108]),shape([100,98,110,108]));assert.equal(110-98,12);assert.equal(108-100,8);assert.equal(110-108,2);assert.equal(100-98,2);assert.ok(guides['brooks-candle-evidence'].check.answer.includes('外觀比例不是勝率'));
+});
+test('通道與位置例題沿用原正文價位，而非混入另一組回放',()=>{
+ const channel=guides['bp2-trend-channel'],range=guides['bp2-range-location'];assert.equal(24980-24910,70);assert.equal(25000-24925,75);assert.ok(channel.table.rows[0][2].includes('70'));assert.equal(25060-25018,42);assert.equal(25060-25063,-3);assert.equal(25120-25063,57);assert.equal(57/20,2.85);assert.ok(range.check.answer.includes('沒有證明會到價或能成交'));assert.ok(guides['louie-chart-notes'].check.answer.includes('不能把 99.7 填回 10:05'));
+});
+test('第一階段例題覆蓋與使用者已讀不同，不寫入筆記或偷加已讀',()=>{
+ const c={AtlasReadingGuideData:guides};vm.runInNewContext(read('site-maps-data.js'),c);vm.runInNewContext(read('site-maps.js'),c);
+ const records={'brooks-context-first':{read:false,note:'保留筆記'}},before=JSON.stringify(records),m=c.AtlasSiteMaps.model(articles,records),html=c.AtlasSiteMaps.stageHTML(m.stages[0]);assert.equal(m.done,0);assert.ok(html.includes('本階段 3 / 3 篇附原創例題與答案'));assert.ok(html.includes('0 / 3 已讀'));assert.equal(JSON.stringify(records),before);
+ const progress=JSON.parse(read('reading/editorial-progress.json'));assert.equal(progress.reviewed.length,9);assert.equal(progress.pending.length,53);assert.equal(progress.core.reviewed.length,6);assert.equal(progress.core.pending.length,12);assert.equal(new Set([...progress.reviewed,...progress.pending]).size,articles.length);
+});
+test('每個例題的圖與延伸入口都可追溯至現有文章或來源卡',()=>{
+ const ids=new Set(articles.map(a=>a.id)),cards=new Set(JSON.parse(read('reading/community.json')).items.map(c=>c.id));for(const [id,g]of Object.entries(guides)){assert.ok(ids.has(id));for(const r of g.related||[])assert.ok(ids.has(r.id));for(const s of g.sourceCards||[])assert.ok(cards.has(s.id));if(g.figure)assert.ok(fs.existsSync(path.join(dist,g.figure.src)));}
+});

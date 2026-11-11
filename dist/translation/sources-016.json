@@ -1,5 +1,38 @@
 [
   {
+    "id": "a6b202e5a7fc6aec410c",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-strong-reversal-down-from-7000-round-number/",
+    "sourceTitle": "E-mini Strong Reversal Down from 7,000 Round Number",
+    "titleZh": "Brad 日內案例｜2026-01-29｜反轉與陷阱",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-261104"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-261104"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-261104",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "a6babba2a6d9e6e991a7",
     "url": "https://www.youtube.com/watch?v=-_Z0o7uXiJI",
     "sourceTitle": "Emini End of Day Review - Brad Wolff - Q&A - Trading Strategy Insights  #trading",
@@ -3168,39 +3201,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "b08b8698d08b8633b924",
-    "url": "https://www.youtube.com/watch?v=TQDIJrcvjng",
-    "sourceTitle": "European Timezone Trading Room Pilot #1 -- Tim Fairweather",
-    "titleZh": "Brooks 共享影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-TQDIJrcvjng"
-      }
-    ],
-    "resourceIds": [
-      "yt-TQDIJrcvjng"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-TQDIJrcvjng",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
     ]
   }
 ]

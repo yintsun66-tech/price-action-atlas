@@ -1,5 +1,7 @@
 # Price Action Atlas 每日內容更新
 
+**第三十四批（2026-11-11）：**四篇主線例題與一篇Andrew歷史原油正文摘要。build-content-batch34.cjs → 翻譯清單 → 中文呈現 → build-readability.cjs；作者檔reading-guides-batch34.json、zh-core-source-reviews-27.json。深度編排九篇、主線六／十八、來源卡五十一張、圖七十四張；新增編排清單保留待續項。詳見[content-batch34.md](content-batch34.md)。
+
 **第三十三批（2026-11-11）：**先校讀 FVG 與 R／口數兩篇，再新增一篇一般 Gaps 正文及一筆每跳金額指定答覆摘要。build-content-batch33.cjs → 翻譯清單 → 中文呈現 → build-readability.cjs；實讀作者檔 zh-core-source-reviews-26.json。深度編排五篇、待續五十七篇；來源卡五十張、圖七十四張。詳見 [content-batch33.md](content-batch33.md)。
 
 **2026-11-10 易讀性優先調整：**沿用每天 Asia/Taipei 10:00 的原排程。先修語境翻譯、數量與日期，再校讀既有教材、圖文數字與自測答案，最後少量新增來源。先讀 [readability-editorial.md](readability-editorial.md)；十八篇主線、十二練習單元與四十八任務使用同一學習入口。最新 build-current 在既有教材、翻譯清單及中文呈現之後執行 build-readability.cjs，保留其閱讀層次與所有原文來源。

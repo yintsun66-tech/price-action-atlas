@@ -1,14 +1,14 @@
 {
-  "version": "1.9.0",
+  "version": "1.10.0",
   "released": "2026-11-11",
   "timezone": "Asia/Taipei",
   "repository": "https://github.com/yintsun66-tech/price-action-atlas",
   "site": "https://yintsun66-tech.github.io/price-action-atlas/",
-  "contentEdition": "20261111c33",
-  "contentBuild": "scripts/build-content-batch33.cjs",
+  "contentEdition": "20261111c34",
+  "contentBuild": "scripts/build-content-batch34.cjs",
   "notes": [
-    "先深度校讀 FVG 與 R／口數兩篇：同組數字的圖表、反例、自測與可展開答案；深度編排共五篇。",
-    "修正風險圖23,950與600數字斷行，沿用七十四張原創圖；保留六十二篇原正文、英文與筆記相容。",
-    "新增TradingView一般缺口正文與Sierra Chart每跳金額指定答覆摘要；共五十張來源卡、2385英文來源、52正文摘要及31指定範圍摘要。"
+    "補四篇主線的同數字圖表、反例與答案，累計九篇深度編排；第一階段三篇已補齊。",
+    "學習地圖顯示例題覆蓋並新增編排清單；主線六／十八，與使用者已讀及外部來源翻譯進度分開。",
+    "實讀Andrew的歷史原油月／週分析，新增一筆正文摘要；共51張來源卡、2386英文來源、53正文摘要與74張原創圖。"
   ]
 }

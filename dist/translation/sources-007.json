@@ -1,5 +1,38 @@
 [
   {
+    "id": "3eababe0e2ae446bdc82",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-becoming-neutral/",
+    "sourceTitle": "Emini becoming neutral on daily chart",
+    "titleZh": "Brad 日內案例｜2022-03-14｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-145686"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-145686"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-145686",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "3ec4076b4d951c9d05f3",
     "url": "https://www.brookstradingcourse.com/analysis/emini-exhausted-likely-pullback/",
     "sourceTitle": "Emini exhausted with likely pullback",
@@ -3177,39 +3210,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "4bddc3e5dd548a9bde50",
-    "url": "https://www.youtube.com/watch?v=gtvVICPprIQ",
-    "sourceTitle": "S&P 500 E-mini Big Gap Down Then 50% Pullback in Trading Range Day - February 27, 2026",
-    "titleZh": "Brooks 共享影片｜回檔與第二段／區間與通道",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-gtvVICPprIQ"
-      }
-    ],
-    "resourceIds": [
-      "yt-gtvVICPprIQ"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-gtvVICPprIQ",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
     ]
   }
 ]

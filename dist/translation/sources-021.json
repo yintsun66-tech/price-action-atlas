@@ -1,5 +1,38 @@
 [
   {
+    "id": "ddb37b1170175c870d86",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-getting-upside-breakout/",
+    "sourceTitle": "Emini Bulls Getting Upside Breakout",
+    "titleZh": "Brad 日內案例｜2025-01-15｜突破與延續",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-227757"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-227757"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-227757",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "de0c62daf512de57a1a4",
     "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-05-program-trading/",
     "sourceTitle": "程式交易",
@@ -3128,39 +3161,6 @@
       {
         "id": "brad-post-179563",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "eb098b3f86bff5e96e0b",
-    "url": "https://www.youtube.com/watch?v=cRmDVffMj6g",
-    "sourceTitle": "Emini End of Day Review - Monday December 4, 2023 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-cRmDVffMj6g"
-      }
-    ],
-    "resourceIds": [
-      "yt-cRmDVffMj6g"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-cRmDVffMj6g",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
         "checked": "2026-10-22"
       }
     ],
