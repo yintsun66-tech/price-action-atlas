@@ -51,6 +51,7 @@ if(!html.includes('reading-guide.js'))html=html.replace('<script defer src="read
 write('index.html',html);
 const log=json('reading/content-updates.json');
 const entry={id:'readability-20261110',collected:'2026-11-10',updated:'2026-11-10',timezone:'Asia/Taipei',description:'依全站審查重整閱讀層次、入口與三篇示範；修正多義詞替換與數字日期口徑。',articles:[],referencedArticles:Object.keys(guides),sources:[],notes:['62 篇共用問題、核心觀念與練習入口；三篇追加原創算例表與可展開答案。','Footprint 的第六節起、訊號跳空的平均 K 兩節改為可展開進階內容，保留原始文章、圖說、機率及所有來源。','本次為既有資料的編排與語境校正；未讀取新外部來源，不增加正文摘要或全文翻譯完成數。','主線十八篇、十二練習單元、四十八任務的關係明示；進階路線與全站入口按需展開。','原排程維持 Asia/Taipei 每天十點，先校讀、圖文對應與改善理解，再新增少量來源。']};
-log.batches=[entry,...log.batches.filter(b=>b.id!==entry.id)];write('reading/content-updates.json',log);
+// Historical revision records retain their actual scope and ordering.
+if(!log.batches.some(b=>b.id===entry.id)){entry.referencedArticles=['brooks-context-first','pp2-signal-gap','flow-footprint'];log.batches.unshift(entry);}write('reading/content-updates.json',log);
 require('./stamp-version.cjs');
 console.log(JSON.stringify({readability:true,articles:total,figures:figureCount,workedExamples:Object.keys(guides).length}));

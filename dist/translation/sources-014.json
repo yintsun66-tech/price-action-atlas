@@ -1,5 +1,73 @@
 [
   {
+    "id": "8f3cd9d27a369360ee74",
+    "url": "https://www.brookstradingcourse.com/guest-traders/emini-position-sizing-calculator/",
+    "sourceTitle": "Emini position sizing calculator",
+    "titleZh": "E-mini 部位大小計算器",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "ali-post-41314"
+      }
+    ],
+    "resourceIds": [
+      "ali-post-41314"
+    ],
+    "legacyObservations": [
+      {
+        "id": "ali-post-41314",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Ali Moin-Afshari"
+    ]
+  },
+  {
+    "id": "8f50fa6ce520c2ef79ca",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bears-want-test-of-june-low/",
+    "sourceTitle": "E-mini Bears Want Test of June Low",
+    "titleZh": "E-mini：空方希望測試六月低點",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-274046"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-274046"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-274046",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "8f5940bece06b9076b20",
     "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-33d-protective-stops/",
     "sourceTitle": "保護停損",
@@ -3105,72 +3173,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "9b25a6caec97a4a3f639",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-low-1-following-bear-breakout/",
-    "sourceTitle": "Emini Low 1 Short Following Bear Breakout",
-    "titleZh": "Brad 日內案例｜2023-08-23｜突破與延續",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-187595"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-187595"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-187595",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "9b52eceddd1c9d7bdf0e",
-    "url": "https://www.youtube.com/watch?v=3FloL5DsJhE",
-    "sourceTitle": "Price Action Rose - Brooks Trading Room November 12, 2024",
-    "titleZh": "Brooks 共享影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-3FloL5DsJhE"
-      }
-    ],
-    "resourceIds": [
-      "yt-3FloL5DsJhE"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-3FloL5DsJhE",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
     ]
   }
 ]

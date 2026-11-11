@@ -1,5 +1,71 @@
 [
   {
+    "id": "82a86aff1dc6393ff06e",
+    "url": "https://www.youtube.com/playlist?list=PLHLr2xVJTUWE",
+    "sourceTitle": "Live Trading Workshop",
+    "titleZh": "Brooks 共享片單｜Live Trading Workshop",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "list-PLHLr2xVJTUWE"
+      }
+    ],
+    "resourceIds": [
+      "list-PLHLr2xVJTUWE"
+    ],
+    "legacyObservations": [
+      {
+        "id": "list-PLHLr2xVJTUWE",
+        "scope": "官方片單入口已核對；包含多講者者不概括歸屬 Brad",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊"
+    ]
+  },
+  {
+    "id": "8302ad2f161fcd1cc60e",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-implied-two-legged-pullback-to-moving-average/",
+    "sourceTitle": "E-mini Implied Two-Legged Pullback to Moving Average",
+    "titleZh": "Brad 日內案例｜2026-05-20｜回檔與第二段",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-270046"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-270046"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-270046",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "832c849252a7daea2dd6",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-expect-2nd-leg-up/",
     "sourceTitle": "E-mini Bulls Expect 2nd Leg Up",
@@ -3135,73 +3201,5 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": []
-  },
-  {
-    "id": "8f3cd9d27a369360ee74",
-    "url": "https://www.brookstradingcourse.com/guest-traders/emini-position-sizing-calculator/",
-    "sourceTitle": "Emini position sizing calculator",
-    "titleZh": "E-mini 部位大小計算器",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "ali-post-41314"
-      }
-    ],
-    "resourceIds": [
-      "ali-post-41314"
-    ],
-    "legacyObservations": [
-      {
-        "id": "ali-post-41314",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Ali Moin-Afshari"
-    ]
-  },
-  {
-    "id": "8f50fa6ce520c2ef79ca",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bears-want-test-of-june-low/",
-    "sourceTitle": "E-mini Bears Want Test of June Low",
-    "titleZh": "E-mini：空方希望測試六月低點",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-274046"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-274046"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-274046",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Brad Wolff"
-    ]
   }
 ]

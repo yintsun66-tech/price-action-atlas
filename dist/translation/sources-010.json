@@ -1,5 +1,71 @@
 [
   {
+    "id": "60ccc20a427f464751bc",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-buyers-at-may-8th-buy-signal-bar/",
+    "sourceTitle": "Emini Buyers at May 8th Buy Signal bar",
+    "titleZh": "Brad 日內案例｜2024-05-14｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-208554"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-208554"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-208554",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "60d6860d0ba50d386b77",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-pullback-to-moving-average-likely-4/",
+    "sourceTitle": "Emini Pullback to Moving Average Likely",
+    "titleZh": "Brad 日內案例｜2025-05-14｜回檔與第二段",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-236816"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-236816"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-236816",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "60e5c941e22b05a24383",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-bulls-want-reversal-up-after-weak-low-1-short/",
     "sourceTitle": "E-mini Bulls Want Reversal Up after Weak Low 1 Short",
@@ -3149,72 +3215,6 @@
     "courseRefs": [],
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "6cf2124722aba04cac71",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-follow-through-after-fomc/",
-    "sourceTitle": "Emini bulls likely follow-through after FOMC rally yesterday",
-    "titleZh": "Brad 日內案例｜2022-05-05｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-150044"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-150044"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-150044",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "6d0f2b3e173487836bd2",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-close-near-open-of-week/",
-    "sourceTitle": "Emini Close near Open of Week",
-    "titleZh": "Brad 日內案例｜2025-05-09｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-236229"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-236229"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-236229",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

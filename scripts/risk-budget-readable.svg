@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="650" viewBox="0 0 960 650" role="img" aria-labelledby="t d">
+<title id="t">一口 600 元，預算 250 元：整數口數為零</title><desc id="d">本站原創教學算例。進場24000、停損23950，相差50點。每點假設10元，加來回成本假設100元，單口含成本風險600元。帳戶100000元乘0.25%為250元，不能負擔一口。不是進場訊號或實際虧損保證。</desc>
+<rect width="960" height="650" rx="20" fill="#fff"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Microsoft JhengHei',sans-serif" fill="#202124">
+<text x="40" y="52" font-size="30" font-weight="750">先換成金額，再看能否負擔一口</text>
+<text x="40" y="90" font-size="20" fill="#596273">與正文、算例表相同的合成數字；成本與比例均為例題假設</text>
+<rect x="40" y="120" width="880" height="310" rx="12" fill="#f5f7fa"/>
+<g font-size="24"><text x="64" y="166">進場／停損</text><text x="390" y="166">24,000 ／ 23,950</text>
+<text x="64" y="226">價格距離</text><text x="390" y="226">50 點 × 每點 10 元 = 500 元</text>
+<text x="64" y="286">一口含成本風險</text><text x="390" y="286">500 + 100 = 600 元</text>
+<text x="64" y="346">單筆預算</text><text x="390" y="346">100,000 × 0.25% = 250 元</text>
+<text x="64" y="406" font-weight="750">整數口數</text><text x="390" y="406" font-weight="750">向下取整 (250 ÷ 600) = 0 口</text></g>
+<rect x="40" y="458" width="880" height="74" rx="12" fill="#eef5fc"/>
+<text x="64" y="504" font-size="25" font-weight="750">本例：略過，不為了湊一口而改動結構停損。</text>
+<text x="40" y="575" font-size="21">計畫風險與實際虧損分開；跳空、滑價仍可能擴大損失。</text>
+<path d="M40 603H920" stroke="#dce3ed"/><text x="40" y="631" font-size="18" fill="#596273">原創合成教學 · 非真實行情／作者原圖／帳戶報價／交易訊號／策略績效</text></g></svg>

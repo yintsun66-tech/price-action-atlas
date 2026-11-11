@@ -25,3 +25,10 @@ test('多義詞與術語不被無語境替換，英文原文仍可展開',()=>{
 test('主線先於探索且路線收合，數量與日期一致',()=>{
  const html=read('index.html');assert.ok(html.indexOf('id="learning-map"')<html.indexOf('id="site-map"'));assert.ok(html.includes('reading-route-options'));assert.ok(html.includes('site-map-options'));assert.ok(html.includes('合計 74 張原創 SVG'));assert.ok(!html.includes('閱讀庫更新：2026.10.29'));assert.ok(read('reader.js').includes('閱讀庫排序 '));assert.ok(read('reader.js').includes('parent.open=true'));assert.ok(read('readability.css').includes('100dvh'));
 });
+test('FVG 自測只在收線後確認，圖表使用同一組邊界',()=>{
+ const g=guides['ict-fvg'];assert.ok(g.example.includes('H1 = 101'));assert.ok(g.example.includes('L3 = 102.5'));assert.equal(102.5-101,1.5);assert.equal(100.8>101,false);assert.ok(g.check.answer.includes('不符合'));assert.ok(g.check.answer.includes('100.8'));assert.match(read(g.figure.src),/L3 102.5 &gt; H1 101/);assert.ok(g.counterexample.includes('中央棒'));
+});
+test('風險表的金額、分母及圖中完整數字一致',()=>{
+ const g=guides['practice-risk-in-r'];assert.equal((24000-23950)*10+100,600);assert.equal(Math.floor(250/600),0);assert.equal(((24100-24000)*10-100)/500,1.8);assert.equal(900/600,1.5);assert.ok(g.check.answer.includes('原先 250 元預算不允許此單'));
+ const svg=read(g.figure.src);assert.ok(svg.includes('24,000 ／ 23,950'));assert.ok(svg.includes('500 + 100 = 600 元'));assert.ok(!/<script|<image|https?:/.test(svg.replace('http://www.w3.org/2000/svg','')));
+});

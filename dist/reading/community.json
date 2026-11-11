@@ -1,8 +1,98 @@
 {
   "version": 1,
-  "checked": "2026-11-10",
+  "checked": "2026-11-11",
   "policy": "編輯選讀順序依本專案學習用途排列，並非獲利或跨平台人氣排名。社群經驗只能作為問題來源。",
   "items": [
+    {
+      "id": "tv-gap-close-definition",
+      "platform": "TradingView 官方指標說明",
+      "kind": "author",
+      "language": "en",
+      "author": "TradingView",
+      "title": "一般缺口消框，不一定代表整個區域回補",
+      "originalTitle": "Gaps",
+      "url": "https://www.tradingview.com/support/solutions/43000675999-gaps/",
+      "published": null,
+      "dateNote": "動態說明頁，首次發布與最後修訂確日未標；查核日另列。",
+      "summary": "一般缺口指標比較相鄰兩棒的高低，另有尺寸篩選與部分關閉設定。預設可在價格僅進入一部分時關閉整框；畫框狀態不等於整區回補或委託成交。",
+      "quote": {
+        "en": "Close Gaps Partially",
+        "zh": "部分關閉缺口。",
+        "context": "指標設定名稱；這裡的 Close 是關閉圖框的邏輯，並非 K 棒收盤價或平倉回報。"
+      },
+      "access": "已讀公開 Definition、Summary、Inputs 全部文字；未觀看嵌入影片、重製圖片或操作目前指標。",
+      "translation": "正文精簡摘要及三詞設定名稱對照；非全文翻譯。",
+      "review": {
+        "basis": "指標發布平台對相鄰兩棒、篩選和圖框關閉規則的直接文件。",
+        "learning": "與本站三棒 FVG 定義並列閱讀，先分清比較哪幾根棒，再定義進入、完整覆蓋和成交。",
+        "limits": "這是一般 Gaps 指標文件，並非 ICT 官方 FVG 課程或策略驗證；預設參數不當成交易建議，未執行軟體。",
+        "engagement": "未取得獨立教學評分；功能文件不提供獲利證據。"
+      },
+      "figure": {
+        "src": "images/study/ict-fvg-geometry.svg",
+        "alt": "本站既有三棒 FVG 合成圖，非 TradingView 一般 Gaps 指標截圖",
+        "caption": "這張圖只說明本站三棒定義；官方來源討論相鄰兩棒，兩者不得混為同一算法。"
+      },
+      "related": [
+        "ict-fvg",
+        "ict-event-rates"
+      ],
+      "tags": [
+        "兩棒與三棒",
+        "回補定義",
+        "Close語境"
+      ],
+      "batch": 33,
+      "collected": "2026-11-11",
+      "checked": "2026-11-11",
+      "courseRefs": [],
+      "status": "body-summary"
+    },
+    {
+      "id": "sierra-risk-tick-currency",
+      "platform": "Sierra Chart 公開支援區",
+      "kind": "community",
+      "language": "en",
+      "author": "LenderDevTest；Sierra Chart Engineering",
+      "title": "停損 tick 數要先換成金額，再討論口數",
+      "originalTitle": "How to calculate position size in programming way?",
+      "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=32579",
+      "published": "2018-02-10",
+      "dateNote": "首帖 2018-02-10；採用工程團隊 2018-02-12 指定回覆。貼文時區未標；返回頁首為舊快照，不作即時互動量。",
+      "summary": "會員以 50 ticks 停損與 3,000 美元風險預算發問；工程回覆指向每跳貨幣值和交易視窗委託數量變數。該答覆沒有替本例給出商品每跳金額或完成口數計算。",
+      "quote": {
+        "en": "Currency Value Per Tick",
+        "zh": "每個最小跳動的貨幣金額。",
+        "context": "客服指向的程式變數主題；tick 指最小價格跳動，不是成交筆數圖中的筆數。"
+      },
+      "access": "實讀全部兩則公開貼文；摘要採 #2 工程答覆。未開啟連結變數文件、執行程式或核驗現行版本。",
+      "translation": "指定客服答覆摘要與四詞對照；不以整串閱讀冒稱正文全文翻譯。",
+      "review": {
+        "basis": "2018-02-12 #2 Sierra Chart Engineering 指定回覆可核對。",
+        "learning": "距離、每跳金額與數量三欄分開；成本、向下取整及保證金檢查由本站另編。",
+        "limits": "未指定商品、每跳金額與費用，無法算出唯一口數；沒有測試程式或證明風險硬上限。",
+        "engagement": "未將檢視數或感謝數當作教學評分或獲利證據。"
+      },
+      "figure": {
+        "src": "images/study/practice-risk-in-r-table.svg",
+        "alt": "本站示例單口600元超過250元預算，原討論的50ticks與美元預算另列",
+        "caption": "數字來自站內微台教學假設；不是原帖商品、程式結果或帳戶報價。"
+      },
+      "related": [
+        "practice-risk-in-r",
+        "pp2-structural-stop"
+      ],
+      "tags": [
+        "tick金額",
+        "口數取整",
+        "指定答覆"
+      ],
+      "batch": 33,
+      "collected": "2026-11-11",
+      "checked": "2026-11-11",
+      "courseRefs": [],
+      "status": "excerpt-summary"
+    },
     {
       "id": "tv-synthetic-chart-fills",
       "platform": "TradingView 官方說明",
@@ -2097,6 +2187,10 @@
   "legacyChecked": "2026-10-28",
   "batches": [
     {
+      "batch": 33,
+      "title": "第三十三批｜11.11 定義、金額與自測"
+    },
+    {
       "batch": 32,
       "title": "第三十二批｜11.10 合成棒與成交價"
     },
@@ -2166,12 +2260,16 @@
     }
   ],
   "intro": {
-    "heading": "圖上的開盤價，真的能成交嗎？",
-    "text": "讀平均 K 公式、最末棒設定與合成圖回測的限制。三張繁中選讀、一張自編對照圖及既有單元練習，訊號資料與成交資料分開。",
+    "heading": "先畫對區域，再把風險換成金額。",
+    "text": "先校讀 FVG 與 R／口數兩篇，再讀一般缺口與每跳金額的來源。五篇已完成深度閱讀編排，其餘五十七篇逐批處理；新增算例不是作者官方策略。",
     "links": [
       {
-        "id": "pp2-signal-gap",
-        "label": "閱讀合成棒與價格來源的原創算例"
+        "id": "ict-fvg",
+        "label": "先做三棒確認練習"
+      },
+      {
+        "id": "practice-risk-in-r",
+        "label": "計算一口與風險預算"
       }
     ]
   }

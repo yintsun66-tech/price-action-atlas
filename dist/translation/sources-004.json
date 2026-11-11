@@ -1,5 +1,71 @@
 [
   {
+    "id": "1cf15b546a34088bfc83",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-climactic-expect-rally-testing-4400/",
+    "sourceTitle": "Emini Climactic Expect Rally Testing 4,400",
+    "titleZh": "Brad 日內案例｜2023-06-27｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-181966"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-181966"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-181966",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "1d2a80b131ecc7eb9758",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-upside-breakout-of-bear-flag/",
+    "sourceTitle": "Emini Bulls Want Upside Breakout of Bear Flag",
+    "titleZh": "Brad 日內案例｜2023-03-20｜突破與延續",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-173771"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-173771"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-173771",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "1d2b1223f6b2fb7c0eeb",
     "url": "https://www.youtube.com/playlist?list=PLFA11UMiAJm99Xo0Mr4yPzWgwxUTTSJ_e",
     "sourceTitle": "Trading Strategies",
@@ -3145,60 +3211,5 @@
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
     ]
-  },
-  {
-    "id": "2882b8d169925a83e2c3",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-breakout-above-all-time-high/",
-    "sourceTitle": "Emini Breakout above All Time High",
-    "titleZh": "Brad 日內案例｜2024-10-10｜突破與延續",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-219892"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-219892"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-219892",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "2890037aabd0b4a149cf",
-    "url": "https://www.brookstradingcourse.com/trade-price-action/video-46e-trading-broad-bear-channels/",
-    "sourceTitle": "寬空頭通道交易",
-    "titleZh": "寬空頭通道交易",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "寬空頭通道交易"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   }
 ]

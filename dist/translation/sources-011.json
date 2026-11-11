@@ -1,5 +1,71 @@
 [
   {
+    "id": "6cf2124722aba04cac71",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-follow-through-after-fomc/",
+    "sourceTitle": "Emini bulls likely follow-through after FOMC rally yesterday",
+    "titleZh": "Brad 日內案例｜2022-05-05｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-150044"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-150044"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-150044",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "6d0f2b3e173487836bd2",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-close-near-open-of-week/",
+    "sourceTitle": "Emini Close near Open of Week",
+    "titleZh": "Brad 日內案例｜2025-05-09｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-236229"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-236229"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-236229",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "6d22f7cc016fa928d23d",
     "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-30d-traders-equation-probability/",
     "sourceTitle": "機率與交易方程式",
@@ -3008,72 +3074,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "76ed45a12653625b1889",
-    "url": "https://www.youtube.com/watch?v=WVuCLZo67zQ",
-    "sourceTitle": "Why Traders Attend the Brooks Live Trading Workshop | Orlando 2026",
-    "titleZh": "Brooks 共享影片｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-WVuCLZo67zQ"
-      }
-    ],
-    "resourceIds": [
-      "yt-WVuCLZo67zQ"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-WVuCLZo67zQ",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "76f2addf4e704bf75fd7",
-    "url": "https://www.youtube.com/watch?v=lRS5trePhB4",
-    "sourceTitle": "Brooks Trading Room EURO Session Open House - June 2, 2025",
-    "titleZh": "Brooks 共享影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-lRS5trePhB4"
-      }
-    ],
-    "resourceIds": [
-      "yt-lRS5trePhB4"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-lRS5trePhB4",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
     ]
   }
 ]

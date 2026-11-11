@@ -1,5 +1,60 @@
 [
   {
+    "id": "2882b8d169925a83e2c3",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-breakout-above-all-time-high/",
+    "sourceTitle": "Emini Breakout above All Time High",
+    "titleZh": "Brad 日內案例｜2024-10-10｜突破與延續",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-219892"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-219892"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-219892",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "2890037aabd0b4a149cf",
+    "url": "https://www.brookstradingcourse.com/trade-price-action/video-46e-trading-broad-bear-channels/",
+    "sourceTitle": "寬空頭通道交易",
+    "titleZh": "寬空頭通道交易",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "寬空頭通道交易"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "28bf1295793abdbcdd36",
     "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-rally-to-4400/",
     "sourceTitle": "Emini Bulls Want Rally to 4,400",
@@ -3197,60 +3252,5 @@
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
     ]
-  },
-  {
-    "id": "33ece4c4395b91a965c4",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-near-daily-moving-average/",
-    "sourceTitle": "Emini Near Daily Moving Average",
-    "titleZh": "Brad 日內案例｜2024-12-18｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-225601"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-225601"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-225601",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "33fa8832f28d1b8740d4",
-    "url": "https://www.brookstradingcourse.com/trade-price-action/video-39d-trading-mtr-bottoms/",
-    "sourceTitle": "交易底部反轉",
-    "titleZh": "交易底部反轉",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "交易底部反轉"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   }
 ]

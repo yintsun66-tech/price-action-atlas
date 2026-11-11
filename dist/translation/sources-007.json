@@ -1,5 +1,61 @@
 [
   {
+    "id": "3ec4076b4d951c9d05f3",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-exhausted-likely-pullback/",
+    "sourceTitle": "Emini exhausted with likely pullback",
+    "titleZh": "Brad 日內案例｜2022-08-18｜回檔與第二段",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-158337"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-158337"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-158337",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "3ecfb5600bba78f3a3c6",
+    "url": "https://www.tradingsetupsreview.com/course/info/reviews/",
+    "sourceTitle": "官網推薦文與免責說明（作者自選）",
+    "titleZh": "官網推薦文與免責說明（作者自選）",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "discovery-review",
+        "id": "galen-woods",
+        "index": 0
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "3ef1478cea6284652e08",
     "url": "https://www.youtube.com/watch?v=eoImdbrpxrY",
     "sourceTitle": "Emini End of Day Review - Friday August 12, 2022",
@@ -3154,72 +3210,6 @@
     "courseRefs": [],
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "4c034bfc7ec1fbf6b5a8",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-want-strong-follow-through/",
-    "sourceTitle": "Emini Bears Want Strong Follow-through Bar Today",
-    "titleZh": "Brad 日內案例｜2023-04-13｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-175620"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-175620"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-175620",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "4c16951ec5b49a3b6041",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-end-bear-streak/",
-    "sourceTitle": "Emini Bulls Want to End Bear Streak",
-    "titleZh": "Brad 日內案例｜2022-10-11｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-162411"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-162411"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-162411",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

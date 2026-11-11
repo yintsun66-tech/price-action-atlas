@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "items": [
     {
       "id": "014e9d23788221e0da5b",
@@ -77,6 +77,13 @@
       ],
       "status": "unavailable",
       "nextAction": "日後重試合法公開入口，保留本次失敗"
+    },
+    {
+      "id": "4ed4d94e8f3dbdf17a9e",
+      "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=32579",
+      "resourceIds": [],
+      "status": "excerpt-summary",
+      "nextAction": "僅完成指定選段；核對其餘範圍的可取得性與授權後繼續"
     },
     {
       "id": "6577dcee167868bb196b",

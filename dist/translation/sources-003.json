@@ -1,5 +1,71 @@
 [
   {
+    "id": "10c2e7ae03b624255413",
+    "url": "https://www.youtube.com/watch?v=PYIeMsyqUro",
+    "sourceTitle": "SP500 E mini Parabolic Bull Trend Then Endless Pullback Trading Range",
+    "titleZh": "Brooks 共享影片｜回檔與第二段／區間與通道",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-PYIeMsyqUro"
+      }
+    ],
+    "resourceIds": [
+      "yt-PYIeMsyqUro"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-PYIeMsyqUro",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
+    "id": "10e1ddc2077234132026",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-gap-on-monthly-chart/",
+    "sourceTitle": "Emini closed below March 2021 gap on monthly chart",
+    "titleZh": "Brad 日內案例｜2022-05-12｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-150558"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-150558"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-150558",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "110df5111e8b2394969c",
     "url": "https://www.brookstradingcourse.com/analysis/emini-testing-last-wednesdays-close/",
     "sourceTitle": "Emini Testing Last Wednesday’s Close",
@@ -3131,72 +3197,6 @@
     "reviews": [],
     "courseRefs": [],
     "titleNote": "",
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "1cf15b546a34088bfc83",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-climactic-expect-rally-testing-4400/",
-    "sourceTitle": "Emini Climactic Expect Rally Testing 4,400",
-    "titleZh": "Brad 日內案例｜2023-06-27｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-181966"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-181966"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-181966",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "1d2a80b131ecc7eb9758",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-upside-breakout-of-bear-flag/",
-    "sourceTitle": "Emini Bulls Want Upside Breakout of Bear Flag",
-    "titleZh": "Brad 日內案例｜2023-03-20｜突破與延續",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-173771"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-173771"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-173771",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
     "authors": [
       "Brad Wolff"
     ]

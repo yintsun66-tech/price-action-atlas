@@ -1,5 +1,71 @@
 [
   {
+    "id": "4c034bfc7ec1fbf6b5a8",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-want-strong-follow-through/",
+    "sourceTitle": "Emini Bears Want Strong Follow-through Bar Today",
+    "titleZh": "Brad 日內案例｜2023-04-13｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-175620"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-175620"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-175620",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
+    "id": "4c16951ec5b49a3b6041",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-end-bear-streak/",
+    "sourceTitle": "Emini Bulls Want to End Bear Streak",
+    "titleZh": "Brad 日內案例｜2022-10-11｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-162411"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-162411"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-162411",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "4c328c79b0b93bf5e9a0",
     "url": "https://www.youtube.com/watch?v=PdddWXnwGlg",
     "sourceTitle": "FTSE 100 Weekly Report - Failed BO below Inside Bar, MA and Bull Channel - Tim Fairweather",
@@ -3098,71 +3164,5 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": []
-  },
-  {
-    "id": "55e74e0071d77f1e28e1",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-surprise-2nd-leg-down-likely/",
-    "sourceTitle": "Emini Bear Surprise 2nd Leg Down Likely",
-    "titleZh": "Brad 日內案例｜2023-07-28｜突破與延續／回檔與第二段",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-184546"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-184546"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-184546",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "55e914fb2c34b14d9b8b",
-    "url": "https://www.youtube.com/watch?v=84-FxRQ93a4",
-    "sourceTitle": "Emini End of Day Review - Wednesday, March 5, 2025 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-84-FxRQ93a4"
-      }
-    ],
-    "resourceIds": [
-      "yt-84-FxRQ93a4"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-84-FxRQ93a4",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
   }
 ]

@@ -3040,6 +3040,94 @@
     "attributionNoteZh": "官方頁署名 Ali，並非 Brooks 親筆。與既有視覺化學習選讀主題重疊；本次補核對 Brooks 網站客座版，不新增閱讀單元。"
   },
   {
+    "id": "4ed4d94e8f3dbdf17a9e",
+    "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=32579",
+    "sourceTitle": "How to calculate position size in programming way?",
+    "titleZh": "停損 tick 數要先換成金額，再討論口數",
+    "titleCoverage": "reviewed-title",
+    "status": "excerpt-summary",
+    "summaryZh": "會員以 50 ticks 停損與 3,000 美元風險預算發問；工程回覆指向每跳貨幣值和交易視窗委託數量變數。該答覆沒有替本例給出商品每跳金額或完成口數計算。",
+    "readScope": "實讀全部兩則公開貼文；摘要採 #2 工程答覆。未開啟連結變數文件、執行程式或核驗現行版本。",
+    "checked": "2026-11-11",
+    "inventoried": "2026-11-11",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "sierra-risk-tick-currency"
+      },
+      {
+        "kind": "review",
+        "id": "source-b33-sierra-risk-tick-currency"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b33-sierra-risk-tick-currency",
+        "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=32579",
+        "sourceTitle": "How to calculate position size in programming way?",
+        "sourceTitleZh": "停損 tick 數要先換成金額，再討論口數",
+        "authorConfirmed": "LenderDevTest；Sierra Chart Engineering",
+        "published": "2018-02-10",
+        "dateNoteZh": "首帖 2018-02-10；採用工程團隊 2018-02-12 指定回覆。貼文時區未標；返回頁首為舊快照，不作即時互動量。",
+        "checked": "2026-11-11",
+        "status": "excerpt-summary",
+        "readScope": "實讀全部兩則公開貼文；摘要採 #2 工程答覆。未開啟連結變數文件、執行程式或核驗現行版本。",
+        "summaryZh": "會員以 50 ticks 停損與 3,000 美元風險預算發問；工程回覆指向每跳貨幣值和交易視窗委託數量變數。該答覆沒有替本例給出商品每跳金額或完成口數計算。",
+        "keyPointsZh": [
+          "距離、每跳金額與數量三欄分開；成本、向下取整及保證金檢查由本站另編。"
+        ],
+        "shortExcerpt": {
+          "en": "Currency Value Per Tick",
+          "zh": "每個最小跳動的貨幣金額。",
+          "scope": "客服指向的程式變數主題；tick 指最小價格跳動，不是成交筆數圖中的筆數。"
+        },
+        "limitsZh": "未指定商品、每跳金額與費用，無法算出唯一口數；沒有測試程式或證明風險硬上限。 未將檢視數或感謝數當作教學評分或獲利證據。",
+        "evidence": {
+          "urls": [
+            "https://www.sierrachart.com/SupportBoard.php?ThreadID=32579"
+          ],
+          "accessMethod": "實讀公開文字；未執行程式或觀看影片",
+          "scope": "實讀全部兩則公開貼文；摘要採 #2 工程答覆。未開啟連結變數文件、執行程式或核驗現行版本。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "LenderDevTest；Sierra Chart Engineering"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "會員以 50 ticks 停損與 3,000 美元風險預算發問；工程回覆指向每跳貨幣值和交易視窗委託數量變數。該答覆沒有替本例給出商品每跳金額或完成口數計算。",
+      "readScope": "實讀全部兩則公開貼文；摘要採 #2 工程答覆。未開啟連結變數文件、執行程式或核驗現行版本。",
+      "checked": "2026-11-11",
+      "translationScope": "指定客服答覆摘要與四詞對照；不以整串閱讀冒稱正文全文翻譯。",
+      "cardId": "sierra-risk-tick-currency"
+    },
+    "published": "2018-02-10",
+    "dateNoteZh": "首帖 2018-02-10；採用工程團隊 2018-02-12 指定回覆。貼文時區未標；返回頁首為舊快照，不作即時互動量。",
+    "keyPointsZh": [
+      "距離、每跳金額與數量三欄分開；成本、向下取整及保證金檢查由本站另編。"
+    ],
+    "limitsZh": "未指定商品、每跳金額與費用，無法算出唯一口數；沒有測試程式或證明風險硬上限。 未將檢視數或感謝數當作教學評分或獲利證據。",
+    "evidence": {
+      "urls": [
+        "https://www.sierrachart.com/SupportBoard.php?ThreadID=32579"
+      ],
+      "accessMethod": "實讀公開文字；未執行程式或觀看影片",
+      "scope": "實讀全部兩則公開貼文；摘要採 #2 工程答覆。未開啟連結變數文件、執行程式或核驗現行版本。"
+    },
+    "shortExcerpt": {
+      "en": "Currency Value Per Tick",
+      "zh": "每個最小跳動的貨幣金額。",
+      "scope": "客服指向的程式變數主題；tick 指最小價格跳動，不是成交筆數圖中的筆數。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "LenderDevTest；Sierra Chart Engineering"
+  },
+  {
     "id": "4f301708d0f7f088f4f8",
     "url": "https://www.smbtraining.com/blog/why-entry-prices-matter-to-make-quality-stock-trades-mrna",
     "sourceTitle": "Why entry prices matter to make quality stock trades ($MRNA)",
@@ -5436,6 +5524,94 @@
     "shortExcerpt": null,
     "termNotes": [],
     "editorNotesZh": []
+  },
+  {
+    "id": "99b7b5906be57f2a214e",
+    "url": "https://www.tradingview.com/support/solutions/43000675999-gaps/",
+    "sourceTitle": "Gaps",
+    "titleZh": "一般缺口消框，不一定代表整個區域回補",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "一般缺口指標比較相鄰兩棒的高低，另有尺寸篩選與部分關閉設定。預設可在價格僅進入一部分時關閉整框；畫框狀態不等於整區回補或委託成交。",
+    "readScope": "已讀公開 Definition、Summary、Inputs 全部文字；未觀看嵌入影片、重製圖片或操作目前指標。",
+    "checked": "2026-11-11",
+    "inventoried": "2026-11-11",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "tv-gap-close-definition"
+      },
+      {
+        "kind": "review",
+        "id": "source-b33-tv-gap-close-definition"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b33-tv-gap-close-definition",
+        "url": "https://www.tradingview.com/support/solutions/43000675999-gaps/",
+        "sourceTitle": "Gaps",
+        "sourceTitleZh": "一般缺口消框，不一定代表整個區域回補",
+        "authorConfirmed": "TradingView",
+        "published": null,
+        "dateNoteZh": "動態說明頁，首次發布與最後修訂確日未標；查核日另列。",
+        "checked": "2026-11-11",
+        "status": "body-summary",
+        "readScope": "已讀公開 Definition、Summary、Inputs 全部文字；未觀看嵌入影片、重製圖片或操作目前指標。",
+        "summaryZh": "一般缺口指標比較相鄰兩棒的高低，另有尺寸篩選與部分關閉設定。預設可在價格僅進入一部分時關閉整框；畫框狀態不等於整區回補或委託成交。",
+        "keyPointsZh": [
+          "與本站三棒 FVG 定義並列閱讀，先分清比較哪幾根棒，再定義進入、完整覆蓋和成交。"
+        ],
+        "shortExcerpt": {
+          "en": "Close Gaps Partially",
+          "zh": "部分關閉缺口。",
+          "scope": "指標設定名稱；這裡的 Close 是關閉圖框的邏輯，並非 K 棒收盤價或平倉回報。"
+        },
+        "limitsZh": "這是一般 Gaps 指標文件，並非 ICT 官方 FVG 課程或策略驗證；預設參數不當成交易建議，未執行軟體。 未取得獨立教學評分；功能文件不提供獲利證據。",
+        "evidence": {
+          "urls": [
+            "https://www.tradingview.com/support/solutions/43000675999-gaps/"
+          ],
+          "accessMethod": "實讀公開文字；未執行程式或觀看影片",
+          "scope": "已讀公開 Definition、Summary、Inputs 全部文字；未觀看嵌入影片、重製圖片或操作目前指標。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "TradingView"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "一般缺口指標比較相鄰兩棒的高低，另有尺寸篩選與部分關閉設定。預設可在價格僅進入一部分時關閉整框；畫框狀態不等於整區回補或委託成交。",
+      "readScope": "已讀公開 Definition、Summary、Inputs 全部文字；未觀看嵌入影片、重製圖片或操作目前指標。",
+      "checked": "2026-11-11",
+      "translationScope": "正文精簡摘要及三詞設定名稱對照；非全文翻譯。",
+      "cardId": "tv-gap-close-definition"
+    },
+    "published": null,
+    "dateNoteZh": "動態說明頁，首次發布與最後修訂確日未標；查核日另列。",
+    "keyPointsZh": [
+      "與本站三棒 FVG 定義並列閱讀，先分清比較哪幾根棒，再定義進入、完整覆蓋和成交。"
+    ],
+    "limitsZh": "這是一般 Gaps 指標文件，並非 ICT 官方 FVG 課程或策略驗證；預設參數不當成交易建議，未執行軟體。 未取得獨立教學評分；功能文件不提供獲利證據。",
+    "evidence": {
+      "urls": [
+        "https://www.tradingview.com/support/solutions/43000675999-gaps/"
+      ],
+      "accessMethod": "實讀公開文字；未執行程式或觀看影片",
+      "scope": "已讀公開 Definition、Summary、Inputs 全部文字；未觀看嵌入影片、重製圖片或操作目前指標。"
+    },
+    "shortExcerpt": {
+      "en": "Close Gaps Partially",
+      "zh": "部分關閉缺口。",
+      "scope": "指標設定名稱；這裡的 Close 是關閉圖框的邏輯，並非 K 棒收盤價或平倉回報。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "TradingView"
   },
   {
     "id": "99e2a151d66fd24d0a7d",
@@ -9048,73 +9224,5 @@
     },
     "published": null,
     "dateNoteZh": "頁面顯示 4 月 6 日、更新 6 月 13 日；年份未可靠核對，不補造完整日期。"
-  },
-  {
-    "id": "7c42076ddc983d88797a",
-    "url": "https://www.reddit.com/r/Daytrading/comments/1osewll/price_action_al_brooks_high_win_rate/",
-    "sourceTitle": "社群自報 68% 勝率：先讀適用範圍與缺項",
-    "titleZh": "社群自報 68% 勝率：先讀適用範圍與缺項",
-    "titleCoverage": "existing-label",
-    "status": "excerpt-summary",
-    "summaryZh": "留言者自報當年自訂 Brooks 風格系統勝率 68%，僅交易 MES，並有風險篩選、限價未成交及保本退出；未提供本站可對帳的完整紀錄。",
-    "readScope": "已讀提問、該留言的限制及後續回覆；未取得原始交易資料。",
-    "checked": "2026-10-28",
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "community",
-        "id": "reddit-winrate"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "r/Daytrading；重點留言 T3RCX"
-    ],
-    "existingExcerpt": {
-      "summaryZh": "留言者自報當年自訂 Brooks 風格系統勝率 68%，僅交易 MES，並有風險篩選、限價未成交及保本退出；未提供本站可對帳的完整紀錄。",
-      "readScope": "已讀提問、該留言的限制及後續回覆；未取得原始交易資料。",
-      "checked": "2026-10-28",
-      "translationScope": "短句對照與繁中摘要；不整篇搬運討論串。",
-      "cardId": "reddit-winrate"
-    },
-    "published": null,
-    "dateNoteZh": "正文僅顯示相對日期；精確發帖日期未核對。"
-  },
-  {
-    "id": "7dadb93f6cae6c0032f1",
-    "url": "https://bookmap.com/learning-center/en/order-flow-phenomena/order-flow-education/amzn-absorption-and-exhaustion",
-    "sourceTitle": "吸收是否一定反轉？先讀官方 FAQ 的否定回答",
-    "titleZh": "吸收是否一定反轉？先讀官方 FAQ 的否定回答",
-    "titleCoverage": "existing-label",
-    "status": "excerpt-summary",
-    "summaryZh": "AMZN 案例頁 FAQ 明示吸收不一定造成反轉，還需後續證據。這輪只整理公開文字，沒有聲稱看過影片。",
-    "readScope": "已讀公開介紹及 FAQ；未取得完整影片、逐字稿或成交紀錄。",
-    "checked": "2026-10-29",
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "community",
-        "id": "bookmap-absorption-faq"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Bookmap（公開課程頁）"
-    ],
-    "existingExcerpt": {
-      "summaryZh": "AMZN 案例頁 FAQ 明示吸收不一定造成反轉，還需後續證據。這輪只整理公開文字，沒有聲稱看過影片。",
-      "readScope": "已讀公開介紹及 FAQ；未取得完整影片、逐字稿或成交紀錄。",
-      "checked": "2026-10-29",
-      "translationScope": "公開短答翻譯與摘要；不是五分鐘影片的完整翻譯。",
-      "cardId": "bookmap-absorption-faq"
-    },
-    "published": null,
-    "dateNoteZh": "原頁未列可核對的發布日；AMZN 是案例商品，沒有視為當日行情。"
   }
 ]

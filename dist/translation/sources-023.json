@@ -1,5 +1,60 @@
 [
   {
+    "id": "f6eb5107a03e44a3869c",
+    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-34a-actual-risk/",
+    "sourceTitle": "事後實際風險",
+    "titleZh": "事後實際風險",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "事後實際風險"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
+    "id": "f72214ff30f6ce03c2e1",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-likely-small-second-leg-up/",
+    "sourceTitle": "Emini Likely Small Second Leg Up",
+    "titleZh": "Brad 日內案例｜2022-12-22｜回檔與第二段",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-166669"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-166669"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-166669",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "f726d76ca3fa62f3f44c",
     "url": "https://www.youtube.com/watch?v=Q8zrjV5r9UE",
     "sourceTitle": "Ask Al Brooks: Trading progress - getting rid of losers",

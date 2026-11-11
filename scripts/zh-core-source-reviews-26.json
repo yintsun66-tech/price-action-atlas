@@ -1,0 +1,62 @@
+[
+  {
+    "resourceId": "source-b33-tv-gap-close-definition",
+    "url": "https://www.tradingview.com/support/solutions/43000675999-gaps/",
+    "sourceTitle": "Gaps",
+    "sourceTitleZh": "一般缺口消框，不一定代表整個區域回補",
+    "authorConfirmed": "TradingView",
+    "published": null,
+    "dateNoteZh": "動態說明頁，首次發布與最後修訂確日未標；查核日另列。",
+    "checked": "2026-11-11",
+    "status": "body-summary",
+    "readScope": "已讀公開 Definition、Summary、Inputs 全部文字；未觀看嵌入影片、重製圖片或操作目前指標。",
+    "summaryZh": "一般缺口指標比較相鄰兩棒的高低，另有尺寸篩選與部分關閉設定。預設可在價格僅進入一部分時關閉整框；畫框狀態不等於整區回補或委託成交。",
+    "keyPointsZh": [
+      "與本站三棒 FVG 定義並列閱讀，先分清比較哪幾根棒，再定義進入、完整覆蓋和成交。"
+    ],
+    "shortExcerpt": {
+      "en": "Close Gaps Partially",
+      "zh": "部分關閉缺口。",
+      "scope": "指標設定名稱；這裡的 Close 是關閉圖框的邏輯，並非 K 棒收盤價或平倉回報。"
+    },
+    "limitsZh": "這是一般 Gaps 指標文件，並非 ICT 官方 FVG 課程或策略驗證；預設參數不當成交易建議，未執行軟體。 未取得獨立教學評分；功能文件不提供獲利證據。",
+    "evidence": {
+      "urls": [
+        "https://www.tradingview.com/support/solutions/43000675999-gaps/"
+      ],
+      "accessMethod": "實讀公開文字；未執行程式或觀看影片",
+      "scope": "已讀公開 Definition、Summary、Inputs 全部文字；未觀看嵌入影片、重製圖片或操作目前指標。"
+    },
+    "courseRefs": []
+  },
+  {
+    "resourceId": "source-b33-sierra-risk-tick-currency",
+    "url": "https://www.sierrachart.com/SupportBoard.php?ThreadID=32579",
+    "sourceTitle": "How to calculate position size in programming way?",
+    "sourceTitleZh": "停損 tick 數要先換成金額，再討論口數",
+    "authorConfirmed": "LenderDevTest；Sierra Chart Engineering",
+    "published": "2018-02-10",
+    "dateNoteZh": "首帖 2018-02-10；採用工程團隊 2018-02-12 指定回覆。貼文時區未標；返回頁首為舊快照，不作即時互動量。",
+    "checked": "2026-11-11",
+    "status": "excerpt-summary",
+    "readScope": "實讀全部兩則公開貼文；摘要採 #2 工程答覆。未開啟連結變數文件、執行程式或核驗現行版本。",
+    "summaryZh": "會員以 50 ticks 停損與 3,000 美元風險預算發問；工程回覆指向每跳貨幣值和交易視窗委託數量變數。該答覆沒有替本例給出商品每跳金額或完成口數計算。",
+    "keyPointsZh": [
+      "距離、每跳金額與數量三欄分開；成本、向下取整及保證金檢查由本站另編。"
+    ],
+    "shortExcerpt": {
+      "en": "Currency Value Per Tick",
+      "zh": "每個最小跳動的貨幣金額。",
+      "scope": "客服指向的程式變數主題；tick 指最小價格跳動，不是成交筆數圖中的筆數。"
+    },
+    "limitsZh": "未指定商品、每跳金額與費用，無法算出唯一口數；沒有測試程式或證明風險硬上限。 未將檢視數或感謝數當作教學評分或獲利證據。",
+    "evidence": {
+      "urls": [
+        "https://www.sierrachart.com/SupportBoard.php?ThreadID=32579"
+      ],
+      "accessMethod": "實讀公開文字；未執行程式或觀看影片",
+      "scope": "實讀全部兩則公開貼文；摘要採 #2 工程答覆。未開啟連結變數文件、執行程式或核驗現行版本。"
+    },
+    "courseRefs": []
+  }
+]

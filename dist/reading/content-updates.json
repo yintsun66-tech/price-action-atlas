@@ -2,6 +2,28 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch33-20261111",
+      "collected": "2026-11-11",
+      "updated": "2026-11-11",
+      "timezone": "Asia/Taipei",
+      "description": "優先完成 FVG 與 R／口數閱讀編排，修正風險圖數字斷行，新增一篇官方正文及一筆指定客服答覆摘要。",
+      "articles": [],
+      "referencedArticles": [
+        "ict-fvg",
+        "practice-risk-in-r"
+      ],
+      "sources": [
+        "https://www.tradingview.com/support/solutions/43000675999-gaps/",
+        "https://www.sierrachart.com/SupportBoard.php?ThreadID=32579"
+      ],
+      "notes": [
+        "兩篇使用既有正文數字、整理圖、反例與自測答案；五篇深度編排、五十七篇待續，六十二個原文章與來源日期保留。",
+        "沿用兩張既有圖，其中風險表更新排版；圖數仍七十四，不把重用計為新增。",
+        "一般兩棒 Gaps 文件與本站三棒 FVG 分開；Close 指標關閉、收盤及平倉不可互換。",
+        "來源閱讀、未採用與取得失敗詳見 docs/content-batch33.md；未新增 Brooks 官方引用或獲利機率。"
+      ]
+    },
+    {
       "id": "readability-20261110",
       "collected": "2026-11-10",
       "updated": "2026-11-10",
