@@ -11,7 +11,7 @@
 
 ## 採用：英文原始來源
 
-1. TradingView，Gaps：[官方文件](https://www.tradingview.com/support/solutions/43000675999-gaps/)。實讀 Definition、Summary、Inputs 全部文字；影片未觀看、圖片未重刊、軟體未操作。發布／修訂確日未標。採正文摘要，短句為三詞設定名稱 Close Gaps Partially。一般兩棒比較、圖框關閉及篩選不同於本站三棒FVG；預設消框不代表完整回補或成交。功能文件不是獲利證明。
+1. TradingView，Gaps：[官方文件](https://www.tradingview.com/support/solutions/43000675999-gaps/)。實讀 Definition、Summary、Inputs 全部文字；影片未觀看、圖片未重刊、軟體未操作。發布／修訂確日未標。採正文摘要，短句為三詞設定名稱 Close Gaps Partially。一般兩棒比較、圖框關閉及篩選不同於本站三棒FVG；預設標為關閉不代表完整回補或成交。功能文件不是獲利證明。
 2. Sierra Chart：[How to calculate position size in programming way?](https://www.sierrachart.com/SupportBoard.php?ThreadID=32579)。實讀兩帖；首帖2018-02-10，摘要採2018-02-12 #2 Sierra Chart Engineering指定答覆。每跳貨幣金額與委託數量變數，短句Currency Value Per Tick四詞。未跟讀變數文件或執行程式；未指定商品跳動值，不能算出唯一口數。返還頁首為2026-10-16舊快照，不列即時檢視／感謝數。
 
 均未確認全文重刊授權，僅精簡摘要與必要短句、保留原文連結。兩筆未收錄URL經翻譯清單及來源卡去重；新增一筆正文、一筆指定答覆，無全文完成升級。新例題不冒充上述作者公式推薦或Brooks原課，沒有新增Brooks單元引用。

@@ -780,7 +780,7 @@
     },
     {
       "id": "99b7b5906be57f2a214e",
-      "titleZh": "一般缺口消框，不一定代表整個區域回補",
+      "titleZh": "一般缺口標為關閉，不一定代表整個區域回補",
       "sourceTitle": "Gaps",
       "status": "body-summary",
       "resourceIds": [],

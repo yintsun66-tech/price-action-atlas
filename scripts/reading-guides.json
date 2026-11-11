@@ -8,7 +8,7 @@
     "counterexample":"第三棒尚未結束時，不能用之後的收線結果提前確認。三棒區間也不表示中央棒從未在該區成交；下一根是否回踩及委託是否成交仍未知。",
     "check":{"question":"H1 = 101；第三棒盤中最低 102.5，收線前降至 100.8。收線後還符合本站多頭條件嗎？","answer":"不符合。最終 L3 = 100.8，沒有大於 H1 = 101。盤中記錄保留為候選，收線後記為不成立；不能沿用較早的 102.5 回填確認或成交。"},
     "related":[{"id":"ict-event-rates","label":"回補比例與交易勝率，為何要分開？"}],
-    "sourceCards":[{"id":"tv-gap-close-definition","label":"官方一般缺口指標：為何消框不代表整區回補？"}],
+    "sourceCards":[{"id":"tv-gap-close-definition","label":"官方一般缺口指標：為何標為關閉不代表整區回補？"}],
     "editorialUpdated":"2026-11-11"
   },
   "practice-risk-in-r": {
