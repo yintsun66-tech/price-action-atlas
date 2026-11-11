@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "checked": "2026-11-10",
+  "checked": "2026-11-11",
   "original": true,
   "figures": [
     {
@@ -889,6 +889,18 @@
       "afterSection": 8,
       "caption": "本站自設前值與原始 OHLC，非首根且非最末棒，不套用當前價覆寫；非真實行情、平台截圖或成交建議。",
       "alt": "原始棒一百零一開、一百零四收；平均 K 一百零九開、一百零二點五收，合成開盤超出當根原始最高一百零七。",
+      "synthetic": true
+    },
+    {
+      "id": "bp2-breakout-followthrough-evidence",
+      "article": "bp2-breakout-followthrough",
+      "title": "同樣創高，收盤可能在兩側",
+      "src": "images/study/bp2-breakout-followthrough-evidence.svg",
+      "width": 960,
+      "height": 579,
+      "afterSection": 2,
+      "caption": "本站新增 B2 比較：只使用正文已給高、低、收；未給開盤與棒內路徑。與圖例回放的 110 邊界分開。",
+      "alt": "事前上緣25000；A的B2收25050，B收24995，兩者都曾創高。",
       "synthetic": true
     }
   ]

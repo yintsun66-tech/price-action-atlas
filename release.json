@@ -1,14 +1,14 @@
 {
-  "version": "1.10.0",
-  "released": "2026-11-11",
+  "version": "1.11.0",
+  "released": "2026-11-12",
   "timezone": "Asia/Taipei",
   "repository": "https://github.com/yintsun66-tech/price-action-atlas",
   "site": "https://yintsun66-tech.github.io/price-action-atlas/",
-  "contentEdition": "20261111c34",
-  "contentBuild": "scripts/build-content-batch34.cjs",
+  "contentEdition": "20261112c35",
+  "contentBuild": "scripts/build-content-batch35.cjs",
   "notes": [
-    "補四篇主線的同數字圖表、反例與答案，累計九篇深度編排；第一階段三篇已補齊。",
-    "學習地圖顯示例題覆蓋並新增編排清單；主線六／十八，與使用者已讀及外部來源翻譯進度分開。",
-    "實讀Andrew的歷史原油月／週分析，新增一筆正文摘要；共51張來源卡、2386英文來源、53正文摘要與74張原創圖。"
+    "補四篇主線例題、反例與答案，深度編排13/62、主線10/18；前兩階段各三篇已補齊。",
+    "對齊資料可用時點、訊號觸發與成交，保留價格與口數風險；修正第二次進場圖數字斷行，新增一張不補造開盤的比較圖。",
+    "公開論壇指定問答選段摘要明列版主身分；共52來源卡、2387英文來源、53正文摘要、32選段摘要與75張原創圖。"
   ]
 }

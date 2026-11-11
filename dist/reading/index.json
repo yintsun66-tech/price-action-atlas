@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-10",
+  "revision": "2026-11-11",
   "articles": [
     {
       "id": "licensed-measured-move",
@@ -715,7 +715,7 @@
       ],
       "hasCases": true,
       "hasChart": true,
-      "figureCount": 1
+      "figureCount": 2
     },
     {
       "id": "bp2-trend-channel",

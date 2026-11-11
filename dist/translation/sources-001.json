@@ -1,5 +1,39 @@
 [
   {
+    "id": "610f078cfecc628a0208",
+    "url": "https://www.tradingview.com/script/gjFSGRCo-Dynamic-Swing-Anchored-VWAP-STRAT-Zeiierman-PineIndicators/",
+    "sourceTitle": "歷史標籤很漂亮，卻不能在標籤當下成交",
+    "titleZh": "歷史標籤很漂亮，卻不能在標籤當下成交",
+    "titleCoverage": "existing-label",
+    "status": "excerpt-summary",
+    "summaryZh": "腳本作者明示擺動標籤需等後續棒完成才定案，無法在回畫的歷史標籤位置實時成交。",
+    "readScope": "已讀英文公開說明與重繪警示；未執行或驗證策略回測。",
+    "checked": "2026-10-28",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "tv-repainting"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "PineIndicators；頁面致謝 Zeiierman"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "腳本作者明示擺動標籤需等後續棒完成才定案，無法在回畫的歷史標籤位置實時成交。",
+      "readScope": "已讀英文公開說明與重繪警示；未執行或驗證策略回測。",
+      "checked": "2026-10-28",
+      "translationScope": "僅短句與摘要，不重刊開源腳本全文。",
+      "cardId": "tv-repainting"
+    },
+    "published": "2025-09-09",
+    "dateNoteZh": "原頁發布日；本輪只讀作者說明，未審查或執行程式碼。"
+  },
+  {
     "id": "72ce74c836caf68fe3fa",
     "url": "https://www.tradingview.com/script/bUk7gcA1-AG-Pro-Fair-Value-Gap-Engine-AGPro-Series/",
     "sourceTitle": "AG Pro Fair Value Gap Engine [AGPro Series]",
@@ -3407,39 +3441,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "04353ce5be7dcddc82d0",
-    "url": "https://www.youtube.com/watch?v=oEmi2H2TCuM",
-    "sourceTitle": "SP500 E-mini Bear Spike and Channel, Tight TR, and Trend Resumption -  March 12, 2026",
-    "titleZh": "Brooks 共享影片｜區間與通道",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-oEmi2H2TCuM"
-      }
-    ],
-    "resourceIds": [
-      "yt-oEmi2H2TCuM"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-oEmi2H2TCuM",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
     ]
   }
 ]

@@ -23,7 +23,7 @@ test('多義詞與術語不被無語境替換，英文原文仍可展開',()=>{
  assert.ok(c.AtlasZh.original('Last').includes('lang="en"'));
 });
 test('主線先於探索且路線收合，數量與日期一致',()=>{
- const html=read('index.html');assert.ok(html.indexOf('id="learning-map"')<html.indexOf('id="site-map"'));assert.ok(html.includes('reading-route-options'));assert.ok(html.includes('site-map-options'));assert.ok(html.includes('合計 74 張原創 SVG'));assert.ok(!html.includes('閱讀庫更新：2026.10.29'));assert.ok(read('reader.js').includes('閱讀庫排序 '));assert.ok(read('reader.js').includes('parent.open=true'));assert.ok(read('readability.css').includes('100dvh'));
+ const html=read('index.html');assert.ok(html.indexOf('id="learning-map"')<html.indexOf('id="site-map"'));assert.ok(html.includes('reading-route-options'));assert.ok(html.includes('site-map-options'));assert.ok(html.includes('合計 75 張原創 SVG'));assert.ok(!html.includes('閱讀庫更新：2026.10.29'));assert.ok(read('reader.js').includes('閱讀庫排序 '));assert.ok(read('reader.js').includes('parent.open=true'));assert.ok(read('readability.css').includes('100dvh'));
 });
 test('FVG 自測只在收線後確認，圖表使用同一組邊界',()=>{
  const g=guides['ict-fvg'];assert.ok(g.example.includes('H1 = 101'));assert.ok(g.example.includes('L3 = 102.5'));assert.equal(102.5-101,1.5);assert.equal(100.8>101,false);assert.ok(g.check.answer.includes('不符合'));assert.ok(g.check.answer.includes('100.8'));assert.match(read(g.figure.src),/L3 102.5 &gt; H1 101/);assert.ok(g.counterexample.includes('中央棒'));
@@ -41,8 +41,20 @@ test('通道與位置例題沿用原正文價位，而非混入另一組回放',
 test('第一階段例題覆蓋與使用者已讀不同，不寫入筆記或偷加已讀',()=>{
  const c={AtlasReadingGuideData:guides};vm.runInNewContext(read('site-maps-data.js'),c);vm.runInNewContext(read('site-maps.js'),c);
  const records={'brooks-context-first':{read:false,note:'保留筆記'}},before=JSON.stringify(records),m=c.AtlasSiteMaps.model(articles,records),html=c.AtlasSiteMaps.stageHTML(m.stages[0]);assert.equal(m.done,0);assert.ok(html.includes('本階段 3 / 3 篇附原創例題與答案'));assert.ok(html.includes('0 / 3 已讀'));assert.equal(JSON.stringify(records),before);
- const progress=JSON.parse(read('reading/editorial-progress.json'));assert.equal(progress.reviewed.length,9);assert.equal(progress.pending.length,53);assert.equal(progress.core.reviewed.length,6);assert.equal(progress.core.pending.length,12);assert.equal(new Set([...progress.reviewed,...progress.pending]).size,articles.length);
+ const progress=JSON.parse(read('reading/editorial-progress.json'));assert.equal(progress.reviewed.length,13);assert.equal(progress.pending.length,49);assert.equal(progress.core.reviewed.length,10);assert.equal(progress.core.pending.length,8);assert.equal(new Set([...progress.reviewed,...progress.pending]).size,articles.length);
 });
 test('每個例題的圖與延伸入口都可追溯至現有文章或來源卡',()=>{
  const ids=new Set(articles.map(a=>a.id)),cards=new Set(JSON.parse(read('reading/community.json')).items.map(c=>c.id));for(const [id,g]of Object.entries(guides)){assert.ok(ids.has(id));for(const r of g.related||[])assert.ok(ids.has(r.id));for(const s of g.sourceCards||[])assert.ok(cards.has(s.id));if(g.figure)assert.ok(fs.existsSync(path.join(dist,g.figure.src)));}
+});
+test('收線和資料可用時點分開，候選帳本收合不藏掉延遲限制',()=>{
+ const g=guides['pp2-closed-higher-frame'],a=articles.find(a=>a.id==='pp2-closed-higher-frame');assert.ok(g.check.question.includes('09:30:01'));assert.ok(g.check.answer.includes('09:30:03'));assert.equal(g.advancedFrom,6);const html=context.AtlasReadingGuide.compose(original(a),a);assert.equal((html.match(/class="reader-advanced"/g)||[]).length,1);assert.ok(html.indexOf('id="reader-section-5"')<html.indexOf('class="reader-advanced"'));assert.ok(read(g.figure.src).includes('09:35 補傳'));
+});
+test('後續創高不等於外側收盤，新成交後風險及空間重算',()=>{
+ const g=guides['bp2-breakout-followthrough'];assert.ok(25056>25042&&25060>25042);assert.ok(25050>25000&&24995<25000);assert.equal(25052-24987,65);assert.equal(25080-25052,28);assert.ok(g.example.includes('不補造完整 K 棒'));assert.ok(g.check.answer.includes('65 點'));assert.ok(g.check.answer.includes('28 點'));const svg=read(g.figure.src);for(const n of ['25,056','25,060','25,025','24,982','25,050','24,995'])assert.ok(svg.includes(n));assert.ok(svg.includes('未給開盤'));
+});
+test('第二次計數保留候選、觸發及成交差別，圖片價格不拆字',()=>{
+ const g=guides['bp2-second-entry'];assert.equal(g.table.rows.length,6);assert.ok(25035>25034&&25025>25024);assert.ok(g.check.answer.includes('E 只是候選參考棒'));assert.ok(g.check.answer.includes('不是帳戶成交回報'));assert.equal(25025-24993,32);assert.equal(25050-25025,25);const svg=read(g.figure.src);assert.ok(svg.includes('>→ 25,035</text>'));assert.ok(svg.includes('>→ 25,025</text>'));assert.ok(!svg.includes('>035</text>'));assert.ok(!svg.includes('>025</text>'));
+});
+test('價格取整、口數下捨及跳空損失對帳，既有初始風險不回填',()=>{
+ const risk=p=>(p-96)*10+20;assert.equal(risk(100),60);assert.equal(risk(102),80);assert.ok(Math.abs(risk(100.2)-62)<1e-10);assert.equal(Math.floor(120/62),1);assert.equal(Math.floor(50/60),0);assert.ok(Math.abs(((100-95.4)*10+20)*2-132)<1e-10);const g=guides['pp2-structural-stop'];assert.ok(g.check.answer.includes('132'));assert.ok(g.check.answer.includes('成本 20 仍只計一次'));assert.ok(g.counterexample.includes('保證金'));
 });

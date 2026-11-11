@@ -1,5 +1,9 @@
 # Price Action Atlas 每日內容更新
 
+**第三十五批（2026-11-11）：**先校讀四篇主線及圖的數字斷行，再加入 Brooks 論壇指定問答選段摘要；前兩階段各三／三附例題。最新 build-content-batch35.cjs → 翻譯清單 → 中文呈現 → 可讀性；作者檔 reading-guides-batch35.json、zh-core-source-reviews-28.json。十三篇深度編排、主線十／十八、五十二張來源卡、七十五張圖；詳見 [content-batch35.md](content-batch35.md)。
+
+11 月 12 日恢復同批驗收與發布，使用 v1.11.0，沒有為中斷再次升版；原 11 日的來源查核與編排日保持，發布日分列。
+
 **第三十四批（2026-11-11）：**四篇主線例題與一篇Andrew歷史原油正文摘要。build-content-batch34.cjs → 翻譯清單 → 中文呈現 → build-readability.cjs；作者檔reading-guides-batch34.json、zh-core-source-reviews-27.json。深度編排九篇、主線六／十八、來源卡五十一張、圖七十四張；新增編排清單保留待續項。詳見[content-batch34.md](content-batch34.md)。
 
 **第三十三批（2026-11-11）：**先校讀 FVG 與 R／口數兩篇，再新增一篇一般 Gaps 正文及一筆每跳金額指定答覆摘要。build-content-batch33.cjs → 翻譯清單 → 中文呈現 → build-readability.cjs；實讀作者檔 zh-core-source-reviews-26.json。深度編排五篇、待續五十七篇；來源卡五十張、圖七十四張。詳見 [content-batch33.md](content-batch33.md)。

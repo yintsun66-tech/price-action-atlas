@@ -1,5 +1,27 @@
 [
   {
+    "id": "d281d367ddeae8c2379e",
+    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-24e-wedges/",
+    "sourceTitle": "楔形",
+    "titleZh": "楔形",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "楔形"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "d29a96a4a7163beba1a4",
     "url": "https://www.goodreads.com/shelf/show/trading",
     "sourceTitle": "Trading in the Zone",
@@ -3142,39 +3164,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "dd9d2e2cccb7ab98c49b",
-    "url": "https://www.quantsystems.ca/article-band-trading-part-4",
-    "sourceTitle": "Articles: Band Trading - Part 4",
-    "titleZh": "帶狀交易 4｜建立系統規則",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "qs-article-band-trading-part-4"
-      }
-    ],
-    "resourceIds": [
-      "qs-article-band-trading-part-4"
-    ],
-    "legacyObservations": [
-      {
-        "id": "qs-article-band-trading-part-4",
-        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Ali Moin-Afshari／Quant Systems"
     ]
   }
 ]

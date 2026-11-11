@@ -1,5 +1,38 @@
 [
   {
+    "id": "609ed135b8a040003c37",
+    "url": "https://www.youtube.com/watch?v=29bg404kYIw",
+    "sourceTitle": "Emini End of Day Review - Wednesday July 12, 2023 - Brad Wolff",
+    "titleZh": "Brad 公開影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-29bg404kYIw"
+      }
+    ],
+    "resourceIds": [
+      "yt-29bg404kYIw"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-29bg404kYIw",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "60a2463949a37a79828b",
     "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-bears-to-give-up/",
     "sourceTitle": "Emini Bulls Want Bears to Give Up",
@@ -3182,39 +3215,5 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": []
-  },
-  {
-    "id": "6cd34573cd7f01618f31",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bears-want-strong-reversal-bar/",
-    "sourceTitle": "E-mini Bears Want Strong Reversal Bar",
-    "titleZh": "E-mini：空方希望出現強勢反轉棒",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-273277"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-273277"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-273277",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Brad Wolff"
-    ]
   }
 ]

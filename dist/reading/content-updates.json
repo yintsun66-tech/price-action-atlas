@@ -2,6 +2,30 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch35-20261111",
+      "collected": "2026-11-11",
+      "updated": "2026-11-11",
+      "timezone": "Asia/Taipei",
+      "description": "校讀高週期時鐘、突破跟進、第二次進場與結構停損，新增一筆公開論壇指定問答選段摘要。",
+      "articles": [],
+      "referencedArticles": [
+        "pp2-closed-higher-frame",
+        "bp2-breakout-followthrough",
+        "bp2-second-entry",
+        "pp2-structural-stop"
+      ],
+      "sources": [
+        "https://www.brookstradingcourse.com/support-forum/general-trading-discussion/stop-1-tick-below-get-triggered/"
+      ],
+      "notes": [
+        "四篇使用與正文一致的數字、圖表、反例與可展開答案；62篇原文章物件及筆記格式保留。",
+        "深度編排13/62、主線10/18；前兩階段各3/3附例題，仍有49篇及8篇主線待續。",
+        "新增一張只給高低收的B2比較圖，修正第二次進場原圖的價格斷字；共75圖。",
+        "論壇只採用高點／收盤指定問答，作者ludopuig不是Al；未採其他貼文的放寬停損或再進場建議作策略規則。",
+        "PTT原帖、既有Brooks型態來源、09A與公開PDF此次403；15B只取得公開標題與會員限制。取得失敗與未採用另見docs/content-batch35.md。"
+      ]
+    },
+    {
       "id": "content-batch34-20261111",
       "collected": "2026-11-11",
       "updated": "2026-11-11",

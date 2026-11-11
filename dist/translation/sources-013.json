@@ -1,5 +1,38 @@
 [
   {
+    "id": "828802302f0080e0e15d",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-likely-to-break-above-6000/",
+    "sourceTitle": "Emini likely to break above 6,000",
+    "titleZh": "Brad 日內案例｜2025-06-04｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-239820"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-239820"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-239820",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "828a84019f5556d87c46",
     "url": "https://www.youtube.com/watch?v=uS8eBJDBEjg",
     "sourceTitle": "Recap for 2010-10-12 part 2 and Outlook for 2010-10-13",
@@ -3178,39 +3211,6 @@
     "courseRefs": [],
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "8ef0437ff06c31addcd1",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-second-entry-200-day/",
-    "sourceTitle": "Emini Second Entry at 200-day Moving Average",
-    "titleZh": "Brad 日內案例｜2023-10-03｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-191545"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-191545"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-191545",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

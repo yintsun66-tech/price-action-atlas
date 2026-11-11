@@ -8921,6 +8921,94 @@
     "editorNotesZh": []
   },
   {
+    "id": "f4e7c31eba860a255974",
+    "url": "https://www.brookstradingcourse.com/support-forum/general-trading-discussion/stop-1-tick-below-get-triggered/",
+    "sourceTitle": "Stop 1 tick below get triggered",
+    "titleZh": "第二次進場的疑問：比較高點，不是只看收盤",
+    "titleCoverage": "reviewed-title",
+    "status": "excerpt-summary",
+    "summaryZh": "提問者問 H2 比較的是棒高，還是收盤。版主 ludopuig 回答比較棒的高點。本次只摘要這組問答；它沒有給出涵蓋內包、外包與嵌套的完整計數規則，也不能代替背景、停損及成交檢查。",
+    "readScope": "已讀公開八則貼文文字；採用 5:36／5:39 的指定問答。頁面提及的歷史 Emini 附圖未核驗，未觀看任何付費影片。",
+    "checked": "2026-11-11",
+    "inventoried": "2026-11-11",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "brooks-forum-h2-high-not-close"
+      },
+      {
+        "kind": "review",
+        "id": "source-b35-brooks-forum-h2-high-not-close"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b35-brooks-forum-h2-high-not-close",
+        "url": "https://www.brookstradingcourse.com/support-forum/general-trading-discussion/stop-1-tick-below-get-triggered/",
+        "sourceTitle": "Stop 1 tick below get triggered",
+        "sourceTitleZh": "第二次進場的疑問：比較高點，不是只看收盤",
+        "authorConfirmed": "Huy（提問）；ludopuig（論壇版主回覆，非 Al Brooks）",
+        "published": "2022-02-18",
+        "dateNoteZh": "首帖 18/02/2022 3:45 am；本次採用同日 5:36 am 的問題及 5:39 am 的回答。原頁未標時區，修訂確日未確認。",
+        "checked": "2026-11-11",
+        "status": "excerpt-summary",
+        "readScope": "已讀公開八則貼文文字；採用 5:36／5:39 的指定問答。頁面提及的歷史 Emini 附圖未核驗，未觀看任何付費影片。",
+        "summaryZh": "提問者問 H2 比較的是棒高，還是收盤。版主 ludopuig 回答比較棒的高點。本次只摘要這組問答；它沒有給出涵蓋內包、外包與嵌套的完整計數規則，也不能代替背景、停損及成交檢查。",
+        "keyPointsZh": [
+          "把高點越過事件、收線研究與實際成交分開記錄。"
+        ],
+        "shortExcerpt": {
+          "en": "The bar's high.",
+          "zh": "該棒的最高價。",
+          "scope": "僅回答前文「棒高是否高過前棒，還是收盤高過前棒」的疑問；不是第二根陽線，也不是完整 H2 策略。"
+        },
+        "limitsZh": "回覆者是論壇版主，不是 Al 本人的回答。其餘貼文有放寬停損、減量或再進場的情境討論，本摘要未採為交易規則；一口不可分割也不能以自動放寬風險處理。 未以瀏覽數、回覆數、反應或版主身分作為獨立獲利證明；沒有可移植至微台／BTC 的驗證勝率。",
+        "evidence": {
+          "urls": [
+            "https://www.brookstradingcourse.com/support-forum/general-trading-discussion/stop-1-tick-below-get-triggered/"
+          ],
+          "accessMethod": "實讀公開貼文文字；指定問答選段摘要，不核驗附圖或付費課",
+          "scope": "已讀公開八則貼文文字；採用 5:36／5:39 的指定問答。頁面提及的歷史 Emini 附圖未核驗，未觀看任何付費影片。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "Huy（提問）；ludopuig（論壇版主回覆，非 Al Brooks）"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "提問者問 H2 比較的是棒高，還是收盤。版主 ludopuig 回答比較棒的高點。本次只摘要這組問答；它沒有給出涵蓋內包、外包與嵌套的完整計數規則，也不能代替背景、停損及成交檢查。",
+      "readScope": "已讀公開八則貼文文字；採用 5:36／5:39 的指定問答。頁面提及的歷史 Emini 附圖未核驗，未觀看任何付費影片。",
+      "checked": "2026-11-11",
+      "translationScope": "指定問答選段的精簡繁中摘要與三詞英文短句；不是整串逐字翻譯。",
+      "cardId": "brooks-forum-h2-high-not-close"
+    },
+    "published": "2022-02-18",
+    "dateNoteZh": "首帖 18/02/2022 3:45 am；本次採用同日 5:36 am 的問題及 5:39 am 的回答。原頁未標時區，修訂確日未確認。",
+    "keyPointsZh": [
+      "把高點越過事件、收線研究與實際成交分開記錄。"
+    ],
+    "limitsZh": "回覆者是論壇版主，不是 Al 本人的回答。其餘貼文有放寬停損、減量或再進場的情境討論，本摘要未採為交易規則；一口不可分割也不能以自動放寬風險處理。 未以瀏覽數、回覆數、反應或版主身分作為獨立獲利證明；沒有可移植至微台／BTC 的驗證勝率。",
+    "evidence": {
+      "urls": [
+        "https://www.brookstradingcourse.com/support-forum/general-trading-discussion/stop-1-tick-below-get-triggered/"
+      ],
+      "accessMethod": "實讀公開貼文文字；指定問答選段摘要，不核驗附圖或付費課",
+      "scope": "已讀公開八則貼文文字；採用 5:36／5:39 的指定問答。頁面提及的歷史 Emini 附圖未核驗，未觀看任何付費影片。"
+    },
+    "shortExcerpt": {
+      "en": "The bar's high.",
+      "zh": "該棒的最高價。",
+      "scope": "僅回答前文「棒高是否高過前棒，還是收盤高過前棒」的疑問；不是第二根陽線，也不是完整 H2 策略。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "Huy（提問）；ludopuig（論壇版主回覆，非 Al Brooks）"
+  },
+  {
     "id": "febf783068f48566709c",
     "url": "https://www.youtube.com/watch?v=91h0Dw9jwQ0",
     "sourceTitle": "Trader Training Call With Price Action Trader Al Brooks",
@@ -9244,39 +9332,5 @@
         "revision": "2026-11-01"
       }
     ]
-  },
-  {
-    "id": "610f078cfecc628a0208",
-    "url": "https://www.tradingview.com/script/gjFSGRCo-Dynamic-Swing-Anchored-VWAP-STRAT-Zeiierman-PineIndicators/",
-    "sourceTitle": "歷史標籤很漂亮，卻不能在標籤當下成交",
-    "titleZh": "歷史標籤很漂亮，卻不能在標籤當下成交",
-    "titleCoverage": "existing-label",
-    "status": "excerpt-summary",
-    "summaryZh": "腳本作者明示擺動標籤需等後續棒完成才定案，無法在回畫的歷史標籤位置實時成交。",
-    "readScope": "已讀英文公開說明與重繪警示；未執行或驗證策略回測。",
-    "checked": "2026-10-28",
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "community",
-        "id": "tv-repainting"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "PineIndicators；頁面致謝 Zeiierman"
-    ],
-    "existingExcerpt": {
-      "summaryZh": "腳本作者明示擺動標籤需等後續棒完成才定案，無法在回畫的歷史標籤位置實時成交。",
-      "readScope": "已讀英文公開說明與重繪警示；未執行或驗證策略回測。",
-      "checked": "2026-10-28",
-      "translationScope": "僅短句與摘要，不重刊開源腳本全文。",
-      "cardId": "tv-repainting"
-    },
-    "published": "2025-09-09",
-    "dateNoteZh": "原頁發布日；本輪只讀作者說明，未審查或執行程式碼。"
   }
 ]

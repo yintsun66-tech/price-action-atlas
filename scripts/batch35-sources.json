@@ -1,0 +1,23 @@
+[
+  {
+    "id":"brooks-forum-h2-high-not-close",
+    "platform":"Brooks 公開討論區",
+    "kind":"community",
+    "language":"en",
+    "author":"Huy（提問）；ludopuig（論壇版主回覆，非 Al Brooks）",
+    "title":"第二次進場的疑問：比較高點，不是只看收盤",
+    "originalTitle":"Stop 1 tick below get triggered",
+    "url":"https://www.brookstradingcourse.com/support-forum/general-trading-discussion/stop-1-tick-below-get-triggered/",
+    "published":"2022-02-18",
+    "dateNote":"首帖 18/02/2022 3:45 am；本次採用同日 5:36 am 的問題及 5:39 am 的回答。原頁未標時區，修訂確日未確認。",
+    "summary":"提問者問 H2 比較的是棒高，還是收盤。版主 ludopuig 回答比較棒的高點。本次只摘要這組問答；它沒有給出涵蓋內包、外包與嵌套的完整計數規則，也不能代替背景、停損及成交檢查。",
+    "quote":{"en":"The bar's high.","zh":"該棒的最高價。","context":"僅回答前文「棒高是否高過前棒，還是收盤高過前棒」的疑問；不是第二根陽線，也不是完整 H2 策略。"},
+    "access":"已讀公開八則貼文文字；採用 5:36／5:39 的指定問答。頁面提及的歷史 Emini 附圖未核驗，未觀看任何付費影片。",
+    "translation":"指定問答選段的精簡繁中摘要與三詞英文短句；不是整串逐字翻譯。",
+    "review":{"basis":"原頁作者角色、逐帖日期及可讀回覆。","learning":"把高點越過事件、收線研究與實際成交分開記錄。","limits":"回覆者是論壇版主，不是 Al 本人的回答。其餘貼文有放寬停損、減量或再進場的情境討論，本摘要未採為交易規則；一口不可分割也不能以自動放寬風險處理。","engagement":"未以瀏覽數、回覆數、反應或版主身分作為獨立獲利證明；沒有可移植至微台／BTC 的驗證勝率。"},
+    "figure":{"src":"images/study/bp2-second-entry-table.svg","alt":"本站自編B至C及E至F高點越過示意，非論壇Emini附圖","caption":"只搭配本站簡化高低點練習，沒有重製論壇圖表，也沒有冒稱採用原作者數字。"},
+    "related":["bp2-second-entry","pp2-structural-stop"],
+    "tags":["高點與收盤","第二次嘗試","版主選段"],
+    "batch":35,"collected":"2026-11-11","checked":"2026-11-11","courseRefs":[],"status":"excerpt-summary"
+  }
+]

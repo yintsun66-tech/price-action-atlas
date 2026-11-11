@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "scope": "原創例題、反例、答案與對應圖的編排；不是外部來源全文校勘、使用者閱讀進度或策略驗證。",
   "total": 62,
   "reviewed": [
@@ -11,7 +11,11 @@
     "brooks-candle-evidence",
     "louie-chart-notes",
     "bp2-trend-channel",
-    "bp2-range-location"
+    "bp2-range-location",
+    "pp2-closed-higher-frame",
+    "bp2-breakout-followthrough",
+    "bp2-second-entry",
+    "pp2-structural-stop"
   ],
   "pending": [
     "licensed-measured-move",
@@ -40,13 +44,9 @@
     "pa3-podcast-to-hypothesis",
     "pa3-label-consistency",
     "pa3-anti-playbook",
-    "bp2-breakout-followthrough",
     "bp2-failed-breakout",
-    "bp2-second-entry",
     "bp2-reversal-evidence",
-    "pp2-structural-stop",
     "pp2-target-trailing",
-    "pp2-closed-higher-frame",
     "pp2-time-exit",
     "pp2-intrabar-path",
     "licensed-support-resistance",
@@ -76,14 +76,14 @@
       "louie-chart-notes",
       "bp2-trend-channel",
       "bp2-range-location",
-      "practice-risk-in-r"
-    ],
-    "pending": [
       "pp2-closed-higher-frame",
       "bp2-breakout-followthrough",
       "bp2-second-entry",
+      "practice-risk-in-r",
+      "pp2-structural-stop"
+    ],
+    "pending": [
       "louie-wait-cancel",
-      "pp2-structural-stop",
       "pa3-stop-execution",
       "pa3-session-contract",
       "practice-tick-time-transfer",
