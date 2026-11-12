@@ -1,5 +1,38 @@
 [
   {
+    "id": "f6957e89b3341571878d",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-want-second-leg-down/",
+    "sourceTitle": "Emini Bears Want Second Leg Down to January 30 Low",
+    "titleZh": "Brad 日內案例｜2023-02-13｜回檔與第二段",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-170229"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-170229"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-170229",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "f6c382caf9d425fac4df",
     "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-14b-trends/",
     "sourceTitle": "趨勢",

@@ -1,5 +1,38 @@
 [
   {
+    "id": "8ec4d6ab40739f3ddf28",
+    "url": "https://www.youtube.com/watch?v=VA_fWkdU8mY",
+    "sourceTitle": "Ask Al Brooks: Scaling in on small range day",
+    "titleZh": "Brooks 共享影片｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-VA_fWkdU8mY"
+      }
+    ],
+    "resourceIds": [
+      "yt-VA_fWkdU8mY"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-VA_fWkdU8mY",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "8ef0437ff06c31addcd1",
     "url": "https://www.brookstradingcourse.com/analysis/emini-second-entry-200-day/",
     "sourceTitle": "Emini Second Entry at 200-day Moving Average",
@@ -3128,40 +3161,6 @@
     "courseRefs": [],
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "9ae2d338943cf38460d9",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bears-getting-strong-breakout/",
-    "sourceTitle": "E-mini Bears Getting Strong Breakout",
-    "titleZh": "E-mini：空方正出現強勢突破",
-    "titleCoverage": "title-only",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-279064"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-279064"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-279064",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "titleNote": "",
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

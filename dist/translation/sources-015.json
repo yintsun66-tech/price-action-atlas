@@ -1,5 +1,39 @@
 [
   {
+    "id": "9ae2d338943cf38460d9",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bears-getting-strong-breakout/",
+    "sourceTitle": "E-mini Bears Getting Strong Breakout",
+    "titleZh": "E-mini：空方正出現強勢突破",
+    "titleCoverage": "title-only",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-279064"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-279064"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-279064",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "titleNote": "",
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "9afb82511db3e1010f63",
     "url": "https://www.youtube.com/watch?v=fGWV6IcLB4Y",
     "sourceTitle": "Why Most Trading Systems Fail (Reason 2)",
@@ -3179,39 +3213,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-219804",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "a661ec8fa8c7cbd3d670",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-bears-failing-to-get-successful-downside-breakout/",
-    "sourceTitle": "E-Mini Bears Failing to Get Successful Downside Breakout",
-    "titleZh": "Brad 日內案例｜2026-02-24｜突破與延續／反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-264027"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-264027"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-264027",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

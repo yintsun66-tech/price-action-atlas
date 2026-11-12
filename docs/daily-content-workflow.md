@@ -1,5 +1,7 @@
 # Price Action Atlas 每日內容更新
 
+**第三十六批（2026-11-12）：**校讀候選期限、停損執行、契約時鐘三篇主線，整理 Sierra 官方本機管理選段。build-content-batch36.cjs → 翻譯清單 → 中文呈現 → 可讀性；作者 reading-guides-batch36.json、zh-core-source-reviews-29.json。深度編排16/62、主線13/18，前四階段各3/3；53張來源卡、76圖。範圍及未採用見[content-batch36.md](content-batch36.md)。
+
 **第三十五批（2026-11-11）：**先校讀四篇主線及圖的數字斷行，再加入 Brooks 論壇指定問答選段摘要；前兩階段各三／三附例題。最新 build-content-batch35.cjs → 翻譯清單 → 中文呈現 → 可讀性；作者檔 reading-guides-batch35.json、zh-core-source-reviews-28.json。十三篇深度編排、主線十／十八、五十二張來源卡、七十五張圖；詳見 [content-batch35.md](content-batch35.md)。
 
 11 月 12 日恢復同批驗收與發布，使用 v1.11.0，沒有為中斷再次升版；原 11 日的來源查核與編排日保持，發布日分列。

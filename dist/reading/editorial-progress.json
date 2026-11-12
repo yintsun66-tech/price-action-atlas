@@ -15,7 +15,10 @@
     "pp2-closed-higher-frame",
     "bp2-breakout-followthrough",
     "bp2-second-entry",
-    "pp2-structural-stop"
+    "pp2-structural-stop",
+    "louie-wait-cancel",
+    "pa3-stop-execution",
+    "pa3-session-contract"
   ],
   "pending": [
     "licensed-measured-move",
@@ -39,8 +42,6 @@
     "pa3-bayes-evidence",
     "pa3-winrate-uncertainty",
     "pa3-research-register",
-    "pa3-stop-execution",
-    "pa3-session-contract",
     "pa3-podcast-to-hypothesis",
     "pa3-label-consistency",
     "pa3-anti-playbook",
@@ -57,7 +58,6 @@
     "brooks-workspace-routine",
     "brooks-psychology-audit",
     "louie-context-pairs",
-    "louie-wait-cancel",
     "louie-replay-audit",
     "practice-discretion-audit",
     "practice-pattern-laboratory",
@@ -79,13 +79,13 @@
       "pp2-closed-higher-frame",
       "bp2-breakout-followthrough",
       "bp2-second-entry",
+      "louie-wait-cancel",
       "practice-risk-in-r",
-      "pp2-structural-stop"
+      "pp2-structural-stop",
+      "pa3-stop-execution",
+      "pa3-session-contract"
     ],
     "pending": [
-      "louie-wait-cancel",
-      "pa3-stop-execution",
-      "pa3-session-contract",
       "practice-tick-time-transfer",
       "school-market-fit",
       "practice-journal-before-after",

@@ -1,5 +1,38 @@
 [
   {
+    "id": "b01c46f7509fbda4e82b",
+    "url": "https://www.youtube.com/watch?v=3QbjuHEg_OA",
+    "sourceTitle": "Emini End of Day Review - Thursday, July 10, 2025 - Brad Wolff",
+    "titleZh": "Brad 公開影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-3QbjuHEg_OA"
+      }
+    ],
+    "resourceIds": [
+      "yt-3QbjuHEg_OA"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-3QbjuHEg_OA",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "b051f3f5d4e0c60ef7ae",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-strong-upside-breakout/",
     "sourceTitle": "E-mini Strong Upside Breakout",
@@ -3173,39 +3206,6 @@
     "courseRefs": [],
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "bb29db1d50252ee47e8f",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-sellers-likely-above-yesterdays-weak-high-1/",
-    "sourceTitle": "E-mini Sellers Likely Above Yesterday’s Weak High 1",
-    "titleZh": "Brad 日內案例｜2026-05-05｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-269028"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-269028"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-269028",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

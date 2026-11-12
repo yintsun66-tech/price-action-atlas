@@ -1,5 +1,38 @@
 [
   {
+    "id": "043243858ccf8ede0478",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-measured-move/",
+    "sourceTitle": "Emini Bulls Want Measured Move Up to 4,150",
+    "titleZh": "Brad 日內案例｜2023-03-22｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-174067"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-174067"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-174067",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "04353ce5be7dcddc82d0",
     "url": "https://www.youtube.com/watch?v=oEmi2H2TCuM",
     "sourceTitle": "SP500 E-mini Bear Spike and Channel, Tight TR, and Trend Resumption -  March 12, 2026",
@@ -3098,39 +3131,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "104b45809416d06946a4",
-    "url": "https://www.quantsystems.ca/course/ptm-202511",
-    "sourceTitle": "PTM_202511",
-    "titleZh": "PTM 月課綱｜2025/11",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "qs-ptm-202511"
-      }
-    ],
-    "resourceIds": [
-      "qs-ptm-202511"
-    ],
-    "legacyObservations": [
-      {
-        "id": "qs-ptm-202511",
-        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Ali Moin-Afshari／Quant Systems"
     ]
   }
 ]

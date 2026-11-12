@@ -1,5 +1,40 @@
 [
   {
+    "id": "556ebe1e576b291ac491",
+    "url": "https://en.wikibooks.org/w/index.php?oldid=3562704&title=Technical_Analysis%2FBasis_of_Technical_Analysis",
+    "sourceTitle": "技術分析的基礎：價格預測、價格移動與歷史案例",
+    "titleZh": "技術分析的基礎：價格預測、價格移動與歷史案例",
+    "titleCoverage": "existing-label",
+    "status": "licensed-excerpt",
+    "summaryZh": "原章先列基本面與技術分析，以及趨勢追蹤／預測的分類表；再以股票供需與「價格說明一切」的信念解釋價格和成交量，最後用 Satyam 醜聞作歷史例子。這是教材作者的解釋，未提供回測、因果識別或微台／BTC 的績效證據。",
+    "readScope": "Technical Analysis／Basis of Technical Analysis 固定版本 3562704 的全部教學正文：Price Forecasting 三句正文與五列表格，以及 Basis of Technical Analysis、Price Movement、Case Study、Satyam Computer Scandal 的八段正文與一行圖說；五個小節標題依原順序保留。不含網站導覽、頁尾制式文字、來源圖片或外鏈內容。",
+    "checked": "2026-11-01",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "licensed-price-forecasting",
+        "index": 0
+      },
+      {
+        "kind": "licensed-excerpt",
+        "id": "licensed-price-forecasting"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": [],
+    "existingLicensed": [
+      {
+        "articleId": "licensed-price-forecasting",
+        "scope": "Technical Analysis／Basis of Technical Analysis 固定版本 3562704 的全部教學正文：Price Forecasting 三句正文與五列表格，以及 Basis of Technical Analysis、Price Movement、Case Study、Satyam Computer Scandal 的八段正文與一行圖說；五個小節標題依原順序保留。不含網站導覽、頁尾制式文字、來源圖片或外鏈內容。",
+        "license": "CC BY-SA 4.0",
+        "revision": "2026-11-01"
+      }
+    ]
+  },
+  {
     "id": "610f078cfecc628a0208",
     "url": "https://www.tradingview.com/script/gjFSGRCo-Dynamic-Swing-Anchored-VWAP-STRAT-Zeiierman-PineIndicators/",
     "sourceTitle": "歷史標籤很漂亮，卻不能在標籤當下成交",
@@ -3408,39 +3443,6 @@
     "courseRefs": [],
     "authors": [
       "Ali Moin-Afshari／Quant Systems"
-    ]
-  },
-  {
-    "id": "043243858ccf8ede0478",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-measured-move/",
-    "sourceTitle": "Emini Bulls Want Measured Move Up to 4,150",
-    "titleZh": "Brad 日內案例｜2023-03-22｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-174067"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-174067"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-174067",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
     ]
   }
 ]

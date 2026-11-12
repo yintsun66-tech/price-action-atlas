@@ -1,5 +1,38 @@
 [
   {
+    "id": "2822cdf903852039086d",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-sideways-at-4400/",
+    "sourceTitle": "Emini Sideways at 4,400",
+    "titleZh": "Brad 日內案例｜2023-10-18｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-192470"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-192470"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-192470",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "285172209f0a1efc87d6",
     "url": "https://www.youtube.com/playlist?list=PLzu-KFpHvl1H9OFbocXQfQMXDYqdLK-hb",
     "sourceTitle": "Performance",
@@ -3210,39 +3243,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-148612",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "33b8370f0aa594bcd5ac",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-wanting-rally/",
-    "sourceTitle": "Emini bulls wanting rally to February 24 low",
-    "titleZh": "Brad 日內案例｜2022-05-24｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-151843"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-151843"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-151843",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

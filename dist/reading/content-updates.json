@@ -2,6 +2,30 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch36-20261112",
+      "collected": "2026-11-12",
+      "updated": "2026-11-12",
+      "timezone": "Asia/Taipei",
+      "description": "校讀等待取消、停損執行與微台契約時鐘，新增官方本機觸發指定章節摘要。",
+      "articles": [],
+      "referencedArticles": [
+        "louie-wait-cancel",
+        "pa3-stop-execution",
+        "pa3-session-contract"
+      ],
+      "sources": [
+        "https://www.sierrachart.com/index.php?page=doc/OrderTypes.html"
+      ],
+      "notes": [
+        "三篇補上同數字表圖、反例與答案；62篇原物件、原文、來源日期、課程參照及筆記格式保留。",
+        "深度編排16/62、主線13/18；前四階段各3/3附例題，其餘46篇及5篇主線待續。",
+        "新增一張100/96/94/95的退出協定圖，其餘75圖不變；總圖數76。",
+        "重新核對TAIFEX英文TMF規格的交易時段，與既有正文一致；沒有把舊文章來源日期改寫。",
+        "Sierra文件只列指定章節選段摘要，區分本機觸發、外部送出與實際成交；未實測或推廣至所有市場。",
+        "PTT原帖與Reddit只見搜尋片段、2015年客服答覆不作現行功能；未採用與取得範圍詳見docs/content-batch36.md。"
+      ]
+    },
+    {
       "id": "content-batch35-20261111",
       "collected": "2026-11-11",
       "updated": "2026-11-11",

@@ -1,5 +1,28 @@
 [
   {
+    "id": "6cce17bb101b9f8a0fc2",
+    "url": "https://www.brookstradingcourse.com/analysis/al-brooks-trading-room-session-recap/",
+    "sourceTitle": "英文官方回顧身分核對：Al Brooks Trading Room Session Recap",
+    "titleZh": "英文官方回顧身分核對：Al Brooks Trading Room Session Recap",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "louie-replay-audit",
+        "index": 2
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "6cd34573cd7f01618f31",
     "url": "https://www.brookstradingcourse.com/analysis/e-mini-bears-want-strong-reversal-bar/",
     "sourceTitle": "E-mini Bears Want Strong Reversal Bar",
@@ -3034,39 +3057,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-157861",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "76482357132c1f68f4d9",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-5300-round-number-is-near/",
-    "sourceTitle": "Emini 5,300 Round Number Is Near",
-    "titleZh": "Brad 日內案例｜2024-05-13｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-208313"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-208313"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-208313",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

@@ -1,0 +1,32 @@
+[
+  {
+    "resourceId": "source-b36-sierra-client-trigger-lifecycle",
+    "url": "https://www.sierrachart.com/index.php?page=doc/OrderTypes.html",
+    "sourceTitle": "Order Types — Sierra Chart Management of Trailing Stop and Chase Orders; Fully Client Side Managed Orders",
+    "sourceTitleZh": "本機觸發與已送出委託：斷線時要分開核對",
+    "authorConfirmed": "Sierra Chart",
+    "published": "確切日期未核對",
+    "dateNoteZh": "動態文件，所讀段落未標初版與修訂確日；查核日另列。不是 2015 年討論串的功能現況推測。",
+    "checked": "2026-11-12",
+    "status": "excerpt-summary",
+    "readScope": "實讀 Sierra Chart Management of Trailing Stop and Chase Orders 與 Fully Client Side Managed Orders 兩節；另讀相關 Client 委託說明。未讀完全部文件、測試平台、連接帳戶或送單。",
+    "summaryZh": "文件指出，部分觸發及追蹤改價由 Sierra Chart 管理，需要程式運作、行情與適用連線。完全由本機管理的 Client 類型，條件成立前尚未送往外部閘道。不能僅憑圖上的線，推定交易所已有保護或持倉已退出。",
+    "keyPointsZh": [
+      "保存觸發、送出、接受、成交與剩餘持倉，另核對委託保管及改價位置。"
+    ],
+    "shortExcerpt": {
+      "en": "client-side managed orders",
+      "zh": "由本機管理的委託。",
+      "scope": "原段將此類觸發及改價與連線條件連結；不是說所有已送出的委託都會消失。實盤連線與回放條件不同。"
+    },
+    "limitsZh": "只描述指定平台與委託種類；不能套稱所有微台券商、Binance 或外部交易服務都相同。未提供本站可重現的斷線測試或獲利證據。 規格文件可核對功能語意，不是課程評分或策略績效；不以社群票數背書。",
+    "evidence": {
+      "urls": [
+        "https://www.sierrachart.com/index.php?page=doc/OrderTypes.html"
+      ],
+      "accessMethod": "實讀兩節指定官方文字；不是整頁翻譯或軟體實測",
+      "scope": "實讀 Sierra Chart Management of Trailing Stop and Chase Orders 與 Fully Client Side Managed Orders 兩節；另讀相關 Client 委託說明。未讀完全部文件、測試平台、連接帳戶或送單。"
+    },
+    "courseRefs": []
+  }
+]

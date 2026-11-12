@@ -1,5 +1,38 @@
 [
   {
+    "id": "104b45809416d06946a4",
+    "url": "https://www.quantsystems.ca/course/ptm-202511",
+    "sourceTitle": "PTM_202511",
+    "titleZh": "PTM 月課綱｜2025/11",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "qs-ptm-202511"
+      }
+    ],
+    "resourceIds": [
+      "qs-ptm-202511"
+    ],
+    "legacyObservations": [
+      {
+        "id": "qs-ptm-202511",
+        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Ali Moin-Afshari／Quant Systems"
+    ]
+  },
+  {
     "id": "105096b834e52533fa54",
     "url": "https://www.quantsystems.ca/course/charts-2015",
     "sourceTitle": "QuantSystem's Charts Archive for 2015",
@@ -3166,39 +3199,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "1c923a400d81a8c82151",
-    "url": "https://www.youtube.com/watch?v=VvkB1Ijhlys",
-    "sourceTitle": "European Timezone Trading Room Pilot #2 -- Tim Fairweather",
-    "titleZh": "Brooks 共享影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-VvkB1Ijhlys"
-      }
-    ],
-    "resourceIds": [
-      "yt-VvkB1Ijhlys"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-VvkB1Ijhlys",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
     ]
   }
 ]

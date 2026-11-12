@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-11",
+  "revision": "2026-11-12",
   "articles": [
     {
       "id": "licensed-measured-move",
@@ -595,7 +595,7 @@
       ],
       "hasCases": true,
       "hasChart": true,
-      "figureCount": 2
+      "figureCount": 3
     },
     {
       "id": "pa3-session-contract",

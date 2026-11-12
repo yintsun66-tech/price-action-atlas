@@ -1,5 +1,32 @@
 [
   {
+    "id": "4bc35aa318ce08130270",
+    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-16d-channels/",
+    "sourceTitle": "通道：緊通道與寬通道",
+    "titleZh": "通道：緊通道與寬通道",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-reference",
+        "id": "bp2-trend-channel",
+        "unit": "16D"
+      },
+      {
+        "kind": "course-index",
+        "id": "通道"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "4bcb30c32cc8005f38fa",
     "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-strong-follow-through-2/",
     "sourceTitle": "Emini Bulls Want Strong Follow-through",
@@ -3134,39 +3161,6 @@
       {
         "id": "brad-post-236223",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "559ba97771a146e290b3",
-    "url": "https://www.youtube.com/watch?v=LFsv4rLP_lk",
-    "sourceTitle": "Brooks Trading Course Q&A with Brad Wolff",
-    "titleZh": "Brooks 課程公開問答｜Brad Wolff",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-LFsv4rLP_lk"
-      }
-    ],
-    "resourceIds": [
-      "yt-LFsv4rLP_lk"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-LFsv4rLP_lk",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
         "checked": "2026-10-22"
       }
     ],

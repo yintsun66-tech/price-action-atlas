@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "checked": "2026-11-11",
+  "checked": "2026-11-12",
   "original": true,
   "figures": [
     {
@@ -901,6 +901,18 @@
       "afterSection": 2,
       "caption": "本站新增 B2 比較：只使用正文已給高、低、收；未給開盤與棒內路徑。與圖例回放的 110 邊界分開。",
       "alt": "事前上緣25000；A的B2收25050，B收24995，兩者都曾創高。",
+      "synthetic": true
+    },
+    {
+      "id": "stop-trigger-versus-fill",
+      "article": "pa3-stop-execution",
+      "title": "觸發不等於平倉",
+      "src": "images/study/stop-trigger-versus-fill.svg",
+      "width": 960,
+      "height": 579,
+      "afterSection": 2,
+      "caption": "本站自編持倉100、觸發96、另給94全成與至少95限價；不由OHLC推定成交，不是平台完整撮合。",
+      "alt": "進場100、觸發96、另給94整筆退出則毛損6為1.5價格R；95限價可能仍持倉。",
       "synthetic": true
     }
   ]

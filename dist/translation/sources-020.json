@@ -1,5 +1,38 @@
 [
   {
+    "id": "d26c566d22e57236952e",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-likely-to-be-disappointed-today/",
+    "sourceTitle": "Emini Bears Likely to Be Disappointed Today",
+    "titleZh": "Brad 日內案例｜2023-04-27｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-176779"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-176779"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-176779",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "d281d367ddeae8c2379e",
     "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-24e-wedges/",
     "sourceTitle": "楔形",
@@ -3132,38 +3165,5 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": []
-  },
-  {
-    "id": "dd9605b32c4bdffc049b",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-strong-reversal-up-after-20-correction/",
-    "sourceTitle": "Emini Strong Reversal Up after 20% Correction",
-    "titleZh": "Brad 日內案例｜2025-04-10｜反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-234282"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-234282"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-234282",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
   }
 ]

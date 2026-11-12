@@ -1,5 +1,38 @@
 [
   {
+    "id": "3e5be2d197de9cf34590",
+    "url": "https://www.youtube.com/watch?v=z9M7Cz5Mk2c",
+    "sourceTitle": "Emini End of Day Review - Tuesday, July 8, 2025 - Brad Wolff",
+    "titleZh": "Brad 公開影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-z9M7Cz5Mk2c"
+      }
+    ],
+    "resourceIds": [
+      "yt-z9M7Cz5Mk2c"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-z9M7Cz5Mk2c",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "3e9aa5039fe465fc0f84",
     "url": "https://www.youtube.com/watch?v=8f2Nxd0St9M",
     "sourceTitle": "2024 Orlando Workshop Ali's Presentation",
@@ -3184,32 +3217,5 @@
     "authors": [
       "Brooks 團隊（講者未逐支確認）"
     ]
-  },
-  {
-    "id": "4bc35aa318ce08130270",
-    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-16d-channels/",
-    "sourceTitle": "通道：緊通道與寬通道",
-    "titleZh": "通道：緊通道與寬通道",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-reference",
-        "id": "bp2-trend-channel",
-        "unit": "16D"
-      },
-      {
-        "kind": "course-index",
-        "id": "通道"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   }
 ]

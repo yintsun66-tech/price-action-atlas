@@ -1,5 +1,38 @@
 [
   {
+    "id": "c5a669f66c6d1be9da5e",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-may-have-to-reach-7000/",
+    "sourceTitle": "E-Mini May Have to Reach 7,000",
+    "titleZh": "Brad 日內案例｜2025-11-03｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-253929"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-253929"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-253929",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "c5c9d28327ef3f574fd4",
     "url": "https://www.youtube.com/watch?v=i3hwJYKaUQU",
     "sourceTitle": "Ask Al Brooks: Remdesivir Antiviral Drug News - April 26, 2020",
@@ -3138,39 +3171,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-180554",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "d26c566d22e57236952e",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-likely-to-be-disappointed-today/",
-    "sourceTitle": "Emini Bears Likely to Be Disappointed Today",
-    "titleZh": "Brad 日內案例｜2023-04-27｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-176779"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-176779"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-176779",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

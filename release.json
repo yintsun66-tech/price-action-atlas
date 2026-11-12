@@ -1,14 +1,14 @@
 {
-  "version": "1.11.0",
+  "version": "1.12.0",
   "released": "2026-11-12",
   "timezone": "Asia/Taipei",
   "repository": "https://github.com/yintsun66-tech/price-action-atlas",
   "site": "https://yintsun66-tech.github.io/price-action-atlas/",
-  "contentEdition": "20261112c35",
-  "contentBuild": "scripts/build-content-batch35.cjs",
+  "contentEdition": "20261112c36",
+  "contentBuild": "scripts/build-content-batch36.cjs",
   "notes": [
-    "補四篇主線例題、反例與答案，深度編排13/62、主線10/18；前兩階段各三篇已補齊。",
-    "對齊資料可用時點、訊號觸發與成交，保留價格與口數風險；修正第二次進場圖數字斷行，新增一張不補造開盤的比較圖。",
-    "公開論壇指定問答選段摘要明列版主身分；共52來源卡、2387英文來源、53正文摘要、32選段摘要與75張原創圖。"
+    "三篇補上同數字表圖、反例與答案，深度編排16/62、主線13/18，前四階段各三篇已附例題。",
+    "分開候選取消、過期、委託觸發與實際平倉，以及到期尾段和未收線棒；新增一張原創退出協定圖，共76圖。",
+    "實讀Sierra官方本機管理選段，保留連線條件、原文與未實測範圍；53張來源卡、2388英文網址、53正文摘要、33選段摘要。"
   ]
 }
