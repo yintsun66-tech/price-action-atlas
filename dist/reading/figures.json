@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "checked": "2026-11-12",
+  "checked": "2026-11-13",
   "original": true,
   "figures": [
     {
@@ -913,6 +913,18 @@
       "afterSection": 2,
       "caption": "本站自編持倉100、觸發96、另給94全成與至少95限價；不由OHLC推定成交，不是平台完整撮合。",
       "alt": "進場100、觸發96、另給94整筆退出則毛損6為1.5價格R；95限價可能仍持倉。",
+      "synthetic": true
+    },
+    {
+      "id": "tick-time-same-trades",
+      "article": "practice-tick-time-transfer",
+      "title": "同六筆成交，四根不同的棒",
+      "src": "images/study/tick-time-same-trades.svg",
+      "width": 960,
+      "height": 660,
+      "afterSection": 0,
+      "caption": "本站完整六筆合成成交，分為3筆棒與08:45起十分鐘棒；橫軸僅棒序，不等比例時間。3筆不是平台可選設定或作者策略。",
+      "alt": "同六筆成交，3筆棒第一根收99、十分鐘第一根收102；數量10與14，分組不同。",
       "synthetic": true
     }
   ]

@@ -1155,6 +1155,94 @@
     "attributionNoteZh": "文章文字署名 Brad；頁面另標 Al 為圖表作者，本批未核驗或重刊原圖。"
   },
   {
+    "id": "0cc6c38481d15bbb7c50",
+    "url": "https://www.tradingview.com/support/solutions/43000709225-what-are-tick-based-intervals/",
+    "sourceTitle": "What are tick-based intervals",
+    "titleZh": "tick圖的筆數、時間戳與換盤重置，要分開讀",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "官方說明以連續tick數形成K棒，所需時間不固定；棒的時間戳是起始tick的時間，且新交易時段會開新棒，上一棒可能未滿筆數。功能、連續期貨歷史與支援範圍另有限制，不能只看棒數就換算分鐘或推定已能回放驗證。",
+    "readScope": "實讀公開正文：定義、形成與時間戳、交易時段重置、可選週期、商品與連續期貨範圍及功能限制；未觀看嵌入影片、重刊圖片或操作付費功能。",
+    "checked": "2026-11-13",
+    "inventoried": "2026-11-11",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "tv-tick-time-session"
+      },
+      {
+        "kind": "review",
+        "id": "source-b37-tv-tick-time-session"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b37-tv-tick-time-session",
+        "url": "https://www.tradingview.com/support/solutions/43000709225-what-are-tick-based-intervals/",
+        "sourceTitle": "What are tick-based intervals",
+        "sourceTitleZh": "tick圖的筆數、時間戳與換盤重置，要分開讀",
+        "authorConfirmed": "TradingView",
+        "published": "確切日期未核對",
+        "dateNoteZh": "動態說明頁，初版及最後修訂確日未標；功能限制是2026-11-13所讀版本，不能套用舊影片或其他平台。",
+        "checked": "2026-11-13",
+        "status": "body-summary",
+        "readScope": "實讀公開正文：定義、形成與時間戳、交易時段重置、可選週期、商品與連續期貨範圍及功能限制；未觀看嵌入影片、重刊圖片或操作付費功能。",
+        "summaryZh": "官方說明以連續tick數形成K棒，所需時間不固定；棒的時間戳是起始tick的時間，且新交易時段會開新棒，上一棒可能未滿筆數。功能、連續期貨歷史與支援範圍另有限制，不能只看棒數就換算分鐘或推定已能回放驗證。",
+        "keyPointsZh": [
+          "分清筆數、成交數量、經過時間與時間戳；對照同資料的不同分組。"
+        ],
+        "shortExcerpt": {
+          "en": "its starting time",
+          "zh": "該棒的起始時間。",
+          "scope": "指本頁所述tick棒時間戳，對應第一筆記錄；不是收線或資料到齊的時間。"
+        },
+        "limitsZh": "頁面目前列預設週期且不支援自訂，並列回放、深度回測等限制；本站三筆例只是自編手算，不是平台可選值、PATs參數或微台獲利證據。 平台對優點的敘述是產品說明，未列獨立績效比較，也不以影片人氣推論策略優勢。",
+        "evidence": {
+          "urls": [
+            "https://www.tradingview.com/support/solutions/43000709225-what-are-tick-based-intervals/"
+          ],
+          "accessMethod": "實讀公開正文至功能限制；未觀看影片或實測平台",
+          "scope": "實讀公開正文：定義、形成與時間戳、交易時段重置、可選週期、商品與連續期貨範圍及功能限制；未觀看嵌入影片、重刊圖片或操作付費功能。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "TradingView"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "官方說明以連續tick數形成K棒，所需時間不固定；棒的時間戳是起始tick的時間，且新交易時段會開新棒，上一棒可能未滿筆數。功能、連續期貨歷史與支援範圍另有限制，不能只看棒數就換算分鐘或推定已能回放驗證。",
+      "readScope": "實讀公開正文：定義、形成與時間戳、交易時段重置、可選週期、商品與連續期貨範圍及功能限制；未觀看嵌入影片、重刊圖片或操作付費功能。",
+      "checked": "2026-11-13",
+      "translationScope": "精簡正文繁中摘要與三詞必要短句；不是完整逐字翻譯。",
+      "cardId": "tv-tick-time-session"
+    },
+    "published": "確切日期未核對",
+    "dateNoteZh": "動態說明頁，初版及最後修訂確日未標；功能限制是2026-11-13所讀版本，不能套用舊影片或其他平台。",
+    "keyPointsZh": [
+      "分清筆數、成交數量、經過時間與時間戳；對照同資料的不同分組。"
+    ],
+    "limitsZh": "頁面目前列預設週期且不支援自訂，並列回放、深度回測等限制；本站三筆例只是自編手算，不是平台可選值、PATs參數或微台獲利證據。 平台對優點的敘述是產品說明，未列獨立績效比較，也不以影片人氣推論策略優勢。",
+    "evidence": {
+      "urls": [
+        "https://www.tradingview.com/support/solutions/43000709225-what-are-tick-based-intervals/"
+      ],
+      "accessMethod": "實讀公開正文至功能限制；未觀看影片或實測平台",
+      "scope": "實讀公開正文：定義、形成與時間戳、交易時段重置、可選週期、商品與連續期貨範圍及功能限制；未觀看嵌入影片、重刊圖片或操作付費功能。"
+    },
+    "shortExcerpt": {
+      "en": "its starting time",
+      "zh": "該棒的起始時間。",
+      "scope": "指本頁所述tick棒時間戳，對應第一筆記錄；不是收線或資料到齊的時間。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "TradingView"
+  },
+  {
     "id": "10795e3594bf859fb0b3",
     "url": "https://www.brookstradingcourse.com/online-day-trading-room/",
     "sourceTitle": "Online Day Trading Room",
@@ -9351,39 +9439,5 @@
     },
     "published": null,
     "dateNoteZh": "頁面只顯示相對時間；確切發布日未核對。"
-  },
-  {
-    "id": "3892838797764325e90f",
-    "url": "https://www.brookstradingcourse.com/support-forum/general-trading-discussion/when-al-said-sometimes-on-a-possibility-what-percentage-it-is-up-to-al/",
-    "sourceTitle": "sometimes 要翻成幾成？先辨認會員解讀",
-    "titleZh": "sometimes 要翻成幾成？先辨認會員解讀",
-    "titleCoverage": "existing-label",
-    "status": "excerpt-summary",
-    "summaryZh": "回答者指出 sometimes 沒有固定百分比，最後另將它解讀為少數可能；後者屬該會員判讀，本站不據此指定低於 50%。",
-    "readScope": "已讀公開提問及所列回答；官方詞彙表另以可見索引核對，直接頁面本輪回應 403。",
-    "checked": "2026-10-28",
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "community",
-        "id": "brooks-forum-sometimes"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "提問 kenetrader；回覆 Zunquan（會員）"
-    ],
-    "existingExcerpt": {
-      "summaryZh": "回答者指出 sometimes 沒有固定百分比，最後另將它解讀為少數可能；後者屬該會員判讀，本站不據此指定低於 50%。",
-      "readScope": "已讀公開提問及所列回答；官方詞彙表另以可見索引核對，直接頁面本輪回應 403。",
-      "checked": "2026-10-28",
-      "translationScope": "會員短句翻譯與摘要；不代表已觀看付費課。",
-      "cardId": "brooks-forum-sometimes"
-    },
-    "published": "2026-01-22",
-    "dateNoteZh": "提問 2026-01-22；所讀回答 2026-08-30；原頁時區未核對。"
   }
 ]

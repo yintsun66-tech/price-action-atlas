@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-12",
+  "revision": "2026-11-13",
   "articles": [
     {
       "id": "licensed-measured-move",
@@ -1377,7 +1377,7 @@
       ],
       "batch": 1,
       "topic": "基礎",
-      "figureCount": 1
+      "figureCount": 2
     },
     {
       "id": "practice-replay-evidence",

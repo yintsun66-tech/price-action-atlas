@@ -2,6 +2,30 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch37-20261113",
+      "collected": "2026-11-13",
+      "updated": "2026-11-13",
+      "timezone": "Asia/Taipei",
+      "description": "校讀切棒移植、資料適配與事前事後日誌，新增TradingView tick圖正文摘要及同六筆雙圖。",
+      "articles": [],
+      "referencedArticles": [
+        "practice-tick-time-transfer",
+        "school-market-fit",
+        "practice-journal-before-after"
+      ],
+      "sources": [
+        "https://www.tradingview.com/support/solutions/43000709225-what-are-tick-based-intervals/"
+      ],
+      "notes": [
+        "三篇補同資料圖表、反例與答案；原62篇物件、來源日期、課程參照與筆記格式保持。",
+        "深度編排19/62、主線16/18；前五階段各3/3附例題，其餘43篇與2篇主線待續。",
+        "新增同六筆成交的3筆棒與十分鐘棒雙圖，OHLC、數量、時間分開；其餘76圖不變，總圖77。",
+        "新讀TradingView正文，明列起始時間戳、換盤重置與功能限制；三筆只是本站手算，不冒稱平台選項或PATs參數。",
+        "重新閱讀Galen紀錄原文，未新增重複來源或改寫舊查核日；正文原發布2014-08-05、修訂2022-06-13。",
+        "Reddit搜尋片段及影片介紹沒有當成完整觀看或盈利證據；範圍與未採用見docs/content-batch37.md。"
+      ]
+    },
+    {
       "id": "content-batch36-20261112",
       "collected": "2026-11-12",
       "updated": "2026-11-12",

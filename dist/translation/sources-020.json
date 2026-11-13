@@ -1,5 +1,38 @@
 [
   {
+    "id": "d250085aa9adb35f5778",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-stalling-under-important-resistance/",
+    "sourceTitle": "Emini Stalling Under Important Resistance",
+    "titleZh": "Brad 日內案例｜2023-06-15｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-180554"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-180554"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-180554",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "d26c566d22e57236952e",
     "url": "https://www.brookstradingcourse.com/analysis/emini-bears-likely-to-be-disappointed-today/",
     "sourceTitle": "Emini Bears Likely to Be Disappointed Today",
@@ -3142,28 +3175,5 @@
     "authors": [
       "Brad Wolff"
     ]
-  },
-  {
-    "id": "dd8bc10a95c6404186be",
-    "url": "https://www.theinnercircletrader.com/",
-    "sourceTitle": "The Inner Circle Trader－官方網站",
-    "titleZh": "The Inner Circle Trader－官方網站",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "article-source",
-        "id": "ict-liquidity",
-        "index": 0
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   }
 ]

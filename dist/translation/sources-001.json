@@ -1,5 +1,39 @@
 [
   {
+    "id": "3892838797764325e90f",
+    "url": "https://www.brookstradingcourse.com/support-forum/general-trading-discussion/when-al-said-sometimes-on-a-possibility-what-percentage-it-is-up-to-al/",
+    "sourceTitle": "sometimes 要翻成幾成？先辨認會員解讀",
+    "titleZh": "sometimes 要翻成幾成？先辨認會員解讀",
+    "titleCoverage": "existing-label",
+    "status": "excerpt-summary",
+    "summaryZh": "回答者指出 sometimes 沒有固定百分比，最後另將它解讀為少數可能；後者屬該會員判讀，本站不據此指定低於 50%。",
+    "readScope": "已讀公開提問及所列回答；官方詞彙表另以可見索引核對，直接頁面本輪回應 403。",
+    "checked": "2026-10-28",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "brooks-forum-sometimes"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "提問 kenetrader；回覆 Zunquan（會員）"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "回答者指出 sometimes 沒有固定百分比，最後另將它解讀為少數可能；後者屬該會員判讀，本站不據此指定低於 50%。",
+      "readScope": "已讀公開提問及所列回答；官方詞彙表另以可見索引核對，直接頁面本輪回應 403。",
+      "checked": "2026-10-28",
+      "translationScope": "會員短句翻譯與摘要；不代表已觀看付費課。",
+      "cardId": "brooks-forum-sometimes"
+    },
+    "published": "2026-01-22",
+    "dateNoteZh": "提問 2026-01-22；所讀回答 2026-08-30；原頁時區未核對。"
+  },
+  {
     "id": "556ebe1e576b291ac491",
     "url": "https://en.wikibooks.org/w/index.php?oldid=3562704&title=Technical_Analysis%2FBasis_of_Technical_Analysis",
     "sourceTitle": "技術分析的基礎：價格預測、價格移動與歷史案例",
@@ -3410,39 +3444,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "040f0d8f5662cb77fa7b",
-    "url": "https://www.quantsystems.ca/course/sa2",
-    "sourceTitle": "Systems Academy 2",
-    "titleZh": "Systems Academy｜正式課程入口",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "qs-sa2"
-      }
-    ],
-    "resourceIds": [
-      "qs-sa2"
-    ],
-    "legacyObservations": [
-      {
-        "id": "qs-sa2",
-        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Ali Moin-Afshari／Quant Systems"
     ]
   }
 ]

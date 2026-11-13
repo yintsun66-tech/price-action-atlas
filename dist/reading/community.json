@@ -1,8 +1,53 @@
 {
   "version": 1,
-  "checked": "2026-11-12",
+  "checked": "2026-11-13",
   "policy": "編輯選讀順序依本專案學習用途排列，並非獲利或跨平台人氣排名。社群經驗只能作為問題來源。",
   "items": [
+    {
+      "id": "tv-tick-time-session",
+      "platform": "TradingView 英文官方說明",
+      "kind": "author",
+      "language": "en",
+      "author": "TradingView",
+      "title": "tick圖的筆數、時間戳與換盤重置，要分開讀",
+      "originalTitle": "What are tick-based intervals",
+      "url": "https://www.tradingview.com/support/solutions/43000709225-what-are-tick-based-intervals/",
+      "published": "確切日期未核對",
+      "dateNote": "動態說明頁，初版及最後修訂確日未標；功能限制是2026-11-13所讀版本，不能套用舊影片或其他平台。",
+      "summary": "官方說明以連續tick數形成K棒，所需時間不固定；棒的時間戳是起始tick的時間，且新交易時段會開新棒，上一棒可能未滿筆數。功能、連續期貨歷史與支援範圍另有限制，不能只看棒數就換算分鐘或推定已能回放驗證。",
+      "quote": {
+        "en": "its starting time",
+        "zh": "該棒的起始時間。",
+        "context": "指本頁所述tick棒時間戳，對應第一筆記錄；不是收線或資料到齊的時間。"
+      },
+      "access": "實讀公開正文：定義、形成與時間戳、交易時段重置、可選週期、商品與連續期貨範圍及功能限制；未觀看嵌入影片、重刊圖片或操作付費功能。",
+      "translation": "精簡正文繁中摘要與三詞必要短句；不是完整逐字翻譯。",
+      "review": {
+        "basis": "官方公開定義及限制文字，實讀範圍與未操作項分列。",
+        "learning": "分清筆數、成交數量、經過時間與時間戳；對照同資料的不同分組。",
+        "limits": "頁面目前列預設週期且不支援自訂，並列回放、深度回測等限制；本站三筆例只是自編手算，不是平台可選值、PATs參數或微台獲利證據。",
+        "engagement": "平台對優點的敘述是產品說明，未列獨立績效比較，也不以影片人氣推論策略優勢。"
+      },
+      "figure": {
+        "src": "images/study/tick-time-same-trades.svg",
+        "alt": "本站同六筆成交的3筆棒與十分鐘棒；不是TradingView截圖",
+        "caption": "本站自訂完整六筆資料與分組，沒有重製原圖。3筆不是該頁列出的可選週期，也沒有實測平台。"
+      },
+      "related": [
+        "practice-tick-time-transfer",
+        "practice-journal-before-after"
+      ],
+      "tags": [
+        "筆數與數量",
+        "起始時間",
+        "換盤重置"
+      ],
+      "batch": 37,
+      "collected": "2026-11-13",
+      "checked": "2026-11-13",
+      "courseRefs": [],
+      "status": "body-summary"
+    },
     {
       "id": "sierra-client-trigger-lifecycle",
       "platform": "Sierra Chart 英文官方文件",
@@ -2322,6 +2367,10 @@
   "legacyChecked": "2026-10-28",
   "batches": [
     {
+      "batch": 37,
+      "title": "第三十七批｜11.13 同資料、適配與紀錄"
+    },
+    {
       "batch": 36,
       "title": "第三十六批｜11.12 期限、成交與契約"
     },
@@ -2407,16 +2456,16 @@
     }
   ],
   "intro": {
-    "heading": "想法、委託與成交，各有自己的狀態。",
-    "text": "本輪先校讀等待取消、停損執行與契約時鐘三篇，再精讀官方本機觸發文件選段。累計十六篇深度編排、主線十三／十八，前四階段各三篇已附例題；這不改變你的已讀紀錄。",
+    "heading": "換了圖形，資料與當時判斷仍要能追查。",
+    "text": "本輪用同六筆合成成交比較兩種切棒，再校讀流派資料需求與雙時點日誌。累計十九篇深度編排、主線十六／十八；前五階段各三篇已附例題，與你的已讀紀錄分開。",
     "links": [
       {
-        "id": "louie-wait-cancel",
-        "label": "保存等待、取消與期限"
+        "id": "practice-tick-time-transfer",
+        "label": "看同資料如何形成不同棒"
       },
       {
-        "id": "pa3-stop-execution",
-        "label": "分清觸發與實際平倉"
+        "id": "practice-journal-before-after",
+        "label": "保留事前與事後兩份紀錄"
       }
     ]
   }

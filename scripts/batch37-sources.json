@@ -1,0 +1,16 @@
+[
+  {
+    "id":"tv-tick-time-session","platform":"TradingView 英文官方說明","kind":"author","language":"en","author":"TradingView",
+    "title":"tick圖的筆數、時間戳與換盤重置，要分開讀",
+    "originalTitle":"What are tick-based intervals",
+    "url":"https://www.tradingview.com/support/solutions/43000709225-what-are-tick-based-intervals/",
+    "published":"確切日期未核對","dateNote":"動態說明頁，初版及最後修訂確日未標；功能限制是2026-11-13所讀版本，不能套用舊影片或其他平台。",
+    "summary":"官方說明以連續tick數形成K棒，所需時間不固定；棒的時間戳是起始tick的時間，且新交易時段會開新棒，上一棒可能未滿筆數。功能、連續期貨歷史與支援範圍另有限制，不能只看棒數就換算分鐘或推定已能回放驗證。",
+    "quote":{"en":"its starting time","zh":"該棒的起始時間。","context":"指本頁所述tick棒時間戳，對應第一筆記錄；不是收線或資料到齊的時間。"},
+    "access":"實讀公開正文：定義、形成與時間戳、交易時段重置、可選週期、商品與連續期貨範圍及功能限制；未觀看嵌入影片、重刊圖片或操作付費功能。",
+    "translation":"精簡正文繁中摘要與三詞必要短句；不是完整逐字翻譯。",
+    "review":{"basis":"官方公開定義及限制文字，實讀範圍與未操作項分列。","learning":"分清筆數、成交數量、經過時間與時間戳；對照同資料的不同分組。","limits":"頁面目前列預設週期且不支援自訂，並列回放、深度回測等限制；本站三筆例只是自編手算，不是平台可選值、PATs參數或微台獲利證據。","engagement":"平台對優點的敘述是產品說明，未列獨立績效比較，也不以影片人氣推論策略優勢。"},
+    "figure":{"src":"images/study/tick-time-same-trades.svg","alt":"本站同六筆成交的3筆棒與十分鐘棒；不是TradingView截圖","caption":"本站自訂完整六筆資料與分組，沒有重製原圖。3筆不是該頁列出的可選週期，也沒有實測平台。"},
+    "related":["practice-tick-time-transfer","practice-journal-before-after"],"tags":["筆數與數量","起始時間","換盤重置"],"batch":37,"collected":"2026-11-13","checked":"2026-11-13","courseRefs":[],"status":"body-summary"
+  }
+]

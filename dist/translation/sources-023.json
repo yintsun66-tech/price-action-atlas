@@ -1,5 +1,38 @@
 [
   {
+    "id": "f692c62543c7ab2096f7",
+    "url": "https://www.youtube.com/watch?v=TKCXvRxul-0",
+    "sourceTitle": "Emini End of Day Review - Tuesday, August 26, 2025 - Brad Wolff",
+    "titleZh": "Brad 公開影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-TKCXvRxul-0"
+      }
+    ],
+    "resourceIds": [
+      "yt-TKCXvRxul-0"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-TKCXvRxul-0",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "f6957e89b3341571878d",
     "url": "https://www.brookstradingcourse.com/analysis/emini-bears-want-second-leg-down/",
     "sourceTitle": "Emini Bears Want Second Leg Down to January 30 Low",

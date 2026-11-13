@@ -1,5 +1,38 @@
 [
   {
+    "id": "3e40b408acbb937c84e6",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-racing-up-april-low/",
+    "sourceTitle": "Emini racing up to April 18 low",
+    "titleZh": "Brad 日內案例｜2022-08-16｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-158333"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-158333"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-158333",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "3e5be2d197de9cf34590",
     "url": "https://www.youtube.com/watch?v=z9M7Cz5Mk2c",
     "sourceTitle": "Emini End of Day Review - Tuesday, July 8, 2025 - Brad Wolff",
@@ -3175,39 +3208,6 @@
     "legacyObservations": [
       {
         "id": "yt-D607vN_KI3Q",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "4baf92c1860143942f84",
-    "url": "https://www.youtube.com/watch?v=aeZWemT87Hg",
-    "sourceTitle": "DAX 40 Weekly Report - Tim Fairweather",
-    "titleZh": "Brooks 共享影片｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-aeZWemT87Hg"
-      }
-    ],
-    "resourceIds": [
-      "yt-aeZWemT87Hg"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-aeZWemT87Hg",
         "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
         "checked": "2026-10-22"
       }

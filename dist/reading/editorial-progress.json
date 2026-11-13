@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "scope": "原創例題、反例、答案與對應圖的編排；不是外部來源全文校勘、使用者閱讀進度或策略驗證。",
   "total": 62,
   "reviewed": [
@@ -18,7 +18,10 @@
     "pp2-structural-stop",
     "louie-wait-cancel",
     "pa3-stop-execution",
-    "pa3-session-contract"
+    "pa3-session-contract",
+    "practice-tick-time-transfer",
+    "school-market-fit",
+    "practice-journal-before-after"
   ],
   "pending": [
     "licensed-measured-move",
@@ -31,7 +34,6 @@
     "licensed-continuation-reversal",
     "school4-comparison",
     "school-same-chart",
-    "school-market-fit",
     "wyckoff-cycle",
     "wyckoff-spring",
     "wyckoff-effort",
@@ -61,8 +63,6 @@
     "louie-replay-audit",
     "practice-discretion-audit",
     "practice-pattern-laboratory",
-    "practice-journal-before-after",
-    "practice-tick-time-transfer",
     "practice-replay-evidence",
     "practice-context-hypothesis",
     "practice-plan-not-stop-only",
@@ -83,12 +83,12 @@
       "practice-risk-in-r",
       "pp2-structural-stop",
       "pa3-stop-execution",
-      "pa3-session-contract"
-    ],
-    "pending": [
+      "pa3-session-contract",
       "practice-tick-time-transfer",
       "school-market-fit",
-      "practice-journal-before-after",
+      "practice-journal-before-after"
+    ],
+    "pending": [
       "pa3-winrate-uncertainty",
       "pa3-research-register"
     ]

@@ -1,5 +1,28 @@
 [
   {
+    "id": "dd8bc10a95c6404186be",
+    "url": "https://www.theinnercircletrader.com/",
+    "sourceTitle": "The Inner Circle Trader－官方網站",
+    "titleZh": "The Inner Circle Trader－官方網站",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "ict-liquidity",
+        "index": 0
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "dd9605b32c4bdffc049b",
     "url": "https://www.brookstradingcourse.com/analysis/emini-strong-reversal-up-after-20-correction/",
     "sourceTitle": "Emini Strong Reversal Up after 20% Correction",
@@ -3128,39 +3151,6 @@
       {
         "id": "brad-post-195357",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "ead3f57e8e6da148022a",
-    "url": "https://www.youtube.com/watch?v=RkR9gnoEZHg",
-    "sourceTitle": "Emini End of Day Review - Tuesday, July 15, 2025 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-RkR9gnoEZHg"
-      }
-    ],
-    "resourceIds": [
-      "yt-RkR9gnoEZHg"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-RkR9gnoEZHg",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
         "checked": "2026-10-22"
       }
     ],

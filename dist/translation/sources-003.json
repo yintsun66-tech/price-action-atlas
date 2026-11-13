@@ -1,5 +1,38 @@
 [
   {
+    "id": "102d46ca3d9cbbb07d18",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-rally-to-test/",
+    "sourceTitle": "Emini Bulls Want Rally to Test October 13 Close",
+    "titleZh": "Brad 日內案例｜2022-10-17｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-162654"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-162654"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-162654",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "104b45809416d06946a4",
     "url": "https://www.quantsystems.ca/course/ptm-202511",
     "sourceTitle": "PTM_202511",
@@ -3158,39 +3191,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-216575",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "1c7d0ebbac37e861d4bf",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-reversed-bull-breakout/",
-    "sourceTitle": "Emini bears completely reversed bull breakout",
-    "titleZh": "Brad 日內案例｜2022-05-06｜突破與延續",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-150046"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-150046"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-150046",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

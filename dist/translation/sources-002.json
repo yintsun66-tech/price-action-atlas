@@ -1,5 +1,38 @@
 [
   {
+    "id": "040f0d8f5662cb77fa7b",
+    "url": "https://www.quantsystems.ca/course/sa2",
+    "sourceTitle": "Systems Academy 2",
+    "titleZh": "Systems Academy｜正式課程入口",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "qs-sa2"
+      }
+    ],
+    "resourceIds": [
+      "qs-sa2"
+    ],
+    "legacyObservations": [
+      {
+        "id": "qs-sa2",
+        "scope": "官方 sitemap 已列教學頁面核對；付費影片不在取得範圍",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Ali Moin-Afshari／Quant Systems"
+    ]
+  },
+  {
     "id": "043243858ccf8ede0478",
     "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-measured-move/",
     "sourceTitle": "Emini Bulls Want Measured Move Up to 4,150",
@@ -3099,38 +3132,5 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": []
-  },
-  {
-    "id": "102d46ca3d9cbbb07d18",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-rally-to-test/",
-    "sourceTitle": "Emini Bulls Want Rally to Test October 13 Close",
-    "titleZh": "Brad 日內案例｜2022-10-17｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-162654"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-162654"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-162654",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
   }
 ]

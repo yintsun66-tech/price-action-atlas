@@ -23,7 +23,7 @@ test('多義詞與術語不被無語境替換，英文原文仍可展開',()=>{
  assert.ok(c.AtlasZh.original('Last').includes('lang="en"'));
 });
 test('主線先於探索且路線收合，數量與日期一致',()=>{
- const html=read('index.html');assert.ok(html.indexOf('id="learning-map"')<html.indexOf('id="site-map"'));assert.ok(html.includes('reading-route-options'));assert.ok(html.includes('site-map-options'));assert.ok(html.includes('合計 76 張原創 SVG'));assert.ok(!html.includes('閱讀庫更新：2026.10.29'));assert.ok(read('reader.js').includes('閱讀庫排序 '));assert.ok(read('reader.js').includes('parent.open=true'));assert.ok(read('readability.css').includes('100dvh'));
+ const html=read('index.html');assert.ok(html.indexOf('id="learning-map"')<html.indexOf('id="site-map"'));assert.ok(html.includes('reading-route-options'));assert.ok(html.includes('site-map-options'));assert.ok(html.includes('合計 77 張原創 SVG'));assert.ok(!html.includes('閱讀庫更新：2026.10.29'));assert.ok(read('reader.js').includes('閱讀庫排序 '));assert.ok(read('reader.js').includes('parent.open=true'));assert.ok(read('readability.css').includes('100dvh'));
 });
 test('FVG 自測只在收線後確認，圖表使用同一組邊界',()=>{
  const g=guides['ict-fvg'];assert.ok(g.example.includes('H1 = 101'));assert.ok(g.example.includes('L3 = 102.5'));assert.equal(102.5-101,1.5);assert.equal(100.8>101,false);assert.ok(g.check.answer.includes('不符合'));assert.ok(g.check.answer.includes('100.8'));assert.match(read(g.figure.src),/L3 102.5 &gt; H1 101/);assert.ok(g.counterexample.includes('中央棒'));
@@ -41,7 +41,7 @@ test('通道與位置例題沿用原正文價位，而非混入另一組回放',
 test('第一階段例題覆蓋與使用者已讀不同，不寫入筆記或偷加已讀',()=>{
  const c={AtlasReadingGuideData:guides};vm.runInNewContext(read('site-maps-data.js'),c);vm.runInNewContext(read('site-maps.js'),c);
  const records={'brooks-context-first':{read:false,note:'保留筆記'}},before=JSON.stringify(records),m=c.AtlasSiteMaps.model(articles,records),html=c.AtlasSiteMaps.stageHTML(m.stages[0]);assert.equal(m.done,0);assert.ok(html.includes('本階段 3 / 3 篇附原創例題與答案'));assert.ok(html.includes('0 / 3 已讀'));assert.equal(JSON.stringify(records),before);
- const progress=JSON.parse(read('reading/editorial-progress.json'));assert.equal(progress.reviewed.length,16);assert.equal(progress.pending.length,46);assert.equal(progress.core.reviewed.length,13);assert.equal(progress.core.pending.length,5);assert.equal(new Set([...progress.reviewed,...progress.pending]).size,articles.length);
+ const progress=JSON.parse(read('reading/editorial-progress.json'));assert.equal(progress.reviewed.length,19);assert.equal(progress.pending.length,43);assert.equal(progress.core.reviewed.length,16);assert.equal(progress.core.pending.length,2);assert.equal(new Set([...progress.reviewed,...progress.pending]).size,articles.length);
 });
 test('每個例題的圖與延伸入口都可追溯至現有文章或來源卡',()=>{
  const ids=new Set(articles.map(a=>a.id)),cards=new Set(JSON.parse(read('reading/community.json')).items.map(c=>c.id));for(const [id,g]of Object.entries(guides)){assert.ok(ids.has(id));for(const r of g.related||[])assert.ok(ids.has(r.id));for(const s of g.sourceCards||[])assert.ok(cards.has(s.id));if(g.figure)assert.ok(fs.existsSync(path.join(dist,g.figure.src)));}
@@ -64,6 +64,21 @@ test('候選A的取消與B的期限分開，期限不含結束點且不回填成
 test('停損觸發、價格R與限價未成交保持不同協定，基礎層保留限制',()=>{
  const g=guides['pa3-stop-execution'],a=articles.find(a=>a.id==='pa3-stop-execution');assert.equal(100-96,4);assert.equal((100-94)/4,1.5);assert.ok(94<95);assert.ok(g.check.answer.includes('先核對委託是否送出'));assert.ok(g.check.answer.includes('可能仍持有'));const h=context.AtlasReadingGuide.compose(original(a),a);assert.equal((h.match(/class="reader-advanced"/g)||[]).length,2);assert.ok(h.indexOf('id="reader-section-4"')<h.indexOf('class="reader-advanced"'));const svg=read(g.figure.src);assert.ok(svg.includes('毛損 6 點 = 1.5R'));assert.ok(svg.includes('可能仍然持有'));
 });
-test('契約尾段與尚未收線分開，前四階段例題不改已讀',()=>{
- assert.equal((13*60+45)-(8*60+45),300);assert.equal((13*60+30)-(8*60+45),285);assert.equal(Math.floor(285/10),28);assert.equal(285%10,5);assert.ok(guides['pa3-session-contract'].check.answer.includes('前者是已結束但截短'));const c={AtlasReadingGuideData:guides};vm.runInNewContext(read('site-maps-data.js'),c);vm.runInNewContext(read('site-maps.js'),c);const m=c.AtlasSiteMaps.model(articles,{});for(const s of m.stages.slice(0,4)){const h=c.AtlasSiteMaps.stageHTML(s);assert.ok(h.includes('本階段 3 / 3 篇附原創例題與答案'));assert.equal(s.done,0);}
+test('契約尾段與尚未收線分開，前五階段例題不改已讀',()=>{
+ assert.equal((13*60+45)-(8*60+45),300);assert.equal((13*60+30)-(8*60+45),285);assert.equal(Math.floor(285/10),28);assert.equal(285%10,5);assert.ok(guides['pa3-session-contract'].check.answer.includes('前者是已結束但截短'));const c={AtlasReadingGuideData:guides};vm.runInNewContext(read('site-maps-data.js'),c);vm.runInNewContext(read('site-maps.js'),c);const m=c.AtlasSiteMaps.model(articles,{});for(const s of m.stages.slice(0,5)){const h=c.AtlasSiteMaps.stageHTML(s);assert.ok(h.includes('本階段 3 / 3 篇附原創例題與答案'));assert.equal(s.done,0);}
+});
+test('相同六筆逐筆資料按筆數及分鐘分組，08:55邊界歸新棒且量守恆',()=>{
+ const {trades,aggregate,countBars,timeBars}=require('../scripts/tick-time-figure.cjs');
+ assert.deepEqual(countBars,[{o:100,h:101,l:99,c:99,v:10},{o:102,h:103,l:98,c:103,v:9}]);
+ const from=t=>t.time<'08:55:00';assert.deepEqual(timeBars,[aggregate(trades.filter(from)),aggregate(trades.filter(t=>!from(t)))]);
+ assert.deepEqual(timeBars,[{o:100,h:102,l:99,c:102,v:14},{o:98,h:103,l:98,c:103,v:5}]);
+ assert.equal(countBars.reduce((n,b)=>n+b.v,0),timeBars.reduce((n,b)=>n+b.v,0));assert.notEqual(trades.length,19);
+ const sec=t=>t.split(':').map(Number).reduce((n,v)=>n*60+v,0);assert.equal(sec(trades[2].time)-sec(trades[0].time),2);assert.equal(sec(trades[5].time)-sec(trades[3].time),1139);
+ assert.ok(read(guides['practice-tick-time-transfer'].figure.src).includes('非平台可選設定'));
+});
+test('四流派共用資料時不能把缺少的訂單流變成獨立確認',()=>{
+ const g=guides['school-market-fit'];assert.equal(g.table.rows.length,4);assert.ok(g.check.answer.includes('Delta'));assert.ok(g.counterexample.includes('四份獨立證據'));assert.ok(g.example.includes('成交量口徑尚未釐清'));assert.ok(g.table.rows[1][1].includes('量能未核對'));
+});
+test('同一候選日誌追加而不覆寫，無成交的損益不適用',()=>{
+ const g=guides['practice-journal-before-after'];assert.ok(g.example.includes('DEMO:X:10:05:LONG:v1'));assert.ok(g.check.answer.includes('不適用'));assert.ok(g.counterexample.includes('重新整理'));assert.ok(g.example.includes('99.7'));assert.ok(g.check.answer.includes('成交'));
 });

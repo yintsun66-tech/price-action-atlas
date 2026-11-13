@@ -1,5 +1,38 @@
 [
   {
+    "id": "609014c73c59f0df637e",
+    "url": "https://www.youtube.com/watch?v=ZKYvn8ixi5c",
+    "sourceTitle": "Emini End of Day Review - Monday, March 24, 2025 - Brad Wolff",
+    "titleZh": "Brad 公開影片｜練習與執行",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-ZKYvn8ixi5c"
+      }
+    ],
+    "resourceIds": [
+      "yt-ZKYvn8ixi5c"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-ZKYvn8ixi5c",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "6097eb2e3c44a6029228",
     "url": "https://www.youtube.com/watch?v=b094K8r6ZlM",
     "sourceTitle": "SP500 E-mini Trading Range Day then Late Breakout and 50PC Pullback",
@@ -3183,39 +3216,6 @@
     "legacyObservations": [
       {
         "id": "yt-eNEoizcvdMI",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
-    ]
-  },
-  {
-    "id": "6cb12ac5189604eee257",
-    "url": "https://www.youtube.com/watch?v=aHTPS6bjl4o",
-    "sourceTitle": "Emini End of Day Review - Monday October 31, 2022",
-    "titleZh": "Brooks 共享影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-aHTPS6bjl4o"
-      }
-    ],
-    "resourceIds": [
-      "yt-aHTPS6bjl4o"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-aHTPS6bjl4o",
         "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
         "checked": "2026-10-22"
       }
