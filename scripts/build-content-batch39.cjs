@@ -1,0 +1,10 @@
+const fs=require('node:fs'),path=require('node:path');
+const root=path.resolve(__dirname,'..'),dist=path.join(root,'dist');
+const file=path.join(dist,'reading/content-updates.json'),log=JSON.parse(fs.readFileSync(file,'utf8'));
+const entry={id:'content-batch39-20261114',collected:'2026-11-14',updated:'2026-11-14',timezone:'Asia/Taipei',description:'校讀吸收與DOM兩篇訂單流教材，補同數字事件表、反例與具理由答案。',articles:[],referencedArticles:['flow-depth','flow-absorption'],sources:['https://www.cmegroup.com/articles/faqs/market-by-order-mbo.html','https://bookmap.com/blog/identifying-true-liquidity-with-bookmap'],notes:['深度編排23/62，主線維持18/18，其餘39篇待續；78張原圖與62個原文章物件保留。','重讀CME Background、匿名性與MBP versus MBO，以及Bookmap Real Support & Resistance段落；僅核對既有觀念，不新增來源或升級全文完成。','新增原創解題層；不重刊英文全文，不改舊來源查核日。Bookmap為產品商教材，非獨立成效證明。','本輪優先既有內容，不增加重複來源卡，未執行新社群搜尋；沒有將未搜尋記為沒有新文。']};
+log.batches=[entry,...log.batches.filter(x=>x.id!==entry.id)];fs.writeFileSync(file,JSON.stringify(log,null,2)+'\n');
+const cfile=path.join(dist,'reading/community.json'),c=JSON.parse(fs.readFileSync(cfile,'utf8'));
+c.intro={heading:'先分清掛單、成交與價格反應。',text:'兩篇訂單流教材補上同數字表格、反例與解答；深度編排23/62，其餘39篇持續校讀。十八篇主線例題已補齊，仍不等於全文翻譯、讀者理解或策略驗證完成。',links:[{id:'flow-depth',label:'掛量少60，不等於成交60'},{id:'flow-absorption',label:'正Delta不等於下一步反轉'}]};
+fs.writeFileSync(cfile,JSON.stringify(c,null,2)+'\n');
+const hfile=path.join(dist,'index.html');let h=fs.readFileSync(hfile,'utf8');h=h.replace(/<!-- COMMUNITY_LIBRARY_START -->[\s\S]*?<!-- COMMUNITY_LIBRARY_END -->/,require('./render-community.cjs')(c,JSON.parse(fs.readFileSync(path.join(dist,'reading/index.json'),'utf8'))));fs.writeFileSync(hfile,h);
+console.log('Batch39: two original editorial guides; existing sources and figures preserved.');

@@ -23,7 +23,9 @@
     "school-market-fit",
     "practice-journal-before-after",
     "pa3-winrate-uncertainty",
-    "pa3-research-register"
+    "pa3-research-register",
+    "flow-depth",
+    "flow-absorption"
   ],
   "pending": [
     "licensed-measured-move",
@@ -41,8 +43,6 @@
     "wyckoff-effort",
     "ict-structure",
     "ict-liquidity",
-    "flow-absorption",
-    "flow-depth",
     "pa3-bayes-evidence",
     "pa3-podcast-to-hypothesis",
     "pa3-label-consistency",

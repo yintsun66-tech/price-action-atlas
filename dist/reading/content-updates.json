@@ -2,6 +2,28 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch39-20261114",
+      "collected": "2026-11-14",
+      "updated": "2026-11-14",
+      "timezone": "Asia/Taipei",
+      "description": "校讀吸收與DOM兩篇訂單流教材，補同數字事件表、反例與具理由答案。",
+      "articles": [],
+      "referencedArticles": [
+        "flow-depth",
+        "flow-absorption"
+      ],
+      "sources": [
+        "https://www.cmegroup.com/articles/faqs/market-by-order-mbo.html",
+        "https://bookmap.com/blog/identifying-true-liquidity-with-bookmap"
+      ],
+      "notes": [
+        "深度編排23/62，主線維持18/18，其餘39篇待續；78張原圖與62個原文章物件保留。",
+        "重讀CME Background、匿名性與MBP versus MBO，以及Bookmap Real Support & Resistance段落；僅核對既有觀念，不新增來源或升級全文完成。",
+        "新增原創解題層；不重刊英文全文，不改舊來源查核日。Bookmap為產品商教材，非獨立成效證明。",
+        "本輪優先既有內容，不增加重複來源卡，未執行新社群搜尋；沒有將未搜尋記為沒有新文。"
+      ]
+    },
+    {
       "id": "content-batch38-20261114",
       "collected": "2026-11-14",
       "updated": "2026-11-14",
