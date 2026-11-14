@@ -1,5 +1,28 @@
 [
   {
+    "id": "1019ccbc7cdd5eff5e8d",
+    "url": "https://www.trustpilot.com/review/www.smbtraining.com",
+    "sourceTitle": "Trustpilot：SMB Capital／smbtraining.com（評論來源）",
+    "titleZh": "Trustpilot：SMB Capital／smbtraining.com（評論來源）",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "discovery-review",
+        "id": "smb-capital",
+        "index": 0
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "102d46ca3d9cbbb07d18",
     "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-rally-to-test/",
     "sourceTitle": "Emini Bulls Want Rally to Test October 13 Close",
@@ -3158,39 +3181,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-256233",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "1c69ba86a5b021e37758",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-strong-reversal-up/",
-    "sourceTitle": "Emini Bulls Want Strong Reversal Up",
-    "titleZh": "Brad 日內案例｜2024-09-05｜反轉與陷阱",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-216575"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-216575"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-216575",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

@@ -1,10 +1,10 @@
 {
   "updated": "2026-11-11",
-  "totalSources": 2389,
+  "totalSources": 2390,
   "summary": {
     "completeSources": 1,
     "excerptSources": 1,
-    "notAssessedSources": 2387,
+    "notAssessedSources": 2388,
     "bilingualUnits": 6
   },
   "policy": [
@@ -240,6 +240,12 @@
     },
     {
       "sourceId": "46e852045623a247eeea",
+      "translationStatus": "not-assessed",
+      "rightsStatus": "not-assessed",
+      "unitIds": []
+    },
+    {
+      "sourceId": "4ba10bbb9b554adabcdd",
       "translationStatus": "not-assessed",
       "rightsStatus": "not-assessed",
       "unitIds": []

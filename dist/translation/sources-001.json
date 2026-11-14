@@ -1,5 +1,44 @@
 [
   {
+    "id": "26e3244d33edc25b40bd",
+    "url": "https://www.tradingview.com/script/PqN9ejOj-FVG-IFVG-Pro-MTF-Fair-Value-Gap-and-Inverse-Fair-Value-Gap/",
+    "sourceTitle": "FVG 統計表：回補事件的百分比不是交易勝率",
+    "titleZh": "FVG 統計表：回補事件的百分比不是交易勝率",
+    "titleCoverage": "existing-label",
+    "status": "excerpt-summary",
+    "summaryZh": "作者列出觸及、中線、完整回補及反轉後事件，並明示統計表只是描述圖上缺口行為，不是勝率。",
+    "readScope": "已讀公開腳本說明與統計欄位；沒有執行、審計或核發其非重繪聲明。",
+    "checked": "2026-10-29",
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "article-source",
+        "id": "ict-event-rates",
+        "index": 0
+      },
+      {
+        "kind": "community",
+        "id": "tv-fvg-descriptive-stats"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Stable_Logic"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "作者列出觸及、中線、完整回補及反轉後事件，並明示統計表只是描述圖上缺口行為，不是勝率。",
+      "readScope": "已讀公開腳本說明與統計欄位；沒有執行、審計或核發其非重繪聲明。",
+      "checked": "2026-10-29",
+      "translationScope": "短句翻譯與摘要；屬作者自己的 ICT 風格實作，不是 ICT 原課翻譯。",
+      "cardId": "tv-fvg-descriptive-stats"
+    },
+    "published": null,
+    "dateNoteZh": "頁面只顯示相對時間；確切發布日未核對。"
+  },
+  {
     "id": "3892838797764325e90f",
     "url": "https://www.brookstradingcourse.com/support-forum/general-trading-discussion/when-al-said-sometimes-on-a-possibility-what-percentage-it-is-up-to-al/",
     "sourceTitle": "sometimes 要翻成幾成？先辨認會員解讀",
@@ -3412,38 +3451,5 @@
     "legacyObservations": [],
     "reviews": [],
     "courseRefs": []
-  },
-  {
-    "id": "03ef6f723b816cc33866",
-    "url": "https://www.brookstradingcourse.com/analysis/e-mini-follow-through-selling-on-daily/",
-    "sourceTitle": "E-Mini Follow-Through Selling on Daily",
-    "titleZh": "Brad 日內案例｜2025-08-20｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-247863"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-247863"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-247863",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
   }
 ]

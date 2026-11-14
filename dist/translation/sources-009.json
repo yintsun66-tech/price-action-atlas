@@ -1,5 +1,38 @@
 [
   {
+    "id": "553411368375ef8afcec",
+    "url": "https://www.youtube.com/watch?v=dgjSkEf5nmw",
+    "sourceTitle": "E-mini S&P 500 Horizontal TR Near Support on Daily Chart - August 24, 2026",
+    "titleZh": "Brooks 共享影片｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-dgjSkEf5nmw"
+      }
+    ],
+    "resourceIds": [
+      "yt-dgjSkEf5nmw"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-dgjSkEf5nmw",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "5560d5727e9f0b80c7e7",
     "url": "https://www.brookstradingcourse.com/analysis/emini-weak-high-1-buy-signal-bar-7/",
     "sourceTitle": "Emini Weak High 1 Buy Signal Bar",
@@ -3123,39 +3156,6 @@
       {
         "id": "brad-post-245815",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "608ab6159535a084504e",
-    "url": "https://www.youtube.com/watch?v=-f2GyTTzmvo",
-    "sourceTitle": "Emini End of Day Review - Tuesday, November 4, 2025 - Brad Wolff",
-    "titleZh": "Brad 公開影片｜練習與執行",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt--f2GyTTzmvo"
-      }
-    ],
-    "resourceIds": [
-      "yt--f2GyTTzmvo"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt--f2GyTTzmvo",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
         "checked": "2026-10-22"
       }
     ],

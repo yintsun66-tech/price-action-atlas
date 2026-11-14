@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": "2026-11-13",
+  "revision": "2026-11-14",
   "articles": [
     {
       "id": "licensed-measured-move",
@@ -547,7 +547,7 @@
       ],
       "hasCases": true,
       "hasChart": false,
-      "figureCount": 1
+      "figureCount": 2
     },
     {
       "id": "pa3-research-register",

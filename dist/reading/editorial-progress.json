@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "scope": "原創例題、反例、答案與對應圖的編排；不是外部來源全文校勘、使用者閱讀進度或策略驗證。",
   "total": 62,
   "reviewed": [
@@ -21,7 +21,9 @@
     "pa3-session-contract",
     "practice-tick-time-transfer",
     "school-market-fit",
-    "practice-journal-before-after"
+    "practice-journal-before-after",
+    "pa3-winrate-uncertainty",
+    "pa3-research-register"
   ],
   "pending": [
     "licensed-measured-move",
@@ -42,8 +44,6 @@
     "flow-absorption",
     "flow-depth",
     "pa3-bayes-evidence",
-    "pa3-winrate-uncertainty",
-    "pa3-research-register",
     "pa3-podcast-to-hypothesis",
     "pa3-label-consistency",
     "pa3-anti-playbook",
@@ -86,11 +86,10 @@
       "pa3-session-contract",
       "practice-tick-time-transfer",
       "school-market-fit",
-      "practice-journal-before-after"
-    ],
-    "pending": [
+      "practice-journal-before-after",
       "pa3-winrate-uncertainty",
       "pa3-research-register"
-    ]
+    ],
+    "pending": []
   }
 }

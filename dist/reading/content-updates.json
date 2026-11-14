@@ -2,6 +2,28 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch38-20261114",
+      "collected": "2026-11-14",
+      "updated": "2026-11-14",
+      "timezone": "Asia/Taipei",
+      "description": "補齊勝率不確定性及研究登記兩篇主線，新增同勝率區間圖與NIST多重比較正文摘要。",
+      "articles": [],
+      "referencedArticles": [
+        "pa3-winrate-uncertainty",
+        "pa3-research-register"
+      ],
+      "sources": [
+        "https://www.itl.nist.gov/div898/handbook/prc/section4/prc473.htm"
+      ],
+      "notes": [
+        "深度編排21/62、主線18/18；六階段各3/3附原創例題與答案。其餘41篇、英文索引及理解／策略驗證仍未完成。",
+        "新增14/20與140/200比例區間圖，保留原正文、原77圖與來源查核日，總圖78。",
+        "R00／R01／R02例只示範資料接觸，不假稱已執行PBO或CSCV；64.2%是獨立檢定假設下至少一個誤報。",
+        "新讀NIST Bonferroni頁正文，ANOVA、一般不等式與交易適用限制分列；無新增Brooks課程引用。",
+        "Brooks論壇候選頁取得403，未採摘要；Reddit僅搜尋片段，不當成完整回覆或績效證明。詳見docs/content-batch38.md。"
+      ]
+    },
+    {
       "id": "content-batch37-20261113",
       "collected": "2026-11-13",
       "updated": "2026-11-13",

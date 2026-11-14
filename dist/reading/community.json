@@ -1,8 +1,53 @@
 {
   "version": 1,
-  "checked": "2026-11-13",
+  "checked": "2026-11-14",
   "policy": "編輯選讀順序依本專案學習用途排列，並非獲利或跨平台人氣排名。社群經驗只能作為問題來源。",
   "items": [
+    {
+      "id": "nist-bonferroni-family",
+      "platform": "NIST／SEMATECH 英文統計手冊",
+      "kind": "author",
+      "language": "en",
+      "author": "NIST／SEMATECH",
+      "title": "多次比較：單一區間與整體涵蓋率要分開",
+      "originalTitle": "7.4.7.3. Bonferroni's method",
+      "url": "https://www.itl.nist.gov/div898/handbook/prc/section4/prc473.htm",
+      "published": "確切日期未核對",
+      "dateNote": "公開手冊該頁未列初版及最後修訂確日；2026-11-14為實讀查核日，不當作新發布文章。",
+      "summary": "本頁以事前選定、有限個ANOVA平均數對比說明多重比較：不能把每個區間的涵蓋率當作全部同時涵蓋率。以各區間失準機率總和作界線，分配α／g可使整體信賴係數至少為1−α；方法的抽樣模型與比較集合仍須先成立。",
+      "quote": {
+        "en": "at least",
+        "zh": "至少。",
+        "context": "修飾整組區間同時涵蓋的信賴係數下界；不是策略至少會賺錢，也不是這次固定真值的事後機率。"
+      },
+      "access": "實讀該頁公開正文：有限對比、一般不等式、同時區間、兩個對比的例子與方法比較至結尾；未追讀外鏈例題、程式或完整手冊。",
+      "translation": "精簡繁中正文摘要及兩詞必要對照；沒有完整翻譯或重刊原表。",
+      "review": {
+        "basis": "官方統計手冊的公式、定義與限制，非交易策略測評。",
+        "learning": "分清單一比較與一組比較；對照研究登記簿，保留曾經試過的選擇。",
+        "limits": "原頁為ANOVA線性對比，不是交易相依報酬或PBO估計器；一般不等式不要求事件獨立，但各個區間本身仍須有效。它不能修復保留集已用於改規則的歷史，也不宜盤後挑最有利的校正方法宣稱通過。",
+        "engagement": "沒有以社群票數或獲利排名評價；文件可核對數學，不構成市場優勢證據。"
+      },
+      "figure": {
+        "src": "images/study/pa3-research-register-map.svg",
+        "alt": "本站四步研究紀錄流程，非NIST ANOVA原圖",
+        "caption": "此為本站研究流程補充，不是Bonferroni計算圖；填完登記簿不等於完成多重比較校正或PBO估計。"
+      },
+      "related": [
+        "pa3-research-register",
+        "pa3-winrate-uncertainty"
+      ],
+      "tags": [
+        "整體涵蓋率",
+        "事前比較集合",
+        "保留集限制"
+      ],
+      "batch": 38,
+      "collected": "2026-11-14",
+      "checked": "2026-11-14",
+      "courseRefs": [],
+      "status": "body-summary"
+    },
     {
       "id": "tv-tick-time-session",
       "platform": "TradingView 英文官方說明",
@@ -2367,6 +2412,10 @@
   "legacyChecked": "2026-10-28",
   "batches": [
     {
+      "batch": 38,
+      "title": "第三十八批｜11.14 不確定性與研究紀錄"
+    },
+    {
       "batch": 37,
       "title": "第三十七批｜11.13 同資料、適配與紀錄"
     },
@@ -2456,16 +2505,16 @@
     }
   ],
   "intro": {
-    "heading": "換了圖形，資料與當時判斷仍要能追查。",
-    "text": "本輪用同六筆合成成交比較兩種切棒，再校讀流派資料需求與雙時點日誌。累計十九篇深度編排、主線十六／十八；前五階段各三篇已附例題，與你的已讀紀錄分開。",
+    "heading": "把百分比、樣本與研究歷史放在一起讀。",
+    "text": "補齊最後兩篇主線的例題、反例與答案；十八篇主線與六階段皆已附練習，仍不等於讀者理解或策略驗證通過。深度編排21/62，其餘41篇持續校讀，外部來源翻譯另計。",
     "links": [
       {
-        "id": "practice-tick-time-transfer",
-        "label": "看同資料如何形成不同棒"
+        "id": "pa3-winrate-uncertainty",
+        "label": "同樣七成勝率，不同精確度"
       },
       {
-        "id": "practice-journal-before-after",
-        "label": "保留事前與事後兩份紀錄"
+        "id": "pa3-research-register",
+        "label": "保留失敗版本與資料接觸歷史"
       }
     ]
   }

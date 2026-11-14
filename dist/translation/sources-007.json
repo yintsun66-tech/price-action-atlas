@@ -1,5 +1,38 @@
 [
   {
+    "id": "3e3497df9aa440c2c804",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-2nd-leg-down/",
+    "sourceTitle": "Emini Bears Getting 2nd Leg Down",
+    "titleZh": "Brad 日內案例｜2023-08-25｜回檔與第二段",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-187599"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-187599"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-187599",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "3e40b408acbb937c84e6",
     "url": "https://www.brookstradingcourse.com/analysis/emini-racing-up-april-low/",
     "sourceTitle": "Emini racing up to April 18 low",
@@ -3183,39 +3216,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "4ba7d2238ebf82f90aa2",
-    "url": "https://www.youtube.com/watch?v=D607vN_KI3Q",
-    "sourceTitle": "S&P 500 E-mini Upper Trading Range, Tight Bear Channel, Lower Trading Range - August 5, 2026",
-    "titleZh": "Brooks 共享影片｜區間與通道",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-D607vN_KI3Q"
-      }
-    ],
-    "resourceIds": [
-      "yt-D607vN_KI3Q"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-D607vN_KI3Q",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brooks 團隊（講者未逐支確認）"
     ]
   }
 ]

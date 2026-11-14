@@ -2944,6 +2944,94 @@
     "authorConfirmed": "Galen Woods"
   },
   {
+    "id": "4ba10bbb9b554adabcdd",
+    "url": "https://www.itl.nist.gov/div898/handbook/prc/section4/prc473.htm",
+    "sourceTitle": "7.4.7.3. Bonferroni's method",
+    "titleZh": "多次比較：單一區間與整體涵蓋率要分開",
+    "titleCoverage": "reviewed-title",
+    "status": "body-summary",
+    "summaryZh": "本頁以事前選定、有限個ANOVA平均數對比說明多重比較：不能把每個區間的涵蓋率當作全部同時涵蓋率。以各區間失準機率總和作界線，分配α／g可使整體信賴係數至少為1−α；方法的抽樣模型與比較集合仍須先成立。",
+    "readScope": "實讀該頁公開正文：有限對比、一般不等式、同時區間、兩個對比的例子與方法比較至結尾；未追讀外鏈例題、程式或完整手冊。",
+    "checked": "2026-11-14",
+    "inventoried": "2026-11-11",
+    "locations": [
+      {
+        "kind": "community",
+        "id": "nist-bonferroni-family"
+      },
+      {
+        "kind": "review",
+        "id": "source-b38-nist-bonferroni-family"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [
+      {
+        "resourceId": "source-b38-nist-bonferroni-family",
+        "url": "https://www.itl.nist.gov/div898/handbook/prc/section4/prc473.htm",
+        "sourceTitle": "7.4.7.3. Bonferroni's method",
+        "sourceTitleZh": "多次比較：單一區間與整體涵蓋率要分開",
+        "authorConfirmed": "NIST／SEMATECH",
+        "published": "確切日期未核對",
+        "dateNoteZh": "公開手冊該頁未列初版及最後修訂確日；2026-11-14為實讀查核日，不當作新發布文章。",
+        "checked": "2026-11-14",
+        "status": "body-summary",
+        "readScope": "實讀該頁公開正文：有限對比、一般不等式、同時區間、兩個對比的例子與方法比較至結尾；未追讀外鏈例題、程式或完整手冊。",
+        "summaryZh": "本頁以事前選定、有限個ANOVA平均數對比說明多重比較：不能把每個區間的涵蓋率當作全部同時涵蓋率。以各區間失準機率總和作界線，分配α／g可使整體信賴係數至少為1−α；方法的抽樣模型與比較集合仍須先成立。",
+        "keyPointsZh": [
+          "分清單一比較與一組比較；對照研究登記簿，保留曾經試過的選擇。"
+        ],
+        "shortExcerpt": {
+          "en": "at least",
+          "zh": "至少。",
+          "scope": "修飾整組區間同時涵蓋的信賴係數下界；不是策略至少會賺錢，也不是這次固定真值的事後機率。"
+        },
+        "limitsZh": "原頁為ANOVA線性對比，不是交易相依報酬或PBO估計器；一般不等式不要求事件獨立，但各個區間本身仍須有效。它不能修復保留集已用於改規則的歷史，也不宜盤後挑最有利的校正方法宣稱通過。 沒有以社群票數或獲利排名評價；文件可核對數學，不構成市場優勢證據。",
+        "evidence": {
+          "urls": [
+            "https://www.itl.nist.gov/div898/handbook/prc/section4/prc473.htm"
+          ],
+          "accessMethod": "實讀該頁公開正文至方法比較結尾；未追讀外鏈或執行程式",
+          "scope": "實讀該頁公開正文：有限對比、一般不等式、同時區間、兩個對比的例子與方法比較至結尾；未追讀外鏈例題、程式或完整手冊。"
+        },
+        "courseRefs": []
+      }
+    ],
+    "courseRefs": [],
+    "authors": [
+      "NIST／SEMATECH"
+    ],
+    "existingExcerpt": {
+      "summaryZh": "本頁以事前選定、有限個ANOVA平均數對比說明多重比較：不能把每個區間的涵蓋率當作全部同時涵蓋率。以各區間失準機率總和作界線，分配α／g可使整體信賴係數至少為1−α；方法的抽樣模型與比較集合仍須先成立。",
+      "readScope": "實讀該頁公開正文：有限對比、一般不等式、同時區間、兩個對比的例子與方法比較至結尾；未追讀外鏈例題、程式或完整手冊。",
+      "checked": "2026-11-14",
+      "translationScope": "精簡繁中正文摘要及兩詞必要對照；沒有完整翻譯或重刊原表。",
+      "cardId": "nist-bonferroni-family"
+    },
+    "published": "確切日期未核對",
+    "dateNoteZh": "公開手冊該頁未列初版及最後修訂確日；2026-11-14為實讀查核日，不當作新發布文章。",
+    "keyPointsZh": [
+      "分清單一比較與一組比較；對照研究登記簿，保留曾經試過的選擇。"
+    ],
+    "limitsZh": "原頁為ANOVA線性對比，不是交易相依報酬或PBO估計器；一般不等式不要求事件獨立，但各個區間本身仍須有效。它不能修復保留集已用於改規則的歷史，也不宜盤後挑最有利的校正方法宣稱通過。 沒有以社群票數或獲利排名評價；文件可核對數學，不構成市場優勢證據。",
+    "evidence": {
+      "urls": [
+        "https://www.itl.nist.gov/div898/handbook/prc/section4/prc473.htm"
+      ],
+      "accessMethod": "實讀該頁公開正文至方法比較結尾；未追讀外鏈或執行程式",
+      "scope": "實讀該頁公開正文：有限對比、一般不等式、同時區間、兩個對比的例子與方法比較至結尾；未追讀外鏈例題、程式或完整手冊。"
+    },
+    "shortExcerpt": {
+      "en": "at least",
+      "zh": "至少。",
+      "scope": "修飾整組區間同時涵蓋的信賴係數下界；不是策略至少會賺錢，也不是這次固定真值的事後機率。"
+    },
+    "termNotes": [],
+    "editorNotesZh": [],
+    "authorConfirmed": "NIST／SEMATECH"
+  },
+  {
     "id": "4cf5819717e6fbeab173",
     "url": "https://www.adamhgrimes.com/a-few-trading-rules/",
     "sourceTitle": "A Few Trading Rules",
@@ -9400,44 +9488,5 @@
     },
     "published": null,
     "dateNoteZh": "原頁未顯示可核對的發布日；不以搜尋估算年份代替。"
-  },
-  {
-    "id": "26e3244d33edc25b40bd",
-    "url": "https://www.tradingview.com/script/PqN9ejOj-FVG-IFVG-Pro-MTF-Fair-Value-Gap-and-Inverse-Fair-Value-Gap/",
-    "sourceTitle": "FVG 統計表：回補事件的百分比不是交易勝率",
-    "titleZh": "FVG 統計表：回補事件的百分比不是交易勝率",
-    "titleCoverage": "existing-label",
-    "status": "excerpt-summary",
-    "summaryZh": "作者列出觸及、中線、完整回補及反轉後事件，並明示統計表只是描述圖上缺口行為，不是勝率。",
-    "readScope": "已讀公開腳本說明與統計欄位；沒有執行、審計或核發其非重繪聲明。",
-    "checked": "2026-10-29",
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "article-source",
-        "id": "ict-event-rates",
-        "index": 0
-      },
-      {
-        "kind": "community",
-        "id": "tv-fvg-descriptive-stats"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Stable_Logic"
-    ],
-    "existingExcerpt": {
-      "summaryZh": "作者列出觸及、中線、完整回補及反轉後事件，並明示統計表只是描述圖上缺口行為，不是勝率。",
-      "readScope": "已讀公開腳本說明與統計欄位；沒有執行、審計或核發其非重繪聲明。",
-      "checked": "2026-10-29",
-      "translationScope": "短句翻譯與摘要；屬作者自己的 ICT 風格實作，不是 ICT 原課翻譯。",
-      "cardId": "tv-fvg-descriptive-stats"
-    },
-    "published": null,
-    "dateNoteZh": "頁面只顯示相對時間；確切發布日未核對。"
   }
 ]

@@ -1,5 +1,27 @@
 [
   {
+    "id": "7617723e1383ccddcae1",
+    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-08a-candles-setups-signal-bars/",
+    "sourceTitle": "K 棒與訊號",
+    "titleZh": "K 棒與訊號",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "K 棒與訊號"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "7636ddbd4116a1eeaa9e",
     "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-want-close-above-june-high/",
     "sourceTitle": "Emini bulls want close above June high today",
@@ -3143,27 +3165,5 @@
     "authors": [
       "Brad Wolff"
     ]
-  },
-  {
-    "id": "81f291a737dd3e2ef005",
-    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-01-terminology/",
-    "sourceTitle": "術語",
-    "titleZh": "術語",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "術語"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   }
 ]

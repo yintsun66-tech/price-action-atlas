@@ -1,5 +1,38 @@
 [
   {
+    "id": "eab60a8074b96b610d6e",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-sideways-at-resistance/",
+    "sourceTitle": "Emini Sideways at Resistance",
+    "titleZh": "Brad 日內案例｜2023-12-05｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-195357"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-195357"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-195357",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "ead3f57e8e6da148022a",
     "url": "https://www.youtube.com/watch?v=RkR9gnoEZHg",
     "sourceTitle": "Emini End of Day Review - Tuesday, July 15, 2025 - Brad Wolff",
@@ -3164,27 +3197,5 @@
     "authors": [
       "Brad Wolff"
     ]
-  },
-  {
-    "id": "f673e74e660783e110ec",
-    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-14c-trends/",
-    "sourceTitle": "趨勢",
-    "titleZh": "趨勢",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "趨勢"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   }
 ]

@@ -1,13 +1,13 @@
 {
-  "version": "1.13.0",
-  "released": "2026-11-13",
+  "version": "1.14.0",
+  "released": "2026-11-14",
   "timezone": "Asia/Taipei",
   "repository": "https://github.com/yintsun66-tech/price-action-atlas",
   "site": "https://yintsun66-tech.github.io/price-action-atlas/",
-  "contentEdition": "20261113c37",
+  "contentEdition": "20261114c38",
   "notes": [
-    "三篇補同資料表圖、反例與答案；深度編排19/62、主線16/18，前五階段各三篇已附例題。",
-    "同六筆合成成交畫出3筆棒與十分鐘棒，分清筆數、量、經過時間與OHLC；原76圖保留，總圖77。",
-    "新增TradingView tick圖正文繁中摘要，明列起始時間戳、換盤與功能限制；54來源卡、2389英文網址、54正文及33選段摘要。"
+    "補齊勝率不確定性與研究登記兩篇主線；21/62深度編排、18/18主線，六階段各3/3附例題。",
+    "新增同樣70%卻不同精確度的Wilson區間圖；原77圖、62篇正文、英文與歷史來源日期保留，總圖78。",
+    "新讀NIST有限多重比較正文並作繁中摘要；55來源卡、2390英文網址、55正文與33選段摘要。研究紀錄不是PBO實作，全文翻譯仍待續。"
   ]
 }

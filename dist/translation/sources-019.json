@@ -1,5 +1,32 @@
 [
   {
+    "id": "c5655f9350e0c3849b54",
+    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-15f-breakouts/",
+    "sourceTitle": "突破：突破失敗後的延續或反轉",
+    "titleZh": "突破：突破失敗後的延續或反轉",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-reference",
+        "id": "bp2-failed-breakout",
+        "unit": "15F"
+      },
+      {
+        "kind": "course-index",
+        "id": "突破"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "c57debf5679d68aae84a",
     "url": "https://www.brookstradingcourse.com/analysis/emini-breakout-double-top-neckline/",
     "sourceTitle": "Emini bears want breakout below double top neckline",
@@ -3138,39 +3165,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-221124",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "d2327039448795c32d07",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-sideways-likely-after-high-1/",
-    "sourceTitle": "Emini Sideways Likely after High 1",
-    "titleZh": "Brad 日內案例｜2024-02-02｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-199451"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-199451"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-199451",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

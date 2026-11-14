@@ -1,5 +1,38 @@
 [
   {
+    "id": "03ef6f723b816cc33866",
+    "url": "https://www.brookstradingcourse.com/analysis/e-mini-follow-through-selling-on-daily/",
+    "sourceTitle": "E-Mini Follow-Through Selling on Daily",
+    "titleZh": "Brad 日內案例｜2025-08-20｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-247863"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-247863"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-247863",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "040f0d8f5662cb77fa7b",
     "url": "https://www.quantsystems.ca/course/sa2",
     "sourceTitle": "Systems Academy 2",
@@ -3109,28 +3142,5 @@
     "authors": [
       "Brad Wolff"
     ]
-  },
-  {
-    "id": "1019ccbc7cdd5eff5e8d",
-    "url": "https://www.trustpilot.com/review/www.smbtraining.com",
-    "sourceTitle": "Trustpilot：SMB Capital／smbtraining.com（評論來源）",
-    "titleZh": "Trustpilot：SMB Capital／smbtraining.com（評論來源）",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "discovery-review",
-        "id": "smb-capital",
-        "index": 0
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   }
 ]

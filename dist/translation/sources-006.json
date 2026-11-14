@@ -1,5 +1,38 @@
 [
   {
+    "id": "3396f371d6813903a882",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-weak-high-1-buy-signal-bar-4/",
+    "sourceTitle": "Emini Weak High 1 Buy Signal Bar",
+    "titleZh": "Brad 日內案例｜2024-10-01｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-219542"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-219542"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-219542",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "33b2ec745f8f76d1e800",
     "url": "https://www.brookstradingcourse.com/analysis/failed-breakout-below-wedge-bottom/",
     "sourceTitle": "Emini bulls want failed breakout below wedge bottom",
@@ -3158,39 +3191,6 @@
     "reviews": [],
     "courseRefs": [],
     "titleNote": "",
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "3e3497df9aa440c2c804",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-bears-2nd-leg-down/",
-    "sourceTitle": "Emini Bears Getting 2nd Leg Down",
-    "titleZh": "Brad 日內案例｜2023-08-25｜回檔與第二段",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-187599"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-187599"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-187599",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
     "authors": [
       "Brad Wolff"
     ]

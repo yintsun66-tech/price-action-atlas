@@ -1,5 +1,38 @@
 [
   {
+    "id": "6c6e66d0d9025af2d278",
+    "url": "https://www.youtube.com/watch?v=eNEoizcvdMI",
+    "sourceTitle": "Al Brooks on how long before profitable",
+    "titleZh": "Brooks 共享影片｜風險與退出",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "yt-eNEoizcvdMI"
+      }
+    ],
+    "resourceIds": [
+      "yt-eNEoizcvdMI"
+    ],
+    "legacyObservations": [
+      {
+        "id": "yt-eNEoizcvdMI",
+        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brooks 團隊（講者未逐支確認）"
+    ]
+  },
+  {
     "id": "6cb12ac5189604eee257",
     "url": "https://www.youtube.com/watch?v=aHTPS6bjl4o",
     "sourceTitle": "Emini End of Day Review - Monday October 31, 2022",
@@ -3044,27 +3077,5 @@
     "authors": [
       "Brad Wolff"
     ]
-  },
-  {
-    "id": "7617723e1383ccddcae1",
-    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-08a-candles-setups-signal-bars/",
-    "sourceTitle": "K 棒與訊號",
-    "titleZh": "K 棒與訊號",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "course-index",
-        "id": "K 棒與訊號"
-      }
-    ],
-    "resourceIds": [],
-    "legacyObservations": [],
-    "reviews": [],
-    "courseRefs": []
   }
 ]

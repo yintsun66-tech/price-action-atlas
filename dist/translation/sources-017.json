@@ -1,5 +1,38 @@
 [
   {
+    "id": "b004c6e3e211e4becfd4",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-testing-moving-average-2/",
+    "sourceTitle": "Emini Testing Moving Average",
+    "titleZh": "Brad 日內案例｜2024-05-24｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-208993"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-208993"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-208993",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "b0123ea8c8f62d1a0840",
     "url": "https://www.brookstradingcourse.com/trade-price-action/video-47d-trading-in-trading-ranges/",
     "sourceTitle": "區間交易",
@@ -3154,39 +3187,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-246623",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "baedc242668c452e67ea",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-weak-high-1-buy-signal-bar-8/",
-    "sourceTitle": "Emini Weak High 1 Buy Signal Bar",
-    "titleZh": "Brad 日內案例｜2025-07-09｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-243677"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-243677"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-243677",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

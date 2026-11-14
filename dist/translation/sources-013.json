@@ -1,5 +1,27 @@
 [
   {
+    "id": "81f291a737dd3e2ef005",
+    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-01-terminology/",
+    "sourceTitle": "術語",
+    "titleZh": "術語",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "術語"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "82072fd44cef24fd0b0f",
     "url": "https://www.brookstradingcourse.com/analysis/emini-bulls-second-leg-up/",
     "sourceTitle": "Emini Bulls Second Leg Up to May 1st Wanted",
@@ -3178,39 +3200,6 @@
     "courseRefs": [],
     "authors": [
       "Brad Wolff"
-    ]
-  },
-  {
-    "id": "8ea1c213366f884ce26b",
-    "url": "https://www.youtube.com/watch?v=jCtjOCyIPhU",
-    "sourceTitle": "The SA2 Experience Roundtable - Part 2",
-    "titleZh": "Systems Academy 圓桌訪談 2",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "yt-jCtjOCyIPhU"
-      }
-    ],
-    "resourceIds": [
-      "yt-jCtjOCyIPhU"
-    ],
-    "legacyObservations": [
-      {
-        "id": "yt-jCtjOCyIPhU",
-        "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Ali／Quant Systems 頻道"
     ]
   }
 ]

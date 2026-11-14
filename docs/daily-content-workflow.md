@@ -1,5 +1,7 @@
 # Price Action Atlas 每日內容更新
 
+**第三十八批（2026-11-14）：**補齊勝率不確定性與研究登記兩篇主線，新增同勝率區間圖及NIST多重比較正文摘要。build-content-batch38.cjs → 翻譯清單 → 中文呈現 → 可讀性；作者reading-guides-batch38.json、zh-core-source-reviews-31.json。編排21/62、主線18/18，六階段各3/3；55來源卡、78圖，41篇深度編排及其餘來源待續。詳見[content-batch38.md](content-batch38.md)。
+
 **第三十七批（2026-11-13）：**同六筆切棒雙圖、流派資料需求與事前事後日誌三篇主線；新增TradingView tick圖正文摘要。build-content-batch37.cjs → 翻譯清單 → 中文呈現 → 可讀性；作者reading-guides-batch37.json、zh-core-source-reviews-30.json。編排19/62、主線16/18，前五階段各3/3，54來源卡、77圖。詳見[content-batch37.md](content-batch37.md)。
 
 **第三十六批（2026-11-12）：**校讀候選期限、停損執行、契約時鐘三篇主線，整理 Sierra 官方本機管理選段。build-content-batch36.cjs → 翻譯清單 → 中文呈現 → 可讀性；作者 reading-guides-batch36.json、zh-core-source-reviews-29.json。深度編排16/62、主線13/18，前四階段各3/3；53張來源卡、76圖。範圍及未採用見[content-batch36.md](content-batch36.md)。

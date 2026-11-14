@@ -1,5 +1,38 @@
 [
   {
+    "id": "2813278bde0d29a7e1a4",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-test-of-4600/",
+    "sourceTitle": "Emini Bulls Hopeful for Test of 4,600",
+    "titleZh": "Brad 日內案例｜2023-08-09｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-185324"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-185324"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-185324",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "281f3d7a0967f82a570c",
     "url": "https://www.brookstradingcourse.com/analysis/emini-follow-through-for-test/",
     "sourceTitle": "Emini bulls need strong follow-through for test of 4,200",
@@ -3210,39 +3243,6 @@
     "legacyObservations": [
       {
         "id": "brad-post-212879",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "3396f371d6813903a882",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-weak-high-1-buy-signal-bar-4/",
-    "sourceTitle": "Emini Weak High 1 Buy Signal Bar",
-    "titleZh": "Brad 日內案例｜2024-10-01｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-219542"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-219542"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-219542",
         "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }

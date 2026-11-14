@@ -1,5 +1,38 @@
 [
   {
+    "id": "d2327039448795c32d07",
+    "url": "https://www.brookstradingcourse.com/analysis/emini-sideways-likely-after-high-1/",
+    "sourceTitle": "Emini Sideways Likely after High 1",
+    "titleZh": "Brad 日內案例｜2024-02-02｜行情觀察與決策",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "resource",
+        "id": "brad-post-199451"
+      }
+    ],
+    "resourceIds": [
+      "brad-post-199451"
+    ],
+    "legacyObservations": [
+      {
+        "id": "brad-post-199451",
+        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
+        "checked": "2026-10-22"
+      }
+    ],
+    "reviews": [],
+    "courseRefs": [],
+    "authors": [
+      "Brad Wolff"
+    ]
+  },
+  {
     "id": "d250085aa9adb35f5778",
     "url": "https://www.brookstradingcourse.com/analysis/emini-stalling-under-important-resistance/",
     "sourceTitle": "Emini Stalling Under Important Resistance",
@@ -3134,39 +3167,6 @@
       {
         "id": "yt-diWfYWqLDS8",
         "scope": "官方頻道／片單公開標題與片長已核對；未逐支完整觀看",
-        "checked": "2026-10-22"
-      }
-    ],
-    "reviews": [],
-    "courseRefs": [],
-    "authors": [
-      "Brad Wolff"
-    ]
-  },
-  {
-    "id": "dd4af5748b0a1791c6ef",
-    "url": "https://www.brookstradingcourse.com/analysis/emini-sideways-likely-3/",
-    "sourceTitle": "Emini Sideways Likely",
-    "titleZh": "Brad 日內案例｜2024-02-15｜行情觀察與決策",
-    "titleCoverage": "existing-label",
-    "status": "pending",
-    "summaryZh": "",
-    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
-    "checked": null,
-    "inventoried": "2026-10-30",
-    "locations": [
-      {
-        "kind": "resource",
-        "id": "brad-post-200387"
-      }
-    ],
-    "resourceIds": [
-      "brad-post-200387"
-    ],
-    "legacyObservations": [
-      {
-        "id": "brad-post-200387",
-        "scope": "官方作者目錄標題與日期已核對；正文未逐篇精讀",
         "checked": "2026-10-22"
       }
     ],

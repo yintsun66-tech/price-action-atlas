@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "checked": "2026-11-13",
+  "checked": "2026-11-14",
   "original": true,
   "figures": [
     {
@@ -925,6 +925,18 @@
       "afterSection": 0,
       "caption": "本站完整六筆合成成交，分為3筆棒與08:45起十分鐘棒；橫軸僅棒序，不等比例時間。3筆不是平台可選設定或作者策略。",
       "alt": "同六筆成交，3筆棒第一根收99、十分鐘第一根收102；數量10與14，分組不同。",
+      "synthetic": true
+    },
+    {
+      "id": "wilson-same-rate",
+      "article": "pa3-winrate-uncertainty",
+      "title": "同樣70%，區間不一樣寬",
+      "src": "images/study/wilson-same-rate.svg",
+      "width": 960,
+      "height": 640,
+      "afterSection": 0,
+      "caption": "本站虛構14/20及140/200，雙側95% Wilson區間。獨立同分布近似、分母及成本限制仍須另外核對；不是市場勝率實證。",
+      "alt": "兩組70%觀察比例；小樣本區間48.1%到85.5%，大樣本63.3%到75.9%。",
       "synthetic": true
     }
   ]

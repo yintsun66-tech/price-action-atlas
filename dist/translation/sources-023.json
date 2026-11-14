@@ -1,5 +1,27 @@
 [
   {
+    "id": "f673e74e660783e110ec",
+    "url": "https://www.brookstradingcourse.com/price-action-fundamentals/video-14c-trends/",
+    "sourceTitle": "趨勢",
+    "titleZh": "趨勢",
+    "titleCoverage": "existing-label",
+    "status": "pending",
+    "summaryZh": "",
+    "readScope": "尚未讀取本來源內容；既有索引或學習方向不等於內容摘要。",
+    "checked": null,
+    "inventoried": "2026-10-30",
+    "locations": [
+      {
+        "kind": "course-index",
+        "id": "趨勢"
+      }
+    ],
+    "resourceIds": [],
+    "legacyObservations": [],
+    "reviews": [],
+    "courseRefs": []
+  },
+  {
     "id": "f692c62543c7ab2096f7",
     "url": "https://www.youtube.com/watch?v=TKCXvRxul-0",
     "sourceTitle": "Emini End of Day Review - Tuesday, August 26, 2025 - Brad Wolff",
