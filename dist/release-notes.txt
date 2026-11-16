@@ -1,5 +1,5 @@
-Price Action Atlas v1.15.0 — 2026-11-14
+Price Action Atlas v1.15.1 — 2026-11-16
 
-- 補齊吸收與DOM兩篇訂單流的事件表、反例與練習解答
+- 修正DOM例題數量單位，避免把未指定商品的數量誤稱期貨口數
 
 網站：https://yintsun66-tech.github.io/price-action-atlas/

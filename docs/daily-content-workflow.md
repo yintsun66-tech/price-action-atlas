@@ -1,5 +1,7 @@
 # Price Action Atlas 每日內容更新
 
+**2026-11-16 v1.15.1：**修正DOM例題的數量單位；最新生成器build-unit-correction.cjs，編排仍23/62。詳見[單位修正紀錄](unit-correction-20261116.md)。
+
 **2026-11-14 第三十九批：**訂單流吸收與DOM兩篇補事件表、反例與答案；23/62深度編排，39篇待續，主線18/18。最新生成器build-content-batch39.cjs。重讀兩個既有英文來源，不增加摘要或全文完成數；詳見[content-batch39.md](content-batch39.md)。
 
 **第三十八批（2026-11-14）：**補齊勝率不確定性與研究登記兩篇主線，新增同勝率區間圖及NIST多重比較正文摘要。build-content-batch38.cjs → 翻譯清單 → 中文呈現 → 可讀性；作者reading-guides-batch38.json、zh-core-source-reviews-31.json。編排21/62、主線18/18，六階段各3/3；55來源卡、78圖，41篇深度編排及其餘來源待續。詳見[content-batch38.md](content-batch38.md)。
