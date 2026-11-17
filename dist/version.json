@@ -1,11 +1,11 @@
 {
-  "version": "1.15.1",
-  "released": "2026-11-16",
+  "version": "1.16.0",
+  "released": "2026-11-17",
   "timezone": "Asia/Taipei",
   "repository": "https://github.com/yintsun66-tech/price-action-atlas",
   "site": "https://yintsun66-tech.github.io/price-action-atlas/",
-  "contentEdition": "20261116units",
+  "contentEdition": "20261117c40",
   "notes": [
-    "修正DOM例題數量單位，避免把未指定商品的數量誤稱期貨口數"
+    "補齊條件機率導讀的分類表、反例與解答，明示分母及資料界線"
   ]
 }

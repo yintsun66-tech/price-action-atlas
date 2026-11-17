@@ -1,5 +1,7 @@
 # 教材易讀性與每日校讀
 
+**2026-11-17 第四十批：**條件機率補分類表與解答，24/62深度編排、38篇待續。最新生成器build-content-batch40.cjs；詳見[content-batch40.md](content-batch40.md)。
+
 **2026-11-16 v1.15.1：**修正DOM例題的數量單位；最新生成器build-unit-correction.cjs，編排仍23/62。詳見[單位修正紀錄](unit-correction-20261116.md)。
 
 **2026-11-14 第三十九批：**訂單流吸收與DOM兩篇補事件表、反例與答案；23/62深度編排，39篇待續，主線18/18。最新生成器build-content-batch39.cjs。重讀兩個既有英文來源，不增加摘要或全文完成數；詳見[content-batch39.md](content-batch39.md)。

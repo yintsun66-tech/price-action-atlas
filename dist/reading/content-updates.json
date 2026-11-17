@@ -2,6 +2,26 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch40-20261117",
+      "collected": "2026-11-17",
+      "updated": "2026-11-17",
+      "timezone": "Asia/Taipei",
+      "description": "條件機率導讀補齊同數字分類表、反例及解答。",
+      "articles": [],
+      "referencedArticles": [
+        "pa3-bayes-evidence"
+      ],
+      "sources": [
+        "https://www.3blue1brown.com/lessons/bayes-theorem/"
+      ],
+      "notes": [
+        "24/62深度編排，38篇待續；主線18/18、62原文章與78圖保留。",
+        "重讀3Blue1Brown的Thinking about a sample與Building a formula公開文字；不宣稱看過影片、讀完整頁或新增全文翻譯。",
+        "100個候選與18／32、18／30為本站原有合成例；新增二元分類前提及未決、缺資料界線。",
+        "既有來源不重複收錄，無新增Brooks課程主張；詳見docs/content-batch40.md。"
+      ]
+    },
+    {
       "id": "unit-correction-20261116",
       "collected": "2026-11-16",
       "updated": "2026-11-16",
