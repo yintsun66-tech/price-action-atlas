@@ -1,11 +1,11 @@
 {
-  "version": "1.16.0",
-  "released": "2026-11-17",
+  "version": "1.17.0",
+  "released": "2026-11-19",
   "timezone": "Asia/Taipei",
   "repository": "https://github.com/yintsun66-tech/price-action-atlas",
   "site": "https://yintsun66-tech.github.io/price-action-atlas/",
-  "contentEdition": "20261117c40",
+  "contentEdition": "20261119c41",
   "notes": [
-    "補齊條件機率導讀的分類表、反例與解答，明示分母及資料界線"
+    "努力與結果補同尺度比較表、反例與自測解答"
   ]
 }

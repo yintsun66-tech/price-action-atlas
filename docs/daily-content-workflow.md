@@ -1,5 +1,7 @@
 # Price Action Atlas 每日內容更新
 
+**2026-11-19 第四十一批：**努力與結果補同尺度比較表、反例與解答，25/62深度編排、37篇待續；最新生成器build-content-batch41.cjs。詳見[content-batch41.md](content-batch41.md)。
+
 **2026-11-17 第四十批：**條件機率補分類表與解答，24/62深度編排、38篇待續。最新生成器build-content-batch40.cjs；詳見[content-batch40.md](content-batch40.md)。
 
 **2026-11-16 v1.15.1：**修正DOM例題的數量單位；最新生成器build-unit-correction.cjs，編排仍23/62。詳見[單位修正紀錄](unit-correction-20261116.md)。

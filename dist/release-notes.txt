@@ -1,5 +1,5 @@
-Price Action Atlas v1.16.0 — 2026-11-17
+Price Action Atlas v1.17.0 — 2026-11-19
 
-- 補齊條件機率導讀的分類表、反例與解答，明示分母及資料界線
+- 努力與結果補同尺度比較表、反例與自測解答
 
 網站：https://yintsun66-tech.github.io/price-action-atlas/

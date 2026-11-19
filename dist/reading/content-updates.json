@@ -2,6 +2,26 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch41-20261119",
+      "collected": "2026-11-19",
+      "updated": "2026-11-19",
+      "timezone": "Asia/Taipei",
+      "description": "努力與結果補同尺度比較表、反例與解答。",
+      "articles": [],
+      "referencedArticles": [
+        "wyckoff-effort"
+      ],
+      "sources": [
+        "https://articles.stockcharts.com/article/articles-wyckoff-2015-12-the-illustrated-wyckoff/"
+      ],
+      "notes": [
+        "25/62深度編排、37篇待續；62原文章與78圖保留。",
+        "重讀Bruce Fraser公開文章的努力與結果段落；不增加全文翻譯完成數。",
+        "沿用6000單位、100→106與100→101合成例，總量不能推出Delta或機構意圖。",
+        "Sierra公開答覆380954已讀但暫不收錄，詳見docs/content-batch41.md。"
+      ]
+    },
+    {
       "id": "content-batch40-20261117",
       "collected": "2026-11-17",
       "updated": "2026-11-17",
