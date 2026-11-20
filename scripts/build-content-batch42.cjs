@@ -1,0 +1,8 @@
+require('./build-content-batch41.cjs');
+const fs=require('node:fs'),path=require('node:path'),dist=path.join(__dirname,'../dist');
+const file=path.join(dist,'reading/content-updates.json'),log=JSON.parse(fs.readFileSync(file,'utf8'));
+const entry={"id":"content-batch42-20261121","collected":"2026-11-21","updated":"2026-11-21","timezone":"Asia/Taipei","description":"Spring候選事件補時點表、反例與解答，修正圖軸文字重疊。","articles":[],"referencedArticles":["wyckoff-spring"],"sources":["https://chartschool.stockcharts.com/table-of-contents/market-analysis/wyckoff-analysis-articles/the-wyckoff-method-a-tutorial"],"notes":["26/62深度編排、36篇待續；62原文章、78圖及筆記鍵保持。","重讀ChartSchool的Spring／Test／SOS／LPS相關公開文字，來源摘要及全文完成數不增加。","觀察順序不冒充K棒編號；98低點與102收盤屬同一例題事件。","圖軸說明由434移至454，價格路徑與數字不變；詳見docs/content-batch42.md。"]};log.batches=[entry,...log.batches.filter(x=>x.id!==entry.id)];fs.writeFileSync(file,JSON.stringify(log,null,2)+'\n');
+const cf=path.join(dist,'reading/community.json'),c=JSON.parse(fs.readFileSync(cf,'utf8'));c.intro={"heading":"返回區間，只是現在知道的一件事。","text":"Spring候選事件補時點表、反例與解答，修正原圖軸標籤重疊。深度編排26/62，36篇待續；後續確認與當時資訊分開。","links":[{"id":"wyckoff-spring","label":"100、98、102各自代表什麼"},{"id":"wyckoff-effort","label":"量能與結果的比較尺"}]};fs.writeFileSync(cf,JSON.stringify(c,null,2)+'\n');
+const hf=path.join(dist,'index.html');fs.writeFileSync(hf,fs.readFileSync(hf,'utf8').replace(/<!-- COMMUNITY_LIBRARY_START -->[\s\S]*?<!-- COMMUNITY_LIBRARY_END -->/,require('./render-community.cjs')(c,JSON.parse(fs.readFileSync(path.join(dist,'reading/index.json'),'utf8')))));
+
+const sf=path.join(dist,"images/study/wyckoff-spring-path.svg");fs.writeFileSync(sf,fs.readFileSync(sf,"utf8").replace('<text x="85" y="434"','<text x="85" y="454"'));

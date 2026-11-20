@@ -1,12 +1,12 @@
 {
-  "version": "1.17.0",
-  "released": "2026-11-19",
+  "version": "1.18.0",
+  "released": "2026-11-21",
   "timezone": "Asia/Taipei",
   "repository": "https://github.com/yintsun66-tech/price-action-atlas",
   "site": "https://yintsun66-tech.github.io/price-action-atlas/",
-  "contentEdition": "20261119c41",
-  "contentBuild": "scripts/build-content-batch41.cjs",
+  "contentEdition": "20261121c42",
+  "contentBuild": "scripts/build-content-batch42.cjs",
   "notes": [
-    "努力與結果補同尺度比較表、反例與自測解答"
+    "Spring候選補時點表與解答，修正圖軸文字重疊"
   ]
 }

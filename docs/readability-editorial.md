@@ -1,5 +1,7 @@
 # 教材易讀性與每日校讀
 
+**2026-11-21 第四十二批：**Spring候選補時點表與解答、修正圖軸文字重疊；26/62深度編排、36篇待續。最新生成器build-content-batch42.cjs；詳見[content-batch42.md](content-batch42.md)。
+
 **2026-11-19 第四十一批：**努力與結果補同尺度比較表、反例與解答，25/62深度編排、37篇待續；最新生成器build-content-batch41.cjs。詳見[content-batch41.md](content-batch41.md)。
 
 **2026-11-17 第四十批：**條件機率補分類表與解答，24/62深度編排、38篇待續。最新生成器build-content-batch40.cjs；詳見[content-batch40.md](content-batch40.md)。

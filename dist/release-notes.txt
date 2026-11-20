@@ -1,5 +1,5 @@
-Price Action Atlas v1.17.0 — 2026-11-19
+Price Action Atlas v1.18.0 — 2026-11-21
 
-- 努力與結果補同尺度比較表、反例與自測解答
+- Spring候選補時點表與解答，修正圖軸文字重疊
 
 網站：https://yintsun66-tech.github.io/price-action-atlas/

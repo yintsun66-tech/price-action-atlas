@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-21",
   "scope": "原創例題、反例、答案與對應圖的編排；不是外部來源全文校勘、使用者閱讀進度或策略驗證。",
   "total": 62,
   "reviewed": [
@@ -27,7 +27,8 @@
     "flow-depth",
     "flow-absorption",
     "pa3-bayes-evidence",
-    "wyckoff-effort"
+    "wyckoff-effort",
+    "wyckoff-spring"
   ],
   "pending": [
     "licensed-measured-move",
@@ -41,7 +42,6 @@
     "school4-comparison",
     "school-same-chart",
     "wyckoff-cycle",
-    "wyckoff-spring",
     "ict-structure",
     "ict-liquidity",
     "pa3-podcast-to-hypothesis",
