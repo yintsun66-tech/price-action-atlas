@@ -1,5 +1,5 @@
-Price Action Atlas v1.20.0 — 2026-11-21
+Price Action Atlas v1.21.0 — 2026-11-21
 
-- 時間退出新增計時比較、成交練習與門檻校訂
+- 固定目標與追蹤停損新增對照、成交假設與自測
 
 網站：https://yintsun66-tech.github.io/price-action-atlas/

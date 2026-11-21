@@ -1,12 +1,12 @@
 {
-  "version": "1.20.0",
+  "version": "1.21.0",
   "released": "2026-11-21",
   "timezone": "Asia/Taipei",
   "repository": "https://github.com/yintsun66-tech/price-action-atlas",
   "site": "https://yintsun66-tech.github.io/price-action-atlas/",
-  "contentEdition": "20261121c44",
-  "contentBuild": "scripts/build-content-batch44.cjs",
+  "contentEdition": "20261121c45",
+  "contentBuild": "scripts/build-content-batch45.cjs",
   "notes": [
-    "時間退出新增計時比較、成交練習與門檻校訂"
+    "固定目標與追蹤停損新增對照、成交假設與自測"
   ]
 }

@@ -2,6 +2,25 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch45-20261121",
+      "collected": "2026-11-21",
+      "updated": "2026-11-21",
+      "timezone": "Asia/Taipei",
+      "description": "固定目標與追蹤停損新增同進場對照及更新時點練習。",
+      "articles": [],
+      "referencedArticles": [
+        "pp2-target-trailing"
+      ],
+      "sources": [
+        "https://www.adamhgrimes.com/trailing-stops-9-ideas-you-can-use-today/"
+      ],
+      "notes": [
+        "29／62 篇深度編排，33 篇待續。",
+        "沿用原圖，明示 108 與 107 為合成成交價。",
+        "複讀既有英文作者正文。Sierra Chart 候選原頁擷取失敗，詳見 docs/content-batch45.md。"
+      ]
+    },
+    {
       "id": "content-batch44-20261121",
       "collected": "2026-11-21",
       "updated": "2026-11-21",
