@@ -1,5 +1,7 @@
 # Price Action Atlas 每日內容更新
 
+**2026-11-21 第四十四批：**時間退出補齊圖文比較與解答，28／62 篇深度編排。詳見 [content-batch44.md](content-batch44.md)。
+
 **2026-11-21 第四十三批：**棒內雙觸價新增比較與自測，27／62 篇深度編排。詳見 [content-batch43.md](content-batch43.md)。
 
 **2026-11-21 第四十二批：**Spring候選補時點表與解答、修正圖軸文字重疊；26/62深度編排、36篇待續。最新生成器build-content-batch42.cjs；詳見[content-batch42.md](content-batch42.md)。

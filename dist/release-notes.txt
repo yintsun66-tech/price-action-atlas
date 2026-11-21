@@ -1,5 +1,5 @@
-Price Action Atlas v1.19.0 — 2026-11-21
+Price Action Atlas v1.20.0 — 2026-11-21
 
-- 棒內雙觸價新增順序比較、持倉反例與自測
+- 時間退出新增計時比較、成交練習與門檻校訂
 
 網站：https://yintsun66-tech.github.io/price-action-atlas/

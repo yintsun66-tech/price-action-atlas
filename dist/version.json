@@ -1,11 +1,11 @@
 {
-  "version": "1.19.0",
+  "version": "1.20.0",
   "released": "2026-11-21",
   "timezone": "Asia/Taipei",
   "repository": "https://github.com/yintsun66-tech/price-action-atlas",
   "site": "https://yintsun66-tech.github.io/price-action-atlas/",
-  "contentEdition": "20261121c43",
+  "contentEdition": "20261121c44",
   "notes": [
-    "棒內雙觸價新增順序比較、持倉反例與自測"
+    "時間退出新增計時比較、成交練習與門檻校訂"
   ]
 }

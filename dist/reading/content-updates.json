@@ -2,6 +2,25 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch44-20261121",
+      "collected": "2026-11-21",
+      "updated": "2026-11-21",
+      "timezone": "Asia/Taipei",
+      "description": "時間退出教材補齊計時、門檻與成交例題。",
+      "articles": [],
+      "referencedArticles": [
+        "pp2-time-exit"
+      ],
+      "sources": [
+        "https://www.adamhgrimes.com/a-few-trading-rules/"
+      ],
+      "notes": [
+        "28／62 篇完成深度編排，34 篇待續。",
+        "明定恰好收 102 達進展門檻，等於 99.5 則不符合本例的早退條件。",
+        "英文作者原文複核、公開社群略過理由與 PTT 取得失敗見 docs/content-batch44.md。"
+      ]
+    },
+    {
       "id": "content-batch43-20261121",
       "collected": "2026-11-21",
       "updated": "2026-11-21",

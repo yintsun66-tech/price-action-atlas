@@ -29,7 +29,8 @@
     "pa3-bayes-evidence",
     "wyckoff-effort",
     "wyckoff-spring",
-    "pp2-intrabar-path"
+    "pp2-intrabar-path",
+    "pp2-time-exit"
   ],
   "pending": [
     "licensed-measured-move",
@@ -51,7 +52,6 @@
     "bp2-failed-breakout",
     "bp2-reversal-evidence",
     "pp2-target-trailing",
-    "pp2-time-exit",
     "licensed-support-resistance",
     "brooks-breakout-test",
     "brooks-pullback-language",
