@@ -28,7 +28,8 @@
     "flow-absorption",
     "pa3-bayes-evidence",
     "wyckoff-effort",
-    "wyckoff-spring"
+    "wyckoff-spring",
+    "pp2-intrabar-path"
   ],
   "pending": [
     "licensed-measured-move",
@@ -51,7 +52,6 @@
     "bp2-reversal-evidence",
     "pp2-target-trailing",
     "pp2-time-exit",
-    "pp2-intrabar-path",
     "licensed-support-resistance",
     "brooks-breakout-test",
     "brooks-pullback-language",

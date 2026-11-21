@@ -1,5 +1,5 @@
-Price Action Atlas v1.18.0 — 2026-11-21
+Price Action Atlas v1.19.0 — 2026-11-21
 
-- Spring候選補時點表與解答，修正圖軸文字重疊
+- 棒內雙觸價新增順序比較、持倉反例與自測
 
 網站：https://yintsun66-tech.github.io/price-action-atlas/

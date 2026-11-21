@@ -2,6 +2,25 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch43-20261121",
+      "collected": "2026-11-21",
+      "updated": "2026-11-21",
+      "timezone": "Asia/Taipei",
+      "description": "棒內雙觸價教材新增順序對照表、持倉反例與自測。",
+      "articles": [],
+      "referencedArticles": [
+        "pp2-intrabar-path"
+      ],
+      "sources": [
+        "https://www.tradingview.com/support/solutions/43000669285-what-is-bar-magnifier-backtesting-mode/"
+      ],
+      "notes": [
+        "27/62 篇深度編排，35 篇待續。",
+        "重讀 TradingView 官方公開說明的低週期對照、進出場示例與資料上限。原案例與原圖價位沿用。",
+        "已有來源直接複核，無新增來源卡。詳見 docs/content-batch43.md。"
+      ]
+    },
+    {
       "id": "content-batch42-20261121",
       "collected": "2026-11-21",
       "updated": "2026-11-21",

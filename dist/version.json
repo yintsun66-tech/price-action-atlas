@@ -1,11 +1,11 @@
 {
-  "version": "1.18.0",
+  "version": "1.19.0",
   "released": "2026-11-21",
   "timezone": "Asia/Taipei",
   "repository": "https://github.com/yintsun66-tech/price-action-atlas",
   "site": "https://yintsun66-tech.github.io/price-action-atlas/",
-  "contentEdition": "20261121c42",
+  "contentEdition": "20261121c43",
   "notes": [
-    "Spring候選補時點表與解答，修正圖軸文字重疊"
+    "棒內雙觸價新增順序比較、持倉反例與自測"
   ]
 }
