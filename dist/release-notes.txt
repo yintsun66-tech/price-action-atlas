@@ -1,5 +1,5 @@
-Price Action Atlas v1.21.0 — 2026-11-21
+Price Action Atlas v1.22.0 — 2026-11-22
 
-- 固定目標與追蹤停損新增對照、成交假設與自測
+- 威科夫圖式與 FVG 回補新增圖文對照、反例和自測
 
 網站：https://yintsun66-tech.github.io/price-action-atlas/

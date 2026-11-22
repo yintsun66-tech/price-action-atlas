@@ -2,6 +2,26 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch46-20261122",
+      "collected": "2026-11-22",
+      "updated": "2026-11-22",
+      "timezone": "Asia/Taipei",
+      "description": "威科夫圖式與 FVG 回補比例補圖文對照、反例及解答。",
+      "articles": [],
+      "referencedArticles": [
+        "wyckoff-template-uncertainty",
+        "ict-event-rates"
+      ],
+      "sources": [
+        "https://articles.stockcharts.com/article/articles-wyckoff-2016-01-secrets-of-point-and-figure-distribution/",
+        "https://www.tradingview.com/pine-script-docs/concepts/repainting/"
+      ],
+      "notes": [
+        "31／62 篇深度編排，31 篇待續。",
+        "沿用兩張原創圖與同組合成數字。英文實讀範圍及略過來源詳見 docs/content-batch46.md。"
+      ]
+    },
+    {
       "id": "content-batch45-20261121",
       "collected": "2026-11-21",
       "updated": "2026-11-21",

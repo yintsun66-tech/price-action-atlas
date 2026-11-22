@@ -2505,12 +2505,16 @@
     }
   ],
   "intro": {
-    "heading": "同一個進場，怎麼比較兩種出場？",
-    "text": "固定目標與追蹤停損新增對照與自測。深度編排完成 29／62 篇。",
+    "heading": "保留當時的觀察，分清比例的分母",
+    "text": "威科夫圖式與 FVG 回補新增對照與自測。深度編排完成 31／62 篇。",
     "links": [
       {
-        "id": "pp2-target-trailing",
-        "label": "重算出場價與追蹤停損"
+        "id": "wyckoff-template-uncertainty",
+        "label": "相同前五點，兩種後續"
+      },
+      {
+        "id": "ict-event-rates",
+        "label": "同三次回補，為何有不同比例"
       }
     ]
   }

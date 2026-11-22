@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "scope": "原創例題、反例、答案與對應圖的編排；不是外部來源全文校勘、使用者閱讀進度或策略驗證。",
   "total": 62,
   "reviewed": [
@@ -31,12 +31,12 @@
     "wyckoff-spring",
     "pp2-intrabar-path",
     "pp2-time-exit",
-    "pp2-target-trailing"
+    "pp2-target-trailing",
+    "wyckoff-template-uncertainty",
+    "ict-event-rates"
   ],
   "pending": [
     "licensed-measured-move",
-    "wyckoff-template-uncertainty",
-    "ict-event-rates",
     "community-failed-followthrough",
     "community-three-bar-notes",
     "licensed-trends",

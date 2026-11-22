@@ -1,5 +1,7 @@
 # Price Action Atlas 每日內容更新
 
+**2026-11-22 第四十六批：**威科夫圖式與 FVG 回補補對照及解答，31／62 篇深度編排。詳見 [content-batch46.md](content-batch46.md)。
+
 **2026-11-21 第四十五批：**固定目標與追蹤停損補對照及解答，29／62 篇深度編排。詳見 [content-batch45.md](content-batch45.md)。
 
 **2026-11-21 第四十四批：**時間退出補齊圖文比較與解答，28／62 篇深度編排。詳見 [content-batch44.md](content-batch44.md)。
