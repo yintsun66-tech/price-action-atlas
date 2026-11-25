@@ -1,12 +1,12 @@
 {
-  "version": "1.22.0",
-  "released": "2026-11-22",
+  "version": "1.22.1",
+  "released": "2026-11-25",
   "timezone": "Asia/Taipei",
   "repository": "https://github.com/yintsun66-tech/price-action-atlas",
   "site": "https://yintsun66-tech.github.io/price-action-atlas/",
-  "contentEdition": "20261122c46",
-  "contentBuild": "scripts/build-content-batch46.cjs",
+  "contentEdition": "20261125c47",
+  "contentBuild": "scripts/build-content-batch47.cjs",
   "notes": [
-    "威科夫圖式與 FVG 回補新增圖文對照、反例和自測"
+    "校正足跡圖教材的 TradingView 逐筆分類、資料涵蓋與讀圖自測"
   ]
 }

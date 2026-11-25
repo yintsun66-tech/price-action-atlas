@@ -2,6 +2,24 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch47-20261125",
+      "collected": "2026-11-25",
+      "updated": "2026-11-25",
+      "timezone": "Asia/Taipei",
+      "description": "更新足跡圖教材、來源卡及繁中摘要的 TradingView 分類說明。",
+      "articles": [],
+      "referencedArticles": [
+        "flow-footprint"
+      ],
+      "sources": [
+        "https://www.tradingview.com/support/solutions/43000726164-volume-footprint-charts-a-complete-guide/",
+        "https://www.tradingview.com/blog/en/tick-based-calculations-footprint-volume-delta-cvd-62523/"
+      ],
+      "notes": [
+        "同一張三價位原創圖新增讀圖自測。來源選讀與去重結果見 docs/content-batch47.md。"
+      ]
+    },
+    {
       "id": "content-batch46-20261122",
       "collected": "2026-11-22",
       "updated": "2026-11-22",
