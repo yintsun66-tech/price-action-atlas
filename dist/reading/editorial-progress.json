@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-27",
   "scope": "原創例題、反例、答案與對應圖的編排；不是外部來源全文校勘、使用者閱讀進度或策略驗證。",
   "total": 62,
   "reviewed": [
@@ -33,11 +33,11 @@
     "pp2-time-exit",
     "pp2-target-trailing",
     "wyckoff-template-uncertainty",
-    "ict-event-rates"
+    "ict-event-rates",
+    "community-failed-followthrough"
   ],
   "pending": [
     "licensed-measured-move",
-    "community-failed-followthrough",
     "community-three-bar-notes",
     "licensed-trends",
     "licensed-range-consolidation",

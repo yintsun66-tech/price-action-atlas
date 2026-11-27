@@ -48,7 +48,7 @@ test('通道與位置例題沿用原正文價位，而非混入另一組回放',
 test('第一階段例題覆蓋與使用者已讀不同，不寫入筆記或偷加已讀',()=>{
  const c={AtlasReadingGuideData:guides};vm.runInNewContext(read('site-maps-data.js'),c);vm.runInNewContext(read('site-maps.js'),c);
  const records={'brooks-context-first':{read:false,note:'保留筆記'}},before=JSON.stringify(records),m=c.AtlasSiteMaps.model(articles,records),html=c.AtlasSiteMaps.stageHTML(m.stages[0]);assert.equal(m.done,0);assert.ok(html.includes('本階段 3 / 3 篇附原創例題與答案'));assert.ok(html.includes('0 / 3 已讀'));assert.equal(JSON.stringify(records),before);
- const progress=JSON.parse(read('reading/editorial-progress.json'));assert.equal(progress.reviewed.length,31);assert.equal(progress.pending.length,31);assert.equal(progress.core.reviewed.length,18);assert.equal(progress.core.pending.length,0);assert.equal(new Set([...progress.reviewed,...progress.pending]).size,articles.length);
+ const progress=JSON.parse(read('reading/editorial-progress.json'));assert.equal(progress.reviewed.length,32);assert.equal(progress.pending.length,30);assert.equal(progress.core.reviewed.length,18);assert.equal(progress.core.pending.length,0);assert.equal(new Set([...progress.reviewed,...progress.pending]).size,articles.length);
 });
 test('每個例題的圖與延伸入口都可追溯至現有文章或來源卡',()=>{
  const ids=new Set(articles.map(a=>a.id)),cards=new Set(JSON.parse(read('reading/community.json')).items.map(c=>c.id));for(const [id,g]of Object.entries(guides)){assert.ok(ids.has(id));for(const r of g.related||[])assert.ok(ids.has(r.id));for(const s of g.sourceCards||[])assert.ok(cards.has(s.id));if(g.figure)assert.ok(fs.existsSync(path.join(dist,g.figure.src)));}

@@ -2,6 +2,23 @@
   "version": 1,
   "batches": [
     {
+      "id": "content-batch48-20261127",
+      "collected": "2026-11-27",
+      "updated": "2026-11-27",
+      "timezone": "Asia/Taipei",
+      "description": "突破失敗教材新增同圖四個時點的對照、缺資料反例及自測。",
+      "articles": [],
+      "referencedArticles": [
+        "community-failed-followthrough"
+      ],
+      "sources": [
+        "https://www.adamhgrimes.com/breakouts-and-breakout-failures-real-world-trading/"
+      ],
+      "notes": [
+        "32／62 篇深度編排，30 篇待續。指定範圍查核和來源取捨見 docs/content-batch48.md。"
+      ]
+    },
+    {
       "id": "content-batch47-20261125",
       "collected": "2026-11-25",
       "updated": "2026-11-25",

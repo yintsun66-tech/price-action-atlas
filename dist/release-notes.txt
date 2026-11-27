@@ -1,5 +1,5 @@
-Price Action Atlas v1.22.1 — 2026-11-25
+Price Action Atlas v1.23.0 — 2026-11-27
 
-- 校正足跡圖教材的 TradingView 逐筆分類、資料涵蓋與讀圖自測
+- 突破失敗教材新增觀察期限圖文對照、反例及自測
 
 網站：https://yintsun66-tech.github.io/price-action-atlas/

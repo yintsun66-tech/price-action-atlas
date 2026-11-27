@@ -1,11 +1,11 @@
 {
-  "version": "1.22.1",
-  "released": "2026-11-25",
+  "version": "1.23.0",
+  "released": "2026-11-27",
   "timezone": "Asia/Taipei",
   "repository": "https://github.com/yintsun66-tech/price-action-atlas",
   "site": "https://yintsun66-tech.github.io/price-action-atlas/",
-  "contentEdition": "20261125c47",
+  "contentEdition": "20261127c48",
   "notes": [
-    "校正足跡圖教材的 TradingView 逐筆分類、資料涵蓋與讀圖自測"
+    "突破失敗教材新增觀察期限圖文對照、反例及自測"
   ]
 }
